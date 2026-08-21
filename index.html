@@ -137,6 +137,24 @@ body.exam .q.answered .verdict{display:block}
 .q.hit .verdict{color:var(--ok)} .q.miss .verdict{color:var(--bad)}
 .cat.off{display:none}
 
+/* ---- formato real dentro del enunciado ---- */
+.fx{font-family:Calibri,Carlito,"Segoe UI",var(--sans);color:var(--ink)}
+.fx-cursiva{font-style:italic}
+.fx-extendido{letter-spacing:.22em}
+.fx-ondulado{text-decoration:underline wavy var(--bad);text-decoration-thickness:1px;text-underline-offset:3px}
+.fx-sup{font-size:.68em;vertical-align:super;line-height:0}
+
+/* ---- simulacro ---- */
+.modes{display:flex;gap:.4rem;margin-left:auto}
+.modes .mode{margin-left:0}
+#simulacro{--cc:var(--accent)}
+body:not(.sim) #simulacro{display:none}
+body.sim .cat[data-cat],body.sim .note,body.sim .chips{display:none}
+.sim-h{display:flex;flex-wrap:wrap;gap:.7rem 1rem;align-items:flex-end;justify-content:space-between}
+.sim-actions{display:flex;gap:.4rem;flex-wrap:wrap}
+.sim-actions .mode{margin-left:0}
+.score-note{margin-top:.4rem;color:var(--ok)}
+
 /* marcador */
 .score{position:fixed;right:1.1rem;bottom:1.1rem;z-index:40;display:none;background:var(--surf);
  border:1px solid var(--rule);border-radius:10px;padding:.65rem .8rem .6rem;min-width:12.5rem;
@@ -170,7 +188,10 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
    padding-bottom:.1rem;scroll-snap-type:x proximity}
  .chips::-webkit-scrollbar{display:none}
  .chip{flex:none;padding:.55rem .8rem;scroll-snap-align:start}
- .mode{margin-left:0;width:100%;justify-content:center;padding:.6rem .8rem}
+ .modes{margin-left:0;width:100%}
+ .mode{margin-left:0;justify-content:center;padding:.6rem .8rem}
+ .modes .mode{flex:1;min-width:0}
+ .sim-h{align-items:stretch} .sim-actions .mode{flex:1}
  .q{grid-template-columns:1fr;gap:.45rem;padding:1.35rem 0}
  .q-meta{flex-direction:row;align-items:baseline;gap:.55rem}
  .q-src{font-size:.66rem}
@@ -263,7 +284,8 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
  </div>
  <div>
   <h2>Cómo usarlo</h2>
-  <p>Pulsa <strong>Modo examen</strong> para ocultar las respuestas y las explicaciones: contesta primero y comprueba después, porque el esfuerzo de recuperar el dato es justo lo que lo fija. Los filtros de arriba dejan a la vista un solo tema cuando quieras trabajar una aplicación concreta. Al final tienes la plantilla completa para corregir de un tirón.</p>
+  <p>Hay dos formas de examinarse. <strong>Modo examen</strong> oculta las respuestas y las explicaciones sobre el listado completo: contesta primero y comprueba después, porque el esfuerzo de recuperar el dato es justo lo que lo fija, y con los filtros de arriba te quedas con un solo tema cuando quieras trabajar una aplicación concreta. <strong>Simulacro &middot; 70</strong> monta un examen de 70 preguntas al azar mezclando los siete temas en proporción a su peso, sin filtros y sin saber de qué va la siguiente.</p>
+  <p>En los dos casos <strong>las cuatro opciones se barajan en cada carga de la página</strong>, así que no sirve de nada acordarse de que «esta era la c»: hay que reconocer la respuesta. Lo que llevas contestado se guarda en el navegador, y el marcador de abajo a la derecha calcula la nota con el criterio del INAP, restando un tercio por cada fallo.</p>
  </div>
 </div>
 </div>
@@ -273,18 +295,35 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
   <button class="chip" data-f="all" aria-pressed="true">Todas <b>168</b></button>
   <button class="chip" data-f="basica" aria-pressed="false"><span class="dot" data-c="basica"></span>Informática básica y seguridad <b>30</b></button><button class="chip" data-f="windows" aria-pressed="false"><span class="dot" data-c="windows"></span>Windows y Explorador de archivos <b>43</b></button><button class="chip" data-f="word" aria-pressed="false"><span class="dot" data-c="word"></span>Word 365 <b>20</b></button><button class="chip" data-f="excel" aria-pressed="false"><span class="dot" data-c="excel"></span>Excel 365 <b>19</b></button><button class="chip" data-f="access" aria-pressed="false"><span class="dot" data-c="access"></span>Access 365 <b>16</b></button><button class="chip" data-f="outlook" aria-pressed="false"><span class="dot" data-c="outlook"></span>Outlook 365 <b>22</b></button><button class="chip" data-f="internet" aria-pressed="false"><span class="dot" data-c="internet"></span>Internet, redes y web <b>18</b></button>
  </div>
- <button class="mode" id="exam" aria-pressed="false">Modo examen</button>
+ <div class="modes">
+  <button class="mode" id="m-practica" type="button" aria-pressed="false">Modo examen</button>
+  <button class="mode" id="m-simulacro" type="button" aria-pressed="false">Simulacro &middot; 70</button>
+ </div>
 </div></nav>
 
 <aside class="score" id="score" aria-live="polite" aria-label="Marcador del modo examen">
- <div class="score-top"><span>respondidas</span><b><span id="s-done">0</span>/168</b></div>
+ <div class="score-top"><span>respondidas</span><b><span id="s-done">0</span>/<span id="s-total">168</span></b></div>
  <div class="score-bar"><i id="s-bar"></i></div>
  <div class="score-row"><span class="h">aciertos</span><b class="h" id="s-hit">0</b></div>
  <div class="score-row"><span class="m">fallos</span><b class="m" id="s-miss">0</b></div>
  <div class="score-foot"><span>nota <b id="s-score">0,00</b></span><button class="score-reset" id="s-reset" type="button">Reiniciar</button></div>
+ <div class="score-note" id="s-note" hidden></div>
 </aside>
 
 <div class="wrap">
+<section class="cat" id="simulacro">
+<header class="cat-h sim-h">
+ <div>
+  <h2>Simulacro &middot; 70 preguntas</h2>
+  <p class="cat-m"><span class="dot"></span><span id="sim-mix">mezcla de los siete temas</span></p>
+ </div>
+ <div class="sim-actions">
+  <button class="mode" type="button" id="sim-new">Nuevo simulacro</button>
+  <button class="mode" type="button" id="sim-exit">Salir</button>
+ </div>
+</header>
+<div id="sim-body"></div>
+</section>
 <section class="cat" id="basica" data-cat="basica">
 <header class="cat-h"><h2>Informática básica y seguridad</h2><p class="cat-m"><span class="dot"></span>tema 1 del programa · 30 preguntas</p></header>
 <article class="q" id="p1" data-ok="a">
@@ -360,7 +399,7 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
 </div></article><article class="q" id="p8" data-ok="b">
 <div class="q-meta"><span class="q-n">008</span><span class="verdict"></span><span class="q-src">INAP · julio 2026 · extra · nº&nbsp;51</span></div>
 <div class="q-body">
-<p class="stem">En Word 365, la palabra “report” aparece con un subrayado ondulado rojo. ¿Cuál de las siguientes opciones describe completa y correctamente el motivo de este subrayado?</p>
+<p class="stem">En Word 365, la palabra “<span class="fx fx-ondulado">report</span>” aparece con un subrayado ondulado rojo. ¿Cuál de las siguientes opciones describe completa y correctamente el motivo de este subrayado?</p>
 <ol class="opts"><li class="opt" data-k="a"><span class="bub" aria-hidden="true">a</span><span class="opt-t">Es un error ortográfico o un error gramatical.</span></li>
 <li class="opt is-right" data-k="b"><span class="bub" aria-hidden="true">b</span><span class="opt-t">Es un error ortográfico o una palabra que no está en el diccionario.</span><span class="badge">respuesta oficial</span></li>
 <li class="opt" data-k="c"><span class="bub" aria-hidden="true">c</span><span class="opt-t">Es un error gramatical o una palabra que no está en el diccionario.</span></li>
@@ -1026,7 +1065,7 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
 <article class="q" id="p74" data-ok="a">
 <div class="q-meta"><span class="q-n">074</span><span class="verdict"></span><span class="q-src">INAP · 23 mayo 2026 · nº&nbsp;51</span></div>
 <div class="q-body">
-<p class="stem">En Word 365, a la siguiente línea de texto “ El río Ebr o.” se le han aplicado varios formatos. ¿Cuál de las siguientes respuestas indicadas recoge de forma correcta estos formatos aplicados?</p>
+<p class="stem">En Word 365, a la siguiente línea de texto “<span class="fx fx-cursiva fx-extendido">El río Ebro.</span>” se le han aplicado varios formatos. ¿Cuál de las siguientes respuestas indicadas recoge de forma correcta estos formatos aplicados?</p>
 <ol class="opts"><li class="opt is-right" data-k="a"><span class="bub" aria-hidden="true">a</span><span class="opt-t">Fuente en cursiva y con espaciado extendido.</span><span class="badge">respuesta oficial</span></li>
 <li class="opt" data-k="b"><span class="bub" aria-hidden="true">b</span><span class="opt-t">Fuente en cursiva y superíndice.</span></li>
 <li class="opt" data-k="c"><span class="bub" aria-hidden="true">c</span><span class="opt-t">Fuente doble tachado y con espaciado extendido.</span></li>
@@ -1036,7 +1075,7 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
 </div></article><article class="q" id="p75" data-ok="b">
 <div class="q-meta"><span class="q-n">075</span><span class="verdict"></span><span class="q-src">INAP · 23 mayo 2026 · nº&nbsp;52</span></div>
 <div class="q-body">
-<p class="stem">En Word 365, se han insertado notas al final en las siguientes palabras: Tajoi y Duero ii. ¿Cuál de los siguientes es el comportamiento resultante de situar el ratón sobre los símbolos que referencian las notas junto a las palabras?</p>
+<p class="stem">En Word 365, se han insertado notas al final en las siguientes palabras: <span class="fx">Tajo<span class="fx-sup">i</span></span> y <span class="fx">Duero<span class="fx-sup">ii</span></span>. ¿Cuál de los siguientes es el comportamiento resultante de situar el ratón sobre los símbolos que referencian las notas junto a las palabras?</p>
 <ol class="opts"><li class="opt" data-k="a"><span class="bub" aria-hidden="true">a</span><span class="opt-t">Dirige el cursor de texto a la posición donde está la nota.</span></li>
 <li class="opt is-right" data-k="b"><span class="bub" aria-hidden="true">b</span><span class="opt-t">Aparece un cuadro emergente con el texto añadido a la nota.</span><span class="badge">respuesta oficial</span></li>
 <li class="opt" data-k="c"><span class="bub" aria-hidden="true">c</span><span class="opt-t">No ocurre nada, es necesario hacer clic con el ratón para disparar cualquier evento.</span></li>
@@ -1186,7 +1225,7 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
 </div></article><article class="q" id="p90" data-ok="a">
 <div class="q-meta"><span class="q-n">090</span><span class="verdict"></span><span class="q-src">INAP · 2022 · extra · nº&nbsp;55</span></div>
 <div class="q-body">
-<p class="stem">En Microsoft Word 2019, si teniendo seleccionado un texto en minúsculas queremos alternar entre las opciones de poner todas las palabras con la primera letra en mayúsculas, poner todas las palabras en mayúsculas y poner todas las palabras en minúsculas. ¿</p>
+<p class="stem">En Microsoft Word 2019, si teniendo seleccionado un texto en minúsculas queremos alternar entre las opciones de poner todas las palabras con la primera letra en mayúsculas, poner todas las palabras en mayúsculas y poner todas las palabras en minúsculas. ¿Qué combinación de teclas debemos utilizar?</p>
 <ol class="opts"><li class="opt is-right" data-k="a"><span class="bub" aria-hidden="true">a</span><span class="opt-t">Shift + F3</span><span class="badge">respuesta oficial</span></li>
 <li class="opt" data-k="b"><span class="bub" aria-hidden="true">b</span><span class="opt-t">Shift + F1</span></li>
 <li class="opt" data-k="c"><span class="bub" aria-hidden="true">c</span><span class="opt-t">Shift + F2</span></li>
@@ -1991,7 +2030,7 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
 <section class="note" id="plantilla">
  <div>
   <h2>Plantilla de corrección</h2>
-  <p>Las 168 respuestas oficiales seguidas, en el mismo orden en que aparecen arriba.</p>
+  <p>Las 168 respuestas oficiales seguidas, en el mismo orden en que aparecen arriba. Como las opciones se barajan en cada carga de la página, esta plantilla se recalcula sola para que la letra coincida siempre con lo que ves en pantalla.</p>
   <div class="key"><span class="pk"><i>001</i><b>A</b></span><span class="pk"><i>002</i><b>C</b></span><span class="pk"><i>003</i><b>D</b></span><span class="pk"><i>004</i><b>D</b></span><span class="pk"><i>005</i><b>A</b></span><span class="pk"><i>006</i><b>C</b></span><span class="pk"><i>007</i><b>B</b></span><span class="pk"><i>008</i><b>B</b></span><span class="pk"><i>009</i><b>B</b></span><span class="pk"><i>010</i><b>A</b></span><span class="pk"><i>011</i><b>C</b></span><span class="pk"><i>012</i><b>B</b></span><span class="pk"><i>013</i><b>A</b></span><span class="pk"><i>014</i><b>B</b></span><span class="pk"><i>015</i><b>B</b></span><span class="pk"><i>016</i><b>B</b></span><span class="pk"><i>017</i><b>C</b></span><span class="pk"><i>018</i><b>A</b></span><span class="pk"><i>019</i><b>B</b></span><span class="pk"><i>020</i><b>C</b></span><span class="pk"><i>021</i><b>A</b></span><span class="pk"><i>022</i><b>B</b></span><span class="pk"><i>023</i><b>D</b></span><span class="pk"><i>024</i><b>C</b></span><span class="pk"><i>025</i><b>D</b></span><span class="pk"><i>026</i><b>C</b></span><span class="pk"><i>027</i><b>C</b></span><span class="pk"><i>028</i><b>A</b></span><span class="pk"><i>029</i><b>C</b></span><span class="pk"><i>030</i><b>C</b></span><span class="pk"><i>031</i><b>B</b></span><span class="pk"><i>032</i><b>C</b></span><span class="pk"><i>033</i><b>B</b></span><span class="pk"><i>034</i><b>B</b></span><span class="pk"><i>035</i><b>C</b></span><span class="pk"><i>036</i><b>D</b></span><span class="pk"><i>037</i><b>C</b></span><span class="pk"><i>038</i><b>D</b></span><span class="pk"><i>039</i><b>B</b></span><span class="pk"><i>040</i><b>A</b></span><span class="pk"><i>041</i><b>A</b></span><span class="pk"><i>042</i><b>C</b></span><span class="pk"><i>043</i><b>B</b></span><span class="pk"><i>044</i><b>C</b></span><span class="pk"><i>045</i><b>C</b></span><span class="pk"><i>046</i><b>A</b></span><span class="pk"><i>047</i><b>C</b></span><span class="pk"><i>048</i><b>C</b></span><span class="pk"><i>049</i><b>A</b></span><span class="pk"><i>050</i><b>C</b></span><span class="pk"><i>051</i><b>C</b></span><span class="pk"><i>052</i><b>B</b></span><span class="pk"><i>053</i><b>D</b></span><span class="pk"><i>054</i><b>D</b></span><span class="pk"><i>055</i><b>A</b></span><span class="pk"><i>056</i><b>C</b></span><span class="pk"><i>057</i><b>D</b></span><span class="pk"><i>058</i><b>A</b></span><span class="pk"><i>059</i><b>B</b></span><span class="pk"><i>060</i><b>B</b></span><span class="pk"><i>061</i><b>D</b></span><span class="pk"><i>062</i><b>B</b></span><span class="pk"><i>063</i><b>D</b></span><span class="pk"><i>064</i><b>C</b></span><span class="pk"><i>065</i><b>D</b></span><span class="pk"><i>066</i><b>C</b></span><span class="pk"><i>067</i><b>D</b></span><span class="pk"><i>068</i><b>B</b></span><span class="pk"><i>069</i><b>B</b></span><span class="pk"><i>070</i><b>B</b></span><span class="pk"><i>071</i><b>D</b></span><span class="pk"><i>072</i><b>B</b></span><span class="pk"><i>073</i><b>B</b></span><span class="pk"><i>074</i><b>A</b></span><span class="pk"><i>075</i><b>B</b></span><span class="pk"><i>076</i><b>C</b></span><span class="pk"><i>077</i><b>D</b></span><span class="pk"><i>078</i><b>B</b></span><span class="pk"><i>079</i><b>A</b></span><span class="pk"><i>080</i><b>B</b></span><span class="pk"><i>081</i><b>B</b></span><span class="pk"><i>082</i><b>C</b></span><span class="pk"><i>083</i><b>D</b></span><span class="pk"><i>084</i><b>A</b></span><span class="pk"><i>085</i><b>B</b></span><span class="pk"><i>086</i><b>D</b></span><span class="pk"><i>087</i><b>A</b></span><span class="pk"><i>088</i><b>D</b></span><span class="pk"><i>089</i><b>B</b></span><span class="pk"><i>090</i><b>A</b></span><span class="pk"><i>091</i><b>B</b></span><span class="pk"><i>092</i><b>C</b></span><span class="pk"><i>093</i><b>A</b></span><span class="pk"><i>094</i><b>D</b></span><span class="pk"><i>095</i><b>D</b></span><span class="pk"><i>096</i><b>A</b></span><span class="pk"><i>097</i><b>A</b></span><span class="pk"><i>098</i><b>B</b></span><span class="pk"><i>099</i><b>C</b></span><span class="pk"><i>100</i><b>D</b></span><span class="pk"><i>101</i><b>C</b></span><span class="pk"><i>102</i><b>A</b></span><span class="pk"><i>103</i><b>C</b></span><span class="pk"><i>104</i><b>D</b></span><span class="pk"><i>105</i><b>B</b></span><span class="pk"><i>106</i><b>C</b></span><span class="pk"><i>107</i><b>C</b></span><span class="pk"><i>108</i><b>A</b></span><span class="pk"><i>109</i><b>B</b></span><span class="pk"><i>110</i><b>D</b></span><span class="pk"><i>111</i><b>A</b></span><span class="pk"><i>112</i><b>B</b></span><span class="pk"><i>113</i><b>C</b></span><span class="pk"><i>114</i><b>B</b></span><span class="pk"><i>115</i><b>A</b></span><span class="pk"><i>116</i><b>B</b></span><span class="pk"><i>117</i><b>B</b></span><span class="pk"><i>118</i><b>B</b></span><span class="pk"><i>119</i><b>D</b></span><span class="pk"><i>120</i><b>D</b></span><span class="pk"><i>121</i><b>B</b></span><span class="pk"><i>122</i><b>C</b></span><span class="pk"><i>123</i><b>D</b></span><span class="pk"><i>124</i><b>A</b></span><span class="pk"><i>125</i><b>B</b></span><span class="pk"><i>126</i><b>D</b></span><span class="pk"><i>127</i><b>A</b></span><span class="pk"><i>128</i><b>C</b></span><span class="pk"><i>129</i><b>C</b></span><span class="pk"><i>130</i><b>D</b></span><span class="pk"><i>131</i><b>D</b></span><span class="pk"><i>132</i><b>B</b></span><span class="pk"><i>133</i><b>B</b></span><span class="pk"><i>134</i><b>A</b></span><span class="pk"><i>135</i><b>C</b></span><span class="pk"><i>136</i><b>B</b></span><span class="pk"><i>137</i><b>B</b></span><span class="pk"><i>138</i><b>C</b></span><span class="pk"><i>139</i><b>B</b></span><span class="pk"><i>140</i><b>C</b></span><span class="pk"><i>141</i><b>D</b></span><span class="pk"><i>142</i><b>A</b></span><span class="pk"><i>143</i><b>C</b></span><span class="pk"><i>144</i><b>D</b></span><span class="pk"><i>145</i><b>B</b></span><span class="pk"><i>146</i><b>C</b></span><span class="pk"><i>147</i><b>A</b></span><span class="pk"><i>148</i><b>D</b></span><span class="pk"><i>149</i><b>A</b></span><span class="pk"><i>150</i><b>C</b></span><span class="pk"><i>151</i><b>A</b></span><span class="pk"><i>152</i><b>C</b></span><span class="pk"><i>153</i><b>B</b></span><span class="pk"><i>154</i><b>A</b></span><span class="pk"><i>155</i><b>B</b></span><span class="pk"><i>156</i><b>A</b></span><span class="pk"><i>157</i><b>B</b></span><span class="pk"><i>158</i><b>B</b></span><span class="pk"><i>159</i><b>A</b></span><span class="pk"><i>160</i><b>D</b></span><span class="pk"><i>161</i><b>B</b></span><span class="pk"><i>162</i><b>B</b></span><span class="pk"><i>163</i><b>A</b></span><span class="pk"><i>164</i><b>A</b></span><span class="pk"><i>165</i><b>A</b></span><span class="pk"><i>166</i><b>D</b></span><span class="pk"><i>167</i><b>D</b></span><span class="pk"><i>168</i><b>B</b></span></div>
  </div>
 </section>
@@ -2004,13 +2043,56 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
 
 <script>
 (function(){
- var TOTAL=168, KEY="ofimatica-c1-respuestas";
- var cats=document.querySelectorAll(".cat");
- var chips=document.querySelectorAll(".chip");
+ var LET="abcdefgh".split("");
+ var SIM_N=70;
+ var KEY="ofimatica-c1-respuestas", KSIM="ofimatica-c1-simulacro";
+ var cats=Array.prototype.slice.call(document.querySelectorAll(".cat[data-cat]"));
+ var chips=Array.prototype.slice.call(document.querySelectorAll(".chip"));
  var qs=Array.prototype.slice.call(document.querySelectorAll(".q"));
- var state={};
- try{ state=JSON.parse(localStorage.getItem(KEY)||"{}"); }catch(e){ state={}; }
+ var pks=Array.prototype.slice.call(document.querySelectorAll("#plantilla .pk"));
+ var simBody=document.getElementById("sim-body");
+ var simMix=document.getElementById("sim-mix");
+ var bPract=document.getElementById("m-practica");
+ var bSim=document.getElementById("m-simulacro");
+ var mode="estudio";
+
+ var state={}; try{ state=JSON.parse(localStorage.getItem(KEY)||"{}")||{}; }catch(e){ state={}; }
+ var sim={ids:[],ans:{},list:[]};
+ try{ var raw=JSON.parse(localStorage.getItem(KSIM)||"null"); if(raw&&raw.ids&&raw.ids.length){ sim.ids=raw.ids; sim.ans=raw.ans||{}; } }catch(e){}
+
  function save(){ try{ localStorage.setItem(KEY,JSON.stringify(state)); }catch(e){} }
+ function saveSim(){ try{ localStorage.setItem(KSIM,JSON.stringify({ids:sim.ids,ans:sim.ans})); }catch(e){} }
+ function pad(n){ return ("00"+n).slice(-3); }
+ function mix(a){ for(var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)),t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
+ function answers(){ return mode==="simulacro" ? sim.ans : state; }
+
+ /* --- memoria del sitio original de cada pregunta --- */
+ qs.forEach(function(q,i){
+  q.dataset.ok0=q.dataset.ok;
+  q.dataset.idx=i;
+  q.dataset.cat=q.parentNode.dataset.cat||"";
+  q._home=q.parentNode;
+  q.dataset.n0=q.querySelector(".q-n").textContent;
+  q.dataset.src0=q.querySelector(".q-src").innerHTML;
+  q.querySelectorAll(".opt").forEach(function(o){ o.dataset.k0=o.dataset.k; });
+ });
+
+ /* --- barajar las opciones de una pregunta --- */
+ function shuffle(q){
+  var ol=q.querySelector(".opts");
+  mix(Array.prototype.slice.call(ol.children)).forEach(function(o,i){
+   ol.appendChild(o);
+   o.dataset.k=LET[i];
+   var b=o.querySelector(".bub"); if(b) b.textContent=LET[i];
+   if(o.dataset.k0===q.dataset.ok0) q.dataset.ok=LET[i];
+  });
+ }
+ function syncKey(){
+  qs.forEach(function(q,i){
+   var b=pks[i]&&pks[i].querySelector("b");
+   if(b) b.textContent=q.dataset.ok.toUpperCase();
+  });
+ }
 
  /* --- filtros --- */
  chips.forEach(function(c){
@@ -2018,46 +2100,59 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
    chips.forEach(function(o){ o.setAttribute("aria-pressed", o===c?"true":"false"); });
    var f=c.dataset.f;
    cats.forEach(function(sec){ sec.classList.toggle("off", f!=="all" && sec.dataset.cat!==f); });
+   tally();
    window.scrollTo({top:document.querySelector(".bar").offsetTop-8,behavior:"instant"});
   });
  });
 
  /* --- pintar una pregunta --- */
  function paint(q){
-  var pick=state[q.id];
+  var pick=answers()[q.id];
   q.classList.remove("answered","hit","miss");
   q.querySelectorAll(".opt").forEach(function(o){ o.classList.remove("picked-bad"); });
   var v=q.querySelector(".verdict"); if(v) v.textContent="";
   if(!pick) return;
-  var ok = pick===q.dataset.ok;
+  var ok = pick===q.dataset.ok0;
   q.classList.add("answered", ok?"hit":"miss");
   if(v) v.textContent = ok ? "Correcta" : "Incorrecta";
   if(!ok){
-   var sel=q.querySelector('.opt[data-k="'+pick+'"]');
+   var sel=q.querySelector('.opt[data-k0="'+pick+'"]');
    if(sel) sel.classList.add("picked-bad");
   }
  }
 
+ /* --- preguntas que cuentan ahora mismo --- */
+ function active(){
+  if(mode==="simulacro") return sim.list;
+  return qs.filter(function(q){ return !q._home.classList.contains("off"); });
+ }
+
  /* --- marcador --- */
  function tally(){
-  var done=0,hit=0;
-  qs.forEach(function(q){
-   var p=state[q.id]; if(!p) return;
-   done++; if(p===q.dataset.ok) hit++;
+  var list=active(), a=answers(), done=0, hit=0;
+  list.forEach(function(q){
+   var p=a[q.id]; if(!p) return;
+   done++; if(p===q.dataset.ok0) hit++;
   });
-  var miss=done-hit;
+  var miss=done-hit, total=list.length||1;
   document.getElementById("s-done").textContent=done;
+  document.getElementById("s-total").textContent=list.length;
   document.getElementById("s-hit").textContent=hit;
   document.getElementById("s-miss").textContent=miss;
-  document.getElementById("s-bar").style.width=(done/TOTAL*100)+"%";
-  var neta=hit-miss/3;
-  document.getElementById("s-score").textContent=neta.toFixed(2).replace(".",",");
+  document.getElementById("s-bar").style.width=(done/total*100)+"%";
+  document.getElementById("s-score").textContent=(hit-miss/3).toFixed(2).replace(".",",");
+  var note=document.getElementById("s-note");
+  var full = done===list.length && list.length>0;
+  note.hidden=!full;
+  if(full) note.textContent = mode==="simulacro" ? "simulacro completo" : "todo contestado";
  }
 
  /* --- responder --- */
  function answer(q,opt){
   if(q.classList.contains("answered")) return;
-  state[q.id]=opt.dataset.k; save(); paint(q); tally();
+  if(mode==="simulacro"){ sim.ans[q.id]=opt.dataset.k0; saveSim(); }
+  else { state[q.id]=opt.dataset.k0; save(); }
+  paint(q); tally(); focusable();
  }
  qs.forEach(function(q){
   q.querySelectorAll(".opt").forEach(function(opt){
@@ -2070,12 +2165,10 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
     }
    });
   });
-  paint(q);
  });
- tally();
 
- /* --- modo examen --- */
- function focusable(on){
+ function focusable(){
+  var on=mode!=="estudio";
   qs.forEach(function(q){
    q.querySelectorAll(".opt").forEach(function(o){
     if(on && !q.classList.contains("answered")){ o.setAttribute("tabindex","0"); o.setAttribute("role","button"); }
@@ -2083,17 +2176,97 @@ footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);font-
    });
   });
  }
- var b=document.getElementById("exam");
- b.addEventListener("click",function(){
-  var on=document.body.classList.toggle("exam");
-  b.setAttribute("aria-pressed", on?"true":"false");
-  b.textContent = on ? "Ver respuestas" : "Modo examen";
-  focusable(on);
+
+ /* --- simulacro: reparto proporcional por tema --- */
+ function pick(){
+  var pool={}, quota=[], sum=0;
+  qs.forEach(function(q){ (pool[q.dataset.cat]=pool[q.dataset.cat]||[]).push(q); });
+  Object.keys(pool).forEach(function(c){
+   var exact=pool[c].length*SIM_N/qs.length, n=Math.floor(exact);
+   quota.push({c:c,n:n,r:exact-n}); sum+=n;
+  });
+  quota.sort(function(a,b){ return b.r-a.r; });
+  for(var i=0; sum<SIM_N; i++, sum++) quota[i%quota.length].n++;
+  var out=[];
+  quota.forEach(function(x){ out=out.concat(mix(pool[x.c].slice()).slice(0,x.n)); });
+  return mix(out).map(function(q){ return q.id; });
+ }
+
+ function buildSim(fresh){
+  if(sim.list.length) unmountSim();
+  if(fresh || !sim.ids.length || sim.ids.length!==SIM_N){
+   sim.ids=pick(); sim.ans={}; saveSim();
+  }
+  sim.list=sim.ids.map(function(id){ return document.getElementById(id); }).filter(Boolean);
+  var count={};
+  sim.list.forEach(function(q,i){
+   count[q.dataset.cat]=(count[q.dataset.cat]||0)+1;
+   if(fresh) shuffle(q);
+   q.style.setProperty("--cc","var(--c-"+q.dataset.cat+")");
+   q.querySelector(".q-n").textContent=pad(i+1);
+   q.querySelector(".q-src").innerHTML="nº&nbsp;"+q.dataset.n0+" del listado · "+q.dataset.src0;
+   simBody.appendChild(q);
+  });
+  if(fresh) syncKey();
+  var names={basica:"básica",windows:"Windows",word:"Word",excel:"Excel",access:"Access",outlook:"Outlook",internet:"Internet"};
+  simMix.textContent=Object.keys(names).filter(function(c){ return count[c]; })
+   .map(function(c){ return count[c]+" "+names[c]; }).join(" · ");
+ }
+
+ function unmountSim(){
+  cats.forEach(function(sec){
+   qs.filter(function(q){ return q._home===sec; })
+     .sort(function(a,b){ return a.dataset.idx-b.dataset.idx; })
+     .forEach(function(q){
+      sec.appendChild(q);
+      q.style.removeProperty("--cc");
+      q.querySelector(".q-n").textContent=q.dataset.n0;
+      q.querySelector(".q-src").innerHTML=q.dataset.src0;
+     });
+  });
+  sim.list=[];
+ }
+
+ /* --- cambio de modo --- */
+ function setMode(m,fresh){
+  if(m===mode && !fresh) m="estudio";
+  var prev=mode; mode=m;
+  if(prev==="simulacro" && mode!=="simulacro") unmountSim();
+  document.body.classList.toggle("exam", mode!=="estudio");
+  document.body.classList.toggle("sim", mode==="simulacro");
+  if(mode==="simulacro") buildSim(!!fresh);
+  bPract.setAttribute("aria-pressed", mode==="practica"?"true":"false");
+  bPract.textContent = mode==="practica" ? "Ver respuestas" : "Modo examen";
+  bSim.setAttribute("aria-pressed", mode==="simulacro"?"true":"false");
+  bSim.textContent = mode==="simulacro" ? "Salir del simulacro" : "Simulacro · 70";
+  qs.forEach(paint); focusable(); tally();
+  var bar=document.querySelector(".bar");
+  window.scrollTo({top:mode==="simulacro"?bar.offsetTop-8:window.scrollY,behavior:"instant"});
+ }
+
+ bPract.addEventListener("click",function(){ setMode("practica"); });
+ bSim.addEventListener("click",function(){ setMode("simulacro"); });
+ document.getElementById("sim-exit").addEventListener("click",function(){ setMode("estudio"); });
+ document.getElementById("sim-new").addEventListener("click",function(){
+  if(Object.keys(sim.ans).length && !confirm("¿Empezar un simulacro nuevo? Se pierden las respuestas de este.")) return;
+  setMode("simulacro",true);
  });
 
  document.getElementById("s-reset").addEventListener("click",function(){
-  if(!confirm("¿Borrar las respuestas marcadas y empezar de cero?")) return;
-  state={}; save(); qs.forEach(paint); tally(); focusable(document.body.classList.contains("exam"));
+  if(mode==="simulacro"){
+   if(!confirm("¿Borrar las respuestas de este simulacro?")) return;
+   sim.ans={}; saveSim();
+  } else {
+   if(!confirm("¿Borrar las respuestas marcadas y empezar de cero?")) return;
+   state={}; save();
+  }
+  qs.forEach(paint); tally(); focusable();
  });
+
+ /* --- arranque --- */
+ qs.forEach(shuffle);
+ syncKey();
+ qs.forEach(paint);
+ tally();
 })();
 </script>
