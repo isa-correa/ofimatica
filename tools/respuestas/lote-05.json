@@ -1,0 +1,283 @@
+{
+ "w-ex-03-009": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, Tamaño del papel (pág. 17)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Ejecutivo** es de los pequeños: solo A5 es menor.",
+   "No. **A4** es el tamaño habitual, pero A3 es el doble de grande.",
+   "No. **Carta** es algo menor que A4 en la lista de los apuntes.",
+   "Es esta. **A3** es el mayor. Orden de menor a mayor: A5, Ejecutivo, Carta, A4, Oficio, Tabloide, A3."
+  ]
+ },
+ "w-ex-03-010": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Proteger documento, Marcar como final (pág. 13)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cifrar y pedir contraseña para abrir es **Cifrar con contraseña**.",
+   "Es esta. **Marcar como final** indica que el documento es definitivo y activa el modo de **solo lectura**, desactivando las opciones de edición.",
+   "No. Determinar qué cambios puede hacer cada persona es **Restringir edición**.",
+   "No. Añadir la firma digital es otra opción: **Agregar una firma digital**. Marcar como final no firma."
+  ]
+ },
+ "w-ex-03-011": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas (pág. 14)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. **Compartir mediante enlace** es de la opción Compartir (Archivo > Compartir), no de Comprobar si hay problemas.",
+   "Es verdadera, así que no se marca. **Comprobar accesibilidad** está en este grupo.",
+   "Es verdadera, así que no se marca. **Inspeccionar documento** está en este grupo.",
+   "Es verdadera, así que no se marca. **Comprobar compatibilidad** está en este grupo."
+  ],
+  "ojo": "Comprobar si hay problemas tiene tres herramientas: Inspeccionar documento, Comprobar accesibilidad y Comprobar compatibilidad."
+ },
+ "w-ex-03-012": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo, Barra de herramientas de acceso rápido (pág. 10)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La **barra de estado** está abajo y da información del documento.",
+   "No. No existe una “barra de navegación” en Word. Lo que existe es el **panel de navegación**, para moverse por títulos, páginas y resultados.",
+   "No. “Barra de comandos” no es el nombre de ningún elemento de Word.",
+   "Es esta. La **Barra de herramientas de acceso rápido** muestra Autoguardado, Guardar, Deshacer y Rehacer, y se pueden añadir más comandos."
+  ]
+ },
+ "w-ex-03-013": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas (pág. 14)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. “Elegir autores” no es una herramienta de Comprobar si hay problemas.",
+   "Es verdadera, así que no se marca. **Inspeccionar documento** está entre ellas.",
+   "Es verdadera, así que no se marca. **Comprobar accesibilidad** está entre ellas.",
+   "Es verdadera, así que no se marca. **Comprobar compatibilidad** está entre ellas."
+  ]
+ },
+ "w-ex-03-014": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Comprobar accesibilidad (pág. 14) y 4.8.3 Grupo Comprobar accesibilidad (pág. 90)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Saber quién tiene permisos sobre un documento compartido se ve al compartir, no con el comprobador de accesibilidad.",
+   "No. La corrección ortográfica y gramatical es del **Editor**, y el comprobador no se limita a eso.",
+   "Es esta. **Comprobar accesibilidad** detecta problemas que puedan dificultar el uso del documento a personas con discapacidad y ofrece recomendaciones para corregirlos.",
+   "No. Medir la seguridad de una contraseña no es una función de Word."
+  ]
+ },
+ "w-ex-03-015": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones, Presentación (pág. 5)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **General** trata de la interfaz, el fondo y el tema de Office.",
+   "Es esta. **Presentación** configura cómo se muestra el documento en pantalla y cómo se imprime (colores e imágenes de fondo, propiedades, texto oculto) y las marcas de formato.",
+   "No. **Revisión** trata de Autocorrección, Autoformato y corrección ortográfica.",
+   "No. **Idioma** sirve para elegir los idiomas de edición y corrección."
+  ]
+ },
+ "w-ex-03-016": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El documento binario de Word 97-2003 es **.doc**.",
+   "No. El documento habilitado para macros es **.docm**.",
+   "Es esta. **.dotm** es la **plantilla** de Word **habilitada para macros**.",
+   "No. La plantilla que no almacena macros es **.dotx**."
+  ]
+ },
+ "w-ex-03-017": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8.2 Grupo Voz, Leer en voz alta (pág. 90) y 4.9 Ficha Vista (pág. 96)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Word no graba ni edita vídeo. Eso es de programas específicos de vídeo.",
+   "No. Word no supervisa la batería del dispositivo.",
+   "No. Word no ejecuta comandos del sistema operativo.",
+   "Es esta. **Leer en voz alta** reproduce el contenido del documento con voz y va resaltando el texto que lee. Está en Revisar y en Vista."
+  ],
+  "revisar": "Que Word no graba vídeo, no mide la batería y no ejecuta comandos del sistema no está en los apuntes. Es conocimiento general."
+ },
+ "w-ex-03-018": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **.docm** es el documento de Word habilitado para macros.",
+   "No. **.dotm** también admite macros, pero es una plantilla. Aquí queremos guardar un documento.",
+   "No. **.dotx** es una plantilla sin macros.",
+   "No. **.docx** es un documento sin macros: si lo guardas así, se pierden."
+  ]
+ },
+ "w-ex-03-019": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de estado (pág. 11)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El **panel de navegación** sirve para moverse por el documento, no muestra el idioma.",
+   "Es esta. La **barra de estado** muestra el número de página, las palabras, el idioma, las vistas y el zoom.",
+   "No. La **cinta de opciones** agrupa los comandos en fichas y grupos.",
+   "No. La **barra de herramientas de acceso rápido** tiene botones como Guardar y Deshacer."
+  ]
+ },
+ "w-ex-03-020": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de herramientas de acceso rápido (pág. 10)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Organizar todos los comandos es el trabajo de la **cinta de opciones**.",
+   "No. Mostrar información del documento es la **barra de estado**.",
+   "Es esta. Ofrece **acceso rápido a los comandos más usados** y se puede personalizar.",
+   "No. Las categorías del cuadro Opciones de Word se abren desde Archivo > Opciones."
+  ]
+ },
+ "w-ex-03-021": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir (pág. 16)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Girar la página a horizontal no esconde las marcas de revisión.",
+   "No. Cambiar a Modo de lectura es un cambio de vista, no cambia lo que se imprime.",
+   "No. Aceptar todos los cambios hace definitivos los cambios del documento, cosa que no se pedía. Además, la premisa es falsa: Word no imprime siempre las marcas, porque se pueden desactivar al imprimir.",
+   "Es esta. En la configuración de impresión se desmarca **Imprimir documento con revisiones**. Si se desactiva, el documento se imprime sin mostrar las marcas."
+  ]
+ },
+ "w-ex-03-022": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones, Revisión (pág. 6) y 4.8 Ficha Revisar (pág. 90)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El subrayado rojo ondulado es solo de **ortografía**. Los errores gramaticales llevan doble subrayado azul.",
+   "Es esta. El **subrayado rojo ondulado** marca los **errores ortográficos o las palabras que Word no reconoce en su diccionario**. “Report” no está en el diccionario de español.",
+   "No. Un error gramatical se señala con subrayado doble azul, no rojo.",
+   "No. Un error de contexto no se señala con subrayado rojo ondulado."
+  ],
+  "ojo": "Rojo ondulado: ortografía o palabra desconocida. Azul doble: gramática."
+ },
+ "w-ex-04-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado (pág. 29)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La **escala** (ancho de cada carácter, 100% por defecto) está en el cuadro Fuente, pestaña **Avanzado**. Se abre desde el llamador del grupo Fuente en Inicio.",
+   "No. En Archivo > Opciones > Avanzadas no se configura la escala de los caracteres.",
+   "No. El grupo Párrafo trata de alineación, sangrías, interlineado y listas. No tiene escala de caracteres.",
+   "No. Configurar página trata de márgenes, orientación, tamaño y columnas. No tiene escala de caracteres."
+  ],
+  "ojo": "En la pestaña Avanzado: escala (ancho del carácter), espaciado (separación), posición (altura) e interletraje."
+ },
+ "w-ex-04-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Efectos de texto y tipografía (pág. 27)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las **versalitas** son un efecto de fuente del cuadro Fuente, no un efecto de texto y tipografía.",
+   "No. La **negrita** es un estilo de fuente.",
+   "No. La **cursiva** es un estilo de fuente.",
+   "Es esta. Los efectos de texto y tipografía son, por ejemplo, **reflejo, iluminado y sombra**."
+  ]
+ },
+ "w-ex-04-003": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo, Barra de estado, Modo Sobrescribir (pág. 11)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Insertar sin afectar a lo de la derecha es el modo normal (Insertar), no Sobrescribir.",
+   "Es esta. Con **Sobrescribir** activado, el texto que escribimos **sustituye** a los caracteres situados a la derecha del punto de inserción.",
+   "No. Reemplazar una selección por el portapapeles es pegar, no Sobrescribir.",
+   "No. Word no impide escribir en ese modo."
+  ]
+ },
+ "w-ex-04-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, pestaña Sangría y espacio (págs. 33 y 34)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Aumentar sangría** mueve el párrafo entero hacia la derecha, no hace una sangría francesa. Y el grupo Párrafo de Disposición solo tiene sangrías izquierda y derecha.",
+   "Es esta. En el cuadro Párrafo, pestaña **Sangría y espacio**, apartado **Especial**, se elige **Francesa**. Mide 1,25 cm por defecto.",
+   "No. Efectos de texto (grupo Fuente) son reflejo, iluminado y sombra. Nada que ver con sangrías.",
+   "No. Configurar página no tiene “Sangría especial”. Las sangrías se configuran en Párrafo."
+  ]
+ },
+ "w-ex-04-005": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Personalizar cinta de opciones (pág. 7)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. Importar o exportar la personalización de la cinta es una opción de **Personalizar cinta de opciones**, sin instalar ningún complemento.",
+   "Es verdadera, así que no se marca. Se puede cambiar el nombre de pestañas y grupos personalizados.",
+   "Es verdadera, así que no se marca. La barra de acceso rápido tiene su propia pestaña en Opciones de Word para añadir o quitar comandos.",
+   "Es verdadera, así que no se marca. El tamaño de los comandos de la cinta no se puede modificar así (solo cambiando la resolución de pantalla)."
+  ]
+ },
+ "w-ex-04-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sombreado (pág. 31)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **Sombreado** (Inicio > Párrafo) aplica un color de fondo al texto o párrafo seleccionado y también a una tabla.",
+   "No. El **superíndice** sube el texto por encima de la línea de escritura. No da color.",
+   "No. El **color de resaltado** pinta el fondo del texto seleccionado, pero es del grupo Fuente y no se aplica a párrafos ni celdas como el sombreado.",
+   "No. El **reflejo** es un efecto de texto (grupo Fuente). No colorea el fondo."
+  ],
+  "ojo": "Para fondo de párrafo o celda: Sombreado. Para fondo de unas palabras como un fosforito: resaltado de texto."
+ },
+ "w-ex-04-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Alineación (págs. 31 y 32)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La **justificada** sí aparece.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La **distribuida** no aparece en el cuadro Párrafo. Se aplica con Ctrl + May + J.",
+   "Es verdadera, así que no se marca. La **centrada** sí aparece.",
+   "Es verdadera, así que no se marca. La **derecha** sí aparece."
+  ]
+ },
+ "w-ex-04-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Sangrías (págs. 33 y 34)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La sangría **derecha** añade espacio entre el párrafo y el margen derecho. No mueve ninguna línea hacia la derecha respecto de las otras.",
+   "No. La sangría **francesa** es la contraria: desplaza todo el párrafo salvo la primera línea.",
+   "No. Las **sangrías simétricas** son una casilla que convierte izquierda y derecha en interior y exterior (para doble cara). No son un tipo más: los 4 tipos son izquierda, derecha, 1ª línea y francesa.",
+   "Es esta. La sangría **especial de primera línea** desplaza solo la primera línea. Por defecto, 1,25 cm."
+  ]
+ },
+ "w-ex-04-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Lista multinivel (pág. 30)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los párrafos son el texto, no una herramienta para crear enumeraciones.",
+   "No. La **numeración simple** crea una lista ordenada de un solo nivel.",
+   "No. La **lista con viñetas** es una lista sin orden, de un solo nivel, con símbolos.",
+   "Es esta. La **lista multinivel** organiza los elementos en niveles jerárquicos, y cada nivel tiene su numeración, sangría y alineación. Admite hasta 9 niveles."
+  ]
+ },
+ "w-ex-04-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Numeración (pág. 30)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En **Diseño** están temas, colores y fondos de página.",
+   "Es esta. **Numeración** está en **Inicio > Párrafo**, junto a viñetas y lista multinivel.",
+   "No. En **Insertar** se añaden elementos como tablas, imágenes o encabezados.",
+   "No. En **Revisar** están ortografía, comentarios y control de cambios."
+  ]
+ },
+ "w-ex-04-011": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Guardar como (pág. 14) y Compartir (pág. 18)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **.doc** es un documento de Word y se puede editar sin problema.",
+   "Es esta. El **PDF** conserva la presentación del documento y no se edita fácilmente. Se obtiene con Guardar como o desde Compartir.",
+   "No. **.dotx** es una plantilla de Word, editable.",
+   "No. **.docx** es el documento normal de Word, editable."
+  ],
+  "revisar": "Que el PDF conserva la presentación y dificulta la edición es conocimiento general. Los apuntes solo dicen que se puede guardar o adjuntar en PDF."
+ }
+}

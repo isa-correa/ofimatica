@@ -1,0 +1,287 @@
+{
+ "w-ex-07-010": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Texto, Elementos rápidos (págs. 63 y 64)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los **Elementos rápidos** (Insertar > Texto) son una galería para crear, guardar e insertar contenido reutilizable, los llamados bloques de creación. Dentro están **Autotexto**, **Propiedad del documento** y **Campo**.",
+   "No. No guardan solo texto sin formato: puedes seleccionar cualquier parte del documento y guardarla como Elemento rápido para reutilizarla las veces que quieras.",
+   "No. La galería que aplica formatos de fuente y párrafo al texto seleccionado es la de **Estilos**, en la ficha Inicio. Los Elementos rápidos guardan contenido, no formatos.",
+   "No. Sí permiten guardar fragmentos propios: seleccionas texto y lo guardas con **Autotexto > Guardar selección en galería de texto automático**, o como Elemento rápido."
+  ],
+  "ojo": "Elementos rápidos guardan contenido para reutilizar (bloques de creación). Estilos guardan formatos. No los mezcles."
+ },
+ "w-ex-07-011": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Texto, Cuadro de texto (pág. 63)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un cuadro de texto no queda atado al párrafo ni sin poder moverse: es un objeto que colocas donde quieras del documento.",
+   "No. No se limita a los márgenes ni depende del encabezado o del pie de página. Sirve para colocar texto en una zona concreta de cualquier parte del documento.",
+   "No. Su posición no depende de la alineación del párrafo. Al ser un objeto, la eliges tú con libertad.",
+   "Es esta. Un **cuadro de texto** (Insertar > Texto) es un objeto que contiene texto y se puede colocar en una zona concreta del documento. El texto de dentro se formatea con las herramientas habituales de Word."
+  ]
+ },
+ "w-ex-07-012": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Símbolos (pág. 65)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En el grupo **Texto** de Insertar están Cuadro de texto, Elementos rápidos, WordArt, Letra capital, Línea de firma y Fecha y hora. No hay ningún comando “Caracteres especiales”.",
+   "Es esta. El grupo **Símbolos** de la ficha Insertar tiene Ecuación y **Símbolo**. Desplegando Símbolo eliges el que necesites; si el £ no sale en la lista rápida, entras en “Más símbolos”.",
+   "No. En Inicio > Fuente están los formatos del texto (tipo, tamaño, negrita, efectos...). No hay ahí ningún comando para insertar símbolos.",
+   "No. Elementos rápidos contiene Autotexto, Propiedad del documento y Campo (y el organizador de bloques). El símbolo está en su propio grupo, Símbolos."
+  ],
+  "ojo": "Para símbolos que no están en el teclado: Insertar > Símbolos > Símbolo. No lo busques en Texto ni en Elementos rápidos."
+ },
+ "w-ex-07-013": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, grupo Fondo de página, Marca de agua (pág. 67)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Hay modelos predefinidos y también se puede crear una marca de agua propia.",
+   "Es verdadera, así que no se marca. Si es de texto, se puede cambiar el texto y el tipo de fuente, incluidos su tamaño y su color.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La distribución de una marca de agua de texto es **diagonal u horizontal**. Vertical no es una de las opciones.",
+   "Es verdadera, así que no se marca. Si es una imagen, se añade desde el equipo, internet o la nube. La marca de agua se coloca detrás del contenido de la página."
+  ],
+  "ojo": "La trampa es la palabra “vertical”. En los apuntes la distribución solo puede ser diagonal u horizontal."
+ },
+ "w-ex-07-014": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, grupo Fondo de página, Bordes de página (págs. 69 y 70)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Diseño > Fondo de página > Bordes de página** abre el cuadro **Bordes y sombreado** en su pestaña “Borde de página”. El borde se puede aplicar a todo el documento o por secciones.",
+   "No. No está en Disposición. Y tampoco se limita a la sección del cursor: se puede aplicar a todo el documento o por secciones.",
+   "No. Sí admite diseños decorativos: la pestaña “Borde de página” añade el comando **Arte**, con dibujos para el borde. Eso sí, si usas Arte no puedes aplicar un estilo de línea.",
+   "No. Los bordes de página no se limitan a los párrafos seleccionados: son de la página, y se piden desde Diseño. Los bordes de párrafo y de texto están en otra pestaña del mismo cuadro, “Bordes”."
+  ]
+ },
+ "w-ex-07-015": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Un marcador se inserta desde Insertar > Vínculos > Marcador. No es lo que hace este atajo.",
+   "Es esta. **CTRL + ALT + K** inserta un hipervínculo, es decir, abre el cuadro para insertar un vínculo. Ojo, CTRL + K sola es cursiva.",
+   "No. La referencia cruzada se inserta desde Insertar > Vínculos > Referencia cruzada. No tiene que ver con este atajo.",
+   "No. Según los apuntes, este atajo sirve para insertar un hipervínculo. Modificar uno ya existente es otra acción, que se hace desde su menú contextual."
+  ],
+  "ojo": "En Word en español la K sola es cursiva. Para el hipervínculo hace falta CTRL + ALT + K.",
+  "revisar": "En la práctica, si el cursor está sobre un vínculo que ya existe, el mismo atajo abre el cuadro en modo edición. Los apuntes solo dicen que inserta un hipervínculo, y la plantilla da esa como correcta."
+ },
+ "w-vo-01-001": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 1 a 3. Qué es Word, novedades de Word 365 (pág. 1)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Entre las novedades de Word 365 los apuntes citan la **integración de Microsoft Copilot**, un asistente de IA. Junto a ella, el Traductor incluido y el dictado por voz.",
+   "No. El tamaño de los comandos de la cinta no se puede cambiar desde Word: solo se consigue cambiando la resolución de la pantalla. No es ninguna novedad.",
+   "No. Un organizador de contactos no es una función de Word. Eso es propio de un programa de correo como Outlook.",
+   "No. Word no es un programa de mensajería instantánea. Para chatear están otras aplicaciones, como Teams."
+  ]
+ },
+ "w-vo-01-002": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 1 a 3. Qué es Word, novedades de Word 365 (pág. 1)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Word no incluye ningún grabador de vídeo entre sus características.",
+   "No. El monitor de la batería es del sistema operativo del equipo, no de Word.",
+   "No. La línea de comandos es una herramienta de Windows, no de Word.",
+   "Es esta. Word 365 lleva el **Traductor incluido**. Los apuntes lo citan entre sus características, junto a Copilot y el dictado por voz."
+  ]
+ },
+ "w-vo-01-003": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Al abrir Word se muestra la **pantalla de Inicio**, que es la vista **Backstage**. Desde ella eliges documento en blanco, plantillas, documentos recientes, Abrir o Cuenta.",
+   "No. La ficha Inicio es la primera ficha de la cinta de opciones, y eso es el área de trabajo. No sale al abrir el programa, sino cuando ya has entrado en un documento.",
+   "No. El “Documento en blanco” es una de las opciones que ofrece la pantalla de inicio. Solo cuando lo eliges se abre el área de trabajo.",
+   "No. El menú Ayuda es una ficha de la cinta, así que solo se ve dentro del área de trabajo."
+  ]
+ },
+ "w-vo-01-004": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Plantillas (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Eso describe más bien los formatos de texto, que sirven para resaltar unas partes del texto y diferenciarlas del resto. Una plantilla es otra cosa.",
+   "No. Automatizar las opciones más usadas se parece a una macro o a la barra de herramientas de acceso rápido. Una plantilla no automatiza comandos.",
+   "Es esta. Una **plantilla** es un documento prediseñado que crea una copia de sí mismo al abrirse. Así lo usas de base una y otra vez sin perder las configuraciones. El documento en blanco se basa en la plantilla **Normal.dotm**.",
+   "No. Un conjunto de grupos de herramientas es una ficha de la cinta de opciones."
+  ]
+ },
+ "w-vo-01-005": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Recientes (pág. 3)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Recientes no muestra solo el último documento modificado, sino una lista de los documentos abiertos hace poco. Y no enseña solo la ubicación.",
+   "No. La fecha de modificación sí se muestra, pero de cada documento de la lista y junto a su nombre y su ubicación, no solo la del último abierto.",
+   "No. Las ubicaciones salen, pero no están solas: faltan los nombres de los archivos y la fecha de la última modificación.",
+   "Es esta. Recientes muestra una lista de documentos con tres datos: el **nombre del archivo**, la **ubicación** donde se guarda y la **fecha de la última modificación**. “Favoritos” y “Compartidos conmigo” son secciones aparte."
+  ]
+ },
+ "w-vo-01-006": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, plantilla Normal.dotm (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. La fuente de Normal.dotm es **Aptos (Cuerpo)**, tamaño 12, no Times New Roman.",
+   "Es verdadera, así que no se marca. La alineación por defecto es izquierda (con espaciado anterior 0 y posterior 8).",
+   "Es verdadera, así que no se marca. El interlineado por defecto es múltiple en 1,16.",
+   "Es verdadera, así que no se marca. La escala de la fuente por defecto es del 100%."
+  ],
+  "ojo": "Fuente por defecto en los apuntes: Aptos, tamaño 12. Times New Roman y Calibri son trampas."
+ },
+ "w-vo-01-007": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Cuenta (pág. 4)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. En Cuenta está la comprobación de actualizaciones.",
+   "Es verdadera, así que no se marca. En Cuenta se ve el estado del producto, es decir, si la licencia está activada.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Los formatos de la plantilla por defecto no se ven en Cuenta: son las características de **Normal.dotm** que se explican al abrir el documento en blanco.",
+   "Es verdadera, así que no se marca. En Cuenta hay información sobre Word y soporte técnico."
+  ],
+  "ojo": "En Cuenta están: cerrar sesión o cambiar cuenta, fondo y tema de Office, actualizaciones e información sobre Word y soporte.",
+  "revisar": "La lista de los apuntes (pág. 4) no menciona el estado de la licencia, pero en Word 365 la pantalla Cuenta sí muestra el producto como activado. Por eso la opción 1 se da por verdadera."
+ },
+ "w-vo-01-008": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · Opciones de Word, categoría Presentación (pág. 5)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. General trae ajustes básicos de la interfaz, como la mini barra de herramientas. Las opciones de impresión no están ahí.",
+   "Es esta. **Presentación** permite configurar cómo se muestra el documento en pantalla y cómo se imprime: colores e imágenes de fondo al imprimir, propiedades del documento, texto oculto y marcas de formato.",
+   "No. Revisión recoge la autocorrección, el autoformato mientras escribes y la corrección de ortografía y gramática.",
+   "No. Idioma sirve para elegir los idiomas de edición y de la interfaz. No tiene nada de impresión."
+  ]
+ },
+ "w-vo-01-009": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones de Word (págs. 4 a 7)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Archivo > Opciones** configura el programa: la interfaz, la presentación, la revisión, el guardado, la cinta de opciones y la barra de acceso rápido.",
+   "No. La alineación de los párrafos se cambia en Inicio > Párrafo, y es un formato del documento, no una opción del programa.",
+   "No. El formato de la fuente se cambia en Inicio > Fuente. Es un formato del texto, no una opción del programa.",
+   "No. La distribución en columnas se hace en Disposición > Columnas. Es un formato de página, no una opción del programa."
+  ]
+ },
+ "w-vo-01-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · Opciones de Word, Presentación (pág. 5) y cinta de opciones, Inicio > Párrafo, Mostrar todo",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La vista de esquema es una forma de ver el documento por niveles de título. No sirve para ver las marcas de formato.",
+   "No. **Editor** es la herramienta de revisión inteligente: ortografía, gramática, estilo y claridad. No muestra símbolos de formato.",
+   "No. Investigador sirve para buscar información de referencia mientras escribes. No muestra marcas de formato.",
+   "Es esta. **Mostrar todo** (el símbolo ¶ del grupo Párrafo, en Inicio) muestra las marcas de formato: tabulaciones, espacios, marcas de párrafo y saltos."
+  ]
+ },
+ "w-vo-01-011": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · Opciones de Word, Personalizar cinta y barra de acceso rápido (pág. 7)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El tamaño de la cinta, del texto y de los iconos solo se cambia bajando la resolución de la pantalla.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Según los apuntes, la barra de acceso rápido **no se puede mostrar en varias líneas** ni cambiar de tamaño. Lo que sí puedes es moverla, ocultarla y añadir o quitar comandos.",
+   "Es verdadera, así que no se marca. En Personalizar cinta de opciones se pueden crear pestañas y grupos nuevos y llenarlos con los comandos que más usas.",
+   "Es verdadera, así que no se marca. No se puede cambiar el color de la cinta ni de sus iconos. Solo se puede cambiar la combinación de colores de Office, que afecta a todo el programa."
+  ]
+ },
+ "w-vo-01-012": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · Opciones de Word, Personalizar cinta de opciones (pág. 7)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Complementos sirve para gestionar los complementos del programa, no para configurar la cinta.",
+   "No. Esa es la otra pestaña de personalización: añade o quita comandos de la barra de herramientas de acceso rápido, no de la cinta.",
+   "Es esta. En **Archivo > Opciones > Personalizar cinta de opciones** puedes crear pestañas y grupos, cambiarles el nombre, añadir o quitar comandos, importar o exportar la cinta y restablecerla.",
+   "No. General trae ajustes básicos del programa. La cinta tiene su propia categoría."
+  ]
+ },
+ "w-vo-01-013": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · Opciones de Word, categoría Revisión (pág. 6)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. General trae ajustes básicos de la interfaz. La autocorrección no se configura ahí.",
+   "No. Avanzadas reúne otras opciones de edición y funcionamiento. Las opciones de autocorrección tienen su sitio en Revisión.",
+   "No. Esa categoría trata de cómo se muestra y se imprime el documento (en los apuntes se llama Presentación). La autocorrección no está ahí.",
+   "Es esta. En la categoría **Revisión** están las opciones de **Autocorrección** (cambiar errores frecuentes o sustituir cadenas de texto), el autoformato mientras escribes y la corrección de ortografía y gramática."
+  ]
+ },
+ "w-vo-01-014": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de herramientas de acceso rápido (pág. 10)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Agrupar y organizar todas las funciones es el trabajo de la **cinta de opciones**, con sus fichas y grupos.",
+   "No. Mostrar información del documento que estás viendo o editando es lo que hace la **barra de estado**, con el número de página, el recuento de palabras o el idioma.",
+   "Es esta. La **barra de herramientas de acceso rápido** da acceso rápido a los comandos que más usas. Trae Autoguardado, Guardar, Deshacer y Rehacer, pero puedes añadir o quitar los que quieras.",
+   "No. Las opciones de configuración se abren desde Archivo > Opciones, no desde esta barra."
+  ]
+ },
+ "w-vo-01-015": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de herramientas de acceso rápido (pág. 10)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La barra de estado está en la parte inferior de la ventana y muestra información del documento (páginas, palabras, idioma, zoom).",
+   "No. La barra de tareas es de Windows, no de Word.",
+   "No. La barra de programación no existe en Word.",
+   "Es esta. Es la **barra de herramientas de acceso rápido**: muestra por defecto Autoguardado, Guardar, Deshacer y Rehacer, y puede ir encima o debajo de la cinta."
+  ]
+ },
+ "w-vo-01-016": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4. Barra de estado (pág. 11) y 4.8 Ficha Revisar, grupo Revisión (pág. 88)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Faltan los caracteres, con y sin espacios. El cuadro los cuenta aparte.",
+   "No. Falta el recuento de párrafos. Con ellos, el cuadro tiene seis datos.",
+   "Es esta. El cuadro **Contar palabras** muestra seis datos: páginas, palabras, caracteres sin espacios, caracteres con espacios, párrafos y líneas.",
+   "No. Se pasa de largo: Word no cuenta “caracteres especiales” ni “fórmulas” en esta herramienta."
+  ],
+  "revisar": "Contrastado en internet: el cuadro de Contar palabras de Word muestra páginas, palabras, caracteres sin y con espacios, párrafos y líneas. Los apuntes (págs. 11 y 88) solo hablan del recuento de palabras."
+ },
+ "w-vo-01-017": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de herramientas de acceso rápido (pág. 10)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La barra de acceso rápido se puede mover, y tiene dos ubicaciones posibles: **encima de la cinta** de opciones o **debajo** de ella.",
+   "No. No tiene una sola ubicación: además de encima de la cinta, se puede colocar debajo.",
+   "No. No se puede arrastrar a cualquier parte del área de trabajo. Solo tiene dos sitios posibles.",
+   "No. La barra de estado es otra barra, la de la parte inferior de la ventana. La de acceso rápido no se intercambia con ella."
+  ]
+ },
+ "w-vo-01-018": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, mostrar u ocultar la cinta (pág. 9)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La cinta sí se puede ocultar. Hay un botón con ese fin.",
+   "Es esta. Desde **Opciones de visualización de la cinta de opciones** eliges entre tres modos: pantalla completa (la oculta), mostrar solo pestañas, o mostrar siempre la barra. El atajo es ALT + ZR.",
+   "No. **Personalizar cinta de opciones** (en Opciones de Word) sirve para cambiar su contenido: pestañas, grupos y comandos. No es el sitio para ocultarla.",
+   "No. El modo de **pantalla completa** oculta la cinta entera, pestañas incluidas. El que deja visibles solo las pestañas es otro, “Mostrar solo pestañas”."
+  ]
+ },
+ "w-vo-02-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Guardar como (pág. 14)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La ruta es una parte de lo que permite, pero no la única: también el nombre y el formato.",
+   "Es esta. **Guardar como** permite asignar al documento un **nombre**, elegir su **ubicación** y seleccionar el **formato** o tipo de archivo. Se usa la primera vez que guardas y para crear una copia.",
+   "No. Sobrescribir la versión guardada antes es lo que hace **Guardar**, no Guardar como.",
+   "No. Recuperar una copia no es cosa de Guardar como. Para eso está “Recuperar documentos sin guardar”, en Archivo > Abrir."
+  ],
+  "ojo": "Guardar sobrescribe el mismo archivo. Guardar como te deja cambiar nombre, ubicación y formato."
+ }
+}

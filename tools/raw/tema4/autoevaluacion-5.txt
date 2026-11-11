@@ -1,0 +1,118 @@
+1.
+¿Qué sucede si guardamos un documento en almacenamiento local en relación con el autoguardado?
+
+Obtuvo 1 de 1 punto
+
+El autoguardado aparece desactivado por defecto
+Corregir respuesta
+Tu respuesta
+Permanece activo solo si el archivo tiene formato .docx
+El autoguardado no está disponible en Word 365.
+Se activa automáticamente
+2.
+¿Qué opción permite restaurar versiones anteriores de un documento en Word 365?
+
+Obtuvo 0 de 1 punto
+
+Archivo > Guardar como
+Respuesta equivocada
+Tu respuesta
+Archivo > Compartir > Historial
+Archivo > Información > Historial de versiones
+Corregir respuesta
+Archivo > Opciones > Avanzadas
+3.
+¿Cuál es el límite de versiones anteriores disponibles para restaurar en una cuenta personal de Microsoft?
+
+Obtuvo 0 de 1 punto
+
+15 versiones
+Respuesta equivocada
+Tu respuesta
+20 versiones
+25 versiones
+Corregir respuesta
+Ilimitado
+4.
+¿En qué ficha de la cinta de opciones se encuentra el grupo "Portapapeles" en Word 365?
+
+Obtuvo 0 de 1 punto
+
+En la ficha Archivo
+Respuesta equivocada
+Tu respuesta
+En la ficha Inicio
+Corregir respuesta
+En la cinta de opciones de la ficha Vista
+En la barra de estado
+5.
+¿Cuál es el número máximo de elementos que puede almacenar el portapapeles en Word 365?
+
+Obtuvo 0 de 1 punto
+
+10
+Respuesta equivocada
+Tu respuesta
+12
+24
+Corregir respuesta
+50
+6.
+Si queremos que el contenido pegado conserve el estilo del texto de oroigen, ¿qué opción de pegado deberíamos usar?
+
+Obtuvo 1 de 1 punto
+
+Mantener formato de origen
+Corregir respuesta
+Tu respuesta
+Combinar formato
+Pegar como imagen
+Conservar solo texto
+7.
+¿Cuál es el tamaño máximo de fuente que puede establecerse manualmente en Word 365?
+
+Obtuvo 0 de 1 punto
+
+72 puntos
+Respuesta equivocada
+Tu respuesta
+120 puntos
+1024 puntos
+1638 puntos
+Corregir respuesta
+8.
+¿Qué comando del grupo "Fuente" aplica una línea bajo el texto?
+
+Obtuvo 0 de 1 punto
+
+Sombra
+Respuesta equivocada
+Tu respuesta
+Cursiva
+Subrayado
+Corregir respuesta
+Iluminado
+9.
+¿Cuál es el nombre del tipo de fuente por defecto en Word 365?
+
+Obtuvo 0 de 1 punto
+
+Calibri
+Respuesta equivocada
+Tu respuesta
+Aptos (Cuerpo)
+Corregir respuesta
+Arial
+Cambria
+10.
+¿Qué herramienta permite aplicar un color llamativo a partes seleccionadas del texto, similar a un subrayador?
+
+Obtuvo 0 de 1 punto
+
+Subrayado
+Respuesta equivocada
+Tu respuesta
+Color de fuente
+Resaltado de texto
+Corregir respuesta
+Efecto sombra

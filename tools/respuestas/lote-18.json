@@ -1,0 +1,280 @@
+{
+"w-au-12-013": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Tabulaciones, Alineación (pág. 39)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La tabulación **centrada** deja el texto centrado respecto a la marca. Sí alinea el contenido.",
+    "No. La tabulación **decimal** alinea los números por la coma decimal. Sí alinea el contenido.",
+    "No. La tabulación **derecha** hace que el texto termine en la marca. Sí alinea el contenido.",
+    "Es esta. La tabulación **barra** coloca una línea vertical en la marca de tabulación y no establece una posición para el texto."
+  ]
+},
+"w-au-12-014": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Tabulaciones, Alineación (pág. 39)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Con la **izquierda** el texto empieza en la marca, así que los decimales no quedan alineados entre sí.",
+    "No. Con la **derecha** el texto termina en la marca. Si los números tienen distinto número de decimales, la coma no queda alineada.",
+    "No. Con la **centrada** el texto queda centrado en la marca, así que las comas no coinciden.",
+    "Es esta. La tabulación **decimal** deja los números enteros a la izquierda de la marca y la parte decimal a la derecha, así que las cifras con decimales quedan alineadas."
+  ]
+},
+"w-au-12-015": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Tabulaciones, Relleno (pág. 39)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El **interlineado** es el espacio entre las líneas de un mismo párrafo.",
+    "Es esta. El **relleno** permite establecer un relleno entre las marcas de tabulación, o dejarlo sin relleno.",
+    "No. El **espaciado** es el espacio entre párrafos consecutivos.",
+    "No. La **posición** indica dónde está la marca de tabulación en la regla, no lo que hay entre marcas."
+  ]
+},
+"w-au-13-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, Estilo vinculado (págs. 44 y 45)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Las dos cosas se aplican solo si seleccionas un párrafo o te colocas sobre él. Con una palabra no.",
+    "Es esta. Si seleccionas un carácter o una palabra, el estilo **vinculado** aplica solo las características de **fuente**.",
+    "No. Las de párrafo se aplican solo cuando se selecciona un párrafo o se está colocado sobre él.",
+    "No. No existe esa mezcla. Con una palabra se aplica únicamente el formato de fuente."
+  ]
+},
+"w-au-13-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, Inspector de estilo (pág. 45)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **Administrar estilos** sirve, por ejemplo, para eliminar estilos del documento. Cambia las definiciones, justo lo que no se quiere.",
+    "No. **Modificar estilo** cambia la definición del estilo, y se actualiza todo el contenido que lo usa.",
+    "Es esta. El **Inspector de estilo** muestra qué estilos y formatos están aplicados en cada parte del documento y permite borrarlos, sin tocar la definición de los estilos.",
+    "No. **Seleccionar todo el texto con formato similar** solo selecciona el texto parecido. No muestra ni borra formatos."
+  ]
+},
+"w-au-13-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Búsqueda avanzada (págs. 46 y 47)",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. Se puede buscar por formato: fuente, párrafo, tabulaciones, idioma, resaltado, negrita, subrayado o alineación.",
+    "Es verdadera, así que no se marca. Con **Buscar en** se puede limitar la búsqueda a partes del documento, como encabezados, pies de página o notas al pie.",
+    "Esta es la falsa, y por eso es la que hay que marcar. Las coincidencias se muestran de una en una. Para resaltarlas todas hay que usar **Resaltado de lectura > Resaltar todo**.",
+    "Es verdadera, así que no se marca. Se puede marcar “Sólo palabras completas”."
+  ]
+},
+"w-au-13-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Búsqueda avanzada (págs. 46 y 47)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Sólo palabras completas** evita coincidencias con fragmentos, como «temario», y **Coincidir mayúsculas y minúsculas** hace que distinga «Tema» de «tema».",
+    "No. **Usar caracteres comodín** sirve para búsquedas con patrones. No evita «temario» ni distingue mayúsculas.",
+    "No. **Resaltado de lectura** resalta las coincidencias y **Buscar en** limita la zona. Ninguna evita «temario» ni distingue mayúsculas.",
+    "No. Coincidir mayúsculas sí ayuda, pero **Resaltado de lectura** solo resalta. Falta “Sólo palabras completas”."
+  ]
+},
+"w-au-13-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Búsqueda avanzada (pág. 47)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. **Especial** sirve para buscar caracteres especiales, como marcas de párrafo o tabulaciones.",
+    "Es esta. El botón **Formato** permite buscar por características de formato, como fuente, párrafo, tabulaciones, idioma o resaltado.",
+    "No. **Buscar en** limita la búsqueda a una parte del documento, como encabezados o notas al pie.",
+    "No. **Resaltado de lectura** resalta las coincidencias encontradas."
+  ],
+  "revisar": "Los apuntes (pág. 47) dicen que se puede buscar por formato, pero no nombran el botón. Que se llame Formato (y que Especial sea para caracteres especiales) sale del cuadro de Word."
+},
+"w-au-13-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Reemplazar (pág. 48)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **Reemplazar todos** sustituye todas las coincidencias de golpe.",
+    "No. **Buscar siguiente** localiza la siguiente coincidencia sin cambiar nada.",
+    "Es esta. **Reemplazar** sustituye la coincidencia actual y continúa con la siguiente.",
+    "No. **Ir a** sirve para desplazarse a páginas, secciones, marcadores... No sustituye texto."
+  ]
+},
+"w-au-13-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Seleccionar (págs. 48 y 49)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. **Seleccionar objetos** permite seleccionar los objetos insertados, pero no abre un panel lateral.",
+    "Es esta. El **Panel de selección** despliega un panel lateral con los objetos de la parte del documento que estás editando, para seleccionarlos, mostrarlos u ocultarlos.",
+    "No. **Seleccionar todo el texto con formato similar** selecciona texto parecido. No abre ningún panel.",
+    "No. El **Panel de navegación** es el de búsqueda (Ctrl + B), con títulos, páginas y resultados. No lista objetos."
+  ]
+},
+"w-au-13-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Voz, Transcribir (pág. 50)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **Dictar** pasa la voz a texto en directo, pero no separa a los oradores.",
+    "No. **Leer en voz alta** hace lo contrario: reproduce el texto con voz.",
+    "Es esta. **Transcribir** convierte la voz en texto **con cada orador por separado**, grabando en Word o cargando un archivo de audio.",
+    "No. **Buscar** no transcribe audio."
+  ]
+},
+"w-au-13-009": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Páginas (pág. 50)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. **Página en blanco** inserta una página en blanco en la posición del cursor. Finalizar la página es lo que hace el salto de página.",
+    "Es esta. **Portada** ofrece modelos prediseñados, que se insertan como primera página del documento.",
+    "No. **Salto de página** finaliza la página en la posición del cursor, y el contenido siguiente empieza en la página siguiente. No inserta una página prediseñada.",
+    "No. No son equivalentes: Portada inserta un modelo prediseñado como primera página, y Página en blanco inserta una página vacía donde está el cursor."
+  ]
+},
+"w-au-13-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Ir a (pág. 47) y 4.3 Marcador (pág. 61)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La pestaña **Buscar** localiza texto, no se desplaza a elementos como los marcadores.",
+    "No. La pestaña **Reemplazar** sustituye texto.",
+    "No. **Formato** no es una pestaña del cuadro, sino un botón de la búsqueda.",
+    "Es esta. La pestaña **Ir a** permite navegar entre páginas, secciones, marcadores, notas al pie, etc. Se abre también con Ctrl + I o F5."
+  ]
+},
+"w-au-14-001": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Combinar celdas (pág. 51)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Combinar celdas** une dos o más celdas contiguas en una sola, desde Disposición de tabla.",
+    "No. **Dividir tabla** necesita una fila: la fila seleccionada será la primera de la nueva tabla. No se hace sin indicarla.",
+    "No. Las celdas contiguas se pueden combinar de forma horizontal (en filas) o vertical (en columnas), no exclusivamente horizontal.",
+    "No. Cada celda no se convierte en una tabla. Lo que hace Combinar celdas es unirlas en una sola."
+  ]
+},
+"w-au-14-002": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Dividir tabla (pág. 52)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Es al revés: la fila seleccionada no se queda en la primera tabla.",
+    "Es esta. **Dividir tabla** divide la tabla en dos, y la fila seleccionada pasa a ser la **primera fila de la nueva tabla**.",
+    "No. Las dos tablas no comparten fila. Cada fila va a una sola tabla.",
+    "No. Dividir tabla no divide la fila: separa la tabla en dos. Dividir celdas es otra herramienta."
+  ]
+},
+"w-au-14-003": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Alineación (pág. 52)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Hay tres horizontales y también tres verticales.",
+    "No. Las verticales son arriba, centro y abajo. “Justificada” no es una de ellas.",
+    "Es esta. La alineación combina tres posiciones horizontales (izquierda, centro, derecha) con tres verticales (arriba, centro, abajo): **9 combinaciones**.",
+    "No. La dirección del texto y los márgenes de celda son otros comandos. Las nueve alineaciones salen de combinar posiciones horizontales y verticales."
+  ]
+},
+"w-au-14-004": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Autoajustar (pág. 52)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. **Autoajustar al contenido** cambia el tamaño de la columna según lo que contiene. Es justo lo contrario.",
+    "No. **Autoajustar a la ventana** adapta la tabla al ancho de la página.",
+    "No. **Distribuir columnas** reparte el ancho de forma uniforme, pero no fija una anchura.",
+    "Es esta. **Ancho de columna fijo** hace que el ancho de las columnas sea siempre el que indiques."
+  ],
+  "revisar": "Los apuntes (pág. 52) no mencionan “Distribuir columnas”. Es un comando de Word que reparte el ancho por igual."
+},
+"w-au-14-005": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Repetir filas de título (pág. 53)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Repetir filas de título** repite automáticamente, al comienzo de cada página, las filas de encabezado de una tabla que ocupa varias páginas.",
+    "No. **Autoajustar a la ventana** ajusta el tamaño de la tabla al ancho de la página.",
+    "No. **Dividir tabla** parte la tabla en dos. No repite encabezados.",
+    "No. En Propiedades de tabla, la ficha Columna configura el ancho de las columnas."
+  ]
+},
+"w-au-14-006": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Propiedades de tabla (págs. 53 y 54)",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. La ficha **Fila** determina el alto de las filas, en Mínimo o Exacto.",
+    "Es verdadera, así que no se marca. La ficha **Columna** configura el ancho en centímetros o en porcentaje.",
+    "Es verdadera, así que no se marca. La ficha **Celda** determina la alineación vertical del contenido: arriba, centro o abajo.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El alto de las filas (Mínimo o Exacto) se configura en la ficha **Fila**, no en Tabla."
+  ]
+},
+"w-au-14-007": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Convertir en texto (pág. 53)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No se convierte necesariamente en párrafos sin separadores. Tú eliges el separador.",
+    "No. Las tabulaciones son solo una de las opciones de separador.",
+    "Es esta. Al **convertir en texto** puedes elegir como separador marcas de párrafo, tabulaciones, punto y coma, o un carácter a elegir.",
+    "No. No hace falta convertir antes las celdas en una sola. Se convierte directamente."
+  ]
+},
+"w-au-14-008": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Ordenar (pág. 52)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. En Propiedades de tabla, la ficha Fila determina el alto de las filas. No ordena.",
+    "Es esta. Con el cursor en la tabla, puedes usar **Inicio > Párrafo > Ordenar**, o el comando Ordenar de Disposición de tabla.",
+    "No. Autoajustar al contenido cambia el ancho de las columnas, no ordena nada.",
+    "No. No hace falta convertir la tabla en texto: se puede ordenar directamente."
+  ]
+},
+"w-au-14-009": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, desplazamiento en la tabla (pág. 54)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **TAB** pasa a la celda siguiente, y en la última celda crea una fila nueva.",
+    "No. **Mayús + TAB** va a la celda anterior.",
+    "Es esta. Para insertar una **tabulación** dentro de una celda se usa **Ctrl + TAB**, porque TAB solo sirve para moverse por las celdas.",
+    "No. **Ctrl + Intro** inserta un salto de página."
+  ]
+},
+"w-au-14-010": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, selección y desplazamiento (págs. 54 y 55)",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. **Mayús + TAB** retrocede a la celda anterior.",
+    "Es verdadera, así que no se marca. Para seleccionar una fila, colocas el puntero en su lateral izquierdo y haces un clic cuando cambia de forma.",
+    "Es verdadera, así que no se marca. Para seleccionar una columna, colocas el puntero en su parte superior y haces un clic cuando cambia de forma.",
+    "Esta es la falsa, y por eso es la que hay que marcar. **Ctrl + TAB** inserta una tabulación dentro de la celda. No se usa para moverse a la celda anterior."
+  ]
+},
+"w-au-15-001": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, selección de elementos (pág. 55)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Para seleccionar una celda completa se hace **triple clic** dentro de ella, o un clic en su esquina inferior izquierda cuando el puntero cambia a flecha negra.",
+    "No. Una columna se selecciona haciendo clic en su **parte superior**, no en el lateral izquierdo.",
+    "No. Una fila se selecciona con un clic en su **lateral izquierdo**, no con doble clic en una celda.",
+    "No. La tabla completa se selecciona con un clic en el **Selector de tabla**, que está en la esquina superior izquierda."
+  ],
+  "revisar": "Los apuntes (pág. 55) citan el Selector de tabla pero no dicen dónde está. Que esté en la esquina superior izquierda sale de la interfaz de Word."
+},
+"w-au-15-002": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, desplazamiento en la tabla (pág. 54)",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. **Mayús + TAB** va a la celda anterior.",
+    "Es verdadera, así que no se marca. **Ctrl + TAB** inserta una tabulación dentro de una celda.",
+    "Es verdadera, así que no se marca. **TAB** pasa a la celda siguiente y, en la última celda, crea una fila nueva.",
+    "Esta es la falsa, y por eso es la que hay que marcar. **Ctrl + TAB** no mueve a la derecha: inserta una tabulación. Para ir a la celda siguiente se usa TAB."
+  ]
+}
+}

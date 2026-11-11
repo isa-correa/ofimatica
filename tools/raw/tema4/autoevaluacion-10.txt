@@ -1,0 +1,119 @@
+1.
+¿Qué ocurre si pulsamos CTRL + Inicio?
+
+Obtuvo 0 de 1 punto
+
+Selecciona todo el texto
+Respuesta equivocada
+Tu respuesta
+Inserta un salto de línea
+Nos lleva al inicio del documento
+Corregir respuesta
+Muestra los cambios recientes
+2.
+El atajo CTRL + ALT + L sirve para:
+
+Obtuvo 0 de 1 punto
+
+Insertar una nota al pie
+Respuesta equivocada
+Tu respuesta
+Insertar una nota al final
+Corregir respuesta
+Insertar un hipervínculo
+Activar la ayuda
+3.
+¿Cuál es la función de CTRL + ALT + C?
+
+Obtuvo 0 de 1 punto
+
+Centrar texto
+Respuesta equivocada
+Tu respuesta
+Copiar formato
+Corregir respuesta
+Cortar especial
+Insertar campo
+4.
+Si pulsamos MAYÚS + F3, ¿qué ocurre?
+
+Obtuvo 0 de 1 punto
+
+Alternamos entre distintos tamaños de fuente
+Respuesta equivocada
+Tu respuesta
+Se aplica versalitas
+Alternamos entre mayúsculas y minúsculas
+Corregir respuesta
+Aplica doble subrayado
+5.
+¿Qué hace CTRL + SUPR?
+
+Obtuvo 0 de 1 punto
+
+Elimina el formato de párrafo
+Respuesta equivocada
+Tu respuesta
+Borra una palabra a la derecha
+Corregir respuesta
+Borra una línea entera
+Cierra el documento
+6.
+El atajo CTRL + MAY + F3:
+
+Obtuvo 0 de 1 punto
+
+Copia el formato
+Respuesta equivocada
+Tu respuesta
+Pega especial
+Corregir respuesta
+Inserta marcador
+Aplica superíndice
+7.
+¿Qué efecto tiene CTRL + MAY + signo +?
+
+Obtuvo 1 de 1 punto
+
+Superíndice
+Corregir respuesta
+Tu respuesta
+Subíndice
+Mayúsculas
+Aumentar tamaño de fuente
+8.
+¿Cuál de estas combinaciones aplica interlineado doble?
+
+Obtuvo 0 de 1 punto
+
+CTRL + 1
+Respuesta equivocada
+Tu respuesta
+CTRL + 2
+Corregir respuesta
+CTRL + 5
+CTRL + 0
+9.
+El atajo CTRL + D realiza:
+
+Obtuvo 0 de 1 punto
+
+Aplica negrita
+Respuesta equivocada
+Tu respuesta
+Alineación centrada
+Alineación a la derecha
+Corregir respuesta
+Inserta un hipervínculo
+10.
+¿Qué acción realiza CTRL + ALT + K?
+
+Obtuvo 0 de 1 punto
+
+Inserta una nota al pie
+Respuesta equivocada
+Tu respuesta
+Inserta un hipervínculo
+Corregir respuesta
+Inserta una imagen
+Aumenta tamaño de fuente

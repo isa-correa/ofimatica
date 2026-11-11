@@ -1,0 +1,108 @@
+1. Respecto a la selección de elementos de una tabla en Microsoft Word 365, señale la afirmación correcta.
+
+Obtuvo 1 de 1 punto
+
+Para seleccionar una celda completa, podemos realizar un triple clic dentro de ella.
+Corregir respuesta
+Tu respuesta
+Para seleccionar una columna completa, debemos situar el puntero en el lateral izquierdo de cualquiera de sus filas.
+Para seleccionar una fila completa, debemos realizar un doble clic sobre cualquiera de sus celdas.
+Para seleccionar toda la tabla, debemos situar el puntero en la esquina inferior derecha y hacer clic.
+2. En relación con el desplazamiento por las tablas de Word 365 mediante el teclado, indique la afirmación INCORRECTA.
+
+Obtuvo 0 de 1 punto
+
+La combinación MAYÚS + TAB permite desplazarse a la celda anterior.
+Respuesta equivocada
+Tu respuesta
+La combinación CTRL + TAB permite insertar una tabulación dentro de una celda.
+La tecla TAB permite desplazarse a la siguiente celda y, si estamos en la última, añade una fila.
+La combinación CTRL + TAB permite desplazarse a la celda situada inmediatamente a la derecha.
+Corregir respuesta
+3. Tras insertar una imagen en un documento de Word 365, se activa la ficha auxiliar Formato de imagen. ¿Cuál de las siguientes herramientas NO corresponde a las opciones descritas para esta ficha?
+
+Obtuvo 0 de 1 punto
+
+Quitar fondo.
+Respuesta equivocada
+Tu respuesta
+Correcciones de brillo, contraste y nitidez.
+Diseño de gráfico.
+Corregir respuesta
+Recortar.
+4. En Microsoft Word 365, ¿qué ficha auxiliar de la cinta de opciones se activa al insertar un icono en el documento, según el temario?
+
+Obtuvo 0 de 1 punto
+
+Formato de imagen.
+Respuesta equivocada
+Tu respuesta
+Formato de forma.
+Formato de gráficos.
+Corregir respuesta
+Diseño de gráfico.
+5. Respecto a las opciones de edición de las formas insertadas en Word 365, señale la afirmación correcta.
+
+Obtuvo 0 de 1 punto
+
+La ficha Formato de forma permite modificar el contorno, pero no agregar texto dentro de la forma.
+Respuesta equivocada
+Tu respuesta
+La ficha Formato de forma permite cambiar la forma, añadir texto y modificar características de su diseño.
+Corregir respuesta
+La ficha Formato de imagen permite insertar una viñeta o numeración dentro de las formas.
+Las formas solo pueden modificarse mediante el cuadro de diálogo Insertar formas.
+6. En Word 365 queremos incorporar al documento una imagen de una ventana que se encuentra abierta en el equipo. ¿Qué herramienta del grupo Ilustraciones permite realizar esta operación?
+
+Obtuvo 1 de 1 punto
+
+Captura de pantalla.
+Corregir respuesta
+Tu respuesta
+Iconos.
+Modelos 3D.
+Formas.
+7. Al insertar un gráfico convencional en un documento de Word 365, ¿cuál de las siguientes afirmaciones es correcta?
+
+Obtuvo 0 de 1 punto
+
+Los datos del gráfico se editan desde el panel de texto que aparece a su izquierda.
+Respuesta equivocada
+Tu respuesta
+La inserción abre una ventana de Excel para configurar los datos, y se habilitan las fichas Diseño de gráfico y Formato.
+Corregir respuesta
+La edición de sus datos se realiza exclusivamente desde la ficha Formato de gráficos.
+El gráfico se convierte automáticamente en SmartArt cuando se añaden nuevos datos.
+8. En relación con los gráficos SmartArt de Word 365, indique cuál de las siguientes afirmaciones es INCORRECTA.
+
+Obtuvo 0 de 1 punto
+
+Permiten representar ideas e información mediante diferentes categorías de diagramas.
+Respuesta equivocada
+Tu respuesta
+Pueden incorporar texto directamente en las formas que componen el gráfico.
+El panel de texto permite modificar el contenido del SmartArt y actualizarlo en sus formas.
+Para introducir el contenido de un SmartArt es necesario abrir una hoja de cálculo de Excel.
+Corregir respuesta
+9. En Word 365, al seleccionar un gráfico SmartArt insertado en el documento, ¿qué fichas auxiliares se habilitan en la cinta de opciones?
+
+Obtuvo 0 de 1 punto
+
+Diseño de gráfico y Formato.
+Respuesta equivocada
+Tu respuesta
+Diseño de SmartArt y Formato.
+Corregir respuesta
+Diseño de tabla y Disposición de tabla.
+Formato de gráficos y Formato de imagen.
+10. Respecto a los vínculos que pueden insertarse en un documento de Word 365, señale la afirmación correcta.
+
+Obtuvo 0 de 1 punto
+
+Permiten enlazar páginas web y archivos del equipo, pero no ubicaciones del propio documento.
+Respuesta equivocada
+Tu respuesta
+Pueden dirigir exclusivamente a documentos que ya existan en el equipo.
+Permiten establecer enlaces a archivos, páginas web, documentos nuevos o lugares del propio documento.
+Corregir respuesta
+Solo permiten vincular elementos externos al documento y no pueden enlazar contenido interno.

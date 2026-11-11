@@ -1,0 +1,283 @@
+{
+"x-ex-01-005": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Barra de estado (pág. 8)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. **Listo** indica el estado general, cuando Excel está en reposo.",
+    "Es esta. **Señalar** aparece cuando estamos confeccionando una fórmula o función y seleccionamos las celdas que formarán parte de ella.",
+    "No. **Introducir** aparece cuando empezamos a escribir un contenido nuevo en una celda.",
+    "No. **Modificar** aparece cuando editamos los datos de una celda que ya tenía contenido."
+  ],
+  "ojo": "Listo (reposo), Introducir (escribes en celda vacía), Modificar (editas celda con contenido), Señalar (eliges celdas para una fórmula)."
+},
+"x-ex-01-006": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 3. Desplazamiento por la hoja. Introducción de datos (pág. 12)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. **F1** abre la ayuda.",
+    "No. **F7** abre el corrector ortográfico.",
+    "No. **F4** repite la última acción o cambia el tipo de referencia (relativa, absoluta o mixta) al editar una fórmula.",
+    "Es esta. **F2** permite modificar los datos existentes en una celda sin sustituir todo su contenido. También se puede con doble clic o desde la barra de fórmulas."
+  ],
+  "revisar": "Los apuntes (pág. 12) citan F2 para modificar. Las funciones de F1, F7 y F4 salen del conocimiento general de Excel."
+},
+"x-ex-01-007": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Cuadro de nombres y barra de fórmulas (pág. 8)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. No muestra un listado de las últimas 10 funciones ni da ningún error: abre un cuadro de diálogo.",
+    "Es esta. El botón **Insertar función** abre el cuadro de diálogo Insertar función, donde buscamos funciones, las seleccionamos por categorías y consultamos su descripción y argumentos.",
+    "No. No nos lleva a la ficha Fórmulas: abre su propio cuadro de diálogo.",
+    "No. No muestra una lista de las funciones ya insertadas en el libro."
+  ]
+},
+"x-ex-01-008": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, etiquetas de hoja (pág. 7)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Crear un nuevo libro no está en el menú de la etiqueta de hoja.",
+    "No. Utilizar una plantilla no está en el menú de la etiqueta de hoja.",
+    "No. El menú permite **seleccionar todas las hojas**, no una “hoja completa”.",
+    "Es esta. El menú de la etiqueta de hoja incluye **Cambiar nombre**, además de insertar y eliminar, mover o copiar, ocultar o mostrar, proteger, color de pestaña, seleccionar todas las hojas, vincular y mostrar el panel de cambios."
+  ]
+},
+"x-ex-01-009": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, formatos de archivo (pág. 5)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. **.xltx** es la plantilla de Excel.",
+    "Es esta. **.xlsx** es la extensión del libro de Excel.",
+    "No. **.xps** es un documento XPS, un formato de exportación.",
+    "No. Excel sí tiene una extensión por defecto: .xlsx."
+  ]
+},
+"x-ex-01-010": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 6)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Un punto no separa celdas de un rango. Los extremos van con dos puntos.",
+    "No. El rango se nombra con la celda superior izquierda y luego la inferior derecha. A25:A2 las pone al revés.",
+    "Es esta. El rango se nombra con la celda **superior izquierda** y la **inferior derecha**, separadas por dos puntos: **A2:A25**.",
+    "No. Los dos puntos seguidos no son un separador válido."
+  ]
+},
+"x-ex-01-011": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 5)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Las columnas llegan hasta la **XFD**, no hasta la XF.",
+    "Es esta. Las columnas van de la A a la XFD, un total de **16.384**.",
+    "No. No depende del equipo: es una cifra fija.",
+    "No. 1.048.576 es el número de **filas**."
+  ]
+},
+"x-ex-01-012": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Cuadro de nombres (pág. 8)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Escribir **C** en el cuadro de nombres selecciona la columna completa de la celda activa. Para la fila completa se escribe F.",
+    "No. “Columna” no es un comando válido del cuadro de nombres.",
+    "No. D es el nombre de la columna, pero escribir solo D no es la forma de seleccionarla.",
+    "No. “Seleccionar” no es un comando válido del cuadro de nombres."
+  ],
+  "revisar": "Los apuntes (pág. 8, nota 4) indican que se escribe C para la columna y F para la fila, en Excel en español. Que escribir solo D no funcione sale de la práctica con Excel."
+},
+"x-ex-01-013": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Cuadro de nombres (págs. 7 y 8)",
+  "correcta": 0,
+  "justificaciones": [
+    "Esta es la falsa, y por eso es la que hay que marcar. El cuadro de nombres no inserta tablas. Las tablas se insertan desde la cinta, en la ficha Insertar.",
+    "Es verdadera, así que no se marca. El cuadro de nombres permite **nombrar un rango** de celdas.",
+    "Es verdadera, así que no se marca. Permite seleccionar la fila o la columna de la celda activa.",
+    "Es verdadera, así que no se marca. Permite desplazarnos a una celda concreta, incluso de otras hojas."
+  ]
+},
+"x-ex-01-014": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 6)",
+  "correcta": 1,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. **F1C6** es una referencia válida en el estilo F1C1: fila 1, columna 6.",
+    "Esta es la falsa, y por eso es la que hay que marcar. En el estilo normal la referencia es la **columna seguida de la fila** (B1). “1B” tiene el orden al revés.",
+    "Es verdadera, así que no se marca. **A1** es una referencia válida: columna A, fila 1.",
+    "Es verdadera, así que no se marca. **B6** es una referencia válida: columna B, fila 6."
+  ]
+},
+"x-ex-01-015": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, formatos de archivo (pág. 5)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **.xls** es el libro de Excel 97-2003.",
+    "No. **.xlb** no es la extensión de un libro binario de Excel.",
+    "Es esta. **.xlsb** es el libro binario de Excel.",
+    "No. **.xlsm** es el libro habilitado para macros."
+  ]
+},
+"x-vo-01-001": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 1. ¿Qué es Excel? (pág. 1)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Un navegador web sirve para ver páginas de internet.",
+    "Es esta. Excel es una **hoja de cálculo**: organiza y analiza datos, y hace cálculos con fórmulas y funciones.",
+    "No. Un procesador de texto es Word.",
+    "No. Un gestor de bases de datos es Access."
+  ]
+},
+"x-vo-01-002": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Barra de título (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **Hoja1** es el nombre por defecto de la hoja, no del libro.",
+    "No. **Documento1** es el nombre por defecto en Word.",
+    "Es esta. El nombre por defecto del libro es **Libro1**, y luego Libro2, Libro3...",
+    "No. “Base1” no es un nombre por defecto de Excel."
+  ]
+},
+"x-vo-01-003": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Caja de búsqueda (pág. 3)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No se limita a acciones recientes: también ofrece acciones sugeridas, ayuda y búsqueda en el libro.",
+    "No. La caja de búsqueda está integrada en la barra de título, no en la barra de fórmulas.",
+    "Es esta. La **caja de búsqueda** recupera acciones realizadas recientemente, acciones sugeridas, búsqueda en la ayuda y búsqueda en el libro. Se accede con **Alt + Q**.",
+    "No. Está disponible siempre, no solo con archivos en OneDrive."
+  ]
+},
+"x-vo-01-004": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Historial de versiones (pág. 3)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. En la ficha Inicio no hay un grupo Historial.",
+    "Es esta. El **Historial de versiones** se abre desde **Archivo > Información** o haciendo clic sobre el nombre del libro en la barra de título. Solo está disponible si el archivo está en OneDrive.",
+    "No. La barra de acceso rápido no tiene un botón Restaurar por defecto.",
+    "No. En la ficha Datos, el grupo Herramientas de datos trata de validar, quitar duplicados, etc."
+  ]
+},
+"x-vo-01-005": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, formatos de archivo (pág. 5)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. **.xls** es el formato de Excel 97-2003.",
+    "No. **.xml** no es la extensión por defecto del libro.",
+    "No. **.xlsm** es el libro habilitado para macros.",
+    "Es esta. **.xlsx** es la extensión por defecto de un libro de Excel."
+  ]
+},
+"x-vo-01-006": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, formatos de archivo (pág. 5)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **.xlsx** es el libro normal, no la plantilla.",
+    "No. **.xlt** es la plantilla de Excel 97-2003, la antigua.",
+    "Es esta. **.xltx** es la plantilla de Excel (la t de “template”). Con macros es .xltm.",
+    "No. **.xlmt** no existe como extensión de Excel."
+  ]
+},
+"x-vo-01-007": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, formatos de archivo (pág. 5)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **.xlsm** es el libro de Excel habilitado para macros.",
+    "No. El libro de Excel 97-2003 es **.xls**.",
+    "No. La plantilla de Excel es **.xltx**.",
+    "No. El libro de Excel 97-2003 es **.xls**. Esta opción repite lo mismo que la B."
+  ],
+  "revisar": "Las opciones B y D dicen exactamente lo mismo (libro de Excel 97-2003); parece un error de la plantilla, pero no afecta a la respuesta correcta."
+},
+"x-vo-01-008": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 6)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Un rango no exige que las celdas tengan valores numéricos. Puede contener cualquier cosa.",
+    "No. Un rango son celdas contiguas. Dos celdas cualesquiera de una hoja no forman un rango por sí solas.",
+    "Es esta. Un **rango** es un grupo de celdas **contiguas**. Se nombra con la celda superior izquierda y la inferior derecha.",
+    "No. El grado de complejidad de una fórmula matricial no tiene que ver con el rango."
+  ],
+  "revisar": "Los apuntes (pág. 6) definen rango como la selección de dos o más celdas contiguas, y añaden que también pueden ser discontinuos. La opción 1 (dos o más celdas) no exige que sean contiguas."
+},
+"x-vo-01-009": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 6)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El punto y coma separa áreas distintas en un rango discontinuo, no define un rango continuo entre A1 y D6.",
+    "Es esta. El rango se escribe con la celda superior izquierda y la inferior derecha separadas por dos puntos: **A1:D6**.",
+    "No. El ampersand (&) concatena texto, no define rangos.",
+    "No. Un punto no es el separador de un rango."
+  ]
+},
+"x-vo-01-010": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 6)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La **referencia** es el nombre de una celda concreta, como A1.",
+    "No. “Asociación” no es un término de Excel.",
+    "Es esta. Un **rango** es la selección de celdas contiguas, como A1:C6.",
+    "No. “Grupo” no es el nombre de un conjunto de celdas adyacentes."
+  ]
+},
+"x-vo-01-011": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, etiquetas de hoja (pág. 7)",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. **Insertar** está en el menú de la etiqueta de hoja.",
+    "Es verdadera, así que no se marca. **Proteger hoja** está en el menú de la etiqueta de hoja.",
+    "Es verdadera, así que no se marca. **Color de pestaña** está en el menú de la etiqueta de hoja.",
+    "Esta es la falsa, y por eso es la que hay que marcar. “Guardar hoja” no está en el menú de la etiqueta. Se guarda el libro entero, no una hoja suelta."
+  ]
+},
+"x-vo-01-012": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Barra de estado (pág. 9)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El máximo es 400%, no 300%.",
+    "No. El mínimo es 10%, no 1%.",
+    "No. El máximo de 500% es el del zoom de Word. En Excel es 400%.",
+    "Es esta. En Excel el zoom va del **10%** al **400%**."
+  ],
+  "ojo": "Zoom en Word: de 10% a 500%. Zoom en Excel: de 10% a 400%."
+},
+"x-vo-01-013": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Barra de estado (pág. 8)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **Listo** aparece en reposo, cuando no se está escribiendo.",
+    "No. **Modificar** aparece cuando se edita una celda que ya tenía contenido.",
+    "Es esta. **Introducir** aparece cuando se empieza a escribir un nuevo contenido en una celda.",
+    "No. “Escribir” no es uno de los estados de la barra de estado."
+  ]
+},
+"x-vo-01-014": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Cuadro de nombres (págs. 7 y 8)",
+  "correcta": 0,
+  "justificaciones": [
+    "Esta es la falsa, y por eso es la que hay que marcar. El cuadro de nombres sirve para nombrar **rangos de celdas**, no hojas. Las hojas se renombran desde su etiqueta.",
+    "Es verdadera, así que no se marca. Permite seleccionar un conjunto de celdas.",
+    "Es verdadera, así que no se marca. Permite desplazarnos a una celda en concreto, incluso de otras hojas.",
+    "Es verdadera, así que no se marca. Permite seleccionar la fila o la columna de la celda activa."
+  ]
+}
+}

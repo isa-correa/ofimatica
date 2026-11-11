@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-au-17-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 17",
+   "n": 8,
+   "enunciado": "¿Qué diferencia presenta la pestaña \"Borde de página\" respecto a la pestaña \"Bordes\" del cuadro \"Bordes y sombreado\"?",
+   "opciones": [
+    "Permite aplicar bordes con estilo de tabla",
+    "Agrega el comando \"Arte\" para aplicar dibujos decorativos como borde de página",
+    "Permite usar relleno de color en los márgenes",
+    "Solo puede aplicarse en la portada del documento"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-17-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 17",
+   "n": 9,
+   "enunciado": "¿Qué ocurre si en el cuadro \"Bordes y sombreado\" no se selecciona ningún texto antes de aplicar un borde?",
+   "opciones": [
+    "Se aplica automáticamente al párrafo donde esté posicionado el cursor",
+    "El borde se aplica al documento completo",
+    "No se aplica ningún formato",
+    "Word muestra un mensaje de error"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-17-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 17",
+   "n": 10,
+   "enunciado": "¿Qué tipo de elementos se pueden aplicar desde el grupo fondo de página en Word 365?",
+   "opciones": [
+    "Solo colores sólidos y bordes",
+    "Marcas de agua, color de página y bordes de página",
+    "Encabezados personalizados y marcas",
+    "Únicamente imágenes de fondo"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-18-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 1,
+   "enunciado": "Si queremos duplicar la ventana de un documento sobre el que estamos trabajando, para así poder modificar en dos partes del mismo de forma simultánea, utilizamos…",
+   "opciones": [
+    "Duplicar ventana",
+    "Nueva ventana",
+    "Dividir",
+    "Ver en paralelo"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-18-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 2,
+   "enunciado": "Si insertamos un objeto en un documento de Word 365 y queremos ajustar su posición con respecto a la página donde lo hemos incluido, utilizamos la opción:",
+   "opciones": [
+    "Ajustar texto",
+    "Alinear",
+    "Traer hacia delante",
+    "Posición"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-18-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 3,
+   "enunciado": "Señala qué tres opciones muestra el panel de navegación de Word:",
+   "opciones": [
+    "Títulos, páginas y resultados.",
+    "Títulos, comentarios y resultados.",
+    "Títulos, subtítulos y resultados.",
+    "Títulos, imágenes y comentarios."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-18-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 4,
+   "enunciado": "¿Qué vista permite visualizar y reorganizar la estructura de un documento mediante niveles de títulos?",
+   "opciones": [
+    "Diseño web",
+    "Diseño de impresión",
+    "Esquema",
+    "Modo lectura"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-18-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 5,
+   "enunciado": "¿Qué tipo de documento permite contener y gestionar varios subdocumentos vinculados?",
+   "opciones": [
+    "Documento maestro",
+    "Documento de solo lectura",
+    "Documento en blanco",
+    "Plantilla .dotx"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-18-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 6,
+   "enunciado": "¿Qué es un subdocumento en Word?",
+   "opciones": [
+    "Un documento dentro de una tabla",
+    "Un archivo temporal",
+    "Un archivo vinculado a un documento maestro",
+    "Un comentario con versión"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-18-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 7,
+   "enunciado": "¿Qué permite hacer la función \"Comparar documentos\"?",
+   "opciones": [
+    "Unir dos documentos automáticamente",
+    "Sustituir uno por otro",
+    "Generar un nuevo documento con los cambios destacados",
+    "Traducir simultáneamente"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-18-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 8,
+   "enunciado": "¿Qué funcionalidad ofrece el Lector inmersivo en Word 365?",
+   "opciones": [
+    "Insertar voz al texto",
+    "Leer el documento en voz alta y ajustar visualmente la presentación",
+    "Traducir automáticamente",
+    "Exportar a EPUB"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-18-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 9,
+   "enunciado": "¿Qué se puede hacer desde la pestaña \"Resultados\" del Panel de navegación?",
+   "opciones": [
+    "Buscar y reemplazar directamente",
+    "Ver los resultados de una búsqueda de texto",
+    "Reorganizar títulos",
+    "Insertar comentarios"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-18-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 18",
+   "n": 10,
+   "enunciado": "¿Para qué sirve la pestaña \"Páginas\" dentro del Panel de navegación?",
+   "opciones": [
+    "Muestra solo los encabezados",
+    "Muestra las miniaturas de cada página del documento",
+    "Permite cambiar el tamaño de página",
+    "Añade número de página"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-19-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 1,
+   "enunciado": "¿Qué herramienta nos permite desplazarnos rápidamente por títulos, páginas o resultados de búsqueda en el documento?",
+   "opciones": [
+    "Panel de navegación",
+    "Panel de revisión",
+    "Lector inmersivo",
+    "Vista previa"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-19-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 2,
+   "enunciado": "¿Qué opción del panel de navegación muestra miniaturas de cada una de las páginas del documento?",
+   "opciones": [
+    "Títulos",
+    "Páginas",
+    "Resultados",
+    "Encabezados"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-19-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 3,
+   "enunciado": "¿Qué sucede al usar la herramienta 'Leer en voz alta' de Word?",
+   "opciones": [
+    "Se graba el texto en formato audio",
+    "Se convierte en subtítulos",
+    "Se lee el texto en voz alta y se resalta en pantalla",
+    "Se traduce al idioma predeterminado"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-19-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 4,
+   "enunciado": "¿Qué opción activa una visualización sin distracciones, con fondo oscuro y solo reglas visibles?",
+   "opciones": [
+    "Vista preliminar",
+    "Modo de concentración",
+    "Modo esquema",
+    "Modo lectura"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-19-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 5,
+   "enunciado": "¿Cuál es la función del botón 'Dividir' dentro del grupo Ventana?",
+   "opciones": [
+    "Crear un salto de sección",
+    "Duplicar la vista en dos zonas del mismo documento",
+    "Abrir un segundo archivo",
+    "Ver encabezados y pies a la vez"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-19-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 6,
+   "enunciado": "¿Qué comando permite trabajar con dos documentos de Word de forma simultánea en paralelo?",
+   "opciones": [
+    "Desplazamiento sincrónico",
+    "Dividir ventana",
+    "Ver en paralelo",
+    "Comparar documentos"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-19-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 7,
+   "enunciado": "¿Qué función permite que el desplazamiento se realice de forma conjunta en dos documentos abiertos en paralelo?",
+   "opciones": [
+    "Organizar todo",
+    "Sincronizar barra de estado",
+    "Desplazamiento sincrónico",
+    "Vista inmersiva"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-19-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 8,
+   "enunciado": "¿Qué opción del grupo 'Ventana' sirve para cambiar rápidamente entre varios documentos abiertos?",
+   "opciones": [
+    "Cambiar ventanas",
+    "Vista previa",
+    "Vista actual",
+    "Abrir reciente"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-19-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 9,
+   "enunciado": "¿Qué casilla debemos marcar para mostrar los márgenes y alinear objetos con precisión?",
+   "opciones": [
+    "Mostrar encabezados",
+    "Mostrar cuadrícula",
+    "Mostrar títulos",
+    "Mostrar navegación"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-19-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 19",
+   "n": 10,
+   "enunciado": "¿Cuál de las siguientes afirmaciones sobre las líneas de cuadrícula es correcta?",
+   "opciones": [
+    "Sirven para imprimir marcas de página",
+    "Son visibles pero no imprimibles",
+    "Se activan solo en modo lectura",
+    "Solo se muestran en documentos con tablas"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-20-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 1,
+   "enunciado": "¿Qué ocurre con las opciones \"Guardar\" y \"Guardar como\" cuando trabajamos con un archivo almacenado en OneDrive y el Autoguardado está activado?",
+   "opciones": [
+    "Ambas opciones permanecen disponibles",
+    "Se sustituyen por la opción \"Guardar una copia\"",
+    "Se ocultan automáticamente",
+    "Solo se activa \"Guardar como\" en ese caso"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-20-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 2,
+   "enunciado": "¿Qué permite la opción \"Mostrar ediciones\" dentro del Historial de versiones de Word 365?",
+   "opciones": [
+    "Comparar documentos distintos",
+    "Modificar versiones anteriores directamente",
+    "Ver todos los cambios realizados en cada versión",
+    "Eliminar las versiones antiguas del documento"
+   ],
+   "correcta": 2
+  }
+ ]
+}

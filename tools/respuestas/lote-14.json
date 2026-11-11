@@ -1,0 +1,279 @@
+{
+ "w-au-03-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información (pág. 12)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Archivo > Información** ofrece información detallada del documento, además de opciones de seguridad y accesibilidad.",
+   "No. La ficha Vista cambia cómo ves el documento (vistas, reglas, zoom). No tiene un menú Información.",
+   "No. En Archivo el menú se llama **Información**, no “Detalles”.",
+   "No. La ficha Revisar sirve para corregir y revisar el contenido. No tiene un menú Información."
+  ]
+ },
+ "w-au-03-002": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Proteger documento, Cifrar con contraseña (pág. 13)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El máximo es de 15 caracteres, no de 10.",
+   "No. El máximo es de 15 caracteres, y además sí distingue entre mayúsculas y minúsculas.",
+   "Es esta. La contraseña puede tener como máximo **15 caracteres** y **diferencia** entre mayúscula y minúscula. Para que entre en vigor hay que guardar el documento.",
+   "No. El máximo de 15 es correcto, pero sí distingue entre mayúsculas y minúsculas."
+  ]
+ },
+ "w-au-03-003": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas (pág. 14)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Proteger documento** controla accesos y tipos de cambios (contraseña, solo lectura, firma). No revisa la accesibilidad.",
+   "Es esta. **Comprobar si hay problemas** reúne tres herramientas, entre ellas **Comprobar accesibilidad**, que detecta lo que dificulta el acceso a personas con discapacidad.",
+   "No. **Administrar documento** da acceso a versiones recuperables y a recuperar documentos no guardados.",
+   "No. “Marcar como solo lectura” no es la herramienta para revisar la accesibilidad. Marcar como final activa el modo solo lectura."
+  ]
+ },
+ "w-au-03-004": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información (pág. 12)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Compartir** sirve para dar acceso al documento a otras personas, no para ver sus datos.",
+   "Es esta. **Información** muestra los datos y las propiedades del archivo, como el autor, el tiempo de edición o dónde está guardado.",
+   "No. **Exportar** crea una copia del documento en otro formato, como PDF o XPS.",
+   "No. **Guardar como** sirve para dar nombre, ubicación y formato al archivo, no para ver sus datos."
+  ],
+  "revisar": "Los apuntes (pág. 12) dicen que Información ofrece información detallada y propiedades del archivo. Que incluya concretamente autor y tiempo de edición sale del conocimiento general de Word."
+ },
+ "w-au-03-005": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Guardar como (pág. 14)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La ubicación es solo una de las cosas que permite: también el nombre y el formato.",
+   "Es esta. **Guardar como** permite asignar un **nombre**, elegir la **ubicación** y seleccionar el **formato** o tipo de archivo.",
+   "No. Sobrescribir la versión anterior es lo que hace **Guardar**, no Guardar como.",
+   "No. Recuperar una copia no es función de Guardar como. Para eso está “Recuperar documentos sin guardar”."
+  ]
+ },
+ "w-au-03-006": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **.doc** es el documento de Word 97-2003.",
+   "No. **.dotm** es una plantilla habilitada con macros.",
+   "No. **.docm** es un documento habilitado para macros, no el de Word 97-2003.",
+   "No. **.domx** no existe como extensión de Word."
+  ]
+ },
+ "w-au-03-007": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, tamaño del papel (pág. 17)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Ordenados de menor a mayor: A5, Ejecutivo, Carta, A4, Oficio, Tabloide, A3. El más pequeño es **A5**.",
+   "No. **Tabloide** es de los más grandes: solo A3 es mayor.",
+   "No. **A3** es el más grande de la lista.",
+   "No. **Oficio** es más grande que A5."
+  ]
+ },
+ "w-au-03-008": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, impresión personalizada (pág. 16)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “s7p3” pediría la sección 7, página 3. El orden de la pregunta es al revés: página 7 de la sección 3.",
+   "No. “p3s7” pediría la página 3 de la sección 7. Están cambiados los números.",
+   "Es esta. Para una página concreta de una sección se usa **p** y el número de página, seguido de **s** y el número de sección: **p7s3** es la página 7 de la sección 3.",
+   "No. Ese formato no existe. No se usa un guion para unir sección y página."
+  ]
+ },
+ "w-au-03-009": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, listados del documento (pág. 16)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Al elegir **Estilos** se imprime únicamente un documento que indica los estilos aplicados.",
+   "No. Word no imprime el documento con el estilo anotado junto a cada párrafo.",
+   "No. No se imprime el documento y después la lista. Tampoco son todos los estilos disponibles, sino los aplicados.",
+   "No. No se limita a los estilos personalizados: el listado recoge los estilos aplicados en el documento."
+  ]
+ },
+ "w-au-03-010": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Compartir, permisos del vínculo (pág. 19)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La extensión del archivo no se configura en el vínculo.",
+   "No. El tamaño máximo de descarga no es un permiso del vínculo.",
+   "No. No se obliga a abrir el documento con una aplicación concreta.",
+   "Es esta. En los permisos del vínculo se configura si los usuarios pueden **editar** el documento o solo **visualizarlo**. También con quién se comparte, la fecha de expiración y la contraseña."
+  ]
+ },
+ "w-au-04-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, impresión personalizada (pág. 16)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “3-5” pide las **páginas** 3 a 5, no las secciones.",
+   "No. “3.5” no es un formato válido para pedir secciones.",
+   "Es esta. Las secciones se indican con **s** y su número, y los elementos sueltos se separan con comas: **s3,s5**. Con el guion se pediría un rango.",
+   "No. “s3-s5” pide de la sección 3 a la 5, o sea, también la 4. Para solo la 3 y la 5 hay que usar una coma."
+  ]
+ },
+ "w-au-04-002": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí se pueden: Word guarda páginas web en formato .htm o .html.",
+   "No. No depende del tamaño del fichero.",
+   "No. No hace falta ningún módulo del sistema operativo: Word lo hace por sí mismo.",
+   "Es esta. Word puede guardar como **página web** (.htm o .html), además de página web de un solo archivo (.mht o .mhtml)."
+  ]
+ },
+ "w-au-04-003": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **.pdf** es un formato de lectura portable. No es el propio de OpenOffice para editar.",
+   "No. **.doc** es el formato de Word 97-2003. Sirve en Word, no es el de OpenOffice.",
+   "No. **.docx** es el formato de Word actual, no el propio de OpenOffice.",
+   "Es esta. **.odt** es el formato de texto de Open Document, el propio de OpenOffice y compatible con Word."
+  ]
+ },
+ "w-au-04-004": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **.dot** es la plantilla de Word 97-2003, que conserva formato.",
+   "No. **.odt** es el texto de Open Document, que conserva formato.",
+   "No. **.doc** es el documento de Word 97-2003, con formato.",
+   "Es esta. **.txt** es el texto sin formato."
+  ]
+ },
+ "w-au-04-005": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, listados del documento (pág. 16)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Información del documento** imprime un listado de propiedades del archivo, como el título o el autor.",
+   "Esta es la falsa, y por eso es la que hay que marcar. No existe un listado de “gráficos insertados”. Los listados son: información del documento, lista de revisiones, estilos, entradas de texto automático y asignaciones de tecla.",
+   "Es verdadera, así que no se marca. **Lista de revisiones** imprime las revisiones que se han llevado a cabo.",
+   "Es verdadera, así que no se marca. **Entradas de texto automático** imprime la lista de elementos de autotexto del documento."
+  ]
+ },
+ "w-au-04-006": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, Márgenes (págs. 72 y 73)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Normal** es un margen predefinido, el de por defecto.",
+   "Es verdadera, así que no se marca. **Ancho** es uno de los márgenes predefinidos de Word.",
+   "Es verdadera, así que no se marca. **Reflejado** es uno de los márgenes predefinidos de Word, pensado para impresión a doble cara.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Medio** no es un margen predefinido de Word. Los predefinidos son Normal, Estrecho, Moderado, Ancho y Reflejado."
+  ],
+  "revisar": "Contrastado en internet: los márgenes predefinidos de Word son Normal, Estrecho, Moderado, Ancho y Reflejado. Los apuntes (págs. 17 y 72) solo nombran Normal."
+ },
+ "w-au-04-007": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, márgenes (pág. 17)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El margen **Normal** es de **2,5 cm** arriba y abajo, y de **3 cm** a derecha e izquierda.",
+   "No. Esos valores (1,5 y 2 cm) no corresponden al margen Normal.",
+   "No. Están cambiados: arriba y abajo es 2,5 cm y a los lados es 3 cm.",
+   "No. 1,5 cm arriba y abajo no es el valor del margen Normal, que es 2,5 cm."
+  ]
+ },
+ "w-au-04-008": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **.aut** no es la extensión de autorrecuperación de Word.",
+   "Es esta. Los archivos de autorrecuperación tienen extensión **.asd**.",
+   "No. **.htm** es una página web.",
+   "No. **.txt** es texto sin formato."
+  ]
+ },
+ "w-au-04-009": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, impresión personalizada (pág. 16)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En **Archivo > Imprimir**, en la casilla de páginas, escribes los números de las páginas separados por **comas** (por ejemplo, 1, 5, 7).",
+   "No. El separador no es el punto y coma. Las páginas individuales se separan con comas.",
+   "No. Sí es posible imprimir páginas que no son seguidas, indicándolas con comas.",
+   "No. Imprimir directamente imprimiría todo el documento, no solo dos hojas sueltas."
+  ]
+ },
+ "w-au-05-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1.1 Autoguardado (pág. 21)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si el archivo se guarda en el almacenamiento **local**, el Autoguardado aparece **desactivado**. Solo está activado por defecto en OneDrive.",
+   "No. No depende de que sea .docx: depende de dónde se guarda el archivo.",
+   "No. Sí está disponible en Word 365: es una función de Microsoft 365 que se activa con un selector en la barra de acceso rápido.",
+   "No. No se activa solo al guardar en local: aparece desactivado."
+  ]
+ },
+ "w-au-05-002": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Historial de versiones (págs. 14 y 23)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Guardar como** sirve para dar nombre, ubicación y formato al archivo. No restaura versiones.",
+   "No. En Compartir se dan permisos y se envían copias. El historial no está ahí.",
+   "Es esta. Las versiones anteriores se restauran desde **Archivo > Información > Historial de versiones**, siempre que el archivo esté en OneDrive.",
+   "No. En Opciones > Avanzadas no hay un historial de versiones."
+  ]
+ },
+ "w-au-05-003": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Historial de versiones (pág. 23)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. 15 se queda corto: son 25 versiones.",
+   "No. 20 se queda corto: son 25 versiones.",
+   "Es esta. Con una cuenta personal de Microsoft se pueden recuperar las últimas **25 versiones**.",
+   "No. No es ilimitado: el límite para una cuenta personal es de 25 versiones."
+  ]
+ },
+ "w-au-05-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles (pág. 24)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La ficha Archivo abre la vista Backstage y gestiona el documento. El Portapapeles no está ahí.",
+   "Es esta. El grupo **Portapapeles** es el primero de la ficha **Inicio**, con Cortar, Copiar, Pegar y Copiar formato.",
+   "No. La ficha Vista trata de vistas, reglas, zoom y ventanas. No tiene el Portapapeles.",
+   "No. La barra de estado muestra información del documento, no grupos de comandos."
+  ]
+ },
+ "w-au-05-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles (pág. 25)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. 10 se queda corto: el máximo son 24 elementos.",
+   "No. 12 se queda corto: el máximo son 24 elementos.",
+   "Es esta. El panel del Portapapeles almacena como máximo **24 elementos**.",
+   "No. 50 es demasiado: el máximo son 24 elementos."
+  ]
+ },
+ "w-au-05-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles, opciones de pegado (pág. 24)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Mantener formato de origen** (la opción predeterminada) no tiene en cuenta el formato de destino y conserva el formato de origen.",
+   "No. **Combinar formato** adapta lo pegado al formato que lo rodea, conservando solo algunos estilos del origen.",
+   "No. **Pegar como imagen** pega el contenido como una imagen. No conserva el estilo del texto.",
+   "No. **Conservar sólo el texto** pega el texto con el formato de destino, descartando el de origen."
+  ]
+ }
+}

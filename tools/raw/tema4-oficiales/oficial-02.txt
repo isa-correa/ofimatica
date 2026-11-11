@@ -1,0 +1,106 @@
+1.
+Señale qué extensión tienen las plantillas de Word 365 (Aux AGE 2008)
+
+Obtuvo 1 de 1 punto
+
+.dotx
+Corregir respuesta
+Tu respuesta
+.odt
+.docx
+.txt
+2.
+Entre los formatos de archivo que son compatibles con Word, la extensión .dotm indica: (Admvo Libre 2022)
+
+Obtuvo 0 de 1 punto
+
+Documento de archivo basado en XML y habilitado para macros para Word 365, Word 2021, Word 2019, Word 2016, Word 2013, Word 2010 y Office Word 2007. Almacena código de macros PHP.
+Respuesta equivocada
+Tu respuesta
+Plantilla para crear nuevos archivos de Word 365, Word 2021, Word 2019, Word 2016, Word 2013, Word 2010 y Office Word 2007 que contienen macros.
+Corregir respuesta
+Plantilla para crear nuevos archivos de Word 365, Word 2021, Word 2019, Word 2016, Word 2013, Word 2010 y Office Word 2007 que no contienen macros.
+Documento de archivo binario para Word 97-Word 2003.
+3.
+¿Con qué extensión de las siguientes se guarda un documento Word 365 habilitado para macros? (Aux Estabilización 2022)
+
+Obtuvo 0 de 1 punto
+
+.dotm
+Respuesta equivocada
+Tu respuesta
+.docx
+.dotx
+.docm
+Corregir respuesta
+4.
+Vamos a inspeccionar un documento Word antes de publicarlo. Para ello utilizamos "Comprobar si hay problemas", dentro del menú Archivo. Al hacer clic, nos ofrece tres opciones. ¿Cuál de las siguientes NO es una de las opciones ofrecidas? (Aux AGE Estabilización 2019)
+
+Obtuvo 1 de 1 punto
+
+Restringir edición.
+Corregir respuesta
+Tu respuesta
+Inspeccionar documento.
+Comprobar compatibilidad.
+Comprobar accesibilidad.
+5.
+¿Cuál es la función del "Comprobador de accesibilidad" de Word? (Aux Est AGE Extraordinario 2019)
+
+Obtuvo 0 de 1 punto
+
+Evalúa la corrección gramatical y ortográfica del texto del documento.
+Respuesta equivocada
+Tu respuesta
+Cuando se introduce una contraseña para proteger un documento, indica la dificultad de descubrir la contraseña y acceder al documento.
+Permite comprobar qué usuarios tienen acceso a una carpeta que hemos compartido previamente.
+Ayuda a detectar problemas y corregir el contenido del documento para facilitar la lectura a las personas con alguna discapacidad.
+Corregir respuesta
+6.
+Señale cuál debe de ser la extensión de un documento que queremos usar posteriormente como plantilla en Word 365: (Aux AGE 2016)
+
+Obtuvo 0 de 1 punto
+
+DOC
+Respuesta equivocada
+Tu respuesta
+DOTX
+Corregir respuesta
+DOCX
+PPT
+7.
+Vamos a compartir un documento de Word, pero antes queremos comprobar qué información personal contiene. ¿Qué opción utilizaremos? (Aux AGE 2017)
+
+Obtuvo 0 de 1 punto
+
+Comprobar.
+Respuesta equivocada
+Tu respuesta
+Inspeccionar documento.
+Corregir respuesta
+Comprobar compatibilidad.
+Permisos.
+8.
+En relación con un documento de Word, ¿cuál de los siguientes cuatro formatos de papel tiene un mayor tamaño? (Aux AGE 2017)
+
+Obtuvo 0 de 1 punto
+
+Carta.
+Respuesta equivocada
+Tu respuesta
+A4.
+A3.
+Corregir respuesta
+Ejecutivo.
+9.
+¿Qué extensión específica tienen las plantillas de Word 365 cuando los usuarios desean incluir personalizaciones de la interfaz de usuario?
+
+Obtuvo 0 de 1 punto
+
+docm
+Respuesta equivocada
+Tu respuesta
+dotm
+Corregir respuesta
+dotx
+pptx

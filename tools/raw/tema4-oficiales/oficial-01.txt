@@ -1,0 +1,119 @@
+1.
+En un documento de Word, en "Proteger documento", establecemos la opción "Marcar como final". ¿Qué efecto tendrá sobre el documento? (Aux AGE 2017)
+
+Obtuvo 0 de 1 punto
+
+Controla qué tipos de cambios pueden realizar las personas en este documento.
+Respuesta equivocada
+Tu respuesta
+Garantiza la integridad del documento con una firma digital invisible.
+Informa a los lectores de que el documento es definitivo y lo convierte en un documento de sólo lectura.
+Corregir respuesta
+Se requiere una contraseña para abrir este documento.
+2.
+De forma predeterminada Word presenta una barra encima de la cinta de opciones, con los iconos Autoguardado, Guardar, Deshacer y Rehacer. ¿Qué nombre tiene esta barra? (Aux AGE Extraordinario 2019)
+
+Obtuvo 0 de 1 punto
+
+Barra de estado.
+Barra de programación.
+Barra de herramientas de acceso rápido.
+Corregir respuesta
+Barra de tareas.
+Respuesta equivocada
+Tu respuesta
+3.
+En la ventana Opciones de Word aparecen agrupadas las opciones por categorías. ¿En cuál de las siguientes categorías encontramos las "Opciones de impresión"? (Adm. AGE 2019)
+
+Obtuvo 1 de 1 punto
+
+Presentación.
+Corregir respuesta
+Tu respuesta
+General.
+Revisión.
+Idioma.
+4.
+La opción "contar palabras", ¿qué estadísticas muestra? (Admvo Libre Extraordinario 2022)
+
+Obtuvo 0 de 1 punto
+
+Páginas, palabras, caracteres con y sin espacios, caracteres especiales, fórmulas, párrafos y líneas
+Respuesta equivocada
+Tu respuesta
+Páginas, palabras, caracteres con y sin espacios, párrafos y líneas
+Corregir respuesta
+Páginas, palabras, párrafos y líneas
+Páginas, palabras, caracteres con y sin espacios y líneas
+5.
+En un documento de Word 365, ¿cuál de las siguientes opciones es la que se debe seleccionar para visualizar los símbolos que indican los saltos de página y espacios?
+
+Obtuvo 0 de 1 punto
+
+La vista de esquema.
+Respuesta equivocada
+Tu respuesta
+Investigador.
+Mostrar todo.
+Corregir respuesta
+Editor.
+6.
+En Word 365, ¿cuál de las siguientes opciones describe qué ocurre si mantenemos la tecla Alt pulsada?
+
+Obtuvo 0 de 1 punto
+
+Comienza una revisión completa de la ortografía y gramática del documento, además de abrir el Panel de revisiones, que muestra las revisiones realizadas anteriormente.
+Respuesta equivocada
+Tu respuesta
+Cambiará la visualización del documento a la ventana Archivo, en la sección Guardar como, dándonos la oportunidad de guardar el archivo.
+Aparecen sobre algunas funciones de la Cinta de opciones, la combinación de letras o números que, pulsados junto a la tecla Alt, componen el método abreviado para llamar a esa función.
+Corregir respuesta
+Cambia la visa actual del documento al Modo de lectura, deshabilitando la edición, pero facilitando la lectura del documento.
+7.
+En Word 365 algunas informaciones sobre el documento con el que se está trabajando, como el número de página o el idioma del texto, se muestran de forma predeterminada. ¿En cuál de las siguientes opciones se visualiza esa información?
+
+Obtuvo 0 de 1 punto
+
+Cinta de opciones.
+Respuesta equivocada
+Tu respuesta
+Panel de navegación.
+Barra de herramientas de acceso rápido.
+Barra de estado.
+Corregir respuesta
+8.
+En Word 365, ¿cuál es la función principal de la Barra de herramientas de acceso rápido?
+
+Obtuvo 0 de 1 punto
+
+Acceder a las opciones de configuración.
+Respuesta equivocada
+Tu respuesta
+Tener acceso rápido a algunos comandos que utilizamos con frecuencia.
+Corregir respuesta
+Agrupar y organizar todas las funciones y herramientas disponibles en Word.
+Visualizar información relevante sobre el documento que se está visualizando o editando.
+9.
+¿Qué tipo de alineación de párrafo utiliza Word 365 por defecto? (Aux AGE 2007)
+
+Obtuvo 0 de 1 punto
+
+Justificada.
+Respuesta equivocada
+Tu respuesta
+Izquierda.
+Corregir respuesta
+Centrada.
+Derecha.
+10.
+Señale la afirmación correcta. La seguridad de Microsoft Word 365 (Aux AGE 2008)
+
+Obtuvo 0 de 1 punto
+
+Obliga a que las contraseñas contengan números y letras.
+Respuesta equivocada
+Tu respuesta
+Obliga a que la contraseña tenga letras mayúsculas, minúscula y un carácter especial.
+Obliga a que las contraseñas tengan un mínimo de cuatro caracteres.
+Obliga a guardar el documento una vez establecida la contraseña para que entre en vigor.
+Corregir respuesta

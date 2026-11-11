@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-au-12-013",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 13,
+   "enunciado": "¿Qué tipo de alineación de tabulación coloca una línea vertical en el texto, sin alinear el contenido?",
+   "opciones": [
+    "Centrada",
+    "Decimal",
+    "Derecha",
+    "Barra"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-12-014",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 14,
+   "enunciado": "¿Cuál de los siguientes tipos de tabulación es el más adecuado para alinear cifras con decimales?",
+   "opciones": [
+    "Izquierda",
+    "Derecha",
+    "Centrada",
+    "Decimal"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-12-015",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 15,
+   "enunciado": "¿Qué función permite establecer un patrón (puntos, líneas, etc.) entre marcas de tabulación?",
+   "opciones": [
+    "Interlineado",
+    "Relleno",
+    "Espaciado",
+    "Posición"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-13-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 1,
+   "enunciado": "En Word 365, aplicamos un estilo vinculado a una única palabra situada dentro de un párrafo. ¿Qué características del estilo se aplicarán en este caso?",
+   "opciones": [
+    "Las de fuente y las de párrafo, siempre que exista una selección.",
+    "Únicamente las de fuente, al no haberse seleccionado el párrafo completo.",
+    "Las de párrafo, conservándose el formato de fuente previo.",
+    "Las de párrafo y solo aquellas de fuente que coincidan con el estilo Normal."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-13-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 2,
+   "enunciado": "Un usuario necesita identificar los formatos que se han aplicado a una parte del documento y eliminarlos, sin modificar la definición de los estilos. ¿Qué herramienta debe utilizar?",
+   "opciones": [
+    "Administrar estilos.",
+    "Modificar estilo.",
+    "Inspector de estilo.",
+    "Seleccionar todo el texto con formato similar."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-13-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 3,
+   "enunciado": "En Word 365 se accede a Inicio > Edición > Búsqueda avanzada. Respecto al funcionamiento de esta herramienta, señale la afirmación INCORRECTA.",
+   "opciones": [
+    "Permite establecer criterios relacionados con el formato del texto.",
+    "Puede limitar la búsqueda a determinadas partes del documento.",
+    "Resalta automáticamente todas las coincidencias a la vez, sin necesidad de activar ninguna opción.",
+    "Permite restringir los resultados a palabras completas."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-13-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 4,
+   "enunciado": "Queremos localizar únicamente la palabra «Tema», evitando coincidencias con «temario» y distinguiendo entre mayúsculas y minúsculas. ¿Qué configuración debemos utilizar?",
+   "opciones": [
+    "Activar Solo palabras completas y Coincidir mayúsculas y minúsculas.",
+    "Activar Usar caracteres comodín y Buscar siguiente.",
+    "Activar Resaltado de lectura y Buscar en.",
+    "Activar Coincidir mayúsculas y minúsculas y Resaltado de lectura."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-13-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 5,
+   "enunciado": "Al realizar una búsqueda avanzada, necesitamos localizar texto que presente un determinado formato. ¿Qué botón permite establecer este criterio?",
+   "opciones": [
+    "Especial.",
+    "Formato.",
+    "Buscar en.",
+    "Resaltado de lectura."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-13-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 6,
+   "enunciado": "En el cuadro Buscar y reemplazar hemos encontrado una coincidencia y queremos sustituir únicamente esa aparición, continuando después con la búsqueda. ¿Qué comando utilizaremos?",
+   "opciones": [
+    "Reemplazar todos.",
+    "Buscar siguiente.",
+    "Reemplazar.",
+    "Ir a."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-13-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 7,
+   "enunciado": "Desde Inicio > Edición > Seleccionar, ¿qué opción permite mostrar en un panel lateral los objetos de la parte del documento que estamos editando?",
+   "opciones": [
+    "Seleccionar objetos.",
+    "Panel de selección.",
+    "Seleccionar todo el texto con formato similar.",
+    "Panel de navegación."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-13-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 8,
+   "enunciado": "Un usuario desea convertir una grabación de audio en texto, diferenciando las intervenciones de los distintos participantes. ¿Qué herramienta resulta adecuada?",
+   "opciones": [
+    "Dictar, porque separa automáticamente las intervenciones de cada orador.",
+    "Leer en voz alta, porque convierte el audio en párrafos.",
+    "Transcribir, que puede trabajar con audio grabado o cargado.",
+    "Buscar, utilizando el criterio de reconocimiento de voz."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-13-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 9,
+   "enunciado": "Respecto a las herramientas del grupo Páginas de la pestaña Insertar, señale la afirmación correcta.",
+   "opciones": [
+    "Página en blanco finaliza la página en el punto de inserción sin añadir contenido adicional.",
+    "Portada incorpora un modelo prediseñado como primera página del documento.",
+    "Salto de página inserta una página prediseñada antes de la página actual.",
+    "Portada y Página en blanco son comandos equivalentes, diferenciándose únicamente en el diseño."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-13-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 13",
+   "n": 10,
+   "enunciado": "En Word 365 queremos desplazarnos directamente a un marcador concreto del documento mediante el cuadro Buscar y reemplazar. ¿Qué pestaña debemos utilizar?",
+   "opciones": [
+    "Buscar.",
+    "Reemplazar.",
+    "Formato.",
+    "Ir a."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-14-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 1,
+   "enunciado": "En una tabla de Word 365 seleccionamos varias celdas contiguas situadas en diferentes filas y columnas. ¿Cuál de las siguientes operaciones podemos realizar sobre esa selección?",
+   "opciones": [
+    "Combinar las celdas seleccionadas en una sola.",
+    "Dividir la tabla sin indicar una fila de separación.",
+    "Aplicar exclusivamente una combinación horizontal.",
+    "Convertir cada celda seleccionada en una tabla independiente."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-14-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 2,
+   "enunciado": "Deseamos dividir una tabla de Word en dos tablas independientes. Situamos el punto de inserción en una de sus filas y utilizamos Dividir tabla. ¿Qué sucederá?",
+   "opciones": [
+    "La fila seleccionada permanecerá como última fila de la primera tabla.",
+    "La fila seleccionada pasará a ser la primera fila de la segunda tabla.",
+    "Ambas tablas compartirán la fila seleccionada como encabezado.",
+    "La fila seleccionada se dividirá en dos, conservando una única tabla."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-14-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 3,
+   "enunciado": "Respecto a la alineación del contenido en las celdas de una tabla de Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Se dispone de tres alineaciones horizontales, pero únicamente dos verticales.",
+    "Las alineaciones verticales son Superior, Inferior y Justificada.",
+    "Es posible combinar tres posiciones horizontales con tres posiciones verticales.",
+    "Las nueve alineaciones se obtienen combinando la dirección del texto con los márgenes de celda."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-14-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 4,
+   "enunciado": "Estamos configurando una tabla y queremos que sus columnas conserven la anchura establecida sin ajustarse automáticamente al texto introducido. ¿Qué opción debemos utilizar?",
+   "opciones": [
+    "Autoajustar al contenido.",
+    "Autoajustar a la ventana.",
+    "Distribuir columnas.",
+    "Ancho de columna fijo."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-14-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 5,
+   "enunciado": "Una tabla ocupa varias páginas y necesitamos que determinadas filas aparezcan como encabezado al comienzo de cada una. ¿Qué comando debemos utilizar?",
+   "opciones": [
+    "Repetir filas de título.",
+    "Autoajustar a la ventana.",
+    "Dividir tabla.",
+    "Propiedades de tabla > Columna."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-14-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 6,
+   "enunciado": "En el cuadro Propiedades de tabla de Word 365, indique cuál de las siguientes asociaciones es INCORRECTA.",
+   "opciones": [
+    "Fila: establecer el alto como Mínimo o Exacto.",
+    "Columna: establecer su anchura en centímetros o porcentaje.",
+    "Celda: definir la alineación vertical del contenido.",
+    "Tabla: configurar el alto de cada fila como Mínimo o Exacto."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-14-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 7,
+   "enunciado": "Queremos convertir una tabla de Word 365 en texto normal. ¿Cuál de las siguientes afirmaciones sobre esta operación es correcta?",
+   "opciones": [
+    "El contenido se convierte necesariamente en párrafos sin separadores.",
+    "Solo es posible convertirla utilizando tabulaciones como separadores.",
+    "Podemos elegir entre marcas de párrafo, tabulaciones, punto y coma u otro carácter.",
+    "Debemos convertir previamente todas sus celdas en una única celda."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-14-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 8,
+   "enunciado": "Necesitamos ordenar alfabéticamente el contenido de una tabla de Word 365. ¿Cuál de los siguientes procedimientos es válido?",
+   "opciones": [
+    "Utilizar exclusivamente el cuadro Propiedades de tabla > Fila.",
+    "Situarse en la tabla y utilizar Inicio > Párrafo > Ordenar.",
+    "Aplicar Autoajustar al contenido antes de seleccionar la columna.",
+    "Convertir obligatoriamente la tabla en texto antes de ordenarla."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-14-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 9,
+   "enunciado": "Estamos editando la última celda de una tabla y queremos insertar una tabulación en su interior sin crear una fila nueva. ¿Qué combinación de teclas debemos utilizar?",
+   "opciones": [
+    "TAB.",
+    "Mayús + TAB.",
+    "Ctrl + TAB.",
+    "Ctrl + Intro."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-14-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 14",
+   "n": 10,
+   "enunciado": "Respecto al desplazamiento y selección en las tablas de Word 365, indique la afirmación INCORRECTA.",
+   "opciones": [
+    "Mayús + TAB permite retroceder a la celda anterior.",
+    "Para seleccionar una fila podemos hacer clic desde su lateral izquierdo, cuando cambia la forma del puntero.",
+    "La selección de una columna puede realizarse desde su parte superior cuando cambia el puntero.",
+    "Ctrl + TAB desplaza el punto de inserción a la celda inmediatamente anterior."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-15-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 15",
+   "n": 1,
+   "enunciado": "Respecto a la selección de elementos de una tabla en Microsoft Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Para seleccionar una celda completa, podemos realizar un triple clic dentro de ella.",
+    "Para seleccionar una columna completa, debemos situar el puntero en el lateral izquierdo de cualquiera de sus filas.",
+    "Para seleccionar una fila completa, debemos realizar un doble clic sobre cualquiera de sus celdas.",
+    "Para seleccionar toda la tabla, debemos situar el puntero en la esquina inferior derecha y hacer clic."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-15-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 15",
+   "n": 2,
+   "enunciado": "En relación con el desplazamiento por las tablas de Word 365 mediante el teclado, indique la afirmación INCORRECTA.",
+   "opciones": [
+    "La combinación MAYÚS + TAB permite desplazarse a la celda anterior.",
+    "La combinación CTRL + TAB permite insertar una tabulación dentro de una celda.",
+    "La tecla TAB permite desplazarse a la siguiente celda y, si estamos en la última, añade una fila.",
+    "La combinación CTRL + TAB permite desplazarse a la celda situada inmediatamente a la derecha."
+   ],
+   "correcta": 3
+  }
+ ]
+}

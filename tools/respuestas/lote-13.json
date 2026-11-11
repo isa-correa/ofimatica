@@ -1,0 +1,282 @@
+{
+ "w-vo-09-005": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Vistas, Modo lectura (pág. 94)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Diseño de impresión** muestra el documento tal y como se imprimiría, con cinta, reglas y márgenes. No maximiza el espacio de lectura.",
+   "Es esta. El **Modo de lectura** oculta las herramientas de edición y ofrece el área de trabajo a pantalla completa, adaptando el contenido a la pantalla. Se pasa de página como en un libro.",
+   "No. **Esquema** es para trabajar con niveles de información en documentos extensos. Mantiene la cinta visible.",
+   "No. **Diseño web** muestra el documento como una página web y mantiene la cinta de opciones. No maximiza el espacio de lectura."
+  ]
+ },
+ "w-vo-09-006": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, Documentos maestros (págs. 94 y 95)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los documentos maestros se establecen y administran desde la **vista Esquema**. Un documento maestro enlaza varios subdocumentos que se editan por separado.",
+   "No. La vista de lectura oculta las herramientas de edición, así que no sirve para administrar documentos maestros.",
+   "No. La vista Borrador muestra solo texto y tablas, sin imágenes ni encabezados. No tiene herramientas de documento maestro.",
+   "No. Diseño de impresión muestra el documento como saldría impreso. Los documentos maestros se trabajan en Esquema."
+  ]
+ },
+ "w-vo-09-007": {
+  "bloque": "word-vista",
+  "precepto": "Cinta de opciones Word, anexo de vistas (págs. 30 a 33)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En **Diseño de impresión** se ven las reglas y los márgenes, así que sí muestra reglas.",
+   "No. Por sí sola no es la respuesta completa: es verdad que en **Esquema** se ocultan las reglas, pero también ocurre en el Modo de lectura, y la opción D reúne las dos.",
+   "No. Por sí sola no es la respuesta completa: es verdad que en el **Modo de lectura** se ocultan las reglas, pero también ocurre en Esquema, y la opción D reúne las dos.",
+   "Es esta. Tanto el **Esquema** como el **Modo de lectura** ocultan las reglas, así que “B y C son correctas”."
+  ],
+  "ojo": "Con reglas: diseño de impresión. Sin reglas: esquema y modo de lectura. En diseño web solo se oculta la regla lateral."
+ },
+ "w-vo-09-008": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Ventana (pág. 97)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Nueva ventana** abre el mismo documento en otra ventana, sin crear una copia. No traza ninguna línea de separación.",
+   "No. **Cambiar ventanas** sirve para pasar de un documento abierto a otro.",
+   "Es esta. **Dividir** crea una línea de separación dentro del mismo documento, y así puedes usar la zona superior y la inferior de forma independiente.",
+   "No. **Ver en paralelo** coloca dos documentos de Word de forma simultánea, uno junto al otro. No divide un solo documento."
+  ]
+ },
+ "w-vo-09-009": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, Panel de navegación (pág. 97)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. “Miniaturas” no es una pestaña del panel: las miniaturas de las páginas se ven en la pestaña **Páginas**.",
+   "No. Faltan Títulos y Páginas, y “Miniaturas” y “Marcadores” no son pestañas del panel.",
+   "No. “Marcadores” y “Miniaturas” no son pestañas del panel de navegación.",
+   "Es esta. Las tres pestañas son **Títulos**, **Páginas** (con miniaturas de las páginas) y **Resultados** (las coincidencias de la búsqueda)."
+  ]
+ },
+ "w-au-01-001": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Plantillas (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Destacar las partes importantes de un texto es cosa de los formatos y estilos, no de una plantilla.",
+   "No. Reunir los comandos más usados es lo que hace la barra de herramientas de acceso rápido.",
+   "Es esta. Una **plantilla** es un documento prediseñado que crea una copia de sí mismo al abrirse, así que lo puedes usar de base muchas veces sin perder la configuración.",
+   "No. Una nueva ficha en la cinta es otra cosa: las fichas se pueden personalizar, pero no son plantillas."
+  ]
+ },
+ "w-au-01-002": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Al abrir Word se muestra la pantalla de **Inicio**, que es la **vista Backstage**.",
+   "No. La ficha Inicio es la primera de la cinta y se ve dentro del área de trabajo, no al abrir el programa.",
+   "No. El documento en blanco es una de las opciones de la pantalla de inicio. Se abre cuando lo eliges.",
+   "No. Los archivos recientes son una zona dentro de la pantalla de inicio, no la interfaz completa."
+  ]
+ },
+ "w-au-01-003": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Recientes (pág. 3)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Recientes no muestra la fecha de creación, sino la de la última modificación, y de todos los documentos de la lista, no solo del último.",
+   "No. No se limita a la ubicación del último archivo: es una lista de documentos con más datos.",
+   "No. Las ubicaciones salen, pero junto al nombre de cada archivo y su fecha de modificación.",
+   "Es esta. Recientes lista los documentos abiertos hace poco con tres datos: **nombre**, **ubicación** y **fecha de la última modificación**."
+  ]
+ },
+ "w-au-01-004": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · Opciones de Word, categoría Guardar (pág. 7)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En **Archivo > Opciones > Guardar** se configura, entre otros, el formato de archivo predeterminado y las **ubicaciones de guardado**.",
+   "No. El color de fondo de la página se cambia en Diseño > Color de página. Es un formato del documento, no una opción del programa.",
+   "No. La orientación de la página se cambia en Disposición > Orientación.",
+   "No. Los márgenes se configuran en Disposición > Márgenes."
+  ]
+ },
+ "w-au-01-005": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Reglas (pág. 10)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Hay **dos reglas**: una debajo de la cinta de opciones (la superior) y otra en la parte izquierda de la ventana. La vertical solo se ve en la vista Diseño de impresión.",
+   "No. No hay regla a la derecha. La segunda regla está a la izquierda.",
+   "No. No hay regla inferior. La horizontal está debajo de la cinta, es decir, arriba.",
+   "No. No hay regla inferior ni derecha."
+  ]
+ },
+ "w-au-01-006": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Reglas (pág. 10)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Con 4 faltaría una. Las unidades son centímetros, picas, pulgadas, milímetros y puntos.",
+   "Es esta. Hay **5 unidades**: centímetros, picas, pulgadas, milímetros y puntos.",
+   "No. Con 3 faltarían dos. Las unidades son cinco.",
+   "No. Con 6 sobraría una. Las unidades son cinco."
+  ]
+ },
+ "w-au-01-007": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Reglas (pág. 10)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La regla se muestra por defecto en **centímetros**, que es la unidad habitual en español.",
+   "No. Las picas están entre las unidades disponibles, pero no son la configuración por defecto.",
+   "No. Los milímetros están entre las unidades disponibles, pero no son la configuración por defecto.",
+   "No. Los puntos están entre las unidades disponibles, pero no son la configuración por defecto."
+  ],
+  "revisar": "Los apuntes (pág. 10) listan las cinco unidades pero no la predeterminada. En internet las fuentes no coinciden: depende de la configuración regional del equipo. En español lo habitual es centímetros."
+ },
+ "w-au-01-008": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Reglas (pág. 10)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Los **centímetros** son una de las unidades disponibles.",
+   "Es verdadera, así que no se marca. Los **milímetros** son una de las unidades disponibles.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Las **micras** no están entre las unidades de Word. Las cinco son centímetros, milímetros, pulgadas, picas y puntos.",
+   "Es verdadera, así que no se marca. Las **pulgadas** son una de las unidades disponibles."
+  ]
+ },
+ "w-au-01-009": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Reglas (pág. 10)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Las reglas informan de las **sangrías** y permiten configurarlas.",
+   "Es verdadera, así que no se marca. Las reglas informan de las **tabulaciones** y permiten colocarlas.",
+   "Es verdadera, así que no se marca. Las reglas informan de los **márgenes** y permiten ajustarlos.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Las reglas no muestran el **interlineado**. Ese se configura en Inicio > Párrafo."
+  ]
+ },
+ "w-au-01-010": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de herramientas de acceso rápido (pág. 10)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Cortar no viene en la barra por defecto. Los botones por defecto son Autoguardado, Guardar, Rehacer y Deshacer.",
+   "No. Abrir no viene por defecto en la barra, y falta Autoguardado.",
+   "No. Compartir no viene por defecto en la barra, y faltan Rehacer y Autoguardado.",
+   "Es esta. Por defecto muestra **Autoguardado, Guardar, Deshacer y Rehacer**. Se pueden añadir o quitar comandos."
+  ]
+ },
+ "w-au-02-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **.doc** es el formato de Word 97-2003, el antiguo.",
+   "No. **.dot** es la plantilla de Word 97-2003.",
+   "No. **.docm** es el documento habilitado para macros, no el normal.",
+   "Es esta. **.docx** es la extensión del documento de Word actual."
+  ]
+ },
+ "w-au-02-002": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de estado (pág. 11)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La barra de estado tiene tres botones de vistas: **Modo de lectura**, **Diseño web** y **Diseño de impresión** (la de por defecto).",
+   "No. Borrador no tiene botón en la barra de estado. Solo se elige desde la ficha Vista.",
+   "No. El modo inmersivo es un grupo de la ficha Vista, no un botón de vista de la barra de estado.",
+   "No. Esquema no tiene botón en la barra de estado. Se elige desde la ficha Vista."
+  ]
+ },
+ "w-au-02-003": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Cinta de opciones (pág. 9)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La cinta se organiza en **fichas** o pestañas, estas en **grupos** y cada grupo contiene **comandos**. En la esquina del grupo está el **llamador de grupo**, que abre el cuadro de diálogo.",
+   "No. Los comandos no están directamente en la ficha: antes está el grupo.",
+   "No. El llamador de grupo es lo último: es el pequeño botón de la esquina del grupo, no lo primero.",
+   "No. Falta el orden correcto: la ficha va primero y contiene los grupos, no al revés."
+  ]
+ },
+ "w-au-02-004": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · Opciones de Word, categoría General (págs. 4 y 5)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En la categoría **General** se modifican elementos básicos de la interfaz, como la mini barra de herramientas y el color de Office.",
+   "No. Accesibilidad tiene opciones para facilitar el uso del programa, no los elementos de la interfaz en sí.",
+   "No. Avanzadas reúne otras opciones de edición y funcionamiento, no la interfaz básica.",
+   "No. Presentación trata de cómo se muestra el documento en pantalla y cómo se imprime."
+  ],
+  "revisar": "Los apuntes (págs. 4 a 6) describen General, Presentación y Revisión, pero no detallan Accesibilidad ni Avanzadas. Se descartan por no ser la categoría de la interfaz, según la interfaz de Word 365."
+ },
+ "w-au-02-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Espaciado (pág. 35)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. 10 puntos era el valor antiguo de Word. El predeterminado ahora es 8.",
+   "No. 0 puntos es el espaciado **anterior** por defecto, no el posterior.",
+   "Es esta. El espaciado **posterior** predeterminado es de **8 puntos**. El anterior es de 0.",
+   "No. “Automático” no es el valor por defecto del espaciado posterior: son 8 puntos."
+  ],
+  "revisar": "La opción 0 (10 puntos) no está en los apuntes. Se explica como valor de versiones anteriores de Word según el conocimiento general."
+ },
+ "w-au-02-006": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Mostrar (pág. 96)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Diseño trata de temas, color de página y bordes, no de reglas.",
+   "Es esta. Las reglas se activan y desactivan en **Vista > Mostrar**, con una casilla de verificación.",
+   "No. Insertar añade elementos al documento. No controla las reglas.",
+   "No. Inicio tiene portapapeles, fuente, párrafo y estilos. No controla las reglas."
+  ]
+ },
+ "w-au-02-007": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · Opciones de Word, categoría Presentación (pág. 5)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. General trae ajustes básicos de la interfaz. No configura cómo se muestra e imprime el contenido.",
+   "No. Revisión recoge la autocorrección y la corrección de ortografía y gramática.",
+   "Es esta. **Presentación** configura cómo se muestra el contenido del documento en pantalla y cómo se imprime.",
+   "No. Complementos gestiona los complementos del programa, no la presentación del documento."
+  ]
+ },
+ "w-au-02-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente (pág. 26) y plantilla Normal.dotm (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Calibri era la fuente por defecto de versiones anteriores. En Word 365 es Aptos.",
+   "Es esta. La fuente por defecto es **Aptos (cuerpo)**, tamaño **12**.",
+   "No. Courier no es la fuente por defecto de Word 365, y el tamaño por defecto es 12, no 11.",
+   "No. Times New Roman no es la fuente por defecto de Word 365."
+  ],
+  "revisar": "Contrastado en internet: Aptos sustituye a Calibri como fuente predeterminada de Office. Los apuntes (págs. 2 y 26) ya fijan Aptos 12."
+ },
+ "w-au-02-009": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de estado (pág. 11)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La barra de acceso rápido da acceso a comandos frecuentes, no muestra la página.",
+   "No. La cinta de opciones agrupa los comandos. No muestra la página actual.",
+   "No. La barra de título muestra el nombre del documento y el cuadro de búsqueda, no el número de página.",
+   "Es esta. La **barra de estado** muestra el número de página en que estás y el total de páginas. Si pulsas ahí, se abre el panel de navegación."
+  ]
+ },
+ "w-au-02-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Interlineado (pág. 35)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El **espaciado** es el espacio entre párrafos consecutivos, no entre las líneas de un mismo párrafo.",
+   "No. El **interletraje** ajusta el espacio entre determinados pares de letras. No cambia el espacio entre líneas.",
+   "Es esta. El **interlineado** es el espacio entre las líneas de un mismo párrafo.",
+   "No. La **alineación** determina cómo se colocan las líneas respecto a los márgenes."
+  ]
+ }
+}

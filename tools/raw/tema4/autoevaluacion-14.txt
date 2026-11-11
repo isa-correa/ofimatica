@@ -1,0 +1,118 @@
+1.
+En una tabla de Word 365 seleccionamos varias celdas contiguas situadas en diferentes filas y columnas. ¿Cuál de las siguientes operaciones podemos realizar sobre esa selección?
+
+Obtuvo 1 de 1 punto
+
+Combinar las celdas seleccionadas en una sola.
+Corregir respuesta
+Tu respuesta
+Dividir la tabla sin indicar una fila de separación.
+Aplicar exclusivamente una combinación horizontal.
+Convertir cada celda seleccionada en una tabla independiente.
+2.
+Deseamos dividir una tabla de Word en dos tablas independientes. Situamos el punto de inserción en una de sus filas y utilizamos Dividir tabla. ¿Qué sucederá?
+
+Obtuvo 0 de 1 punto
+
+La fila seleccionada permanecerá como última fila de la primera tabla.
+Respuesta equivocada
+Tu respuesta
+La fila seleccionada pasará a ser la primera fila de la segunda tabla.
+Corregir respuesta
+Ambas tablas compartirán la fila seleccionada como encabezado.
+La fila seleccionada se dividirá en dos, conservando una única tabla.
+3.
+Respecto a la alineación del contenido en las celdas de una tabla de Word 365, señale la afirmación correcta.
+
+Obtuvo 0 de 1 punto
+
+Se dispone de tres alineaciones horizontales, pero únicamente dos verticales.
+Respuesta equivocada
+Tu respuesta
+Las alineaciones verticales son Superior, Inferior y Justificada.
+Es posible combinar tres posiciones horizontales con tres posiciones verticales.
+Corregir respuesta
+Las nueve alineaciones se obtienen combinando la dirección del texto con los márgenes de celda.
+4.
+Estamos configurando una tabla y queremos que sus columnas conserven la anchura establecida sin ajustarse automáticamente al texto introducido. ¿Qué opción debemos utilizar?
+
+Obtuvo 0 de 1 punto
+
+Autoajustar al contenido.
+Respuesta equivocada
+Tu respuesta
+Autoajustar a la ventana.
+Distribuir columnas.
+Ancho de columna fijo.
+Corregir respuesta
+5.
+Una tabla ocupa varias páginas y necesitamos que determinadas filas aparezcan como encabezado al comienzo de cada una. ¿Qué comando debemos utilizar?
+
+Obtuvo 1 de 1 punto
+
+Repetir filas de título.
+Corregir respuesta
+Tu respuesta
+Autoajustar a la ventana.
+Dividir tabla.
+Propiedades de tabla > Columna.
+6.
+En el cuadro Propiedades de tabla de Word 365, indique cuál de las siguientes asociaciones es INCORRECTA.
+
+Obtuvo 0 de 1 punto
+
+Fila: establecer el alto como Mínimo o Exacto.
+Respuesta equivocada
+Tu respuesta
+Columna: establecer su anchura en centímetros o porcentaje.
+Celda: definir la alineación vertical del contenido.
+Tabla: configurar el alto de cada fila como Mínimo o Exacto.
+Corregir respuesta
+7.
+Queremos convertir una tabla de Word 365 en texto normal. ¿Cuál de las siguientes afirmaciones sobre esta operación es correcta?
+
+Obtuvo 0 de 1 punto
+
+El contenido se convierte necesariamente en párrafos sin separadores.
+Respuesta equivocada
+Tu respuesta
+Solo es posible convertirla utilizando tabulaciones como separadores.
+Podemos elegir entre marcas de párrafo, tabulaciones, punto y coma u otro carácter.
+Corregir respuesta
+Debemos convertir previamente todas sus celdas en una única celda.
+8.
+Necesitamos ordenar alfabéticamente el contenido de una tabla de Word 365. ¿Cuál de los siguientes procedimientos es válido?
+
+Obtuvo 0 de 1 punto
+
+Utilizar exclusivamente el cuadro Propiedades de tabla > Fila.
+Respuesta equivocada
+Tu respuesta
+Situarse en la tabla y utilizar Inicio > Párrafo > Ordenar.
+Corregir respuesta
+Aplicar Autoajustar al contenido antes de seleccionar la columna.
+Convertir obligatoriamente la tabla en texto antes de ordenarla.
+9.
+Estamos editando la última celda de una tabla y queremos insertar una tabulación en su interior sin crear una fila nueva. ¿Qué combinación de teclas debemos utilizar?
+
+Obtuvo 0 de 1 punto
+
+TAB.
+Respuesta equivocada
+Tu respuesta
+Mayús + TAB.
+Ctrl + TAB.
+Corregir respuesta
+Ctrl + Intro.
+10.
+Respecto al desplazamiento y selección en las tablas de Word 365, indique la afirmación INCORRECTA.
+
+Obtuvo 0 de 1 punto
+
+Mayús + TAB permite retroceder a la celda anterior.
+Para seleccionar una fila podemos hacer clic desde su lateral izquierdo, cuando cambia la forma del puntero.
+Respuesta equivocada
+Tu respuesta
+La selección de una columna puede realizarse desde su parte superior cuando cambia el puntero.
+Ctrl + TAB desplaza el punto de inserción a la celda inmediatamente anterior.
+Corregir respuesta

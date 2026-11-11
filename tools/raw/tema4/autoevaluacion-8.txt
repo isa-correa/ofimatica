@@ -1,0 +1,119 @@
+1.
+Si queremos duplicar la anchura de cada carácter, debemos configurar el siguiente atributo:
+
+Obtuvo 1 de 1 punto
+
+Escala al 200%.
+Corregir respuesta
+Tu respuesta
+Escala al 50%.
+El tamaño de la fuente al doble.
+El espaciado.
+2.
+¿Cuál de las siguientes opciones no es un efecto de fuente?
+
+Obtuvo 0 de 1 punto
+
+Tachado
+Respuesta equivocada
+Tu respuesta
+Subíndice
+Cursiva
+Corregir respuesta
+Versalitas
+3.
+¿Qué opción de fuente nos permite aumentar el espacio entre caracteres?
+
+Obtuvo 1 de 1 punto
+
+Espaciado
+Corregir respuesta
+Tu respuesta
+Escala
+Tamaño
+Posición
+4.
+¿Qué atributo modifica el espacio entre determinadas combinaciones de caracteres con el fin de obtener un resultado más estético?
+
+Obtuvo 0 de 1 punto
+
+Espaciado para fuentes
+Respuesta equivocada
+Tu respuesta
+Interletraje para caracteres
+Interletraje para fuentes
+Corregir respuesta
+Espaciado para caracteres
+5.
+El "Iluminado", ¿qué tipo de atributo de fuente es?
+
+Obtuvo 0 de 1 punto
+
+Estilo de texto
+Respuesta equivocada
+Tu respuesta
+Efecto de fuente
+Estilo de fuente
+Efecto de texto
+Corregir respuesta
+
+Los efectos de texto y tipografía añaden un aspecto "artístico" a la fuente que forma parte de nuestro documento. Son: Contorno, Sombra, Reflejo e Iluminado.
+
+6.
+¿Qué atributo puede configurarse como "Comprimido" o "Expandido"?
+
+Obtuvo 1 de 1 punto
+
+Espaciado
+Corregir respuesta
+Tu respuesta
+Escala
+Posición
+Tamaño
+7.
+¿Qué tipo de sangría desplaza la primera línea de un párrafo hacia la derecha, dejando el resto del párrafo sin desplazar?
+
+Obtuvo 0 de 1 punto
+
+Sangría francesa.
+Respuesta equivocada
+Tu respuesta
+Izquierda.
+Primera línea.
+Corregir respuesta
+Derecha.
+8.
+¿Cuáles de las siguientes opciones afecta a la posición de la fuente con respecto a la línea de escritura?
+
+Obtuvo 0 de 1 punto
+
+Negrita.
+Respuesta equivocada
+Tu respuesta
+Tachado.
+Versalitas.
+Posición.
+Corregir respuesta
+9.
+¿Cómo se denomina la distancia que puede haber entre el margen y el texto de un documento?
+
+Obtuvo 0 de 1 punto
+
+Encuadernación.
+Respuesta equivocada
+Tu respuesta
+Margen.
+Sangría.
+Corregir respuesta
+Interlineado.
+10.
+¿Cuál de las siguientes no es un tipo de sangría de Word?
+
+Obtuvo 1 de 1 punto
+
+Centrada.
+Corregir respuesta
+Tu respuesta
+Izquierda.
+Primera línea.
+Derecha.

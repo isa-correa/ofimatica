@@ -1,0 +1,279 @@
+{
+ "w-au-17-008": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, Bordes de página, cuadro Bordes y sombreado (pág. 70)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los bordes con estilo de tabla no son una diferencia entre estas pestañas.",
+   "Es esta. La pestaña **Borde de página** es parecida a Bordes, pero añade el comando **Arte**, con dibujos decorativos para aplicar al borde. Si usas Arte, no puedes aplicar un estilo de línea.",
+   "No. El relleno de color es del sombreado, que es otra pestaña del cuadro.",
+   "No. El borde de página se puede aplicar a todo el documento o por secciones, no solo a la portada."
+  ]
+ },
+ "w-au-17-009": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, cuadro Bordes y sombreado, pestaña Bordes (pág. 69)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si no hay texto seleccionado, el borde se aplica al **párrafo en el que se encuentra el punto de inserción**.",
+   "No. Sin selección no se aplica a todo el documento, sino al párrafo del cursor.",
+   "No. Sí se aplica formato: el borde va al párrafo donde está el cursor.",
+   "No. Word no muestra ningún error: aplica el borde al párrafo."
+  ]
+ },
+ "w-au-17-010": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, grupo Fondo de página (págs. 67 a 69)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El grupo no se limita a colores sólidos y bordes: también tiene la marca de agua, y el color de página admite degradados, texturas y tramas.",
+   "Es esta. El grupo **Fondo de página** tiene tres comandos: **marca de agua**, **color de página** y **bordes de página**.",
+   "No. Los encabezados personalizados se hacen desde Insertar, no en Fondo de página.",
+   "No. No son únicamente imágenes: también tiene el color de página y los bordes."
+  ]
+ },
+ "w-au-18-001": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Ventana (pág. 97)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No existe un comando “Duplicar ventana” en el grupo.",
+   "Es esta. **Nueva ventana** abre el mismo documento en otra ventana, para trabajar en dos partes a la vez. No crea una copia del documento.",
+   "No. **Dividir** crea una línea de separación dentro de la misma ventana, no una ventana nueva.",
+   "No. **Ver en paralelo** coloca dos documentos distintos uno junto al otro."
+  ]
+ },
+ "w-au-18-002": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Organizar, Posición (pág. 78)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Ajustar texto** define cómo interactúa el objeto con el texto que lo rodea.",
+   "No. **Alinear** coloca los objetos respecto a los márgenes o los bordes de la página, pero su función es alinear objetos entre sí o con los márgenes, no situar un objeto en posiciones predeterminadas.",
+   "No. **Traer adelante** cambia el orden de apilamiento de los objetos.",
+   "Es esta. **Posición** sitúa un objeto en distintas posiciones predeterminadas respecto a la página."
+  ]
+ },
+ "w-au-18-003": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Mostrar, Panel de navegación (págs. 96 y 97)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El panel de navegación tiene tres pestañas: **Títulos**, **Páginas** y **Resultados**.",
+   "No. “Comentarios” no es una pestaña del panel de navegación.",
+   "No. “Subtítulos” no es una pestaña. Los subtítulos salen dentro de la pestaña Títulos.",
+   "No. “Imágenes” y “comentarios” no son pestañas del panel."
+  ]
+ },
+ "w-au-18-004": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Vistas, Modo Esquema (pág. 94)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Diseño web** muestra el documento como una página web.",
+   "No. **Diseño de impresión** muestra el documento como saldría impreso.",
+   "Es esta. La vista **Esquema** ofrece herramientas para trabajar con distintos niveles de información, que se pueden ocultar.",
+   "No. El **Modo de lectura** oculta las herramientas de edición y muestra el documento a pantalla completa."
+  ]
+ },
+ "w-au-18-005": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, Documentos maestros (págs. 94 y 95)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un **documento maestro** reúne, a modo de enlace, varios documentos independientes llamados subdocumentos. Se administra desde la vista Esquema.",
+   "No. Un documento de solo lectura impide cambios, pero no reúne subdocumentos.",
+   "No. Un documento en blanco es un documento nuevo sin contenido.",
+   "No. Una plantilla .dotx es un modelo para crear documentos. No gestiona subdocumentos."
+  ]
+ },
+ "w-au-18-006": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, Documentos maestros (pág. 94)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un subdocumento no es un documento dentro de una tabla.",
+   "No. No es un archivo temporal: es un archivo independiente que se puede tratar por separado.",
+   "Es esta. Un **subdocumento** es uno de los archivos a los que enlaza el documento maestro. Los cambios que se hagan en él se reflejan en el maestro.",
+   "No. Un comentario no es un subdocumento."
+  ]
+ },
+ "w-au-18-007": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8 Ficha Revisar, grupo Comparar (pág. 93)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Unir revisiones de varias copias en un único documento es la función **Combinar**, no Comparar.",
+   "No. Comparar no sustituye ningún documento: no afecta a los originales.",
+   "Es esta. **Comparar** analiza dos versiones de un documento y muestra las diferencias con marcas de revisión, sin modificar los originales.",
+   "No. Comparar no traduce nada."
+  ],
+  "revisar": "Los apuntes (pág. 93) dicen que Comparar muestra las diferencias con marcas de revisión sin afectar a los originales. Que el resultado sea un documento nuevo sale del comportamiento de Word."
+ },
+ "w-au-18-008": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Inmersivo (págs. 95 y 96)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Insertar voz en el texto es dictar, y es otra herramienta (Inicio > Voz).",
+   "Es esta. El **Lector inmersivo** facilita la lectura: lee el texto en voz alta y permite ajustar el ancho de columna, el color de página, el foco de línea, el espaciado y las sílabas.",
+   "No. El lector inmersivo no es una herramienta de traducción automática.",
+   "No. Exportar a EPUB no es una función del lector inmersivo."
+  ]
+ },
+ "w-au-18-009": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, Panel de navegación, pestaña Resultados (pág. 97)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Buscar y reemplazar se hace con el cuadro Buscar y reemplazar, no desde esta pestaña.",
+   "Es esta. Si usas el cuadro de búsqueda del panel de navegación, las **coincidencias** se muestran en la pestaña **Resultados**.",
+   "No. Los títulos se ven en la pestaña Títulos, y se reorganizan allí, no en Resultados.",
+   "No. Insertar comentarios se hace desde Insertar o Revisar."
+  ]
+ },
+ "w-au-18-010": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, Panel de navegación, pestaña Páginas (pág. 97)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los títulos aparecen en la pestaña Títulos.",
+   "Es esta. La pestaña **Páginas** muestra las **miniaturas** de las páginas que forman el documento, con la página actual resaltada.",
+   "No. El tamaño de página se cambia en Disposición > Tamaño.",
+   "No. El número de página se añade desde Insertar > Número de página."
+  ]
+ },
+ "w-au-19-001": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, Panel de navegación (págs. 96 y 97)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **Panel de navegación** permite desplazarse por el documento con sus tres pestañas: títulos, páginas y resultados de búsqueda.",
+   "No. El panel de revisiones muestra las revisiones del control de cambios.",
+   "No. El lector inmersivo mejora la lectura, pero no sirve para navegar por títulos o resultados.",
+   "No. La vista previa muestra cómo quedará una impresión."
+  ]
+ },
+ "w-au-19-002": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, Panel de navegación (pág. 97)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Títulos** lista los apartados con estilo de título.",
+   "Es esta. **Páginas** muestra las miniaturas de las páginas, con la actual resaltada.",
+   "No. **Resultados** muestra las coincidencias de una búsqueda.",
+   "No. “Encabezados” no es una pestaña del panel."
+  ]
+ },
+ "w-au-19-003": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8 Ficha Revisar, grupo Voz, Leer en voz alta (pág. 90)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No graba el texto en audio: lo reproduce con voz.",
+   "No. No genera subtítulos.",
+   "Es esta. **Leer en voz alta** reproduce mediante voz el contenido del documento y va resaltando el texto a medida que lo lee.",
+   "No. La traducción es otra herramienta de la ficha Revisar. Leer en voz alta no cambia el idioma del texto."
+  ]
+ },
+ "w-au-19-004": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Inmersivo, Concentración (pág. 96)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La vista preliminar muestra cómo saldrá la impresión.",
+   "Es esta. **Concentración** deja visible solo las reglas y el documento, a pantalla completa, con el fondo de la interfaz en negro (se puede cambiar).",
+   "No. El modo esquema sirve para trabajar con niveles de títulos.",
+   "No. El modo lectura oculta las herramientas de edición, pero no es el modo con fondo oscuro y reglas."
+  ]
+ },
+ "w-au-19-005": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Ventana, Dividir (pág. 97)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Un salto de sección se inserta desde Disposición > Saltos.",
+   "Es esta. **Dividir** crea una línea de separación dentro de un mismo documento, y así trabajas con la zona superior y la inferior de forma independiente.",
+   "No. Abrir un segundo archivo se hace con Abrir, no con Dividir.",
+   "No. Ver encabezados y pies a la vez no es la función de Dividir."
+  ]
+ },
+ "w-au-19-006": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Ventana, Ver en paralelo (pág. 97)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Desplazamiento sincrónico** desplaza juntos dos documentos que ya están en paralelo, pero no los coloca.",
+   "No. **Dividir** separa un solo documento en dos zonas.",
+   "Es esta. **Ver en paralelo** permite ver dos documentos de Word a la vez, para trabajar con ambos sin cambiar de uno a otro.",
+   "No. **Comparar documentos** (en Revisar) muestra las diferencias entre dos versiones."
+  ]
+ },
+ "w-au-19-007": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Ventana, Desplazamiento sincrónico (pág. 97)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Organizar todo** apila las ventanas abiertas para verlas a la vez, pero no sincroniza el desplazamiento.",
+   "No. “Sincronizar barra de estado” no existe.",
+   "Es esta. **Desplazamiento sincrónico** desplaza juntos dos documentos dispuestos en paralelo.",
+   "No. La vista inmersiva es para facilitar la lectura. No sincroniza documentos."
+  ]
+ },
+ "w-au-19-008": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Ventana, Cambiar ventanas (pág. 97)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Cambiar ventanas** permite cambiar entre las ventanas activas rápidamente.",
+   "No. “Vista previa” no es un comando del grupo Ventana.",
+   "No. “Vista actual” no es un comando del grupo Ventana.",
+   "No. “Abrir reciente” no es un comando del grupo Ventana."
+  ]
+ },
+ "w-au-19-009": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Mostrar (pág. 96)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. “Mostrar encabezados” no es una casilla del grupo Mostrar.",
+   "Es esta. Las **líneas de cuadrícula** son una referencia visual que ayuda a alinear y colocar los elementos y objetos del documento.",
+   "No. “Mostrar títulos” no es una casilla del grupo Mostrar.",
+   "No. El panel de navegación sirve para desplazarse por el documento, no para alinear objetos."
+  ],
+  "revisar": "La pregunta menciona “mostrar los márgenes”, algo que en los apuntes (pág. 96) hacen las reglas. Aun así, solo las líneas de cuadrícula están entre las opciones y sirven para alinear objetos."
+ },
+ "w-au-19-010": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4.9 Ficha Vista, grupo Mostrar, Líneas de cuadrícula (pág. 96)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No sirven para imprimir marcas de página. Al contrario, no se pueden imprimir.",
+   "Es esta. Las líneas de cuadrícula son una referencia visual y **no se pueden imprimir**.",
+   "No. Se activan desde la casilla de Vista > Mostrar, no solo en modo lectura.",
+   "No. No son exclusivas de tablas: ayudan a alinear cualquier elemento y objeto del documento."
+  ]
+ },
+ "w-au-20-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1.2 Guardar una copia (pág. 22)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Con Autoguardado activado en OneDrive, “Guardar” y “Guardar como” dejan de aparecer.",
+   "Es esta. Con el archivo en OneDrive y el Autoguardado activado, “Guardar” y “Guardar como” **se sustituyen por “Guardar una copia”**.",
+   "No. No se ocultan sin más: las sustituye “Guardar una copia”, que permite elegir ubicación, nombre y extensión.",
+   "No. “Guardar como” tampoco queda disponible en ese caso."
+  ]
+ },
+ "w-au-20-002": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1.3 Historial de versiones (pág. 23)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Comparar documentos distintos se hace con Revisar > Comparar, no con Mostrar ediciones.",
+   "No. Las versiones anteriores se abren en modo solo lectura. Para trabajar sobre una se pulsa “Restaurar”.",
+   "Es esta. Con **Mostrar ediciones** activada, se señalan todos los cambios realizados en cada una de las versiones.",
+   "No. Mostrar ediciones no elimina versiones."
+  ]
+ }
+}

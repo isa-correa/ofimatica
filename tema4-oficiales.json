@@ -1,0 +1,606 @@
+{
+ "tema4_oficiales": [
+  {
+   "test": "Tema 4 - Word 365 (Oficial 1)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "En un documento de Word, en \"Proteger documento\", establecemos la opción \"Marcar como final\". ¿Qué efecto tendrá sobre el documento? (Aux AGE 2017)",
+     "opciones": [
+      "Controla qué tipos de cambios pueden realizar las personas en este documento.",
+      "Garantiza la integridad del documento con una firma digital invisible.",
+      "Informa a los lectores de que el documento es definitivo y lo convierte en un documento de sólo lectura.",
+      "Se requiere una contraseña para abrir este documento."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 2,
+     "enunciado": "De forma predeterminada Word presenta una barra encima de la cinta de opciones, con los iconos Autoguardado, Guardar, Deshacer y Rehacer. ¿Qué nombre tiene esta barra? (Aux AGE Extraordinario 2019)",
+     "opciones": [
+      "Barra de estado.",
+      "Barra de programación.",
+      "Barra de herramientas de acceso rápido.",
+      "Barra de tareas."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "En la ventana Opciones de Word aparecen agrupadas las opciones por categorías. ¿En cuál de las siguientes categorías encontramos las \"Opciones de impresión\"? (Adm. AGE 2019)",
+     "opciones": [
+      "Presentación.",
+      "General.",
+      "Revisión.",
+      "Idioma."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 4,
+     "enunciado": "La opción \"contar palabras\", ¿qué estadísticas muestra? (Admvo Libre Extraordinario 2022)",
+     "opciones": [
+      "Páginas, palabras, caracteres con y sin espacios, caracteres especiales, fórmulas, párrafos y líneas",
+      "Páginas, palabras, caracteres con y sin espacios, párrafos y líneas",
+      "Páginas, palabras, párrafos y líneas",
+      "Páginas, palabras, caracteres con y sin espacios y líneas"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 5,
+     "enunciado": "En un documento de Word 365, ¿cuál de las siguientes opciones es la que se debe seleccionar para visualizar los símbolos que indican los saltos de página y espacios?",
+     "opciones": [
+      "La vista de esquema.",
+      "Investigador.",
+      "Mostrar todo.",
+      "Editor."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 6,
+     "enunciado": "En Word 365, ¿cuál de las siguientes opciones describe qué ocurre si mantenemos la tecla Alt pulsada?",
+     "opciones": [
+      "Comienza una revisión completa de la ortografía y gramática del documento, además de abrir el Panel de revisiones, que muestra las revisiones realizadas anteriormente.",
+      "Cambiará la visualización del documento a la ventana Archivo, en la sección Guardar como, dándonos la oportunidad de guardar el archivo.",
+      "Aparecen sobre algunas funciones de la Cinta de opciones, la combinación de letras o números que, pulsados junto a la tecla Alt, componen el método abreviado para llamar a esa función.",
+      "Cambia la visa actual del documento al Modo de lectura, deshabilitando la edición, pero facilitando la lectura del documento."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 7,
+     "enunciado": "En Word 365 algunas informaciones sobre el documento con el que se está trabajando, como el número de página o el idioma del texto, se muestran de forma predeterminada. ¿En cuál de las siguientes opciones se visualiza esa información?",
+     "opciones": [
+      "Cinta de opciones.",
+      "Panel de navegación.",
+      "Barra de herramientas de acceso rápido.",
+      "Barra de estado."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 8,
+     "enunciado": "En Word 365, ¿cuál es la función principal de la Barra de herramientas de acceso rápido?",
+     "opciones": [
+      "Acceder a las opciones de configuración.",
+      "Tener acceso rápido a algunos comandos que utilizamos con frecuencia.",
+      "Agrupar y organizar todas las funciones y herramientas disponibles en Word.",
+      "Visualizar información relevante sobre el documento que se está visualizando o editando."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Qué tipo de alineación de párrafo utiliza Word 365 por defecto? (Aux AGE 2007)",
+     "opciones": [
+      "Justificada.",
+      "Izquierda.",
+      "Centrada.",
+      "Derecha."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 10,
+     "enunciado": "Señale la afirmación correcta. La seguridad de Microsoft Word 365 (Aux AGE 2008)",
+     "opciones": [
+      "Obliga a que las contraseñas contengan números y letras.",
+      "Obliga a que la contraseña tenga letras mayúsculas, minúscula y un carácter especial.",
+      "Obliga a que las contraseñas tengan un mínimo de cuatro caracteres.",
+      "Obliga a guardar el documento una vez establecida la contraseña para que entre en vigor."
+     ],
+     "correcta": 3
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Oficial 2)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Señale qué extensión tienen las plantillas de Word 365 (Aux AGE 2008)",
+     "opciones": [
+      ".dotx",
+      ".odt",
+      ".docx",
+      ".txt"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "Entre los formatos de archivo que son compatibles con Word, la extensión .dotm indica: (Admvo Libre 2022)",
+     "opciones": [
+      "Documento de archivo basado en XML y habilitado para macros para Word 365, Word 2021, Word 2019, Word 2016, Word 2013, Word 2010 y Office Word 2007. Almacena código de macros PHP.",
+      "Plantilla para crear nuevos archivos de Word 365, Word 2021, Word 2019, Word 2016, Word 2013, Word 2010 y Office Word 2007 que contienen macros.",
+      "Plantilla para crear nuevos archivos de Word 365, Word 2021, Word 2019, Word 2016, Word 2013, Word 2010 y Office Word 2007 que no contienen macros.",
+      "Documento de archivo binario para Word 97-Word 2003."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Con qué extensión de las siguientes se guarda un documento Word 365 habilitado para macros? (Aux Estabilización 2022)",
+     "opciones": [
+      ".dotm",
+      ".docx",
+      ".dotx",
+      ".docm"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 4,
+     "enunciado": "Vamos a inspeccionar un documento Word antes de publicarlo. Para ello utilizamos \"Comprobar si hay problemas\", dentro del menú Archivo. Al hacer clic, nos ofrece tres opciones. ¿Cuál de las siguientes NO es una de las opciones ofrecidas? (Aux AGE Estabilización 2019)",
+     "opciones": [
+      "Restringir edición.",
+      "Inspeccionar documento.",
+      "Comprobar compatibilidad.",
+      "Comprobar accesibilidad."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Cuál es la función del \"Comprobador de accesibilidad\" de Word? (Aux Est AGE Extraordinario 2019)",
+     "opciones": [
+      "Evalúa la corrección gramatical y ortográfica del texto del documento.",
+      "Cuando se introduce una contraseña para proteger un documento, indica la dificultad de descubrir la contraseña y acceder al documento.",
+      "Permite comprobar qué usuarios tienen acceso a una carpeta que hemos compartido previamente.",
+      "Ayuda a detectar problemas y corregir el contenido del documento para facilitar la lectura a las personas con alguna discapacidad."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 6,
+     "enunciado": "Señale cuál debe de ser la extensión de un documento que queremos usar posteriormente como plantilla en Word 365: (Aux AGE 2016)",
+     "opciones": [
+      "DOC",
+      "DOTX",
+      "DOCX",
+      "PPT"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 7,
+     "enunciado": "Vamos a compartir un documento de Word, pero antes queremos comprobar qué información personal contiene. ¿Qué opción utilizaremos? (Aux AGE 2017)",
+     "opciones": [
+      "Comprobar.",
+      "Inspeccionar documento.",
+      "Comprobar compatibilidad.",
+      "Permisos."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 8,
+     "enunciado": "En relación con un documento de Word, ¿cuál de los siguientes cuatro formatos de papel tiene un mayor tamaño? (Aux AGE 2017)",
+     "opciones": [
+      "Carta.",
+      "A4.",
+      "A3.",
+      "Ejecutivo."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Qué extensión específica tienen las plantillas de Word 365 cuando los usuarios desean incluir personalizaciones de la interfaz de usuario?",
+     "opciones": [
+      "docm",
+      "dotm",
+      "dotx",
+      "pptx"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Oficial 3)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Cómo se puede conseguir un subrayado no predeterminado en Word 365? (Aux Libre 2022)",
+     "opciones": [
+      "Desde la Pestaña Inicio, grupo fuente, más subrayados.",
+      "Desde la Pestaña Vista, grupo fuente, más subrayados.",
+      "Desde la Pestaña Diseño, grupo fuente, más subrayados.",
+      "Desde la Pestaña Insertar, grupo fuente, más subrayados."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Cómo podemos configurar el efecto \"Superíndice\" en un texto de Word 365? (Aux AGE 2006)",
+     "opciones": [
+      "Configurando el Estilo de Fuente en la opción Fuente del menú Formato.",
+      "Mediante la opción de Salto del menú Insertar.",
+      "Configurando el efecto Superíndice en la pestaña Fuente del Menú Fuente.",
+      "Configurando la Posición en la pestaña Avanzado del menú Fuente"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Dónde encontramos el efecto \"Resaltado de texto\" en Word 365? (Aux AGE 2006)",
+     "opciones": [
+      "En el grupo \"Párrafo\" de la pestaña \"Inicio\".",
+      "En el grupo \"Efectos\" de la pestaña \"Formato de texto\".",
+      "En el grupo \"Formato del documento\" de la pestaña \"Diseño\".",
+      "En el grupo \"Fuente\" de la pestaña \"Inicio\"."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Cuál de los siguientes efectos NO se pueden configurar directamente desde la cinta de opciones? (Aux AGE 2006)",
+     "opciones": [
+      "Tachado.",
+      "Superíndice.",
+      "Versalitas.",
+      "Subíndice."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Cuál de los siguientes efectos de fuente NO aparece en el grupo efectos del cuadro \"Fuente\"? (Aux AGE 2007)",
+     "opciones": [
+      "Tachado.",
+      "Versalitas.",
+      "Subíndice.",
+      "Contorno."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Cuáles de los siguientes son efectos de fuente? (Aux AGE 2009)",
+     "opciones": [
+      "Cursiva, subrayado, tachado y superíndice.",
+      "Negrita, superíndice, subrayado y versalitas.",
+      "Negrita, superíndice, versales y cursiva.",
+      "Versalitas, subíndice, tachado y mayúsculas."
+     ],
+     "correcta": 3
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Oficial 4)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué función realiza la opción de \"Sombreado\" en un documento de Word? (Aux AGE 2017)",
+     "opciones": [
+      "Crea sombras en el marco del texto.",
+      "Colorea las letras del texto.",
+      "Crea sombras en las letras del texto.",
+      "Colorea el fondo del texto o párrafo seleccionado."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Cuál de las alineaciones NO aparece en el cuadro \"Párrafo\"? (Aux AGE 2006)",
+     "opciones": [
+      "Derecha.",
+      "Distribuida.",
+      "Centrada.",
+      "Justificada."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Qué tipo de sangría desplaza hacia la derecha un bloque de texto, dejando la primera línea sin desplazar? (Aux AGE 2007)",
+     "opciones": [
+      "Francesa.",
+      "Derecha.",
+      "Izquierda.",
+      "Primera línea."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Cuál de los siguientes comandos de párrafo podemos configurar desde la pestaña \"Líneas y Saltos de página\" del menú \"Párrafo? (Aux AGE 2007)",
+     "opciones": [
+      "Conservar líneas juntas.",
+      "Interlineado 1,5 líneas.",
+      "Espaciado posterior.",
+      "Control líneas viudas."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "Señale cuál de las siguientes combinaciones de teclas (método abreviado) permite cambiar una palabra seleccionada a mayúsculas o a minúsculas (Aux AGE 2008)",
+     "opciones": [
+      "CTRL+<",
+      "CTRL+M",
+      "MAYÚS+F3",
+      "CTRL+Y"
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Oficial 5)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "En Word 365, ¿qué método abreviado de teclado debemos utilizar para guardar un documento?",
+     "opciones": [
+      "CTRL + A",
+      "Tecla logotipo Windows + S",
+      "CTRL + G",
+      "Tecla logotipo Windows + U"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 2,
+     "enunciado": "Queremos establecer el diseño general de todos los títulos y subtítulos de un documento de Word 365. ¿Qué función debemos usar?",
+     "opciones": [
+      "Inicio > Diseño de párrafo.",
+      "Inicio > Formato de fuente.",
+      "Disposición > Configurar página.",
+      "Diseño > Formato del documento."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 3,
+     "enunciado": "En Word, ¿qué utilidad tiene la opción Números de línea que se encuentra en la pestaña Disposición > Configurar página? (Aux AGE Estabilización 2019)",
+     "opciones": [
+      "Muestra de forma automática números de línea junto a cada línea de texto en el documento.",
+      "Permite crear un marcador único, referenciado por un número, para acceder de forma rápida a una línea concreta.",
+      "Abre una ventana de diálogo en la que podemos escribir el número de línea a la que queremos desplazarnos.",
+      "Cuenta los números de línea totales del texto contenido en el documento y muestra las estadísticas en una nueva ventana."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 4,
+     "enunciado": "En Word 365, para mostrar el panel de tareas del diccionario de sinónimos, ¿qué método abreviado de teclado deberíamos utilizar? (Admvo Libre 2022)",
+     "opciones": [
+      "Ctrl + Alt + S",
+      "F8",
+      "Mayús + F7",
+      "Mayús + F1"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 5,
+     "enunciado": "Si en Word 365 queremos rehacer una acción que previamente hemos deshecho, ¿cuál de las siguientes opciones debemos ejecutar? (Aux Estabilización 2022)",
+     "opciones": [
+      "Ctrl + W",
+      "Ctrl + V",
+      "Ctrl + Y",
+      "Ctrl + N"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Cómo abrimos el menú de \"Ayuda\" en Word 365? (Aux AGE 2006)",
+     "opciones": [
+      "Pulsando F1.",
+      "Pulsando Ctrl + F1.",
+      "Desde la ficha correspondiente en la cinta de opciones.",
+      "Son correctas a y c."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Con qué combinación de teclas (o método abreviado) se consigue que aparezca el panel de sinónimos? (Aux AGE 2007)",
+     "opciones": [
+      "MAYUSC + S",
+      "CTRL + F2",
+      "CTRL + L",
+      "MAYUSC + F7"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 8,
+     "enunciado": "Si desea imprimir el documento que aparece en pantalla, ¿cuál de los siguientes métodos abreviados de teclado deberá utilizar? (Aux AGE 2009)",
+     "opciones": [
+      "Ctrl + P",
+      "Alt + 1",
+      "Alt + F7",
+      "Ctrl + 1"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Cuáles son los tipos de sangría de Word 365? (Aux AGE 2009)",
+     "opciones": [
+      "Derecha, izquierda, 1ª línea y justificada.",
+      "Derecha, Izquierda, 1ª línea y francesa.",
+      "Derecha, Izquierda, 1,5 líneas y francesa.",
+      "Derecha, Izquierda, 1ª línea y centrada."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 10,
+     "enunciado": "Señale la opción correcta cuando hablamos de un texto justificado en Word 365: (Aux AGE 2015)",
+     "opciones": [
+      "Está alineado a la derecha.",
+      "Está alineado a derecha e izquierda.",
+      "Está centrado.",
+      "Está alineado a la izquierda."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 11,
+     "enunciado": "Señale los tipos de sangría hay en Word 365: (Aux AGE 2015)",
+     "opciones": [
+      "Izquierda, derecha y centrada.",
+      "Izquierda, derecha, centrada y francesa.",
+      "Izquierda, derecha, de primera línea y francesa.",
+      "Izquierda, derecha, francesa y barra."
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Oficial 6)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Cuál es la finalidad de la función \"Dibujar tabla\" en Word? (Aux AGE Estabilización 2019)",
+     "opciones": [
+      "Crear un dibujo de una tabla en formato png, para insertar en el texto como imagen.",
+      "Diseñar tablas mediante un cuadro de diálogo, estableciendo el número de filas y columnas.",
+      "Diseñar tablas mediante el puntero del ratón, dibujando los bordes de celdas, filas y columnas.",
+      "Insertar una tabla entre las disponibles en las plantillas de tabla integradas."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Cuál de las siguientes opciones es correcta con respecto a ordenar los datos de una tabla de Word? (Aux Est AGE Extraordinario 2019)",
+     "opciones": [
+      "Es posible, haciendo clic con el botón secundario del ratón sobre la tabla, y en el menú desplegable, Propiedades > Ordenar.",
+      "No es posible si la tabla está hecha en Word. Si está hecha en Excel, podemos ordenarla antes de incrustarla en el texto.",
+      "Es posible, situando el cursor dentro de la tabla, y pulsando el botón Ordenar de la pestaña Inicio de la cinta de opciones de Word.",
+      "Es posible, seleccionando la columna y haciendo clic con el botón secundario del ratón, y en el menú desplegable, Ordenar."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "En el menú Inicio de Word, grupo Edición, uno de los elementos es Seleccionar, que despliega cuatro opciones. ¿Cuál de las siguientes opciones NO aparece en este menú? (Aux Est AGE Extraordinario 2019)",
+     "opciones": [
+      "Seleccionar todo el texto con formato similar (sin datos).",
+      "Seleccionar objetos.",
+      "Seleccionar todo.",
+      "Seleccionar tabla."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 4,
+     "enunciado": "Al hacer clic en el botón \"Buscar\" de la pestaña \"Inicio\" de Word, ¿cuál de los siguientes comportamientos es el correcto? (Aux Est AGE Extraordinario 2019)",
+     "opciones": [
+      "Se abre la ventana \"Navegación\" con el campo para escribir la búsqueda, y tres pestañas: Títulos, Páginas y Resultados.",
+      "Se abre la ventana \"Buscar y Reemplazar\" con dos pestañas: Buscar y Reemplazar.",
+      "Se abre la ventana \"Búsqueda\" sólo con el campo para escribir la búsqueda.",
+      "Se abre la ventana emergente \"Encontrar\" sólo con el campo para escribir la búsqueda."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "Señale la opción correcta para seleccionar todo un párrafo en Word 365: (Aux AGE 2016)",
+     "opciones": [
+      "Basta dar un triple clic en una palabra del párrafo.",
+      "Basta con pulsar y mantener la tecla CTRL y hacer clic en cualquier parte del párrafo.",
+      "Basta dar un clic sobre una palabra del párrafo.",
+      "Basta dar doble clic en una palabra del párrafo."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 6,
+     "enunciado": "Señale la opción correcta para Word 365 si queremos guardar un documento con nombre: (Aux AGE 2016)",
+     "opciones": [
+      "F12",
+      "F8",
+      "Alt + F8",
+      "F7"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 7,
+     "enunciado": "Señale la función de la tecla F5 en Word 365: (Aux AGE 2016)",
+     "opciones": [
+      "Insertar autotexto.",
+      "Abre la ventana buscar y reemplazar.",
+      "Activar modo de extensión.",
+      "Activar barra de menú."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 8,
+     "enunciado": "Queremos añadir una tabla al documento de Word. ¿En qué pestaña encontramos esta opción? (AGE 2017)",
+     "opciones": [
+      "Insertar.",
+      "Vista.",
+      "Diseño.",
+      "Correspondencia."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 9,
+     "enunciado": "En un documento Word 365 si nos situamos en la última celda de una tabla y pulsamos la tecla del tabulador, ¿qué sucede en la tabla?",
+     "opciones": [
+      "Se inserta una línea como encabezado de la tabla.",
+      "Se añade una columna al final de la tabla.",
+      "Se divide la celda en la que estamos posicionados.",
+      "Se añade una fila al final de la tabla."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 10,
+     "enunciado": "Señale la ruta correcta para agregar una tabla de Excel a un documento de Word 365 (Aux AGE 2008)",
+     "opciones": [
+      "Convirtiendo una tabla de Word previamente seleccionada en una hoja de Microsoft Excel.",
+      "Desde Excel, importando los datos de la tabla.",
+      "Desde el botón \"Tabla\", del grupo \"Tablas\" de la pestaña \"Insertar\".",
+      "Desde el botón \"mis Complementos\" del grupo \"Complementos\" de la ficha \"Insertar\"."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 11,
+     "enunciado": "En Word 365, ¿cuál de las siguientes opciones se utiliza para garantizar que se puede ver correctamente la tabla completa en la vista de diseño web? (Aux Libre 2022)",
+     "opciones": [
+      "Alinear al centro.",
+      "Autoajustar a la ventana.",
+      "Autoajustar al contenido.",
+      "Ancho de columna fijo."
+     ],
+     "correcta": 1
+    }
+   ]
+  }
+ ]
+}

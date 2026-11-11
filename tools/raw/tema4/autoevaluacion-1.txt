@@ -1,0 +1,116 @@
+1.
+¿Qué es una plantilla de Word?
+
+Obtuvo 0 de 1 punto
+
+Herramienta muy útil para ayudar a destacar las partes más importantes de un texto.
+Respuesta equivocada
+Tu respuesta
+Herramienta que reúne los comandos más usados.
+Es un documento pre-diseñado que podemos usar en numerosas ocasiones.
+Corregir respuesta
+Es una nueva ficha en la cinta de opciones de Word.
+2.
+Cuando iniciamos el programa Word 365, ¿qué interfaz nos muestra en pantalla?
+
+Obtuvo 1 de 1 punto
+
+Vista Backstage.
+Corregir respuesta
+Tu respuesta
+Ficha Inicio.
+Documento en blanco.
+Los archivos recientes.
+3.
+En el área "Recientes" de la pantalla de inicio de Word, ¿qué elementos se presentan?
+
+Obtuvo 0 de 1 punto
+
+La fecha de creación del último documento que hemos editado.
+Respuesta equivocada
+Tu respuesta
+La ubicación del último archivo que hemos editado.
+Lista de las ubicaciones de los documentos que hemos abierto recientemente
+Lista de los documentos que hemos abierto recientemente, con su ubicación correspondiente y la fecha de modificación
+Corregir respuesta
+4.
+En el menú "Opciones", ¿qué elementos aspectos podemos configurar?
+
+Obtuvo 1 de 1 punto
+
+Ubicación por defecto al guardar un documento.
+Corregir respuesta
+Tu respuesta
+El color del fondo de página.
+Orientación de la página.
+Distribución de los márgenes.
+5.
+¿Cuántas reglas hay en el área de trabajo de Word?
+
+Obtuvo 1 de 1 punto
+
+2, superior e izquierda
+Corregir respuesta
+Tu respuesta
+2, superior y derecha
+2, inferior e izquierda
+2, inferior y derecha
+6.
+¿Cuántas unidades de medida hay disponibles en Word?
+
+Obtuvo 0 de 1 punto
+
+4
+Respuesta equivocada
+Tu respuesta
+5
+Corregir respuesta
+3
+6
+7.
+¿En qué unidad de medida está configurada la regla de Word por defecto?
+
+Obtuvo 1 de 1 punto
+
+En centímetros
+Corregir respuesta
+Tu respuesta
+En picas
+En milímetros
+En puntos
+8.
+¿Cuáles de las siguientes no es una unidad de medida disponible en Word?
+
+Obtuvo 0 de 1 punto
+
+Centímetros
+Respuesta equivocada
+Tu respuesta
+Milímetros
+Micras
+Corregir respuesta
+Pulgadas
+9.
+¿Sobre qué aspectos NO nos ofrece información las reglas?
+
+Obtuvo 0 de 1 punto
+
+Sangrías
+Respuesta equivocada
+Tu respuesta
+Tabulaciones
+Márgenes
+Interlineado
+Corregir respuesta
+10.
+¿Qué comandos están disponibles en la barra de herramientas de acceso rápido?
+
+Obtuvo 0 de 1 punto
+
+Guardar, deshacer, cortar
+Respuesta equivocada
+Tu respuesta
+Guardar, rehacer, abrir
+Guardar, deshacer, compartir
+Guardar, deshacer, rehacer y Autoguardado
+Corregir respuesta

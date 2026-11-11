@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-ex-03-009",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 9,
+   "enunciado": "De los siguientes tamaños de papel disponibles en Word 365, ¿cuál presenta mayores dimensiones?",
+   "opciones": [
+    "Ejecutivo.",
+    "A4.",
+    "Carta.",
+    "A3."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-03-010",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 10,
+   "enunciado": "Seleccionamos Archivo > Información > Proteger documento > Marcar como final. ¿Qué efecto produce esta opción?",
+   "opciones": [
+    "Cifra el archivo y obliga a introducir una contraseña para abrirlo.",
+    "Indica que el documento se considera definitivo y lo establece en modo de solo lectura.",
+    "Permite determinar qué modificaciones puede realizar cada usuario.",
+    "Añade automáticamente una firma digital al documento."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-03-011",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 11,
+   "enunciado": "Dentro de Archivo > Información encontramos la opción «Comprobar si hay problemas». ¿Cuál de las siguientes herramientas NO pertenece a este conjunto?",
+   "opciones": [
+    "Compartir mediante enlace.",
+    "Comprobar accesibilidad.",
+    "Inspeccionar documento.",
+    "Comprobar compatibilidad."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-03-012",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 12,
+   "enunciado": "Word 365 dispone de una barra en la que pueden situarse comandos de uso frecuente, como Guardar, Deshacer o Rehacer. ¿Cómo se denomina?",
+   "opciones": [
+    "Barra de estado.",
+    "Barra de navegación.",
+    "Barra de comandos.",
+    "Barra de herramientas de acceso rápido."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-03-013",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 13,
+   "enunciado": "Al desplegar «Comprobar si hay problemas» en Word 365 se muestran varias herramientas. Indique cuál de las siguientes NO se incluye entre ellas.",
+   "opciones": [
+    "Elegir autores.",
+    "Inspeccionar documento.",
+    "Comprobar accesibilidad.",
+    "Comprobar compatibilidad."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-03-014",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 14,
+   "enunciado": "¿Cuál es la finalidad del Comprobador de accesibilidad de Word 365?",
+   "opciones": [
+    "Determinar qué usuarios disponen de permisos sobre un documento compartido.",
+    "Detectar exclusivamente errores ortográficos y gramaticales del texto.",
+    "Identificar problemas que puedan dificultar el uso del documento por personas con discapacidad y ayudar a corregirlos.",
+    "Analizar el nivel de seguridad de las contraseñas utilizadas para proteger el archivo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-03-015",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 15,
+   "enunciado": "En el cuadro «Opciones de Word», ¿en qué categoría se encuentran las configuraciones relacionadas con la presentación del documento y determinadas opciones de impresión?",
+   "opciones": [
+    "General.",
+    "Presentación.",
+    "Revisión.",
+    "Idioma."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-03-016",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 16,
+   "enunciado": "¿Qué tipo de archivo identifica la extensión .dotm en Microsoft Word?",
+   "opciones": [
+    "Documento binario compatible con Word 97-2003.",
+    "Documento de Word habilitado para macros.",
+    "Plantilla de Word habilitada para macros.",
+    "Plantilla de Word que no permite almacenar macros."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-03-017",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 17,
+   "enunciado": "¿Cuál de las siguientes funcionalidades se encuentra integrada en Microsoft Word 365?",
+   "opciones": [
+    "Grabación y edición completa de vídeo.",
+    "Supervisión del nivel de batería del dispositivo.",
+    "Ejecución de comandos del sistema operativo.",
+    "Lectura en voz alta del contenido del documento."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-03-018",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 18,
+   "enunciado": "Queremos guardar un documento de Word manteniendo las macros que contiene. ¿Qué extensión debemos utilizar?",
+   "opciones": [
+    ".docm.",
+    ".dotm.",
+    ".dotx.",
+    ".docx."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-03-019",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 19,
+   "enunciado": "Mientras editamos un documento, Word 365 muestra información como la página actual o el idioma utilizado. ¿En qué elemento de la interfaz aparece esta información de forma predeterminada?",
+   "opciones": [
+    "Panel de navegación.",
+    "Barra de estado.",
+    "Cinta de opciones.",
+    "Barra de herramientas de acceso rápido."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-03-020",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 20,
+   "enunciado": "¿Cuál es la finalidad principal de la Barra de herramientas de acceso rápido de Word 365?",
+   "opciones": [
+    "Organizar el conjunto completo de comandos disponibles en la aplicación.",
+    "Mostrar información sobre el estado y las características del documento activo.",
+    "Facilitar el acceso inmediato a comandos utilizados con frecuencia.",
+    "Abrir las categorías del cuadro Opciones de Word."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-03-021",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 21,
+   "enunciado": "Se necesita imprimir un documento Word 365 pero sin incluir las marcas de revisión. ¿Qué ajuste se debe realizar?",
+   "opciones": [
+    "Cambiar la orientación de la página de Vertical a Horizontal para que los comentarios se desplacen fuera del área de impresión.",
+    "Cambiar la vista del documento a Modo de lectura antes imprimir.",
+    "En la pestaña Revisar y seleccionar \"Aceptar todos los cambios\", ya que Word 365 siempre imprime las marcas de revisión.",
+    "En el menú de Configuración de impresión, desmarcar la casilla \"Imprimir documento con revisiones\"."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-03-022",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 22,
+   "enunciado": "En Word 365, la palabra “report” aparece con un subrayado ondulado rojo. ¿Cuál de las siguientes opciones describe completa y correctamente el motivo de este subrayado?",
+   "opciones": [
+    "Es un error ortográfico o un error gramatical.",
+    "Es un error ortográfico o una palabra que no está en el diccionario.",
+    "Es un error gramatical o una palabra que no está en el diccionario.",
+    "Es un error de contexto."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-001",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 1,
+   "enunciado": "En Word 365, queremos modificar la escala aplicada a los caracteres seleccionados. ¿Desde qué ubicación se configura esta propiedad?",
+   "opciones": [
+    "Inicio > cuadro de diálogo Fuente > pestaña Avanzado.",
+    "Archivo > Opciones > Avanzadas > Escala.",
+    "Inicio > grupo Párrafo > Escala de caracteres.",
+    "Disposición > grupo Configurar página > Escala."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-04-002",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 2,
+   "enunciado": "¿Cuál de las siguientes opciones pertenece a los efectos de texto y tipografía disponibles en Word 365?",
+   "opciones": [
+    "Versalitas.",
+    "Negrita.",
+    "Cursiva.",
+    "Iluminado."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-04-003",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 3,
+   "enunciado": "Si está activado el modo Sobrescribir en Word 365, ¿qué sucede al introducir texto donde ya existen caracteres?",
+   "opciones": [
+    "El nuevo texto se inserta sin afectar al contenido situado a la derecha.",
+    "Los caracteres introducidos van sustituyendo a los existentes a partir del punto de inserción.",
+    "El contenido seleccionado se reemplaza automáticamente por el contenido del Portapapeles.",
+    "Word impide escribir hasta desactivar el modo Sobrescribir."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-004",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 4,
+   "enunciado": "Necesitamos aplicar una sangría francesa a un párrafo. ¿Cuál de las siguientes rutas permite configurarla?",
+   "opciones": [
+    "Disposición > grupo Párrafo > Aumentar sangría, sin abrir ningún cuadro de diálogo.",
+    "Cuadro de diálogo Párrafo > Sangría y espacio > Especial > Francesa.",
+    "Inicio > Fuente > Efectos de texto > Francesa.",
+    "Disposición > Configurar página > Sangría especial > Francesa."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-005",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 5,
+   "enunciado": "En relación con la personalización de Word 365, señale la afirmación INCORRECTA:",
+   "opciones": [
+    "Para importar una personalización de la cinta de opciones es imprescindible instalar previamente un complemento de Office.",
+    "Es posible cambiar el nombre de determinadas pestañas personalizadas de la cinta.",
+    "La Barra de herramientas de acceso rápido puede personalizarse desde Opciones de Word.",
+    "Opciones de Word no permite modificar libremente el tamaño individual de los comandos de la cinta."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-04-006",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 6,
+   "enunciado": "Queremos aplicar un color de fondo al texto, párrafo o celda de tabla seleccionados. ¿Qué herramienta de Word 365 debemos utilizar?",
+   "opciones": [
+    "Sombreado.",
+    "Superíndice.",
+    "Color de resaltado.",
+    "Reflejo."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-04-007",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 7,
+   "enunciado": "Al abrir el cuadro de diálogo Párrafo de Word 365, ¿cuál de estas alineaciones NO aparece entre sus opciones?",
+   "opciones": [
+    "Justificada.",
+    "Distribuida.",
+    "Centrada.",
+    "Derecha."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-008",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 8,
+   "enunciado": "¿Qué tipo de sangría desplaza únicamente la primera línea del párrafo hacia la derecha respecto del resto?",
+   "opciones": [
+    "Sangría derecha.",
+    "Sangría francesa.",
+    "Sangría simétrica.",
+    "Sangría especial de primera línea."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-04-009",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 9,
+   "enunciado": "¿Qué herramienta permite crear una enumeración en la que los distintos elementos mantienen niveles o relaciones jerárquicas?",
+   "opciones": [
+    "Párrafos.",
+    "Numeración simple.",
+    "Lista con viñetas.",
+    "Esquema numerado o lista multinivel"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-04-010",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 10,
+   "enunciado": "¿En qué pestaña de la cinta de opciones se encuentra el comando Numeración de Word 365?",
+   "opciones": [
+    "Diseño.",
+    "Inicio.",
+    "Insertar.",
+    "Revisar."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-011",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 11,
+   "enunciado": "Necesitamos distribuir un documento conservando su presentación y dificultando su edición. ¿Qué formato resulta más adecuado entre los siguientes?",
+   "opciones": [
+    ".doc",
+    ".pdf",
+    ".dotx",
+    ".docx"
+   ],
+   "correcta": 1
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "w-of-06-010": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Hoja de cálculo de Excel (pág. 51)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Esa operación va al revés: no se convierte una tabla de Word en una hoja de Excel, lo que queremos es meter una de Excel en el documento.",
+   "No. Importar desde Excel es salir de Word para trabajar en otro programa. La ruta pedida parte de Word.",
+   "Es esta. En **Insertar > Tablas > Tabla** está la opción **Hoja de cálculo de Excel**, que inserta una hoja de Excel dentro del documento.",
+   "No. **Mis complementos** sirve para añadir extensiones a Word, no para insertar tablas de Excel."
+  ],
+  "ojo": "El desplegable Tabla ofrece: cuadrícula, Insertar tabla, Dibujar tabla, Convertir texto en tabla, Hoja de cálculo de Excel y Tablas rápidas.",
+  "revisar": "Que Mis complementos sirve para añadir extensiones no está en los apuntes. Es conocimiento general de Word."
+ },
+ "w-of-06-011": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, Tablas, Autoajustar (pág. 52) y 4.9 Ficha Vista, Modo diseño web (pág. 94)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Alinear al centro** coloca la tabla en la página, pero no cambia su ancho. Una tabla muy ancha seguiría saliéndose de la ventana.",
+   "Es esta. **Autoajustar a la ventana** va ajustando el tamaño de la tabla al ancho disponible, así que se ve entera en la vista de diseño web.",
+   "No. **Autoajustar al contenido** adapta cada columna a lo que contiene. Una tabla con contenido ancho puede seguir sin caber.",
+   "No. **Ancho de columna fijo** mantiene siempre el ancho que indicamos. Es lo contrario de adaptarse a la ventana."
+  ]
+ },
+ "w-ex-01-001": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 2. Características destacadas, Integración con OneDrive (pág. 1)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Google Drive no es el servicio de Microsoft. El que se integra con Word y la cuenta Microsoft es OneDrive.",
+   "Es esta. **OneDrive** es el servicio de almacenamiento en la nube de Microsoft 365. Permite acceder a los documentos desde distintos dispositivos y compartirlos con permisos de lectura o edición, trabajando sobre una única copia.",
+   "No. El Autoguardado funciona con los archivos guardados en OneDrive. Dropbox no lo sustituye.",
+   "No. **iCloud** es de Apple. Word no lo usa como almacenamiento predeterminado."
+  ],
+  "revisar": "Que el Autoguardado trabaja sobre archivos de OneDrive no está dicho tal cual en los apuntes. Es conocimiento general de Word."
+ },
+ "w-ex-01-002": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones (pág. 4)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Insertar** sirve para añadir elementos al documento: tablas, imágenes, encabezados.",
+   "No. **Diseño** controla temas, colores y fondo de página.",
+   "No. **Revisar** reúne ortografía, comentarios, control de cambios y protección. No ajusta el programa.",
+   "Es esta. Las opciones del programa están en **Archivo > Opciones**, un cuadro con distintas pestañas (General, Presentación, Revisión, Guardar, Idioma, Personalizar cinta y otras)."
+  ]
+ },
+ "w-ex-01-003": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Al abrir Word se muestra la **pantalla de Inicio** (vista Backstage), desde la que se crea un documento en blanco, se elige una plantilla o se abre uno reciente.",
+   "No. La ficha Inicio de la cinta solo aparece después de entrar en el área de trabajo, al elegir una opción de la pantalla de inicio.",
+   "No. El apartado Información es de Archivo y se ve cuando ya tienes un documento abierto. No es la pantalla con la que arranca Word.",
+   "No. La vista Diseño de impresión aparece al abrir un documento, no al arrancar sin ninguno."
+  ]
+ },
+ "w-ex-01-004": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Documento en blanco (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La plantilla no es un .docx. Un .docx es un documento normal, no una plantilla.",
+   "No. “Documento1” es el nombre que Word da al documento nuevo, no el de la plantilla. Y .dotx no habilita macros.",
+   "Es esta. El documento en blanco se basa en la plantilla **Normal.dotm**, plantilla habilitada con macros.",
+   "No. “Documento1.docx” sería un documento, no la plantilla."
+  ]
+ },
+ "w-ex-01-005": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, plantilla Normal.dotm (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El tamaño de fuente por defecto es **12**.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La alineación por defecto es **izquierda**, no centrada.",
+   "Es verdadera, así que no se marca. El espaciado anterior es **0**.",
+   "Es verdadera, así que no se marca. El interlineado es **múltiple en 1,16**."
+  ],
+  "ojo": "Valores de Normal.dotm: Aptos (Cuerpo) 12, alineación izquierda, espaciado anterior 0 y posterior 8, interlineado múltiple 1,16."
+ },
+ "w-ex-01-006": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, plantilla Normal.dotm (pág. 2) y Grupo Fuente (pág. 26)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Calibri** fue la fuente de versiones anteriores de Word. La de Word 365 es otra.",
+   "No. **Cambria** tampoco es la predeterminada actual.",
+   "No. **Times New Roman** es una fuente clásica, pero no la de por defecto en Word 365.",
+   "Es esta. La fuente predeterminada es **Aptos (Cuerpo)**, tamaño 12."
+  ],
+  "revisar": "Que Calibri y Cambria eran las fuentes de versiones anteriores no está en los apuntes. Es conocimiento general de Word."
+ },
+ "w-ex-01-007": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, documentos recientes (pág. 3)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. La lista de recientes no muestra la **fecha de creación**, sino la de la última modificación.",
+   "Es verdadera, así que no se marca. Se muestra el **nombre del archivo**.",
+   "Es verdadera, así que no se marca. Se muestra la **ubicación** donde está almacenado.",
+   "Es verdadera, así que no se marca. Se muestra la **fecha de la última modificación**."
+  ],
+  "ojo": "Los recientes enseñan tres datos: nombre, ubicación y fecha de la última modificación."
+ },
+ "w-ex-01-008": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Cuenta (pág. 4)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El interlineado de la plantilla se cambia en la configuración de párrafo (Inicio > Párrafo), no en Cuenta.",
+   "No. La ubicación de la autorrecuperación se cambia en **Opciones > Guardar**.",
+   "Es esta. En **Archivo > Cuenta** se puede comprobar si hay **actualizaciones**. También se cierra sesión, se cambia el fondo y tema de Office y se ve el estado de la licencia.",
+   "No. El formato de archivo predeterminado se configura en **Opciones > Guardar**."
+  ]
+ },
+ "w-ex-01-009": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Cuenta y Opciones, General (pág. 4)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cuenta no es el único sitio: el tema de Office también se puede cambiar desde Opciones.",
+   "Es esta. El tema de Office se cambia desde **Archivo > Cuenta** y también desde **Opciones > General**.",
+   "No. Presentación trata de cómo se muestra y se imprime el documento, no del tema de Office.",
+   "No. Personalizar cinta de opciones sirve para adaptar fichas, grupos y comandos, no el tema."
+  ]
+ },
+ "w-ex-01-010": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones, Presentación (pág. 5)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **General** recoge aspectos de la interfaz, fondo y tema de Office.",
+   "No. **Revisión** trata de la corrección: Autocorrección, Autoformato y corrector ortográfico.",
+   "No. **Avanzadas** reúne opciones de edición, pero los apuntes sitúan las marcas de formato en otra categoría: Presentación.",
+   "Es esta. En **Presentación** decidimos qué marcas de formato (tabulaciones, espacios, marcas de párrafo) se muestran siempre. Si se activan todas, es lo mismo que el comando Mostrar todo."
+  ]
+ },
+ "w-ex-01-011": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones, Revisión (pág. 6) y Barra de herramientas de acceso rápido (pág. 7)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Autocorrección** y **Autoformato** están en la categoría **Revisión**, junto a la corrección de ortografía y gramática.",
+   "No. Las marcas de formato no están todas visibles por defecto: el usuario decide cuáles se muestran desde Presentación. Y son marcas de pantalla, no contenido del documento.",
+   "No. Las marcas de formato se configuran en **Presentación**. General trata de la interfaz y el tema.",
+   "No. La barra de acceso rápido no se puede mostrar en varias líneas ni cambiar de tamaño. Se puede mover debajo de la cinta u ocultar."
+  ]
+ },
+ "w-ex-01-012": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Personalizar cinta de opciones (pág. 7)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La cinta no se puede mover libremente a los laterales de la ventana.",
+   "No. El tamaño de la cinta, del texto o de los iconos no se puede cambiar así. Solo se logra cambiando la resolución de la pantalla.",
+   "Es esta. Se puede **cambiar el nombre de pestañas y grupos**, crear otros nuevos, agregar o quitar comandos, **importar o exportar** la cinta y restablecerla.",
+   "No. No se puede dar un color distinto a cada pestaña. Solo se puede cambiar la combinación de colores de Office, que afecta a todo el programa."
+  ]
+ },
+ "w-ex-01-013": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 1. ¿Qué es Word? (pág. 1)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El **Bloc de notas** es un editor de texto sin formato, no un procesador de textos.",
+   "Es esta. **Microsoft Word** es el procesador de textos de Microsoft 365: permite crear y editar documentos con formato, imágenes, tablas, corrector y sinónimos.",
+   "No. **Access** es un gestor de bases de datos.",
+   "No. **Adobe Acrobat Reader** sirve para leer archivos PDF."
+  ],
+  "revisar": "Qué es el Bloc de notas, Access o Acrobat Reader no está en los apuntes (solo se cita que un paquete ofimático incluye procesador de texto, hoja de cálculo y gestor de bases de datos). Es conocimiento general."
+ },
+ "w-ex-01-014": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **.doc** es el documento de Word 97-2003, el formato antiguo.",
+   "No. **.dotx** es una plantilla de Word.",
+   "No. **.dotm** es una plantilla habilitada para macros.",
+   "Es esta. **.docx** es el formato predeterminado: documento de Word."
+  ]
+ },
+ "w-ex-01-015": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4. Área de trabajo, Reglas (pág. 10) y 4.9 Ficha Vista (pág. 96)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. La regla se activa y desactiva desde la ficha **Vista**, no desde Referencias.",
+   "Es verdadera, así que no se marca. La unidad puede ser **centímetros**.",
+   "Es verdadera, así que no se marca. Hay **dos reglas**: la horizontal y la vertical (la vertical solo se ve en la vista Diseño de impresión).",
+   "Es verdadera, así que no se marca. Se admiten centímetros, picas, pulgadas, milímetros y puntos."
+  ]
+ },
+ "w-ex-01-016": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4. Área de trabajo, Barra de estado, Vistas (pág. 11)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Esquema** y **Borrador** no tienen botón en la barra de estado. Solo se eligen desde la ficha Vista.",
+   "No. Borrador y Esquema no están entre los botones de la barra de estado.",
+   "Es esta. Los botones de la barra de estado son tres: **Modo de lectura, Diseño web y Diseño de impresión** (esta última, la predeterminada).",
+   "No. Esquema y Borrador se eligen desde la ficha Vista, no desde la barra de estado."
+  ]
+ },
+ "w-ex-01-017": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4. Área de trabajo, Barra de estado, Contar palabras (pág. 11) y 4.8.1 Grupo Revisión (pág. 88)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Faltan los caracteres sin espacios y los párrafos, y sobran los “caracteres especiales”, que no se muestran.",
+   "Es esta. El cuadro **Contar palabras** muestra páginas, palabras, caracteres (con y sin espacios), párrafos y líneas.",
+   "No. Se queda corto: faltan los caracteres, con y sin espacios.",
+   "No. Aquí sobran las fórmulas y las secciones. Word no cuenta eso en este cuadro."
+  ],
+  "revisar": "El contenido exacto del cuadro no viene detallado en los apuntes (solo cómo abrirlo). Contrastado en guías externas, que coinciden con esta respuesta."
+ },
+ "w-ex-01-018": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 2. Características destacadas (pág. 1)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Gemini** es el asistente de Google, no está integrado en Word.",
+   "No. **ChatGPT** es de OpenAI, no se integra en Word como asistente propio.",
+   "No. **DeepSeek** es otro asistente ajeno a Microsoft.",
+   "Es esta. **Microsoft Copilot** es el asistente de inteligencia artificial integrado en Word 365."
+  ]
+ },
+ "w-ex-01-019": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones, Guardar (pág. 7)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En **Opciones > Guardar** se configura cada cuánto se guarda la autorrecuperación (por defecto, cada 10 minutos), el **formato de archivo predeterminado** y las ubicaciones de guardado.",
+   "No. **General** trata de la interfaz, el fondo y el tema de Office.",
+   "No. **Presentación** trata de cómo se muestra y se imprime el documento.",
+   "No. **Avanzadas** no es donde se configura el formato de archivo al guardar."
+  ]
+ },
+ "w-ex-01-020": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo, Barra de título (pág. 10)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Doc1** es el nombre con el que se guarda por defecto, no el que se muestra en la barra de título.",
+   "No. “Doc” a secas no es un nombre que use Word.",
+   "Es esta. Mientras el documento no tiene nombre, la barra de título muestra **Documento1**, Documento2, Documento3...",
+   "No. “Docx” es una extensión, no un nombre."
+  ],
+  "ojo": "Documento1 se ve en pantalla. Doc1 es el nombre con el que se propone guardar. Son distintos."
+ },
+ "w-ex-02-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La plantilla de Word 97-2003 es **.dot**.",
+   "No. El documento basado en XML es **.docx**, no .doc.",
+   "No. El documento habilitado para macros es **.docm**, que no es de la versión 97-2003.",
+   "Es esta. **.doc** es el documento de Word 97-2003."
+  ]
+ },
+ "w-ex-02-002": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 1. ¿Qué es Word? y 2. Características destacadas (pág. 1)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Word no crea ni administra bases de datos relacionales. Eso es **Access**. Las tablas de Word son para presentar datos.",
+   "Es esta. Word incorpora **corrector ortográfico y gramatical, diccionario de sinónimos, traductor** y dictado por voz, entre otras herramientas.",
+   "No. Word sí dispone de herramientas de traducción: el traductor está incluido.",
+   "No. Las imágenes se insertan desde la propia ficha Insertar, sin aplicaciones externas."
+  ]
+ },
+ "w-ex-02-003": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo, Barra de estado, Número de página (pág. 11)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Muestra el número de página actual y el total, no solo el total. Y al pulsar no se abre Configurar página.",
+   "No. El número de párrafos no se muestra ahí. Lo que aparece es la página actual y el total.",
+   "Es esta. Muestra la **página en la que estamos y el total de páginas**. Al pulsar se abre el **panel de navegación**.",
+   "No. Muestra también el total de páginas, y al pulsar se abre el panel de navegación, no el cuadro Ir a."
+  ]
+ }
+}

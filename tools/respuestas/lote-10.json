@@ -1,0 +1,294 @@
+{
+ "w-vo-04-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Interlineado (pág. 35)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La distancia entre la primera línea y el margen es la **sangría de primera línea**, no el interlineado.",
+   "No. La distancia entre párrafos es el **espaciado** (anterior y posterior), no el interlineado.",
+   "Es esta. El **interlineado** es el espacio entre las líneas de un mismo párrafo. Hay 6 tipos: sencillo, doble, 1,5 líneas, múltiple, mínimo y exacto.",
+   "No. La separación entre caracteres es el **espaciado entre caracteres** del cuadro Fuente (pestaña Avanzado), no el interlineado."
+  ],
+  "ojo": "Interlineado: entre líneas del mismo párrafo. Espaciado: entre párrafos distintos."
+ },
+ "w-vo-04-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Interlineado (pág. 35) y plantilla Normal.dotm (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El interlineado predefinido es **Múltiple en 1,16**. Es el que trae la plantilla Normal.dotm.",
+   "No. El 1,08 es el valor que usaban versiones antiguas. En Word 365 el predefinido es 1,16.",
+   "No. El interlineado sencillo existe, pero no es el que viene por defecto: es el 1 de **Ctrl + 1**.",
+   "No. El 1,5 líneas existe, pero hay que aplicarlo (por ejemplo con **Ctrl + 5**). No es el predeterminado."
+  ],
+  "ojo": "En la opción 0, “ptos” no es una unidad correcta: 1,16 es un factor sobre el interlineado sencillo, no puntos.",
+  "revisar": "La opción 1 (1,08) no está en los apuntes: era el interlineado por defecto de versiones anteriores de Word. En los apuntes el predefinido es 1,16 (págs. 2 y 35)."
+ },
+ "w-vo-04-011": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Espaciado (pág. 35)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La alineación es cómo se colocan las líneas respecto a los márgenes (izquierda, centrada...). No existe una alineación “anterior y posterior”.",
+   "No. La justificación es una forma de alineación. No existe una justificación “anterior y posterior”.",
+   "No. El interlineado es el espacio entre las líneas de un mismo párrafo. No tiene valor “anterior” ni “posterior”.",
+   "Es esta. El **espaciado** es el espacio entre párrafos consecutivos. El **anterior** va respecto al párrafo previo (0 puntos por defecto) y el **posterior** respecto al siguiente (8 puntos por defecto)."
+  ]
+ },
+ "w-vo-05-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, pestaña Líneas y saltos de página (pág. 38)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Conservar con el siguiente** mantiene un párrafo junto al párrafo que le sigue en la misma página. No afecta a la división de un solo párrafo.",
+   "No. **Salto de página anterior** fuerza a que el párrafo empiece al principio de una página nueva. No evita que se parta.",
+   "Es esta. **Conservar líneas juntas** evita que las líneas de un mismo párrafo queden repartidas entre dos páginas: todo el párrafo se queda en la misma.",
+   "No. **No dividir con guiones** evita que las palabras se corten con guion al final de la línea. No tiene que ver con los saltos de página."
+  ],
+  "ojo": "Conservar líneas juntas: un solo párrafo no se parte. Conservar con el siguiente: dos párrafos no se separan."
+ },
+ "w-vo-05-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, pestaña Líneas y saltos de página (pág. 37)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Control de líneas viudas y huérfanas** vigila las líneas sueltas de un solo párrafo (una línea aislada al principio o al final de una página). No une dos párrafos.",
+   "Es esta. **Conservar con el siguiente** mantiene el párrafo seleccionado y el que le sigue en la misma página, evitando que un salto de página automático los separe.",
+   "No. **Suprimir números de línea** sirve para que una parte del documento no lleve la numeración de líneas. No tiene que ver con los saltos de página.",
+   "No. **Conservar líneas juntas** actúa sobre un solo párrafo, para que no se parta entre dos páginas. No une dos párrafos distintos."
+  ]
+ },
+ "w-vo-05-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Control de líneas viudas y huérfanas (pág. 36)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Suprimir números de línea** quita la numeración de líneas en esa parte del documento. No controla cómo se reparte el párrafo entre páginas.",
+   "No. **Conservar con el siguiente** une un párrafo con el siguiente. No evita que quede una línea suelta de un párrafo.",
+   "Es esta. **Control de líneas viudas y huérfanas** impide que, por un salto de página automático, la última línea de un párrafo quede sola como primera de la página siguiente (línea viuda). También evita la primera línea sola al final de una página (huérfana). Viene marcada por defecto.",
+   "No. **Conservar líneas juntas** mantiene todo el párrafo en la misma página. Es más fuerte de lo que pide la pregunta, que habla de una sola línea suelta."
+  ],
+  "ojo": "Viuda: la última línea de un párrafo sola arriba de la página. Huérfana: la primera línea sola al final de la página."
+ },
+ "w-vo-05-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Tabulaciones (pág. 39)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Posición** establece el lugar de la regla donde se desplaza el punto de inserción cada vez que pulsas la tecla de tabulación.",
+   "No. Los rellenos se configuran en el apartado **Relleno** del cuadro, no en Posición.",
+   "No. La distancia entre una tabulación y la anterior no es Posición. Por defecto Word las coloca a intervalos regulares de 1,25 cm, pero Posición indica dónde va cada una.",
+   "No. La separación o los rellenos entre las marcas de tabulación se ajustan con **Relleno**, no con Posición."
+  ],
+  "ojo": "En el cuadro Tabulaciones: Posición (dónde), Alineación (cómo se coloca el texto, 5 tipos) y Relleno (qué hay entre marcas)."
+ },
+ "w-vo-05-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos (pág. 40) y cinta de opciones, grupo Estilos",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La **Galería de Estilos** del grupo Estilos de la ficha Inicio muestra los estilos predefinidos más usados. Si pulsas el iniciador del grupo se abre el Panel de Estilos.",
+   "No. La galería de **Temas** está en la ficha Diseño y cambia colores, fuentes y efectos de todo el documento.",
+   "No. “Galería de Formatos rápidos” no es un nombre de la cinta de Word.",
+   "No. “Galería de Formatos” tampoco es una galería de la cinta de Word. El nombre correcto es Galería de Estilos."
+  ]
+ },
+ "w-vo-05-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, tipos de estilos (págs. 40 a 44)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **estilo de tabla** aplica de una vez bordes, sombreado, fuentes y formatos de filas y columnas.",
+   "Es verdadera, así que no se marca. El **estilo de párrafo** configura fuente y párrafo, y se aplica a párrafos completos.",
+   "Esta es la falsa, y por eso es la que hay que marcar. No existe un “estilo fuente”. Los **5 tipos** son: párrafo, carácter, vinculado, tabla y lista.",
+   "Es verdadera, así que no se marca. El **estilo de carácter** configura solo el formato de fuente, y se puede aplicar desde un solo carácter."
+  ],
+  "ojo": "Los 5 tipos: párrafo, carácter, vinculado, tabla y lista. Fuente no es un tipo, es lo que configura el estilo de carácter."
+ },
+ "w-vo-05-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, tipos de estilos (págs. 42 a 45)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El estilo de párrafo se aplica a **párrafos completos**, no a una sola palabra. Para una palabra se usa un estilo de carácter.",
+   "Es esta. El **estilo de párrafo** se aplica a párrafos completos, así que no se puede aplicar solo a una palabra. Para eso están el estilo de carácter y el vinculado.",
+   "No. El **estilo vinculado** no se limita a listas. Configura fuente y párrafo, y se aplica según la selección: a una palabra solo le da formato de fuente.",
+   "No. El estilo de lista sí se puede crear desde cero: desde el Panel de Estilos, con el comando **Nuevo estilo**, eliges el tipo."
+  ]
+ },
+ "w-vo-05-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, Inspector de estilo (pág. 45)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El botón “Opciones” del panel sirve para elegir qué estilos se muestran en el panel. No te dice cuáles hay aplicados en cada parte del documento.",
+   "No. La galería de estilos rápidos muestra los estilos disponibles para aplicar, no los que ya están aplicados.",
+   "Es esta. El **Inspector de estilo** muestra en un panel qué estilos y formatos están aplicados en cada parte del documento, y permite borrarlos. Se activa desde el panel de estilos.",
+   "No. Sí se puede elegir qué estilos se muestran en el panel, desde su botón de opciones. Pero eso no responde a lo que pide la pregunta: ver los estilos que ya están aplicados."
+  ]
+ },
+ "w-vo-05-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, crear y modificar estilos (págs. 40 a 42)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Word sí permite crear estilos propios: con **Crear un estilo** desde la galería o con **Nuevo estilo** desde el Panel de Estilos.",
+   "No. No hay que partir desde cero. Puedes aplicar primero el formato al texto y crear el estilo a partir de él, o elegir el estilo en el que se basa el nuevo.",
+   "Es esta. Word permite crear estilos propios **a partir de estilos predefinidos**: en el cuadro de creación indicas el “estilo en el que se basa”. También puedes crearlos a partir de un formato ya aplicado.",
+   "No. Tienen mucha utilidad: mantienen una apariencia coherente y, al modificar un estilo, se actualiza todo lo que lo usa."
+  ]
+ },
+ "w-vo-06-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Buscar (pág. 46)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Buscar** abre el **Panel de navegación**, en la pestaña de búsqueda. Desde ahí haces una búsqueda rápida de texto, y el panel tiene las pestañas de títulos, páginas y resultados.",
+   "No. No se abre ninguna ventana emergente llamada “Encontrar”.",
+   "No. No hay ninguna ventana llamada “Búsqueda” con solo un campo.",
+   "No. El cuadro **Buscar y reemplazar** (con pestañas Buscar, Reemplazar e Ir a) se abre con **Búsqueda avanzada**, el desplegable de Buscar, no con el botón directo."
+  ],
+  "revisar": "Los apuntes (pág. 46) dicen que Buscar abre el Panel de navegación en la pestaña de búsqueda. Los nombres de las tres pestañas (Títulos, Páginas, Resultados) salen de la interfaz de Word, no de los apuntes."
+ },
+ "w-vo-06-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición (págs. 46 y 47)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. Por defecto Word busca **fragmentos de texto**, no palabras completas, y muestra las coincidencias de una en una. Para palabras completas hay que marcar “Sólo palabras completas”, y para resaltarlas todas, “Resaltar todo”.",
+   "Es verdadera, así que no se marca. **Búsqueda avanzada** abre el cuadro Buscar y reemplazar, que tiene 3 pestañas: Buscar, Reemplazar e Ir a.",
+   "Es verdadera, así que no se marca. **Ir a** permite navegar entre los elementos del documento: páginas, secciones, marcadores, notas al pie...",
+   "Es verdadera, así que no se marca. Word no distingue entre mayúsculas y minúsculas salvo que actives “Coincidir mayúsculas y minúsculas”."
+  ]
+ },
+ "w-vo-06-003": {
+  "bloque": "word-atajos",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Buscar (pág. 46) y atajos de teclado",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El cuadro Buscar y reemplazar en la pestaña Reemplazar se abre con **Ctrl + L**.",
+   "Es esta. **Ctrl + B** abre el **Panel de navegación**, en la pestaña de búsqueda, para buscar en el contenido del documento. Es el mismo que abre el botón Buscar.",
+   "No. Guardar con otro nombre es **F12** (Guardar como). Ctrl + G es guardar.",
+   "No. La nota al pie se inserta con **Ctrl + Alt + O**."
+  ],
+  "ojo": "En Word en español la B no es negrita (esa es Ctrl + N). Ctrl + B es Buscar."
+ },
+ "w-vo-06-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Seleccionar (págs. 48 y 49)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Seleccionar todo** selecciona todo el contenido del documento.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Seleccionar tabla** no está en este menú. Se encuentra en la ficha auxiliar Disposición de tabla, no en Inicio > Edición > Seleccionar.",
+   "Es verdadera, así que no se marca. **Seleccionar todo el texto con formato similar (sin datos)** selecciona el texto con formato parecido, como párrafos con la misma alineación.",
+   "Es verdadera, así que no se marca. **Seleccionar objetos** permite seleccionar los objetos insertados en el documento."
+  ],
+  "ojo": "Las cuatro opciones de Seleccionar en Inicio: todo, objetos, texto con formato similar y panel de selección.",
+  "revisar": "Los apuntes (págs. 48 y 49) citan cuatro opciones de Seleccionar (todo, objetos, texto con formato similar y panel de selección) y no incluyen Seleccionar tabla. Que ese comando esté en la ficha Disposición de tabla sale del conocimiento general de Word 365."
+ },
+ "w-vo-06-005": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 1)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Ctrl + E** selecciona el documento completo.",
+   "No. **Ctrl + N** aplica la negrita. En Word en español la N no es de “nuevo”.",
+   "Es esta. **Ctrl + L** abre Buscar y reemplazar en la pestaña **Reemplazar**.",
+   "No. **Ctrl + A** abre un documento. No abre Buscar y reemplazar."
+  ],
+  "ojo": "Ctrl + B abre el panel de navegación (buscar). Ctrl + L abre Reemplazar. Ctrl + I abre Ir a."
+ },
+ "w-vo-06-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Voz, Dictar (pág. 49)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Dictar no abre una grabadora de sonidos para adjuntar audio. Convierte la voz en texto.",
+   "Es esta. **Dictar** pasa tu voz a texto mientras hablas, con un micrófono y conexión a internet. El texto va apareciendo en pantalla, y también puedes decirle comandos y signos de puntuación.",
+   "No. Dictar no selecciona ni copia nada al portapapeles.",
+   "No. El lector inmersivo es una herramienta de lectura. Dictar no lo activa."
+  ],
+  "ojo": "Dictar: la voz se ve como texto en directo. Transcribir: graba o carga un audio y da la transcripción después."
+ },
+ "w-vo-06-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Voz, Transcribir (pág. 50)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El límite mensual es de 300 minutos de audio cargado con una suscripción a Microsoft 365, no de 600.",
+   "No. Las grabaciones se guardan en la carpeta Archivos transcritos de OneDrive, no en Google Drive.",
+   "Es esta. Se puede transcribir de dos maneras: **grabando directamente en Word** (transcribe en segundo plano) o **cargando un archivo de audio**.",
+   "No. Al contrario: Transcribir convierte la voz en texto **con cada orador por separado**."
+  ],
+  "revisar": "Contrastado en internet (soporte de Microsoft): 300 minutos al mes con Microsoft 365 y las grabaciones van a la carpeta Archivos transcritos de OneDrive. Estos datos no están en los apuntes."
+ },
+ "w-vo-06-008": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas (pág. 51)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. “Disposición” está bien, pero la otra ficha no se llama “Formato”.",
+   "No. “Diseño” está bien como inicio, pero las fichas llevan el apellido “de tabla” y la otra no se llama “Formato”.",
+   "No. No hay ficha auxiliar llamada “Distribución”. Esa palabra no se usa en las fichas de tabla.",
+   "Es esta. Al insertar una tabla aparecen dos fichas auxiliares, bajo “Herramientas de tabla”: **Diseño de tabla** y **Disposición de tabla**."
+  ]
+ },
+ "w-vo-06-009": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas (pág. 51)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El botón de complementos sirve para añadir complementos de Office, no para insertar una tabla de Excel.",
+   "No. No hace falta importar datos desde Excel: se inserta la hoja desde Word.",
+   "No. Eso hace lo contrario de lo que se pide: convierte la tabla de Word en datos de Excel, no agrega una tabla de Excel al documento.",
+   "Es esta. En **Insertar > Tablas > Tabla** hay una opción **Hoja de cálculo de Excel**, que inserta una hoja de cálculo de Excel dentro del documento."
+  ]
+ },
+ "w-vo-06-010": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas (pág. 51)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La tabla se inserta desde **Insertar > Tablas > Tabla**. Allí eliges cuadrícula, Insertar tabla, Dibujar tabla, Convertir texto en tabla, Hoja de cálculo de Excel o Tablas rápidas.",
+   "No. La ficha Diseño trata de temas, color de página, marca de agua y bordes. No inserta tablas.",
+   "No. Correspondencia es para sobres, etiquetas y combinar correspondencia.",
+   "No. Vista cambia cómo ves el documento (vistas, zoom, ventanas). No inserta elementos."
+  ]
+ },
+ "w-vo-06-011": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Ordenar (pág. 52) y Párrafo, Ordenar (pág. 31)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El menú contextual de la tabla no tiene Propiedades > Ordenar. Propiedades abre el cuadro de propiedades de tabla.",
+   "No. Sí se puede ordenar una tabla hecha en Word: ordena su contenido por orden alfabético o numérico.",
+   "Es esta. Con el cursor dentro de la tabla, puedes pulsar **Ordenar** en la ficha **Inicio > Párrafo**. También existe en la ficha auxiliar Disposición de tabla.",
+   "No. En el menú contextual de una columna no hay opción Ordenar. El botón está en Inicio > Párrafo o en Disposición de tabla."
+  ],
+  "revisar": "Los apuntes (pág. 52) dan dos sitios para ordenar: Disposición de tabla e Inicio > Párrafo > Ordenar. Que el menú contextual no incluya Ordenar sale del conocimiento general de Word."
+ },
+ "w-vo-06-012": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Autoajustar (pág. 52) y 4.9 Ficha Vista (pág. 94)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Autoajustar a la ventana** va ajustando el tamaño de la tabla al ancho de la página, así que la tabla completa se ve bien en la vista de diseño web.",
+   "No. **Autoajustar al contenido** ajusta el tamaño de la columna a lo que contiene. Una tabla ancha puede seguir saliéndose de la ventana.",
+   "No. **Ancho de columna fijo** mantiene siempre el ancho que indicas, así que no se adapta a la ventana.",
+   "No. **Alinear al centro** coloca la tabla o su contenido, pero no cambia su tamaño para que quepa en la ventana."
+  ],
+  "ojo": "El modo diseño web es muy útil con tablas anchas (pág. 94)."
+ },
+ "w-vo-06-013": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Propiedades de tabla (págs. 53 y 54)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La tabla se puede alinear a la **izquierda**, al **centro** o a la **derecha** (en la ficha Tabla de Propiedades de tabla), que es lo que recogen las tres alineaciones de esta opción.",
+   "No. La justificada no es una alineación posible de una tabla: es una alineación de texto de los párrafos.",
+   "No. La distribuida es una alineación de texto de los párrafos, no de una tabla.",
+   "No. Mezcla alineaciones de texto (centrada, justificada) con la de tabla. La tabla no se justifica."
+  ],
+  "revisar": "Contrastado en internet: en Propiedades de tabla, pestaña Tabla, la alineación de la tabla es izquierda, centro o derecha. En los apuntes (págs. 53 y 54) esa ficha solo aparece como imagen."
+ }
+}

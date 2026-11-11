@@ -1,0 +1,118 @@
+1.
+Si queremos duplicar la ventana de un documento sobre el que estamos trabajando, para así poder modificar en dos partes del mismo de forma simultánea, utilizamos…
+
+Obtuvo 0 de 1 punto
+
+Duplicar ventana
+Respuesta equivocada
+Tu respuesta
+Nueva ventana
+Corregir respuesta
+Dividir
+Ver en paralelo
+2.
+Si insertamos un objeto en un documento de Word 365 y queremos ajustar su posición con respecto a la página donde lo hemos incluido, utilizamos la opción:
+
+Obtuvo 0 de 1 punto
+
+Ajustar texto
+Respuesta equivocada
+Tu respuesta
+Alinear
+Traer hacia delante
+Posición
+Corregir respuesta
+3.
+Señala qué tres opciones muestra el panel de navegación de Word:
+
+Obtuvo 1 de 1 punto
+
+Títulos, páginas y resultados.
+Corregir respuesta
+Tu respuesta
+Títulos, comentarios y resultados.
+Títulos, subtítulos y resultados.
+Títulos, imágenes y comentarios.
+4.
+¿Qué vista permite visualizar y reorganizar la estructura de un documento mediante niveles de títulos?
+
+Obtuvo 0 de 1 punto
+
+Diseño web
+Respuesta equivocada
+Tu respuesta
+Diseño de impresión
+Esquema
+Corregir respuesta
+Modo lectura
+5.
+¿Qué tipo de documento permite contener y gestionar varios subdocumentos vinculados?
+
+Obtuvo 1 de 1 punto
+
+Documento maestro
+Corregir respuesta
+Tu respuesta
+Documento de solo lectura
+Documento en blanco
+Plantilla .dotx
+6.
+¿Qué es un subdocumento en Word?
+
+Obtuvo 0 de 1 punto
+
+Un documento dentro de una tabla
+Respuesta equivocada
+Tu respuesta
+Un archivo temporal
+Un archivo vinculado a un documento maestro
+Corregir respuesta
+Un comentario con versión
+7.
+¿Qué permite hacer la función "Comparar documentos"?
+
+Obtuvo 0 de 1 punto
+
+Unir dos documentos automáticamente
+Respuesta equivocada
+Tu respuesta
+Sustituir uno por otro
+Generar un nuevo documento con los cambios destacados
+Corregir respuesta
+Traducir simultáneamente
+8.
+¿Qué funcionalidad ofrece el Lector inmersivo en Word 365?
+
+Obtuvo 0 de 1 punto
+
+Insertar voz al texto
+Respuesta equivocada
+Tu respuesta
+Leer el documento en voz alta y ajustar visualmente la presentación
+Corregir respuesta
+Traducir automáticamente
+Exportar a EPUB
+9.
+¿Qué se puede hacer desde la pestaña "Resultados" del Panel de navegación?
+
+Obtuvo 0 de 1 punto
+
+Buscar y reemplazar directamente
+Respuesta equivocada
+Tu respuesta
+Ver los resultados de una búsqueda de texto
+Corregir respuesta
+Reorganizar títulos
+Insertar comentarios
+10.
+¿Para qué sirve la pestaña "Páginas" dentro del Panel de navegación?
+
+Obtuvo 0 de 1 punto
+
+Muestra solo los encabezados
+Respuesta equivocada
+Tu respuesta
+Muestra las miniaturas de cada página del documento
+Corregir respuesta
+Permite cambiar el tamaño de página
+Añade número de página

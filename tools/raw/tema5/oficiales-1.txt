@@ -1,0 +1,58 @@
+1.
+En Excel 365, ¿cuál de los siguientes es un operador válido para comenzar una fórmula en una celda? (AUX ADVO Extraordinario LIBRE 2024)
+
+Obtuvo 1 de 1 punto
+
+=
+Corregir respuesta
+Tu respuesta
+/
+$
+&
+2.
+Señale cómo se denomina al contenido de una celda que NO va precedido del signo igual:(Aux AGE 2016)
+
+Obtuvo 0 de 1 punto
+
+Fórmula
+Respuesta equivocada
+Tu respuesta
+Función
+Variable
+Constante
+Corregir respuesta
+3.
+En Excel 365, un grupo de celdas adyacentes se denomina: (AUX ESTABILIZACION 2022)
+
+Obtuvo 1 de 1 punto
+
+Rango.
+Corregir respuesta
+Tu respuesta
+Asociación.
+Referencia.
+Grupo.
+4.
+En Excel 365, al trabajar con rangos, ¿cuál de las siguientes opciones describe correctamente un rango discontinuo?
+
+Obtuvo 0 de 1 punto
+
+B2:B2
+Respuesta equivocada
+Tu respuesta
+$B$2:$C$4
+B2:C4
+B2:C2;B4:C4
+Corregir respuesta
+5.
+En Microsoft Excel 365, si se produce un cierre inesperado del programa o el usuario olvida guardar un libro nuevo antes de cerrar, ¿es posible recuperar dicho archivo?
+
+Obtuvo 0 de 1 punto
+
+Sí, el programa guarda cada cambio de forma permanente automáticamente, aunque el archivo nunca se haya guardado.
+Respuesta equivocada
+Tu respuesta
+Sí, Excel guarda copias temporales automáticamente que se pueden recuperar desde el menú Archivo > Información > Administrar libro.
+Corregir respuesta
+Sí, solo si el archivo estaba guardado previamente en un pendrive o disco externo.
+No, si no se pulsó el botón "Guardar" antes de cerrar, toda la información se pierde sin posibilidad de recuperarla.

@@ -1,0 +1,364 @@
+{
+ "preguntas": [
+  {
+   "id": "x-vo-01-015",
+   "tema": "excel",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 15,
+   "enunciado": "¿Cómo nos desplazamos a la celda A1?",
+   "opciones": [
+    "a) Pulsando Ctrl + 1",
+    "b) Pulsando Ctrl + A + 1",
+    "c) Pulsando Ctrl + Inicio",
+    "d) Pulsando AvPag"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "x-vo-01-016",
+   "tema": "excel",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 16,
+   "enunciado": "Para desplazarnos a la primera celda modificada de la columna activa pulsaremos…",
+   "opciones": [
+    "a) Pulsando Ctrl + flecha arriba",
+    "b) Pulsando Ctrl + flecha derecha",
+    "c) Pulsando May + flecha arriba",
+    "d) Pulsando May + flecha derecha"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-vo-01-017",
+   "tema": "excel",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 17,
+   "enunciado": "¿Cómo podemos modificar el contenido de una celda?",
+   "opciones": [
+    "a) Pulsando F2.",
+    "b) Haciendo doble clic en ella.",
+    "c) Desde la barra de fórmulas.",
+    "d) Todas son correctas."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "x-vo-01-018",
+   "tema": "excel",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 18,
+   "enunciado": "¿Qué tecla debemos mantener pulsada si queremos hacer una selección discontinua de celdas de una hoja de Excel?",
+   "opciones": [
+    "a) CTRL",
+    "b) MAY",
+    "c) TAB",
+    "d) Intro"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-01-001",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 1,
+   "enunciado": "¿Qué elemento de la interfaz de Excel permite acceder rápidamente a funciones como Guardar, Deshacer y Rehacer?",
+   "opciones": [
+    "c) Barra de herramientas de acceso rápido",
+    "b) Cinta de opciones",
+    "a) Barra de estado",
+    "d) Panel de navegación"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-01-002",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 2,
+   "enunciado": "¿Qué ocurre al pulsar ALT + Q en Excel 365?",
+   "opciones": [
+    "b) Se muestra el historial de versiones",
+    "a) Se guarda automáticamente el archivo",
+    "d) Se abre la caja de búsqueda",
+    "c) Se activa la celda activa"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "x-au-01-003",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 3,
+   "enunciado": "¿Cuál de estas afirmaciones sobre el historial de versiones es cierta?",
+   "opciones": [
+    "a) Solo está disponible si el archivo se ha compartido en la nube",
+    "b) Las versiones se abren en modo edición",
+    "d) Solo muestra las dos últimas versiones guardadas",
+    "c) Las versiones se visualizan en un panel lateral en modo solo lectura"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-01-004",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 4,
+   "enunciado": "¿Qué es una celda en Excel?",
+   "opciones": [
+    "c) La intersección entre una fila y una columna",
+    "b) El cuadro de nombres de cada hoja",
+    "a) La unión entre dos filas",
+    "d) Un conjunto de fórmulas relacionadas"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-01-005",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 5,
+   "enunciado": "¿Qué extensión corresponde a un libro de Excel habilitado para macros?",
+   "opciones": [
+    "b) .xlsb",
+    "d) .xltx",
+    "c) .xlsm",
+    "a) .xlsx"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "x-au-01-006",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 6,
+   "enunciado": "¿Cuál es la diferencia entre una celda activa y un rango seleccionado?",
+   "opciones": [
+    "b) La celda activa se ilumina; el rango no",
+    "a) No existe diferencia, son lo mismo",
+    "c) La celda activa es donde se introduce el dato; el rango es una selección de varias celdas",
+    "d) El rango siempre está compuesto por celdas no contiguas"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "x-au-01-007",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 7,
+   "enunciado": "¿Cómo se denomina el rango que va desde la celda A1 hasta la celda C6?",
+   "opciones": [
+    "b) Rango A1C6",
+    "d) Rango A1:C6",
+    "a) Rango A1-A6",
+    "c) Rango A1;C6"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "x-au-01-008",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 8,
+   "enunciado": "¿Qué sucede si al escribir en una celda ya hay contenido?",
+   "opciones": [
+    "b) Excel muestra una advertencia",
+    "d) El nuevo dato se almacena en el portapapeles",
+    "a) Se fusiona el contenido anterior con el nuevo",
+    "c) Se elimina el contenido anterior"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "x-au-01-009",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 9,
+   "enunciado": "En relación con los diferentes formatos de archivo disponibles en Microsoft Excel 365, señale cuál de las siguientes asociaciones entre el tipo de documento y su extensión es correcta:",
+   "opciones": [
+    "Libro binario de Excel — .xlsx.",
+    "Libro de Excel 97-2003 — .xlt.",
+    "Libro habilitado para macros — .xlsb.",
+    "Plantilla de Excel — .xltx."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "x-au-01-010",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 1",
+   "n": 10,
+   "enunciado": "Al iniciar Microsoft Excel 365 y crear varios libros nuevos en blanco, sin modificar sus nombres predeterminados, ¿cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "Los libros reciben inicialmente los nombres Libro1, Libro2, Libro3, y así sucesivamente.",
+    "Excel asigna automáticamente el nombre Documento1, Documento2, Documento3, y así sucesivamente.",
+    "Excel no asigna ningún nombre al libro hasta que el usuario lo guarda por primera vez.",
+    "Todos los libros reciben inicialmente el nombre Hoja1, que se modifica al guardar el archivo."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-02-001",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 1,
+   "enunciado": "¿Cuál de los siguientes formatos de archivo no admite Excel?",
+   "opciones": [
+    "d) .bmp",
+    "a) .xlsx",
+    "b) .xlt",
+    "c) .ods"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-02-002",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 2,
+   "enunciado": "El cuadro de nombres cuenta con numerosas utilidades, ¿cuál no es una de ellas?",
+   "opciones": [
+    "d) Nombrar un libro",
+    "c) Mostrar el nombre de la celda activa",
+    "b) Nombrar un rango",
+    "a) Desplazarnos a una celda"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-02-003",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 3,
+   "enunciado": "¿En qué parte de la interfaz de Excel 365 se muestra el contenido real de una celda?",
+   "opciones": [
+    "b) En la barra de estado",
+    "a) En el cuadro de nombres",
+    "c) En la cinta de opciones",
+    "d) En la barra de fórmulas"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "x-au-02-004",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 4,
+   "enunciado": "Hay tres vistas disponibles en la barra de estado de Excel. ¿Cuál no es una de ellas?",
+   "opciones": [
+    "d) Vista previa de salto de página",
+    "c) Diseño de página",
+    "b) Pantalla completa",
+    "a) Normal"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "x-au-02-005",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 5,
+   "enunciado": "¿Qué es un rango?",
+   "opciones": [
+    "d) Conjunto de dos o más celdas contiguas",
+    "c) Las hojas por las que está formado un libro de Excel",
+    "b) Conjunto de filas con el mismo estilo",
+    "a) Intersección de una fila y una columna"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-02-006",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 6,
+   "enunciado": "¿Cuál de los siguientes nombres de rango es correcto?",
+   "opciones": [
+    "b) A1.6C",
+    "c) C6:A1",
+    "a) 1A:C6",
+    "d) A1:C6"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "x-au-02-007",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 7,
+   "enunciado": "Podemos realizar distintas operaciones si pulsamos con el botón secundario de nuestro ratón sobre el nombre de una hoja de Excel. ¿Cuál de las siguientes no es correcta?",
+   "opciones": [
+    "a) Cambiar el nombre de la hoja",
+    "c) Mostrar una hoja",
+    "d) Ocultar una hoja",
+    "b) Eliminar el libro"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "x-au-02-008",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 8,
+   "enunciado": "Para desplazarnos en la hoja de calculo hacia la derecha utilizamos la tecla…",
+   "opciones": [
+    "a) Intro",
+    "c) Tab",
+    "b) May + Intro",
+    "d) May + Tab"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "x-au-02-009",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 9,
+   "enunciado": "En relación con los distintos elementos que componen la interfaz de Microsoft Excel 365, señale la afirmación correcta:",
+   "opciones": [
+    "La barra de fórmulas permite visualizar y modificar el contenido de la celda activa, así como acceder al asistente de funciones mediante el botón Insertar función.",
+    "La barra de herramientas de acceso rápido se encuentra exclusivamente integrada en la barra de título y no puede desplazarse debajo de la cinta de opciones.",
+    "El cuadro de nombres permite identificar la celda activa y desplazarse a un rango determinado, pero no permite asignar nombres a rangos de celdas.",
+    "La caja de búsqueda, integrada en la barra de título, permite buscar comandos y contenido del libro, y se activa mediante la combinación Ctrl + Q."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-au-02-010",
+   "tema": "excel",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 2",
+   "n": 10,
+   "enunciado": "Respecto a la barra de estado de Microsoft Excel 365 y a la información que proporciona durante la edición de una hoja de cálculo, señale la afirmación incorrecta:",
+   "opciones": [
+    "El estado «Listo» indica que Excel se encuentra en un estado general de reposo, sin que se esté introduciendo o modificando información.",
+    "La barra de estado puede configurarse para mostrar cálculos como la suma o el promedio de los valores numéricos de las celdas seleccionadas.",
+    "El estado «Señalar» puede aparecer cuando se está construyendo una fórmula y se seleccionan celdas para incorporarlas como referencias.",
+    "El estado «Modificar» aparece cuando se introducen datos por primera vez en una celda que se encontraba vacía."
+   ],
+   "correcta": 3
+  }
+ ]
+}

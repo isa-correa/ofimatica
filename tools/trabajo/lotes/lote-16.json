@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-au-08-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 2,
+   "enunciado": "¿Cuál de las siguientes opciones no es un efecto de fuente?",
+   "opciones": [
+    "Tachado",
+    "Subíndice",
+    "Cursiva",
+    "Versalitas"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-08-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 3,
+   "enunciado": "¿Qué opción de fuente nos permite aumentar el espacio entre caracteres?",
+   "opciones": [
+    "Espaciado",
+    "Escala",
+    "Tamaño",
+    "Posición"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-08-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 4,
+   "enunciado": "¿Qué atributo modifica el espacio entre determinadas combinaciones de caracteres con el fin de obtener un resultado más estético?",
+   "opciones": [
+    "Espaciado para fuentes",
+    "Interletraje para caracteres",
+    "Interletraje para fuentes",
+    "Espaciado para caracteres"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-08-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 5,
+   "enunciado": "El \"Iluminado\", ¿qué tipo de atributo de fuente es?",
+   "opciones": [
+    "Estilo de texto",
+    "Efecto de fuente",
+    "Estilo de fuente",
+    "Efecto de texto"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-08-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 6,
+   "enunciado": "¿Qué atributo puede configurarse como \"Comprimido\" o \"Expandido\"?",
+   "opciones": [
+    "Espaciado",
+    "Escala",
+    "Posición",
+    "Tamaño"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-08-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 7,
+   "enunciado": "¿Qué tipo de sangría desplaza la primera línea de un párrafo hacia la derecha, dejando el resto del párrafo sin desplazar?",
+   "opciones": [
+    "Sangría francesa.",
+    "Izquierda.",
+    "Primera línea.",
+    "Derecha."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-08-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 8,
+   "enunciado": "¿Cuáles de las siguientes opciones afecta a la posición de la fuente con respecto a la línea de escritura?",
+   "opciones": [
+    "Negrita.",
+    "Tachado.",
+    "Versalitas.",
+    "Posición."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-08-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 9,
+   "enunciado": "¿Cómo se denomina la distancia que puede haber entre el margen y el texto de un documento?",
+   "opciones": [
+    "Encuadernación.",
+    "Margen.",
+    "Sangría.",
+    "Interlineado."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-08-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 10,
+   "enunciado": "¿Cuál de las siguientes no es un tipo de sangría de Word?",
+   "opciones": [
+    "Centrada.",
+    "Izquierda.",
+    "Primera línea.",
+    "Derecha."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-09-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 1,
+   "enunciado": "¿Qué acción realiza la tecla F1 en Word 365?",
+   "opciones": [
+    "Guarda el documento",
+    "Abre la ventana \"Abrir\"",
+    "Abre el panel de Ayuda",
+    "Muestra los Key Tips"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-09-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 2,
+   "enunciado": "¿Qué combinación se utiliza para cortar un elemento seleccionado?",
+   "opciones": [
+    "CTRL + C",
+    "CTRL + X",
+    "CTRL + V",
+    "CTRL + B"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-09-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 3,
+   "enunciado": "¿Qué hace CTRL + Z en Word?",
+   "opciones": [
+    "Rehace una acción",
+    "Deshace la última acción",
+    "Elimina una palabra",
+    "Borra el formato"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-09-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 4,
+   "enunciado": "¿Cuál de las siguientes teclas abre el panel \"Editor\"?",
+   "opciones": [
+    "F7",
+    "F2",
+    "F8",
+    "F5"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-09-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 5,
+   "enunciado": "¿Qué función tiene CTRL + P?",
+   "opciones": [
+    "Pegar contenido",
+    "Imprimir documento",
+    "Abrir documento",
+    "Crear nuevo documento"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-09-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 6,
+   "enunciado": "El atajo CTRL + C sirve para:",
+   "opciones": [
+    "Cerrar el documento",
+    "Cortar el contenido",
+    "Copiar el contenido",
+    "Insertar una tabla"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-09-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 7,
+   "enunciado": "¿Cuál de estos atajos aplica negrita?",
+   "opciones": [
+    "CTRL + N",
+    "CTRL + K",
+    "CTRL + I",
+    "CTRL + S"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-09-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 8,
+   "enunciado": "¿Qué realiza el atajo CTRL + V?",
+   "opciones": [
+    "Pega contenido",
+    "Elimina el párrafo",
+    "Muestra/Oculta la cinta",
+    "Guarda el documento"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-09-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 9,
+   "enunciado": "¿Qué ocurre al pulsar CTRL + A?",
+   "opciones": [
+    "Abre el panel de navegación",
+    "Abre la ficha Archivo > Abrir",
+    "Aplica subrayado",
+    "Activa el autoguardado"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-09-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 9",
+   "n": 10,
+   "enunciado": "¿Qué hace el atajo CTRL + F4?",
+   "opciones": [
+    "Cierra Word",
+    "Cierra el documento",
+    "Minimiza la ventana",
+    "Guarda como PDF"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-10-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 1,
+   "enunciado": "¿Qué ocurre si pulsamos CTRL + Inicio?",
+   "opciones": [
+    "Selecciona todo el texto",
+    "Inserta un salto de línea",
+    "Nos lleva al inicio del documento",
+    "Muestra los cambios recientes"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-10-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 2,
+   "enunciado": "El atajo CTRL + ALT + L sirve para:",
+   "opciones": [
+    "Insertar una nota al pie",
+    "Insertar una nota al final",
+    "Insertar un hipervínculo",
+    "Activar la ayuda"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-10-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 3,
+   "enunciado": "¿Cuál es la función de CTRL + ALT + C?",
+   "opciones": [
+    "Centrar texto",
+    "Copiar formato",
+    "Cortar especial",
+    "Insertar campo"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-10-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 4,
+   "enunciado": "Si pulsamos MAYÚS + F3, ¿qué ocurre?",
+   "opciones": [
+    "Alternamos entre distintos tamaños de fuente",
+    "Se aplica versalitas",
+    "Alternamos entre mayúsculas y minúsculas",
+    "Aplica doble subrayado"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-10-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 5,
+   "enunciado": "¿Qué hace CTRL + SUPR?",
+   "opciones": [
+    "Elimina el formato de párrafo",
+    "Borra una palabra a la derecha",
+    "Borra una línea entera",
+    "Cierra el documento"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-10-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 6,
+   "enunciado": "El atajo CTRL + MAY + F3:",
+   "opciones": [
+    "Copia el formato",
+    "Pega especial",
+    "Inserta marcador",
+    "Aplica superíndice"
+   ],
+   "correcta": 1
+  }
+ ]
+}

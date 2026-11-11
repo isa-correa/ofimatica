@@ -1,0 +1,282 @@
+{
+ "w-au-08-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, estilos y efectos (págs. 26 a 28)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **tachado** es un efecto de fuente: traza una línea sobre el texto.",
+   "Es verdadera, así que no se marca. El **subíndice** es un efecto de fuente: sitúa el texto por debajo de la línea de escritura.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La **cursiva** es un **estilo** de fuente, junto a la negrita y el subrayado, no un efecto.",
+   "Es verdadera, así que no se marca. Las **versalitas** son un efecto de fuente del cuadro Fuente."
+  ],
+  "ojo": "Estilos: negrita, cursiva, subrayado. Efectos: tachado, subíndice, superíndice, versalitas, mayúsculas, oculto."
+ },
+ "w-au-08-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado, Espaciado (pág. 29)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **espaciado** afecta a la separación entre caracteres. Si lo pones en **expandido**, aumenta el espacio entre ellos. Se mide en puntos.",
+   "No. La **escala** cambia el ancho de cada carácter, no el espacio entre ellos.",
+   "No. El **tamaño** cambia lo grande que es la letra, no la distancia entre caracteres.",
+   "No. La **posición** cambia la altura del texto respecto a la línea de escritura."
+  ]
+ },
+ "w-au-08-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado, Interletraje (pág. 29)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “Espaciado para fuentes” no existe con ese nombre. El atributo que ajusta combinaciones de letras se llama interletraje.",
+   "No. El nombre exacto es “Interletraje para **fuentes**”, no “para caracteres”.",
+   "Es esta. El **interletraje para fuentes** ajusta automáticamente el espacio entre determinados pares de caracteres, como AV, para mejorar su apariencia.",
+   "No. “Espaciado para caracteres” no es ese atributo. El espaciado cambia la separación de todos los caracteres, no solo de ciertos pares."
+  ]
+ },
+ "w-au-08-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Efectos de texto y tipografía (pág. 27)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. “Estilo de texto” no es la categoría. Los estilos de fuente son negrita, cursiva y subrayado.",
+   "No. Los efectos de fuente son tachado, subíndice, superíndice y los del cuadro Fuente. El iluminado es un efecto de texto.",
+   "No. Los estilos de fuente son negrita, cursiva y subrayado. El iluminado no es un estilo.",
+   "Es esta. El **iluminado** es un **efecto de texto y tipografía**, como el reflejo y la sombra."
+  ]
+ },
+ "w-au-08-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado, Espaciado (pág. 29)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **espaciado** puede ser “Normal” (por defecto), “Expandido” y “Comprimido”.",
+   "No. La **escala** se mide en tantos por ciento (por defecto, 100%): menos estrecha, más ensancha.",
+   "No. La **posición** puede ser normal, elevada o bajada.",
+   "No. El **tamaño** se mide en puntos, de 1 a 1638."
+  ]
+ },
+ "w-au-08-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sangrías (pág. 34)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La **francesa** hace lo contrario: desplaza todo el párrafo salvo la primera línea.",
+   "No. La sangría **izquierda** separa del margen izquierdo el párrafo entero, primera línea incluida.",
+   "Es esta. La sangría especial **primera línea** desplaza únicamente la primera línea del párrafo. Por defecto, 1,25 cm.",
+   "No. La sangría **derecha** acerca el párrafo al margen derecho. No mueve la primera línea."
+  ]
+ },
+ "w-au-08-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado, Posición (pág. 29)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La **negrita** aumenta el grosor del trazo. No cambia la altura respecto a la línea.",
+   "No. El **tachado** traza una línea sobre el texto. No lo sube ni lo baja.",
+   "No. Las **versalitas** convierten las minúsculas en mayúsculas pequeñas. No cambian la altura respecto a la línea.",
+   "Es esta. La **posición** afecta a la altura del texto respecto a la línea de escritura: normal, elevada o bajada, medida en puntos."
+  ]
+ },
+ "w-au-08-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sangrías (pág. 34)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La **encuadernación** es un espacio extra del margen para encuadernar el documento.",
+   "No. El **margen** es el espacio entre los bordes de la página y el área del contenido. La pregunta pide la distancia extra entre el margen y el texto.",
+   "Es esta. La **sangría** es el espacio extra que se establece entre el párrafo y los márgenes.",
+   "No. El **interlineado** es el espacio entre las líneas de un mismo párrafo."
+  ]
+ },
+ "w-au-08-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sangrías (pág. 34)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. **Centrada** es una alineación, no una sangría. Los 4 tipos de sangría son izquierda, derecha, primera línea y francesa.",
+   "Es verdadera, así que no se marca. La sangría **izquierda** es un tipo de sangría.",
+   "Es verdadera, así que no se marca. **Primera línea** es una sangría especial.",
+   "Es verdadera, así que no se marca. La sangría **derecha** es un tipo de sangría."
+  ]
+ },
+ "w-au-09-001": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, teclas de función (pág. 1)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Guardar es **Ctrl + G**.",
+   "No. La ventana Abrir se abre con **Ctrl + F12**. Ctrl + A te lleva a Archivo > Abrir.",
+   "Es esta. **F1** abre el panel de **Ayuda**.",
+   "No. Las Key Tips se muestran con **F10**."
+  ]
+ },
+ "w-au-09-002": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Ctrl + C** copia el elemento seleccionado.",
+   "Es esta. **Ctrl + X** corta el elemento seleccionado. Piensa en la X como unas tijeras.",
+   "No. **Ctrl + V** pega el contenido del portapapeles.",
+   "No. **Ctrl + B** abre el panel de navegación para buscar."
+  ]
+ },
+ "w-au-09-003": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Rehacer la última acción es **Ctrl + Y**.",
+   "Es esta. **Ctrl + Z** deshace la última acción.",
+   "No. Borrar una palabra a la izquierda es Ctrl + retroceso, y a la derecha, Ctrl + Supr.",
+   "No. Eliminar el formato de párrafo es Ctrl + W, y el de fuente, Ctrl + barra espaciadora."
+  ]
+ },
+ "w-au-09-004": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, teclas de función (pág. 1)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **F7** abre el panel **Editor**, el de ortografía y gramática.",
+   "No. **F2** mueve texto o gráficos.",
+   "No. **F8** amplía una selección.",
+   "No. **F5** abre Buscar y reemplazar en la pestaña Ir a."
+  ]
+ },
+ "w-au-09-005": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Pegar contenido es **Ctrl + V**.",
+   "Es esta. **Ctrl + P** (igual que Ctrl + F2) te lleva a **Archivo > Imprimir**.",
+   "No. Abrir un documento es Ctrl + A (Archivo > Abrir) o Ctrl + F12.",
+   "No. Crear un documento nuevo es **Ctrl + U**."
+  ]
+ },
+ "w-au-09-006": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cerrar el documento es **Ctrl + F4**.",
+   "No. Cortar es **Ctrl + X**.",
+   "Es esta. **Ctrl + C** copia el elemento seleccionado.",
+   "No. Insertar una tabla no tiene un atajo así. Se hace desde Insertar > Tabla."
+  ]
+ },
+ "w-au-09-007": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En Word en español, **Ctrl + N** aplica la **negrita**.",
+   "No. **Ctrl + K** aplica la cursiva.",
+   "No. **Ctrl + I** abre Buscar y reemplazar en la pestaña Ir a.",
+   "No. **Ctrl + S** aplica el subrayado."
+  ],
+  "ojo": "N de negrita, K de cursiva y S de subrayado. Ojo: Ctrl + S no guarda, guarda Ctrl + G."
+ },
+ "w-au-09-008": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Ctrl + V** pega el contenido del portapapeles.",
+   "No. Eliminar el formato de párrafo es **Ctrl + W**. Ctrl + V no elimina nada.",
+   "No. Mostrar u ocultar los comandos de la cinta es **Ctrl + F1**.",
+   "No. Guardar el documento es **Ctrl + G**."
+  ]
+ },
+ "w-au-09-009": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El panel de navegación se abre con **Ctrl + B**.",
+   "Es esta. **Ctrl + A** lleva a **Archivo > Abrir**.",
+   "No. Subrayar es **Ctrl + S**.",
+   "No. El Autoguardado se activa con **Alt + 1**."
+  ],
+  "ojo": "En Word en español la A no selecciona todo, eso lo hace Ctrl + E."
+ },
+ "w-au-09-010": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cerrar Word entero no es **Ctrl + F4**: este atajo cierra solo el documento activo.",
+   "Es esta. **Ctrl + F4** cierra el documento.",
+   "No. Minimizar la ventana no es **Ctrl + F4**.",
+   "No. Guardar como PDF no tiene un atajo. **F12** abre Guardar como, donde eliges el formato."
+  ]
+ },
+ "w-au-10-001": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Seleccionar todo el documento es **Ctrl + E**.",
+   "No. Un salto de línea se inserta con **Mayús + Intro**.",
+   "Es esta. **Ctrl + Inicio** lleva al **inicio del documento**. Ctrl + Fin lleva al final.",
+   "No. Mostrar los cambios recientes no es este atajo. Mayús + F5 permite desplazarse entre los últimos cambios."
+  ]
+ },
+ "w-au-10-002": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La nota al pie es **Ctrl + Alt + O**.",
+   "Es esta. **Ctrl + Alt + L** inserta una **nota al final**.",
+   "No. El hipervínculo es **Ctrl + Alt + K**.",
+   "No. La ayuda se abre con **F1**."
+  ]
+ },
+ "w-au-10-003": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Centrar el texto es **Ctrl + T**.",
+   "Es esta. **Ctrl + Alt + C** es **Copiar formato**, y Ctrl + Alt + V aplica el formato copiado.",
+   "No. **Cortar especial** es Ctrl + F3.",
+   "No. Insertar un campo vacío es **Ctrl + F9**."
+  ]
+ },
+ "w-au-10-004": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla MAY (pág. 1)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los tamaños de fuente se cambian con Ctrl + > y Ctrl + <, no con Mayús + F3.",
+   "No. Las versalitas no se aplican con este atajo, sino desde el cuadro Fuente.",
+   "Es esta. **Mayús + F3** alterna la fuente entre primera letra en mayúscula, todo mayúsculas y todo minúsculas.",
+   "No. El doble subrayado es **Ctrl + Mayús + D**."
+  ]
+ },
+ "w-au-10-005": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Eliminar el formato de párrafo es **Ctrl + W**.",
+   "Es esta. **Ctrl + Supr** borra una palabra a la derecha. Ctrl + retroceso la borra a la izquierda.",
+   "No. Borrar una línea entera no es **Ctrl + Supr**.",
+   "No. Cerrar el documento es **Ctrl + F4**."
+  ]
+ },
+ "w-au-10-006": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 1)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Copiar formato es **Ctrl + Alt + C**.",
+   "Es esta. Según los apuntes, **Ctrl + Mayús + F3** es **Pegar especial**, y Ctrl + F3 es Cortar especial.",
+   "No. La ventana de marcadores se abre con **Ctrl + Mayús + F5**.",
+   "No. El superíndice es **Ctrl + Mayús + signo +**."
+  ],
+  "ojo": "Ctrl + F3 corta al “Spike” (la espiga de Word, que acumula varios cortes) y Ctrl + Mayús + F3 los pega todos de una vez.",
+  "revisar": "Contrastado en internet: Ctrl + Mayús + F3 inserta el contenido del Spike. Los apuntes lo llaman “Pegar especial”, que es una traducción poco exacta. La respuesta de la plantilla es correcta."
+ }
+}

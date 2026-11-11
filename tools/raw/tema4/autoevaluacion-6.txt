@@ -1,0 +1,116 @@
+1.
+Para configurar la unidad de medida por defecto en Word 365, ¿en qué apartado del programa debemos hacerlo?
+
+Obtuvo 1 de 1 punto
+
+Apartado Avanzadas de Opciones de Word.
+Corregir respuesta
+Tu respuesta
+Apartado General de Opciones de Word.
+Las reglas de la vista Diseño de impresión.
+Ficha Vista de la cinta de opciones.
+2.
+¿Cómo se denomina el espaciado que hay entre las líneas de un mismo párrafo?
+
+Obtuvo 0 de 1 punto
+
+Tabulación.
+Respuesta equivocada
+Tu respuesta
+Espaciado.
+Interlineado.
+Corregir respuesta
+Sangría.
+3.
+¿Cuántos elementos puede conservar la herramienta "Portapapeles"?
+
+Obtuvo 0 de 1 punto
+
+15
+Respuesta equivocada
+Tu respuesta
+24
+Corregir respuesta
+3
+16
+4.
+¿Qué herramienta nos permite copiar la configuraciones de párrafo, de fuente o ambos de un texto a otro?
+
+Obtuvo 1 de 1 punto
+
+Copiar formato
+Corregir respuesta
+Tu respuesta
+Copiar
+Pegar formato
+Cortar
+5.
+¿Qué opción nos permite MOVER los elementos de una parte del documento a otro?
+
+Obtuvo 1 de 1 punto
+
+Cortar
+Corregir respuesta
+Tu respuesta
+Mover
+Copiar
+Pegar
+6.
+¿Cuál de las siguientes son opciones de pegado en Word 365?
+
+Obtuvo 0 de 1 punto
+
+Mantener el formato imagen, combinar formato, pegar como imagen y conservar solo texto
+Respuesta equivocada
+Tu respuesta
+Mantener formato, combinar origen, pegar como imagen y conservar solo texto
+Mantener el formato origen, combinar formato, pegar como imagen y conservar solo texto
+Corregir respuesta
+Mantener el formato texto, combinar imagen, pegar como imagen y conservar solo texto
+7.
+Señala en qué ficha de la cinta de opciones se encuentra el comando Negrita:
+
+Obtuvo 0 de 1 punto
+
+Diseño
+Respuesta equivocada
+Tu respuesta
+Revisar
+Insertar
+Inicio
+Corregir respuesta
+8.
+¿En qué ficha de la cinta de opciones se encuentra la opción de Exportar?:
+
+Obtuvo 1 de 1 punto
+
+Archivo.
+Corregir respuesta
+Tu respuesta
+Inicio.
+Insertar.
+Revisar.
+9.
+Señala en qué grupo de la cinta de opciones de Word se encuentra el comando "Copiar formato":
+
+Obtuvo 0 de 1 punto
+
+Fuente.
+Respuesta equivocada
+Tu respuesta
+Párrafo.
+Portapapeles.
+Corregir respuesta
+Edición.
+10.
+¿Qué atributo de la cinta de opciones establece un color al texto de nuestro documento?
+
+Obtuvo 0 de 1 punto
+
+Sombreado
+Respuesta equivocada
+Tu respuesta
+Relleno
+Fondo de texto
+Resaltado de texto
+Corregir respuesta

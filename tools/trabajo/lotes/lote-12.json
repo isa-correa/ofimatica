@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-vo-08-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 4,
+   "enunciado": "De las siguientes opciones, ¿cuál NO se encuentra dentro del comando “Varias páginas”?",
+   "opciones": [
+    "Normal",
+    "Sangrías simétricas.",
+    "Dos páginas por hoja.",
+    "Formato libro."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-005",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 5,
+   "enunciado": "¿Cuál es la alineación vertical configurada por defecto en Word 365?",
+   "opciones": [
+    "Justificada",
+    "Centrada",
+    "Superior",
+    "Abajo"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-08-006",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 6,
+   "enunciado": "¿En qué ficha de la cinta de opciones podeos configurar el texto de nuestro en columnas?",
+   "opciones": [
+    "Disposición",
+    "Insertar",
+    "Diseño",
+    "Inicio"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-08-007",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 7,
+   "enunciado": "¿Cuántas columnas como máximo se pueden añadir en un documento de Word?",
+   "opciones": [
+    "Depende de la memoria del equipo.",
+    "11",
+    "45",
+    "24"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-08-008",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 8,
+   "enunciado": "¿Cuál de los siguientes no es un tipo de salto?",
+   "opciones": [
+    "Salto de sección continua",
+    "Salto se sección de ajuste de texto",
+    "Salto de sección página par",
+    "Salto de sección página siguiente."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-009",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 9,
+   "enunciado": "En Word 365, tenemos un documento de varias páginas, todas en orientación vertical y se desea cambiar la orientación de una página a horizontal:",
+   "opciones": [
+    "La orientación afecta a todo el documento, no es posible alternar páginas con distintas orientaciones.",
+    "Hay que utilizar un salto de sección Continua.",
+    "Sólo se puede cambiar la orientación de las primeras o últimas páginas.",
+    "Se puede utilizar un salto de sección Página siguiente."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-08-010",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 10,
+   "enunciado": "Indica cuál de las siguientes afirmaciones es FALSA:",
+   "opciones": [
+    "En Word 365, si elimina un salto de sección, el texto antes del salto adquiere todo el formato de la sección que sigue al salto.",
+    "En Word 365, al usar secciones, puede configurar una columna en una parte del documento, y dos columnas al resto.",
+    "En Word 365, si aplicamos un cambio de formato y este se produce en la sección anterior al salto, el resto del documento adquiere ese formato.",
+    "En Word 365, las secciones permiten establecer opciones de formatos y diseño de páginas diferentes en un mismo documento."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-08-011",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 11,
+   "enunciado": "¿Cuál de los siguientes comandos NO se encuentra dentro del grupo ORGANIZAR?",
+   "opciones": [
+    "Panel de navegación",
+    "Alinear",
+    "Agrupar",
+    "Girar"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-08-012",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 12,
+   "enunciado": "¿Para qué sirve la opción “Ajustar texto” del grupo “Organizar”?",
+   "opciones": [
+    "Para ajustar la posición de un texto insertado con respecto a los márgenes",
+    "Para ajustar la posición de un objeto insertado con respecto a los demás",
+    "Para ajustar la posición de un objeto insertado con respecto a los bordes de página",
+    "Para ajustar la posición de un objeto insertado con respecto al texto que lo rodea"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-08-013",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 13,
+   "enunciado": "Señala cuál de las siguientes NO es una opción de ajuste de texto:",
+   "opciones": [
+    "Inferior",
+    "Arriba y abajo",
+    "Transparente",
+    "Estrecho"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-08-014",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 14,
+   "enunciado": "En Word 365, al seleccionar una imagen insertada en el inicio de un párrafo, aparece el símbolo de un ancla. Indique qué función cumple este delimitador de objeto, el símbolo del ancla, respecto al párrafo:",
+   "opciones": [
+    "Indica que el párrafo al que está asociado el delimitador de objeto está bloqueado, por lo que no admite cambios e impide cualquier edición o cambio en el texto.",
+    "Señala que la imagen está vinculada a un párrafo específico del documento, lo que garantiza que la imagen se desplace junto con dicho párrafo si este cambia de posición.",
+    "Informa al usuario de que todo el contenido del documento actual tiene restricciones globales de edición.",
+    "Se trata de un símbolo meramente decorativo de la interfaz de Word 365 que no guarda ninguna relación técnica con la posición de la imagen."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-015",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 15,
+   "enunciado": "Señala la respuesta incorrecta:",
+   "opciones": [
+    "Las notas al pie se insertan al final del párrafo que estamos editando",
+    "Las notas al pie se insertan al final de la página que estamos editando",
+    "Las numeraciones de las notas al pie se pueden reiniciar en cada página",
+    "Las notas al final se insertan al final del documento"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-08-016",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 16,
+   "enunciado": "Para insertar una nota al final, debemos hacerlo desde la pestaña…",
+   "opciones": [
+    "Inicio",
+    "Insertar",
+    "Referencias",
+    "Disposición"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-08-017",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 17,
+   "enunciado": "En Word 365, ¿qué combinación de teclas se debe pulsar para insertar una nota al pie? (AUX LIBRE 2022)",
+   "opciones": [
+    "Alt + Ctrl + A",
+    "Alt + Ctrl + O",
+    "Alt + Ctrl + C",
+    "Alt + Ctrl + W"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-018",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 18,
+   "enunciado": "En Word 365, se han insertado notas al final en las siguientes palabras: Tajoⁱ y Dueroⁱⁱ. ¿Cuál de los siguientes es el comportamiento resultante de situar el ratón sobre los símbolos que referencian las notas junto a las palabras?",
+   "opciones": [
+    "Dirige el cursor de texto a la posición donde está la nota.",
+    "Aparece un cuadro emergente con el texto añadido a la nota.",
+    "No ocurre nada, es necesario hacer clic con el ratón para disparar cualquier evento.",
+    "Se sustituye temporalmente el texto de la palabra reseñada por el texto de la nota."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-019",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 19,
+   "enunciado": "Señala la respuesta INCORRECTA acerca de los Índices que podemos elaborar en un documento Word:",
+   "opciones": [
+    "Un índice muestra la estructura del documento; contiene los títulos de los temas o subtemas.",
+    "Para crearlo, hemos de seleccionar los términos que queremos que formen parte de él.",
+    "El índice puede actualizarse desde la cinta de opciones.",
+    "Seleccionadas las entradas, las insertaremos pulsando el comando “Insertar índice”."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-08-020",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 20,
+   "enunciado": "En una tabla de ilustraciones, ¿qué elementos podemos organizar y enumerar? Indica la opción INCORRECTA:",
+   "opciones": [
+    "Ilustraciones.",
+    "Marcadores.",
+    "Tablas.",
+    "Imágenes."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-021",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 21,
+   "enunciado": "¿Cuál de los siguientes no es un tipo de documento que podamos realizar en una combinación de correspondencia?",
+   "opciones": [
+    "Mensajes de correo electrónico",
+    "Factura",
+    "Cartas",
+    "Etiquetas"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-022",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 22,
+   "enunciado": "Con respecto a la combinación de correspondencia de Word, señala la afirmación incorrecta:",
+   "opciones": [
+    "La base de datos de destinatarios de una combinación se puede elaborar en el momento",
+    "La base de datos de destinatarios de una combinación debe estar elaborada",
+    "El “Asistente para combinar correspondencia” consta de 6 pasos",
+    "Antes de completar la combinación, podemos acceder a una vista previa del documento"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-023",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 23,
+   "enunciado": "En la cinta de opciones de Word, pestaña Correspondencia, grupo \"Iniciar combinación de correspondencia\", ¿qué opción NO aparece al hacer clic en \"Seleccionar destinatarios\"? (Aux AGE 2019)",
+   "opciones": [
+    "Escribir una nueva lista.",
+    "Conectar con Access.",
+    "Usar una lista existente.",
+    "Elegir de los contactos de Outlook."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-08-024",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 24,
+   "enunciado": "En una combinación de correspondencia en Microsoft Word 365 se requiere que una carta muestre el texto \"Vencido\" solo si la fecha actual es posterior a la fecha de pago. ¿Qué regla es la más adecuada? (Aux AGE 2026)",
+   "opciones": [
+    "Siguiente registro si",
+    "Si... Entonces... Sino",
+    "Saltar registro si",
+    "Rellenar"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-09-001",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8 parte 2",
+   "n": 1,
+   "enunciado": "En Word 365 , ¿tenemos la opción de revisar ortográficamente un documento?",
+   "opciones": [
+    "Si, en Archivo >> Revisión ortográfica.",
+    "Si, en Revisar >> Ortografía y gramática.",
+    "Si, en Formato >> Ortografía.",
+    "No, hay que instalar un complemento de Office"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-09-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8 parte 2",
+   "n": 2,
+   "enunciado": "¿En qué pestaña de la cinta de opciones de Word se encuentra de forma predeterminada la opción \"Leer en voz alta\"? (Adm. AGE 2019)",
+   "opciones": [
+    "Revisar",
+    "Ayuda",
+    "Inicio",
+    "Diseño"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-09-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8 parte 2",
+   "n": 3,
+   "enunciado": "¿En qué ficha de la cinta de opciones encontramos el comando “Comentario”?",
+   "opciones": [
+    "Ficha Insertar.",
+    "Ficha Revisar.",
+    "Ficha Inicio.",
+    "Ficha Diseño."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-09-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8 parte 2",
+   "n": 4,
+   "enunciado": "Cuando abrimos un documento Word y aparece en un formato especial (tachado y color rojo de la fuente). ¿Qué nos indica este formato? (Aux AGE 2016)",
+   "opciones": [
+    "Que se ha utilizado la herramienta de control de cambios.",
+    "Que se ha insertado un comentario.",
+    "Que es una referencia cruzada.",
+    "Que es un hipervínculo."
+   ],
+   "correcta": 0
+  }
+ ]
+}

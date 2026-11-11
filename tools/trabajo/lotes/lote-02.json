@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-of-04-001",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 4",
+   "n": 1,
+   "enunciado": "¿Qué función realiza la opción de \"Sombreado\" en un documento de Word? (Aux AGE 2017)",
+   "opciones": [
+    "Crea sombras en el marco del texto.",
+    "Colorea las letras del texto.",
+    "Crea sombras en las letras del texto.",
+    "Colorea el fondo del texto o párrafo seleccionado."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-of-04-002",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 4",
+   "n": 2,
+   "enunciado": "¿Cuál de las alineaciones NO aparece en el cuadro \"Párrafo\"? (Aux AGE 2006)",
+   "opciones": [
+    "Derecha.",
+    "Distribuida.",
+    "Centrada.",
+    "Justificada."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-of-04-003",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 4",
+   "n": 3,
+   "enunciado": "¿Qué tipo de sangría desplaza hacia la derecha un bloque de texto, dejando la primera línea sin desplazar? (Aux AGE 2007)",
+   "opciones": [
+    "Francesa.",
+    "Derecha.",
+    "Izquierda.",
+    "Primera línea."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-of-04-004",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 4",
+   "n": 4,
+   "enunciado": "¿Cuál de los siguientes comandos de párrafo podemos configurar desde la pestaña \"Líneas y Saltos de página\" del menú \"Párrafo? (Aux AGE 2007)",
+   "opciones": [
+    "Conservar líneas juntas.",
+    "Interlineado 1,5 líneas.",
+    "Espaciado posterior.",
+    "Control líneas viudas."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-of-04-005",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 4",
+   "n": 5,
+   "enunciado": "Señale cuál de las siguientes combinaciones de teclas (método abreviado) permite cambiar una palabra seleccionada a mayúsculas o a minúsculas (Aux AGE 2008)",
+   "opciones": [
+    "CTRL+<",
+    "CTRL+M",
+    "MAYÚS+F3",
+    "CTRL+Y"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-of-05-001",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 1,
+   "enunciado": "En Word 365, ¿qué método abreviado de teclado debemos utilizar para guardar un documento?",
+   "opciones": [
+    "CTRL + A",
+    "Tecla logotipo Windows + S",
+    "CTRL + G",
+    "Tecla logotipo Windows + U"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-of-05-002",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 2,
+   "enunciado": "Queremos establecer el diseño general de todos los títulos y subtítulos de un documento de Word 365. ¿Qué función debemos usar?",
+   "opciones": [
+    "Inicio > Diseño de párrafo.",
+    "Inicio > Formato de fuente.",
+    "Disposición > Configurar página.",
+    "Diseño > Formato del documento."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-of-05-003",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 3,
+   "enunciado": "En Word, ¿qué utilidad tiene la opción Números de línea que se encuentra en la pestaña Disposición > Configurar página? (Aux AGE Estabilización 2019)",
+   "opciones": [
+    "Muestra de forma automática números de línea junto a cada línea de texto en el documento.",
+    "Permite crear un marcador único, referenciado por un número, para acceder de forma rápida a una línea concreta.",
+    "Abre una ventana de diálogo en la que podemos escribir el número de línea a la que queremos desplazarnos.",
+    "Cuenta los números de línea totales del texto contenido en el documento y muestra las estadísticas en una nueva ventana."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-of-05-004",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 4,
+   "enunciado": "En Word 365, para mostrar el panel de tareas del diccionario de sinónimos, ¿qué método abreviado de teclado deberíamos utilizar? (Admvo Libre 2022)",
+   "opciones": [
+    "Ctrl + Alt + S",
+    "F8",
+    "Mayús + F7",
+    "Mayús + F1"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-of-05-005",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 5,
+   "enunciado": "Si en Word 365 queremos rehacer una acción que previamente hemos deshecho, ¿cuál de las siguientes opciones debemos ejecutar? (Aux Estabilización 2022)",
+   "opciones": [
+    "Ctrl + W",
+    "Ctrl + V",
+    "Ctrl + Y",
+    "Ctrl + N"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-of-05-006",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 6,
+   "enunciado": "¿Cómo abrimos el menú de \"Ayuda\" en Word 365? (Aux AGE 2006)",
+   "opciones": [
+    "Pulsando F1.",
+    "Pulsando Ctrl + F1.",
+    "Desde la ficha correspondiente en la cinta de opciones.",
+    "Son correctas a y c."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-of-05-007",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 7,
+   "enunciado": "¿Con qué combinación de teclas (o método abreviado) se consigue que aparezca el panel de sinónimos? (Aux AGE 2007)",
+   "opciones": [
+    "MAYUSC + S",
+    "CTRL + F2",
+    "CTRL + L",
+    "MAYUSC + F7"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-of-05-008",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 8,
+   "enunciado": "Si desea imprimir el documento que aparece en pantalla, ¿cuál de los siguientes métodos abreviados de teclado deberá utilizar? (Aux AGE 2009)",
+   "opciones": [
+    "Ctrl + P",
+    "Alt + 1",
+    "Alt + F7",
+    "Ctrl + 1"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-of-05-009",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 9,
+   "enunciado": "¿Cuáles son los tipos de sangría de Word 365? (Aux AGE 2009)",
+   "opciones": [
+    "Derecha, izquierda, 1ª línea y justificada.",
+    "Derecha, Izquierda, 1ª línea y francesa.",
+    "Derecha, Izquierda, 1,5 líneas y francesa.",
+    "Derecha, Izquierda, 1ª línea y centrada."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-of-05-010",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 10,
+   "enunciado": "Señale la opción correcta cuando hablamos de un texto justificado en Word 365: (Aux AGE 2015)",
+   "opciones": [
+    "Está alineado a la derecha.",
+    "Está alineado a derecha e izquierda.",
+    "Está centrado.",
+    "Está alineado a la izquierda."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-of-05-011",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 5",
+   "n": 11,
+   "enunciado": "Señale los tipos de sangría hay en Word 365: (Aux AGE 2015)",
+   "opciones": [
+    "Izquierda, derecha y centrada.",
+    "Izquierda, derecha, centrada y francesa.",
+    "Izquierda, derecha, de primera línea y francesa.",
+    "Izquierda, derecha, francesa y barra."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-of-06-001",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 1,
+   "enunciado": "¿Cuál es la finalidad de la función \"Dibujar tabla\" en Word? (Aux AGE Estabilización 2019)",
+   "opciones": [
+    "Crear un dibujo de una tabla en formato png, para insertar en el texto como imagen.",
+    "Diseñar tablas mediante un cuadro de diálogo, estableciendo el número de filas y columnas.",
+    "Diseñar tablas mediante el puntero del ratón, dibujando los bordes de celdas, filas y columnas.",
+    "Insertar una tabla entre las disponibles en las plantillas de tabla integradas."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-of-06-002",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 2,
+   "enunciado": "¿Cuál de las siguientes opciones es correcta con respecto a ordenar los datos de una tabla de Word? (Aux Est AGE Extraordinario 2019)",
+   "opciones": [
+    "Es posible, haciendo clic con el botón secundario del ratón sobre la tabla, y en el menú desplegable, Propiedades > Ordenar.",
+    "No es posible si la tabla está hecha en Word. Si está hecha en Excel, podemos ordenarla antes de incrustarla en el texto.",
+    "Es posible, situando el cursor dentro de la tabla, y pulsando el botón Ordenar de la pestaña Inicio de la cinta de opciones de Word.",
+    "Es posible, seleccionando la columna y haciendo clic con el botón secundario del ratón, y en el menú desplegable, Ordenar."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-of-06-003",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 3,
+   "enunciado": "En el menú Inicio de Word, grupo Edición, uno de los elementos es Seleccionar, que despliega cuatro opciones. ¿Cuál de las siguientes opciones NO aparece en este menú? (Aux Est AGE Extraordinario 2019)",
+   "opciones": [
+    "Seleccionar todo el texto con formato similar (sin datos).",
+    "Seleccionar objetos.",
+    "Seleccionar todo.",
+    "Seleccionar tabla."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-of-06-004",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 4,
+   "enunciado": "Al hacer clic en el botón \"Buscar\" de la pestaña \"Inicio\" de Word, ¿cuál de los siguientes comportamientos es el correcto? (Aux Est AGE Extraordinario 2019)",
+   "opciones": [
+    "Se abre la ventana \"Navegación\" con el campo para escribir la búsqueda, y tres pestañas: Títulos, Páginas y Resultados.",
+    "Se abre la ventana \"Buscar y Reemplazar\" con dos pestañas: Buscar y Reemplazar.",
+    "Se abre la ventana \"Búsqueda\" sólo con el campo para escribir la búsqueda.",
+    "Se abre la ventana emergente \"Encontrar\" sólo con el campo para escribir la búsqueda."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-of-06-005",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 5,
+   "enunciado": "Señale la opción correcta para seleccionar todo un párrafo en Word 365: (Aux AGE 2016)",
+   "opciones": [
+    "Basta dar un triple clic en una palabra del párrafo.",
+    "Basta con pulsar y mantener la tecla CTRL y hacer clic en cualquier parte del párrafo.",
+    "Basta dar un clic sobre una palabra del párrafo.",
+    "Basta dar doble clic en una palabra del párrafo."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-of-06-006",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 6,
+   "enunciado": "Señale la opción correcta para Word 365 si queremos guardar un documento con nombre: (Aux AGE 2016)",
+   "opciones": [
+    "F12",
+    "F8",
+    "Alt + F8",
+    "F7"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-of-06-007",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 7,
+   "enunciado": "Señale la función de la tecla F5 en Word 365: (Aux AGE 2016)",
+   "opciones": [
+    "Insertar autotexto.",
+    "Abre la ventana buscar y reemplazar.",
+    "Activar modo de extensión.",
+    "Activar barra de menú."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-of-06-008",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 8,
+   "enunciado": "Queremos añadir una tabla al documento de Word. ¿En qué pestaña encontramos esta opción? (AGE 2017)",
+   "opciones": [
+    "Insertar.",
+    "Vista.",
+    "Diseño.",
+    "Correspondencia."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-of-06-009",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 9,
+   "enunciado": "En un documento Word 365 si nos situamos en la última celda de una tabla y pulsamos la tecla del tabulador, ¿qué sucede en la tabla?",
+   "opciones": [
+    "Se inserta una línea como encabezado de la tabla.",
+    "Se añade una columna al final de la tabla.",
+    "Se divide la celda en la que estamos posicionados.",
+    "Se añade una fila al final de la tabla."
+   ],
+   "correcta": 3
+  }
+ ]
+}

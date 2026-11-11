@@ -1,0 +1,176 @@
+1.
+En Excel 365, un grupo de celdas adyacentes ¿cómo se denomina?:
+
+Obtuvo 1 de 1 punto
+
+Rango.
+Corregir respuesta
+Tu respuesta
+Asociación.
+Referencia.
+Grupo.
+2.
+De los siguientes elementos, ¿cuál NO aparece en la pantalla de inicio de Excel?
+
+Obtuvo 0 de 1 punto
+
+Libro en blanco.
+Respuesta equivocada
+Tu respuesta
+Plantillas.
+Asistente de funciones.
+Corregir respuesta
+Opciones de Excel.
+3.
+Indica cuál es el nombre por defecto de un archivo de Excel:
+
+Obtuvo 0 de 1 punto
+
+Excel1
+Respuesta equivocada
+Tu respuesta
+Hoja1
+Libro1
+Corregir respuesta
+Lib1
+4.
+¿Qué cálculo puede realizar Excel para mostrarnos en la barra de estado?
+
+Obtuvo 1 de 1 punto
+
+Promedio.
+Corregir respuesta
+Tu respuesta
+Desviación estándar.
+Varianza.
+Moda.
+5.
+En una celda de Excel, estamos elaborando una fórmula. Para ello, necesitamos añadir la referencia a un rango que va a formar parte de la misma. ¿Qué mensaje nos aparece en la barra de estado?
+
+Obtuvo 0 de 1 punto
+
+Listo.
+Respuesta equivocada
+Tu respuesta
+Señalar.
+Corregir respuesta
+Introducir.
+Modificar.
+6.
+Si necesitamos modificar el contenido de una celda de Excel, ¿qué tecla de función podemos usar para ello?
+
+Obtuvo 0 de 1 punto
+
+F1
+Respuesta equivocada
+Tu respuesta
+F7
+F4
+F2
+Corregir respuesta
+7.
+¿Qué ocurre en Excel 365 si pulsamos sobre el botón "Insertar función", presente en la barra de fórmulas?
+
+Obtuvo 0 de 1 punto
+
+Inserta un listado con las 10 últimas funciones insertadas en el libro. Si no hay ninguna, muestra un mensaje de error.
+Respuesta equivocada
+Tu respuesta
+Abre el cuadro "Insertar función", desde donde podemos elegir entre las funciones de Excel disponibles y acceder al asistente de funciones.
+Corregir respuesta
+Nos lleva a la ficha "Fórmulas" de la cinta de opciones de Excel, para que podamos insertar una de las funciones presentes en la misma.
+Muestra en un listado independiente, todas las funciones insertadas en el libro.
+8.
+Señala cuál de las siguientes opciones ESTÁ DISPONIBLE en el menú contextual de la pestaña de hoja en Excel 365:
+
+Obtuvo 0 de 1 punto
+
+Crear nuevo libro.
+Respuesta equivocada
+Tu respuesta
+Utilizar plantilla.
+Seleccionar hoja completa.
+Cambiar nombre de la hoja.
+Corregir respuesta
+9.
+La extensión por defecto que asocia Excel al almacenar una hoja de cálculo en un archivo es:
+
+Obtuvo 0 de 1 punto
+
+.XLTX
+Respuesta equivocada
+Tu respuesta
+.XLSX
+Corregir respuesta
+.XPS
+Excel no tiene asociada extensión por defecto.
+10.
+¿Cuál de las siguientes referencias a un rango es correcto?
+
+Obtuvo 0 de 1 punto
+
+A2.A25
+Respuesta equivocada
+Tu respuesta
+A25:A2
+A2:A25
+Corregir respuesta
+A2..A25
+11.
+¿Cuántas columnas hay en una hoja de cálculo de Excel 365?
+
+Obtuvo 0 de 1 punto
+
+Desde la A a la XF.
+Respuesta equivocada
+Tu respuesta
+16.384
+Corregir respuesta
+Depende de la capacidad del equipo.
+1.048.576
+12.
+Si estando seleccionada la celda D6, queremos seleccionar el resto de valores de la columna ¿qué debemos escribir en el cuadro de nombres?
+
+Obtuvo 1 de 1 punto
+
+C
+Corregir respuesta
+Tu respuesta
+Columna
+D
+Seleccionar
+13.
+¿Cuál de las siguientes acciones enumeradas NO es función del cuadro de nombres de Excel 365?
+
+Obtuvo 1 de 1 punto
+
+Insertar tablas.
+Corregir respuesta
+Tu respuesta
+Nombrar rangos.
+Seleccionar una columna completa.
+Desplazarnos a una celda.
+14.
+¿Cuál de las siguientes referencias a celdas es INCORRECTA?
+
+Obtuvo 0 de 1 punto
+
+F1C6
+Respuesta equivocada
+Tu respuesta
+1B
+Corregir respuesta
+A1
+B6
+15.
+¿Qué extensión utiliza Excel para guardar un libro binario?
+
+Obtuvo 0 de 1 punto
+
+.XLS
+Respuesta equivocada
+Tu respuesta
+.XLB
+.XLSB
+Corregir respuesta
+.XLSM

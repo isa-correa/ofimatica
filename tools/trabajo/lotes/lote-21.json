@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-au-20-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 3,
+   "enunciado": "En el grupo \"Párrafo\", ¿qué función tiene el comando \"Disminuir sangría\"?",
+   "opciones": [
+    "Centrar el texto automáticamente",
+    "Mover el párrafo hacia la derecha",
+    "Acercar el párrafo al margen izquierdo",
+    "Borrar todos los bordes aplicados"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-20-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 4,
+   "enunciado": "¿Cuál es la principal diferencia entre la alineación justificada y la alineación distribuida?",
+   "opciones": [
+    "La justificada aplica espacio solo entre palabras, la distribuida también entre caracteres",
+    "La distribuida es la predeterminada",
+    "La justificada usa interlineado múltiple",
+    "La distribuida añade márgenes automáticos"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-20-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 5,
+   "enunciado": "¿Qué propósito tiene la opción \"Sangrías simétricas\"?",
+   "opciones": [
+    "Aplicar sangrías automáticas en todas las páginas",
+    "Establecer el mismo margen en ambos lados",
+    "Adaptar la sangría para documentos que se imprimirán a doble cara",
+    "Activar el modo diseño doble página"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-20-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 6,
+   "enunciado": "¿Qué hace la opción \"Versalitas\" en el cuadro Fuente?",
+   "opciones": [
+    "Convierte todo el texto en minúsculas",
+    "Aplica mayúsculas más pequeñas, manteniendo la diferencia con las ya existentes",
+    "Sustituye los estilos tipográficos",
+    "Aplica sombreado de texto"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-20-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 7,
+   "enunciado": "¿Qué tipo de subrayado permite aplicar el cuadro de Fuente, y cuántas variantes tiene?",
+   "opciones": [
+    "Un solo estilo predefinido",
+    "Subrayado doble en color rojo",
+    "Hasta 17 tipos distintos de subrayado",
+    "Solo subrayado ondulado"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-20-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 8,
+   "enunciado": "¿Qué sucede al aplicar el efecto \"Oculto\" a un fragmento de texto?",
+   "opciones": [
+    "Se imprime pero no se muestra en pantalla",
+    "Se oculta y no se imprime",
+    "Se reemplaza por un símbolo",
+    "Solo se oculta en la vista Diseño Web"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-20-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 9,
+   "enunciado": "¿Cuál es la función del interletraje para fuentes?",
+   "opciones": [
+    "Aumentar el espaciado entre todos los caracteres",
+    "Justificar el texto automáticamente",
+    "Ajustar el espacio entre pares de caracteres para mejorar la estética",
+    "Reducir el tamaño de fuente en los encabezados"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-20-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 10,
+   "enunciado": "¿Qué espaciado predeterminado se aplica entre párrafos en Word 365 según la plantilla Normal.dotm?",
+   "opciones": [
+    "0 puntos antes y 12 después",
+    "0 puntos antes y 8 después",
+    "1,5 puntos antes y después",
+    "8 puntos antes y 0 después"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-20-011",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 11,
+   "enunciado": "¿Cuántos niveles jerárquicos se pueden establecer como máximo en una lista multinivel?",
+   "opciones": [
+    "5",
+    "7",
+    "9",
+    "10"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-20-012",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 12,
+   "enunciado": "¿Cuál es el efecto de activar \"Conservar líneas juntas\" en la configuración de párrafo?",
+   "opciones": [
+    "El párrafo se vuelve inmóvil",
+    "El párrafo se mantiene unido en una sola página",
+    "Se impide la edición del párrafo",
+    "Se aplica sangría doble"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-20-013",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 13,
+   "enunciado": "¿Qué es una nota al pie en Word?",
+   "opciones": [
+    "Un comentario emergente",
+    "Una anotación que se inserta al final del documento",
+    "Una aclaración que aparece al pie de la misma página donde se hace la referencia",
+    "Un hipervínculo oculto"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-20-014",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 14,
+   "enunciado": "¿Qué ocurre si se insertan títulos a los objetos del documento y luego se usa la función \"Insertar tabla de ilustraciones\"?",
+   "opciones": [
+    "Word crea una tabla con hipervínculos a dichos elementos",
+    "Word inserta una tabla de contenidos",
+    "El documento se guarda como plantilla",
+    "Se elimina el formato de las ilustraciones"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-20-015",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 15,
+   "enunciado": "¿Qué extensión usa Word para guardar un documento habilitado para macros?",
+   "opciones": [
+    ".doc",
+    ".docx",
+    ".dotx",
+    ".docm"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-20-016",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 16,
+   "enunciado": "¿Para qué sirve el comando \"Inspeccionar documento\" en la ficha Archivo?",
+   "opciones": [
+    "Editar encabezados",
+    "Buscar sinónimos",
+    "Detectar datos ocultos o personales antes de compartir un archivo",
+    "Insertar pie de página"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-20-017",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 17,
+   "enunciado": "¿Cuál es la capacidad máxima del portapapeles de Word 365 según el grupo Portapapeles?",
+   "opciones": [
+    "10 elementos",
+    "24 elementos",
+    "100 elementos",
+    "Ilimitado"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-20-018",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 20",
+   "n": 18,
+   "enunciado": "¿Cómo se activa el Inspector de Estilo y qué muestra?",
+   "opciones": [
+    "Desde la cinta Inicio > muestra errores ortográficos",
+    "Desde el panel de estilos > muestra qué formatos están aplicados en cada parte del documento",
+    "Desde el grupo Vista > aplica macros",
+    "No se puede activar en Word 365"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "x-of-01-001",
+   "tema": "excel",
+   "origen": "oficiales",
+   "test": "Oficial 1",
+   "n": 1,
+   "enunciado": "En Excel 365, ¿cuál de los siguientes es un operador válido para comenzar una fórmula en una celda? (AUX ADVO Extraordinario LIBRE 2024)",
+   "opciones": [
+    "=",
+    "/",
+    "$",
+    "&"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-of-01-002",
+   "tema": "excel",
+   "origen": "oficiales",
+   "test": "Oficial 1",
+   "n": 2,
+   "enunciado": "Señale cómo se denomina al contenido de una celda que NO va precedido del signo igual:(Aux AGE 2016)",
+   "opciones": [
+    "Fórmula",
+    "Función",
+    "Variable",
+    "Constante"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "x-of-01-003",
+   "tema": "excel",
+   "origen": "oficiales",
+   "test": "Oficial 1",
+   "n": 3,
+   "enunciado": "En Excel 365, un grupo de celdas adyacentes se denomina: (AUX ESTABILIZACION 2022)",
+   "opciones": [
+    "Rango.",
+    "Asociación.",
+    "Referencia.",
+    "Grupo."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-of-01-004",
+   "tema": "excel",
+   "origen": "oficiales",
+   "test": "Oficial 1",
+   "n": 4,
+   "enunciado": "En Excel 365, al trabajar con rangos, ¿cuál de las siguientes opciones describe correctamente un rango discontinuo?",
+   "opciones": [
+    "B2:B2",
+    "$B$2:$C$4",
+    "B2:C4",
+    "B2:C2;B4:C4"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "x-of-01-005",
+   "tema": "excel",
+   "origen": "oficiales",
+   "test": "Oficial 1",
+   "n": 5,
+   "enunciado": "En Microsoft Excel 365, si se produce un cierre inesperado del programa o el usuario olvida guardar un libro nuevo antes de cerrar, ¿es posible recuperar dicho archivo?",
+   "opciones": [
+    "Sí, el programa guarda cada cambio de forma permanente automáticamente, aunque el archivo nunca se haya guardado.",
+    "Sí, Excel guarda copias temporales automáticamente que se pueden recuperar desde el menú Archivo > Información > Administrar libro.",
+    "Sí, solo si el archivo estaba guardado previamente en un pendrive o disco externo.",
+    "No, si no se pulsó el botón \"Guardar\" antes de cerrar, toda la información se pierde sin posibilidad de recuperarla."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "x-ex-01-001",
+   "tema": "excel",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 1,
+   "enunciado": "En Excel 365, un grupo de celdas adyacentes ¿cómo se denomina?:",
+   "opciones": [
+    "Rango.",
+    "Asociación.",
+    "Referencia.",
+    "Grupo."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "x-ex-01-002",
+   "tema": "excel",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 2,
+   "enunciado": "De los siguientes elementos, ¿cuál NO aparece en la pantalla de inicio de Excel?",
+   "opciones": [
+    "Libro en blanco.",
+    "Plantillas.",
+    "Asistente de funciones.",
+    "Opciones de Excel."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "x-ex-01-003",
+   "tema": "excel",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 3,
+   "enunciado": "Indica cuál es el nombre por defecto de un archivo de Excel:",
+   "opciones": [
+    "Excel1",
+    "Hoja1",
+    "Libro1",
+    "Lib1"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "x-ex-01-004",
+   "tema": "excel",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 4,
+   "enunciado": "¿Qué cálculo puede realizar Excel para mostrarnos en la barra de estado?",
+   "opciones": [
+    "Promedio.",
+    "Desviación estándar.",
+    "Varianza.",
+    "Moda."
+   ],
+   "correcta": 0
+  }
+ ]
+}

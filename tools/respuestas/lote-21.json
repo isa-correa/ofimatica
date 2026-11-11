@@ -1,0 +1,282 @@
+{
+"w-au-20-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Aumentar y disminuir sangría (pág. 31)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Centrar el texto es una alineación (Ctrl + T), no una sangría.",
+    "No. Mover el párrafo hacia la derecha, alejándolo del margen, es lo que hace **Aumentar sangría**.",
+    "Es esta. **Disminuir sangría** acerca el párrafo al margen, reduciendo su nivel de sangría. **Aumentar sangría** hace lo contrario.",
+    "No. Borrar los bordes se hace desde el botón Bordes. Disminuir sangría no los toca."
+  ]
+},
+"w-au-20-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Alineación (pág. 32)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. La **justificada** ajusta el espacio entre palabras para que las líneas queden alineadas a ambos lados, salvo la última. La **distribuida** también reparte la última línea entre ambos márgenes, y para ello puede aumentar el espacio entre palabras y caracteres.",
+    "No. La predeterminada es la alineación a la **izquierda**.",
+    "No. El interlineado es independiente de la alineación. El predefinido es múltiple en 1,16.",
+    "No. La alineación distribuida no añade márgenes. Reparte el texto entre los que ya hay."
+  ],
+  "ojo": "La clave es la última línea: la justificada la deja como está, y la distribuida la estira hasta el margen derecho (Ctrl + Mayús + J)."
+},
+"w-au-20-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Sangrías simétricas (pág. 35)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No aplica sangrías automáticas: cambia cómo se interpretan las sangrías izquierda y derecha.",
+    "No. No iguala el margen de ambos lados: la izquierda pasa a ser “Interior” y la derecha, “Exterior”.",
+    "Es esta. Se usa para documentos que se imprimen a **doble cara** y se encuadernan: la sangría interior va hacia la unión y la exterior hacia el borde de la hoja.",
+    "No. No activa ningún modo de diseño de doble página. Las páginas enfrentadas se configuran con los márgenes simétricos."
+  ]
+},
+"w-au-20-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Fuente, Versalitas (pág. 28)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Convertir a minúsculas se hace con Cambiar mayúsculas y minúsculas. Las versalitas dejan mayúsculas.",
+    "Es esta. Las **versalitas** convierten las minúsculas en mayúsculas de menor tamaño, mientras las que ya eran mayúsculas conservan un tamaño mayor.",
+    "No. No sustituye los estilos tipográficos: es un efecto de fuente.",
+    "No. El sombreado de texto es un efecto de texto distinto."
+  ]
+},
+"w-au-20-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Fuente, Estilo de subrayado (pág. 28)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. No se limita a uno: hay una lista de estilos de subrayado.",
+    "No. No es un estilo fijo en rojo. El color del subrayado se cambia aparte, con “Color de subrayado”.",
+    "Es esta. El cuadro Fuente ofrece **17 tipos** de subrayado. Por defecto no se aplica ninguno, y se puede cambiar su color.",
+    "No. El ondulado es solo uno de los 17 tipos."
+  ]
+},
+"w-au-20-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Fuente, Oculto (pág. 28)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Es al revés: el texto oculto no se imprime de forma predeterminada.",
+    "Es esta. El efecto **Oculto** oculta el texto seleccionado, y no se imprime de forma predeterminada. Se puede ver activando las marcas de formato.",
+    "No. No se reemplaza por ningún símbolo.",
+    "No. Se oculta en todas las vistas, no solo en Diseño web."
+  ]
+},
+"w-au-20-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado, Interletraje (pág. 29)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Aumentar el espacio entre todos los caracteres es el espaciado expandido.",
+    "No. Justificar el texto es una alineación de párrafo.",
+    "Es esta. El **interletraje para fuentes** ajusta automáticamente el espacio entre determinados pares de caracteres, como AV, para mejorar su apariencia visual.",
+    "No. El interletraje no cambia el tamaño de fuente."
+  ]
+},
+"w-au-20-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 3. Iniciando Word, plantilla Normal.dotm (pág. 2) y 4.2 Espaciado (pág. 35)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El espaciado posterior por defecto es de 8 puntos, no de 12.",
+    "Es esta. En Normal.dotm el espaciado anterior es de **0 puntos** y el posterior, de **8 puntos**.",
+    "No. No hay 1,5 puntos antes y después. Los valores son 0 antes y 8 después.",
+    "No. Está al revés: son 0 antes y 8 después."
+  ]
+},
+"w-au-20-011": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Lista multinivel (pág. 30)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. 5 niveles se quedan cortos: Word admite hasta 9.",
+    "No. 7 niveles se quedan cortos: Word admite hasta 9.",
+    "Es esta. Word admite hasta **9 niveles** en una lista multinivel.",
+    "No. 10 se pasa por uno: el máximo son 9."
+  ]
+},
+"w-au-20-012": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Líneas y saltos de página (pág. 38)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El párrafo no queda inmovilizado. Solo se evita que se parta entre páginas.",
+    "Es esta. **Conservar líneas juntas** evita que las líneas del párrafo queden repartidas entre dos páginas, manteniéndolo entero en la misma.",
+    "No. No impide la edición del párrafo. Para eso están las opciones de proteger el documento.",
+    "No. No aplica ninguna sangría."
+  ]
+},
+"w-au-20-013": {
+  "bloque": "word-referencias",
+  "precepto": "Tema 4 · 4.6 Ficha Referencias, Notas al pie y notas al final (pág. 82)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Un comentario emergente es un comentario de revisión. La nota al pie es parte del contenido del documento.",
+    "No. Una anotación al final del documento es una **nota al final**, no al pie.",
+    "Es esta. La **nota al pie** aparece al final de la página donde está la referencia. Se inserta con Ctrl + Alt + O.",
+    "No. Un hipervínculo oculto no tiene nada que ver con una nota al pie."
+  ]
+},
+"w-au-20-014": {
+  "bloque": "word-referencias",
+  "precepto": "Tema 4 · 4.6 Ficha Referencias, Título y tabla de ilustraciones (págs. 83 y 84)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Word genera una **tabla de ilustraciones** a partir de los títulos: una lista con el nombre del objeto, su número y su página, ordenada por página. Cada entrada funciona como un vínculo al elemento.",
+    "No. La tabla de contenido se genera a partir de los títulos de los apartados, no de los títulos de ilustraciones.",
+    "No. Insertar la tabla no guarda el documento como plantilla.",
+    "No. No elimina el formato de las ilustraciones."
+  ],
+  "revisar": "Los apuntes (págs. 83 y 84) describen la tabla como una lista con nombre, número y página, pero no dicen que cada entrada sea un hipervínculo. Es el comportamiento por defecto de Word."
+},
+"w-au-20-015": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. **.doc** es el formato de Word 97-2003.",
+    "No. **.docx** es el documento normal, sin macros.",
+    "No. **.dotx** es la plantilla de Word sin macros.",
+    "Es esta. **.docm** es el documento de Word habilitado para macros."
+  ]
+},
+"w-au-20-016": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas (pág. 14)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Los encabezados se editan desde Insertar.",
+    "No. Los sinónimos se buscan en Revisar (Mayús + F7).",
+    "Es esta. **Inspeccionar documento** busca propiedades, datos personales y otra información oculta del archivo, para revisarla antes de compartirlo.",
+    "No. Los pies de página se insertan desde Insertar."
+  ]
+},
+"w-au-20-017": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles (pág. 25)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. 10 se queda corto: el máximo son 24 elementos.",
+    "Es esta. El panel del Portapapeles almacena como máximo **24 elementos**.",
+    "No. 100 es demasiado: el máximo son 24.",
+    "No. No es ilimitado: el máximo son 24 elementos."
+  ]
+},
+"w-au-20-018": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, Inspector de estilo (pág. 45)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Los errores ortográficos los marca el corrector (Editor), no el inspector de estilo.",
+    "Es esta. El **Inspector de estilo** se activa desde el **panel de estilos** y muestra qué estilos y formatos están aplicados en cada parte del documento. Además permite borrarlos.",
+    "No. No se activa desde Vista ni aplica macros.",
+    "No. Sí se puede activar en Word 365, desde el panel de estilos."
+  ]
+},
+"x-of-01-001": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 4.1 Fórmulas y funciones (pág. 12)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Las fórmulas se introducen, de forma estándar, comenzando por el signo **igual (=)**. También se puede empezar con el signo más (+).",
+    "No. La barra (/) es el operador de la división, pero no inicia una fórmula.",
+    "No. El signo del dólar ($) se usa en las referencias absolutas, como $A$1. No inicia una fórmula.",
+    "No. El ampersand (&) es el operador de concatenación de texto. No inicia una fórmula."
+  ],
+  "revisar": "Los apuntes (pág. 12) dicen que una fórmula empieza por = o por +. Aquí solo aparece el = entre las opciones. La función de /, $ y & como operadores o símbolos sale del conocimiento general de Excel."
+},
+"x-of-01-002": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 4.1 Fórmulas y funciones, valores constantes (pág. 13)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Una **fórmula** empieza por el signo igual (o más).",
+    "No. Una **función** es una fórmula predefinida de Excel, con nombre y argumentos, y se introduce dentro de una fórmula con el signo igual.",
+    "No. “Variable” no es un tipo de contenido de las celdas de Excel.",
+    "Es esta. Un valor **constante** se introduce directamente en la celda, sin el signo igual. Puede ser numérico o de texto."
+  ]
+},
+"x-of-01-003": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 6)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Un **rango** es la selección de dos o más celdas contiguas, y se nombra con la celda superior izquierda y la inferior derecha separadas por dos puntos.",
+    "No. “Asociación” no es un término de Excel.",
+    "No. La **referencia** es el nombre de una celda individual, como A1.",
+    "No. “Grupo” no es el nombre de un conjunto de celdas adyacentes."
+  ]
+},
+"x-of-01-004": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 6)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. B2:B2 es una sola celda, un rango de una celda.",
+    "No. $B$2:$C$4 es un rango continuo, con referencias absolutas.",
+    "No. B2:C4 es un rango continuo: todas las celdas son contiguas.",
+    "Es esta. Un rango **discontinuo** está formado por dos o más áreas no adyacentes, separadas por punto y coma: **B2:C2;B4:C4**. Se seleccionan con la tecla Ctrl."
+  ]
+},
+"x-of-01-005": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Recuperación de libros no guardados (pág. 4)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Excel no guarda cada cambio de forma permanente automáticamente si el archivo nunca se ha guardado. Lo que existe son copias temporales.",
+    "Es esta. Si existen copias temporales de la **Autorrecuperación**, se pueden recuperar desde **Archivo > Información > Administrar libro > Recuperar libros no guardados**.",
+    "No. No hace falta que el archivo estuviera en un pendrive o disco externo.",
+    "No. Sí es posible recuperarlo, mientras existan las copias temporales de la Autorrecuperación."
+  ]
+},
+"x-ex-01-001": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Área de trabajo (pág. 6)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Un **rango** es la selección de dos o más celdas contiguas, como A1:C6.",
+    "No. “Asociación” no es un término de Excel.",
+    "No. La **referencia** es el nombre de una celda concreta, como A1.",
+    "No. “Grupo” no es el nombre de un conjunto de celdas adyacentes."
+  ]
+},
+"x-ex-01-002": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, pantalla de inicio (pág. 1) y barra de fórmulas (pág. 8)",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. El **libro en blanco** aparece en la pantalla de inicio.",
+    "Es verdadera, así que no se marca. Las **plantillas** aparecen en la pantalla de inicio.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El **asistente de funciones** (el botón Insertar función de la barra de fórmulas) no está en la pantalla de inicio, sino en el área de trabajo.",
+    "Es verdadera, así que no se marca. Desde la pantalla de inicio se accede a la cuenta y a las **opciones** del programa."
+  ]
+},
+"x-ex-01-003": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Barra de título (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. “Excel1” no es el nombre por defecto.",
+    "No. **Hoja1** es el nombre por defecto de la hoja, no del archivo.",
+    "Es esta. El nombre por defecto del archivo es **Libro1**, Libro2, Libro3... Los archivos de Excel se llaman libros.",
+    "No. “Lib1” no es el nombre por defecto."
+  ],
+  "revisar": "Los apuntes (págs. 1 y 2) dan Libro1 como nombre del libro. Que la hoja se llame Hoja1 por defecto sale del conocimiento general de Excel."
+},
+"x-ex-01-004": {
+  "bloque": "excel-general",
+  "precepto": "Tema 5 · 2. Interfaz de Excel, Barra de estado (pág. 9)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. La barra de estado puede mostrar cálculos sencillos como la **suma** o el **promedio** de los valores numéricos de las celdas seleccionadas.",
+    "No. La desviación estándar no es un cálculo de la barra de estado.",
+    "No. La varianza no es un cálculo de la barra de estado.",
+    "No. La moda no es un cálculo de la barra de estado."
+  ],
+  "revisar": "Los apuntes (pág. 9) citan suma y promedio como ejemplo. Que desviación, varianza y moda no se ofrezcan sale de la interfaz de Excel (ofrece promedio, recuento, mínimo, máximo y suma)."
+}
+}

@@ -1,0 +1,290 @@
+{
+ "w-of-01-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Proteger documento, Marcar como final (pág. 13)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Controlar qué tipos de cambios se pueden hacer es lo que hace **Restringir edición**, otra opción distinta dentro de “Proteger documento”.",
+   "No. Garantizar la autenticidad e integridad es cosa de **Agregar una firma digital**. Marcar como final no firma nada.",
+   "Es esta. **Marcar como final** avisa a quien lo abra de que el documento es definitivo y desactiva las opciones de edición: se activa el modo de **solo lectura**. Ruta: Archivo > Información > Proteger documento.",
+   "No. Pedir una contraseña para abrir el documento es **Cifrar con contraseña**. Marcar como final no pide ninguna."
+  ],
+  "ojo": "Marcar como final no es una protección real: avisa y pone solo lectura, pero se puede volver a editar con un clic. Las contraseñas y las firmas son opciones aparte."
+ },
+ "w-of-01-002": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de herramientas de acceso rápido (pág. 10)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La **barra de estado** está abajo del todo y da información del documento (página, palabras, idioma, vistas, zoom). No tiene Guardar ni Deshacer.",
+   "No. La “barra de programación” no existe en el entorno de Word que explican los apuntes.",
+   "Es esta. La **Barra de herramientas de acceso rápido** muestra por defecto Autoguardado, Guardar, Deshacer y Rehacer. Se pueden añadir o quitar botones, moverla debajo de la cinta u ocultarla.",
+   "No. La **barra de tareas** es del sistema operativo (Windows), no de Word."
+  ]
+ },
+ "w-of-01-003": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones de Word, Presentación (pág. 5)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En **Presentación** se configura cómo se ve el documento en pantalla y cómo se imprime: colores e imágenes de fondo, propiedades del documento, texto oculto y las marcas de formato que se muestran.",
+   "No. **General** recoge aspectos de la interfaz del programa, como el fondo o el tema de Office. Nada de impresión.",
+   "No. **Revisión** trata de la corrección: Autocorrección, Autoformato mientras escribe y corrector de ortografía y gramática.",
+   "No. **Idioma** sirve para elegir los idiomas de edición y corrección, no para opciones de impresión."
+  ],
+  "ojo": "Las opciones de impresión de Word (las de Opciones) están en Presentación, no confundir con Archivo > Imprimir, que es otra pantalla."
+ },
+ "w-of-01-004": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4. Área de trabajo, Barra de estado, Contar palabras (pág. 11) y 4.8.1 Grupo Revisión (pág. 88)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En el cuadro **Contar palabras** no aparecen “caracteres especiales” ni “fórmulas”. Esas dos estadísticas se las han añadido.",
+   "Es esta. El cuadro **Contar palabras** muestra páginas, palabras, caracteres (sin espacios y con espacios), párrafos y líneas. Se abre desde Revisar > Revisión o pulsando el indicador de palabras de la barra de estado.",
+   "No. Se quedan cortas: faltan los caracteres, con y sin espacios.",
+   "No. Falta la estadística de **párrafos**, que sí aparece."
+  ],
+  "revisar": "El contenido exacto del cuadro Contar palabras no viene detallado en los apuntes (solo dicen cómo abrirlo). La explicación se basa en el cuadro real de Word 365."
+ },
+ "w-of-01-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 3. Opciones de Word, Presentación (pág. 5) y Ficha Inicio, grupo Párrafo (cinta de opciones, pág. 3)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La **vista Esquema** sirve para trabajar con los niveles de títulos del documento (Vista > Esquema). No muestra marcas de formato.",
+   "No. El **Investigador** es un panel para buscar información de referencia. No tiene que ver con las marcas de formato.",
+   "Es esta. **Mostrar todo** (el botón ¶ del grupo Párrafo, en Inicio) enseña las marcas de formato: tabulaciones, espacios, marcas de párrafo y saltos de página.",
+   "No. **Editor** (tecla F7) revisa ortografía, gramática y estilo. No muestra símbolos de formato."
+  ]
+ },
+ "w-of-01-006": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla ALT (pág. 3) y Tema 4 · 4. Área de trabajo (pág. 9)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La revisión de ortografía y gramática con su panel es el **Editor**, que se abre con **F7**. No es lo que hace Alt.",
+   "No. Abrir “Guardar como” se hace con **F12**. Alt no lleva a la ficha Archivo > Guardar como por sí sola.",
+   "Es esta. Al mantener pulsada **Alt** aparecen sobre la cinta las **teclas de acceso** (letras y números). Pulsándolas después de Alt se llama a esa función, por ejemplo ALT + O para la ficha Inicio o ALT + R para Revisar.",
+   "No. El Modo de lectura se elige en los botones de vistas de la barra de estado o en la ficha Vista. Alt no cambia la vista."
+  ]
+ },
+ "w-of-01-007": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de estado (pág. 11)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La **cinta de opciones** agrupa los comandos en fichas y grupos. No muestra datos del documento.",
+   "No. El **panel de navegación** permite moverse por títulos, páginas y resultados de búsqueda. Se abre al pulsar el número de página de la barra de estado, pero no es donde se muestra esa información.",
+   "No. La **barra de herramientas de acceso rápido** tiene botones como Guardar y Deshacer, no datos del documento.",
+   "Es esta. La **barra de estado** informa del documento que estamos editando: número de página, palabras, idioma, vistas y zoom. Se personaliza con el botón secundario."
+  ]
+ },
+ "w-of-01-008": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Barra de herramientas de acceso rápido (pág. 10)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las opciones de configuración están en **Archivo > Opciones**, no en esta barra.",
+   "Es esta. Ofrece **acceso rápido a los comandos más usados** (Autoguardado, Guardar, Deshacer, Rehacer). Se pueden añadir o quitar comandos a gusto de cada persona.",
+   "No. Agrupar y organizar todas las herramientas de Word es el trabajo de la **cinta de opciones**, con sus fichas y grupos.",
+   "No. Enseñar información del documento (página, palabras, idioma) es la **barra de estado**."
+  ]
+ },
+ "w-of-01-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 3. Iniciando Word, plantilla Normal.dotm (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La **justificada** hay que aplicarla tú (Ctrl + J). No viene por defecto.",
+   "Es esta. El documento en blanco se basa en la plantilla **Normal.dotm**, cuya alineación es **izquierda**. Acompañan a la alineación: fuente Aptos tamaño 12, espaciado anterior 0 y posterior 8, interlineado múltiple 1,16.",
+   "No. La **centrada** se aplica a mano, típicamente en títulos.",
+   "No. La **derecha** tampoco es la predeterminada."
+  ],
+  "ojo": "Los datos de Normal.dotm se preguntan mucho: alineación izquierda, Aptos 12, interlineado 1,16, espaciado posterior 8."
+ },
+ "w-of-01-010": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Proteger documento, Cifrar con contraseña (pág. 13)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los apuntes no hablan de ninguna obligación de mezclar números y letras. La contraseña distingue mayúsculas de minúsculas, y nada más.",
+   "No. Word no obliga a usar mayúsculas, minúsculas y un carácter especial. Es una buena práctica, pero no una obligación del programa.",
+   "No. Lo que dicen los apuntes es el límite contrario: como **máximo** 15 caracteres. No se habla de un mínimo de cuatro.",
+   "Es esta. Con **Cifrar con contraseña** hay que **guardar el documento** para que la contraseña entre en vigor."
+  ],
+  "ojo": "Dos datos de la contraseña de Word: máximo 15 caracteres y distingue mayúsculas de minúsculas.",
+  "revisar": "Que Word no obliga a mezclar tipos de caracteres ni exige un mínimo no está dicho tal cual en los apuntes, que solo mencionan el máximo de 15 y la necesidad de guardar. Se explica con lo que se sabe de Word 365."
+ },
+ "w-of-02-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **.dotx** es la plantilla de Word (sin macros). Truco: la **t** de .dotx es de **t**emplate, plantilla, y la **x** indica el formato moderno, sin macros.",
+   "No. **.odt** es el formato Texto de Open Document, el de LibreOffice y OpenOffice. No es una plantilla de Word.",
+   "No. **.docx** es el documento normal de Word. No es plantilla.",
+   "No. **.txt** es texto sin formato."
+  ]
+ },
+ "w-of-02-002": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Esa descripción (documento habilitado para macros) corresponde a **.docm**, no a .dotm. Además, el código de macros de Office no es PHP.",
+   "Es esta. **.dotm** es la **plantilla habilitada con macros** de Word. La **m** final es de macros.",
+   "No. Esa es la descripción de **.dotx**, la plantilla que no contiene macros.",
+   "No. El documento binario de Word 97-2003 es **.doc**."
+  ],
+  "ojo": "La tercera letra marca el tipo: d-o-c es documento, d-o-t es plantilla. La última letra marca la tecnología: x sin macros, m con macros."
+ },
+ "w-of-02-003": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **.dotm** es una plantilla con macros, no un documento.",
+   "No. **.docx** es el documento de Word sin macros.",
+   "No. **.dotx** es una plantilla sin macros.",
+   "Es esta. **.docm** es el documento de Word habilitado para macros (doc de documento, m de macros)."
+  ]
+ },
+ "w-of-02-004": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas (pág. 14) y Proteger documento (pág. 13)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. **Restringir edición** pertenece a **Proteger documento**, no a Comprobar si hay problemas.",
+   "Es verdadera, así que no se marca. **Inspeccionar documento** busca propiedades, datos personales e información oculta.",
+   "Es verdadera, así que no se marca. **Comprobar compatibilidad** detecta características que pueden no funcionar en versiones anteriores de Word.",
+   "Es verdadera, así que no se marca. **Comprobar accesibilidad** detecta problemas que dificultan el acceso a personas con discapacidad."
+  ],
+  "ojo": "Comprobar si hay problemas tiene tres opciones: Inspeccionar documento, Comprobar accesibilidad y Comprobar compatibilidad."
+ },
+ "w-of-02-005": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Comprobar si hay problemas, Comprobar accesibilidad (pág. 14)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La corrección gramatical y ortográfica es cosa del **Editor** (Revisar > Editor o tecla F7).",
+   "No. Medir lo difícil de adivinar que es una contraseña no es una función de Word. Cifrar con contraseña solo la establece.",
+   "No. Ver quién tiene acceso a una carpeta compartida se gestiona al compartir, no con el comprobador de accesibilidad.",
+   "Es esta. **Comprobar accesibilidad** detecta posibles problemas que dificultan el acceso al contenido a personas con discapacidad y da recomendaciones para corregirlos."
+  ]
+ },
+ "w-of-02-006": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **DOC** es el documento de Word 97-2003, no una plantilla.",
+   "Es esta. **DOTX** es la extensión de la plantilla de Word (la de Word 97-2003 era .dot).",
+   "No. **DOCX** es el documento normal.",
+   "No. **PPT** es de PowerPoint, no de Word."
+  ]
+ },
+ "w-of-02-007": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas, Inspeccionar documento (pág. 14)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. “Comprobar” a secas no es una opción. Lo que existe es el botón **Comprobar si hay problemas**, que despliega las tres herramientas.",
+   "Es esta. **Inspeccionar documento** busca propiedades, datos personales y otra información oculta que pueda contener el archivo, justo lo que interesa antes de compartirlo.",
+   "No. **Comprobar compatibilidad** avisa de características que no funcionan en versiones antiguas de Word. No busca datos personales.",
+   "No. “Permisos” no es la herramienta que revisa datos personales ocultos. Para limitar lo que otros pueden hacer está Proteger documento."
+  ]
+ },
+ "w-of-02-008": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, Tamaño del papel (pág. 17)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Carta** es más pequeño que A4 en la lista de los apuntes.",
+   "No. **A4** es el tamaño habitual, pero A3 es el doble de grande.",
+   "Es esta. **A3** es el mayor de la lista. Orden de menor a mayor según los apuntes: A5, Ejecutivo, Carta, A4, Oficio, Tabloide, A3.",
+   "No. **Ejecutivo** es de los pequeños: solo A5 es menor."
+  ]
+ },
+ "w-of-02-009": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **docm** es un documento habilitado para macros, no una plantilla.",
+   "Es esta. **dotm** es la plantilla que admite macros y personalizaciones, a diferencia de la dotx, que no las contiene.",
+   "No. **dotx** es una plantilla sin macros, así que no sirve para guardar esas personalizaciones.",
+   "No. **pptx** es la presentación de PowerPoint."
+  ],
+  "revisar": "Los apuntes solo dicen que .dotm es la plantilla habilitada con macros. Que ahí se guarden las personalizaciones de la interfaz es conocimiento de Word, no viene en los apuntes."
+ },
+ "w-of-03-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Subrayado (pág. 26)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El subrayado está en **Inicio > Fuente**. Si se despliega el botón de subrayado, aparecen otros diseños, entre ellos “Más subrayados”.",
+   "No. La ficha **Vista** controla cómo se ve el documento (vistas, zoom, reglas, ventanas). No tiene grupo Fuente.",
+   "No. En **Diseño** están los temas, colores y fondos de página. El grupo Fuente es de Inicio.",
+   "No. En **Insertar** se añaden elementos (tablas, imágenes, encabezados). El formato de fuente no está ahí."
+  ]
+ },
+ "w-of-03-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente (págs. 26 a 29)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El **estilo de fuente** es Normal, Cursiva, Negrita. El superíndice es un **efecto**, no un estilo.",
+   "No. Los **saltos** (de página, de sección) sirven para dividir el documento y se insertan desde Disposición. No dan formato al texto.",
+   "Es esta. El efecto **Superíndice** se marca en el cuadro Fuente, pestaña **Fuente**, en el apartado de efectos. También hay un botón en la cinta (Inicio > Fuente).",
+   "No. En la pestaña **Avanzado**, la **Posición** (Elevada o Bajada) se parece, pero es otra herramienta: permite fijar la altura en puntos. El efecto Superíndice propiamente dicho está en la pestaña Fuente."
+  ],
+  "revisar": "El enunciado y las opciones están redactados con los menús de versiones antiguas de Word (“menú Formato”, “menú Fuente”). Con Word 365 el camino es Inicio > Fuente, o el cuadro Fuente que abre el llamador de grupo."
+ },
+ "w-of-03-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Color de resaltado de texto (pág. 27)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En **Párrafo** están alineación, sangrías, interlineado, viñetas y sombreado. El resaltado de texto no.",
+   "No. “Formato de texto” no es una ficha de la cinta de Word. Las fichas son Archivo, Inicio, Insertar, Diseño, Disposición, Referencias, Correspondencia, Revisar y Vista.",
+   "No. “Formato del documento” es un grupo de la ficha Diseño (temas, estilos), no de resaltado.",
+   "Es esta. El **color de resaltado de texto** está en **Inicio > Fuente**. Pone un color de fondo al texto, como un marcador fluorescente."
+  ]
+ },
+ "w-of-03-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, efectos y pestaña Fuente (págs. 27 y 28)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **tachado** tiene botón propio en la cinta (Inicio > Fuente).",
+   "Es verdadera, así que no se marca. El **superíndice** tiene botón propio en la cinta.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Las **versalitas** solo se activan desde el cuadro Fuente (pestaña Fuente), no hay botón en la cinta.",
+   "Es verdadera, así que no se marca. El **subíndice** tiene botón propio en la cinta."
+  ],
+  "ojo": "En la cinta están tachado, subíndice y superíndice. Doble tachado, versalitas, mayúsculas y oculto, solo en el cuadro Fuente."
+ },
+ "w-of-03-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, cuadro Fuente, pestaña Fuente (págs. 27 y 28)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **tachado** sí es un efecto del cuadro Fuente.",
+   "Es verdadera, así que no se marca. Las **versalitas** sí están entre los efectos del cuadro Fuente.",
+   "Es verdadera, así que no se marca. El **subíndice** sí es un efecto del cuadro Fuente.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **contorno** no aparece entre los efectos del cuadro Fuente que describen los apuntes (tachado, doble tachado, subíndice, superíndice, versalitas, mayúsculas, oculto). Forma parte de los efectos de texto y tipografía, que son otra cosa."
+  ],
+  "revisar": "Los apuntes no mencionan Contorno al hablar del cuadro Fuente. Se concluye por exclusión con la lista de efectos que sí recogen."
+ },
+ "w-of-03-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, estilos y efectos (págs. 26 a 28)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Cursiva** y **subrayado** son estilos de fuente, no efectos. Los efectos son tachado, subíndice, superíndice y similares.",
+   "No. **Negrita** y **subrayado** son estilos de fuente, no efectos.",
+   "No. **Negrita** y **cursiva** son estilos. Además, “versales” no es un efecto de Word: el efecto se llama **versalitas**.",
+   "Es esta. **Versalitas, subíndice, tachado y mayúsculas** son los cuatro efectos del cuadro Fuente y de la cinta. Negrita, cursiva y subrayado son estilos, no efectos."
+  ],
+  "ojo": "Estilos: negrita, cursiva y subrayado. Efectos: tachado, doble tachado, subíndice, superíndice, versalitas, mayúsculas y oculto."
+ }
+}

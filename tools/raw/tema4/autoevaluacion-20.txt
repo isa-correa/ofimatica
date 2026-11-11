@@ -1,0 +1,214 @@
+1.
+¿Qué ocurre con las opciones "Guardar" y "Guardar como" cuando trabajamos con un archivo almacenado en OneDrive y el Autoguardado está activado?
+
+Obtuvo 0 de 1 punto
+
+Ambas opciones permanecen disponibles
+Respuesta equivocada
+Tu respuesta
+Se sustituyen por la opción "Guardar una copia"
+Corregir respuesta
+Se ocultan automáticamente
+Solo se activa "Guardar como" en ese caso
+2.
+¿Qué permite la opción "Mostrar ediciones" dentro del Historial de versiones de Word 365?
+
+Obtuvo 0 de 1 punto
+
+Comparar documentos distintos
+Respuesta equivocada
+Tu respuesta
+Modificar versiones anteriores directamente
+Ver todos los cambios realizados en cada versión
+Corregir respuesta
+Eliminar las versiones antiguas del documento
+3.
+En el grupo "Párrafo", ¿qué función tiene el comando "Disminuir sangría"?
+
+Obtuvo 0 de 1 punto
+
+Centrar el texto automáticamente
+Respuesta equivocada
+Tu respuesta
+Mover el párrafo hacia la derecha
+Acercar el párrafo al margen izquierdo
+Corregir respuesta
+Borrar todos los bordes aplicados
+4.
+¿Cuál es la principal diferencia entre la alineación justificada y la alineación distribuida?
+
+Obtuvo 1 de 1 punto
+
+La justificada aplica espacio solo entre palabras, la distribuida también entre caracteres
+Corregir respuesta
+Tu respuesta
+La distribuida es la predeterminada
+La justificada usa interlineado múltiple
+La distribuida añade márgenes automáticos
+5.
+¿Qué propósito tiene la opción "Sangrías simétricas"?
+
+Obtuvo 0 de 1 punto
+
+Aplicar sangrías automáticas en todas las páginas
+Respuesta equivocada
+Tu respuesta
+Establecer el mismo margen en ambos lados
+Adaptar la sangría para documentos que se imprimirán a doble cara
+Corregir respuesta
+Activar el modo diseño doble página
+6.
+¿Qué hace la opción "Versalitas" en el cuadro Fuente?
+
+Obtuvo 0 de 1 punto
+
+Convierte todo el texto en minúsculas
+Respuesta equivocada
+Tu respuesta
+Aplica mayúsculas más pequeñas, manteniendo la diferencia con las ya existentes
+Corregir respuesta
+Sustituye los estilos tipográficos
+Aplica sombreado de texto
+7.
+¿Qué tipo de subrayado permite aplicar el cuadro de Fuente, y cuántas variantes tiene?
+
+Obtuvo 0 de 1 punto
+
+Un solo estilo predefinido
+Respuesta equivocada
+Tu respuesta
+Subrayado doble en color rojo
+Hasta 17 tipos distintos de subrayado
+Corregir respuesta
+Solo subrayado ondulado
+8.
+¿Qué sucede al aplicar el efecto "Oculto" a un fragmento de texto?
+
+Obtuvo 0 de 1 punto
+
+Se imprime pero no se muestra en pantalla
+Respuesta equivocada
+Tu respuesta
+Se oculta y no se imprime
+Corregir respuesta
+Se reemplaza por un símbolo
+Solo se oculta en la vista Diseño Web
+9.
+¿Cuál es la función del interletraje para fuentes?
+
+Obtuvo 0 de 1 punto
+
+Aumentar el espaciado entre todos los caracteres
+Respuesta equivocada
+Tu respuesta
+Justificar el texto automáticamente
+Ajustar el espacio entre pares de caracteres para mejorar la estética
+Corregir respuesta
+Reducir el tamaño de fuente en los encabezados
+10.
+¿Qué espaciado predeterminado se aplica entre párrafos en Word 365 según la plantilla Normal.dotm?
+
+Obtuvo 0 de 1 punto
+
+0 puntos antes y 12 después
+Respuesta equivocada
+Tu respuesta
+0 puntos antes y 8 después
+Corregir respuesta
+1,5 puntos antes y después
+8 puntos antes y 0 después
+11.
+¿Cuántos niveles jerárquicos se pueden establecer como máximo en una lista multinivel?
+
+Obtuvo 0 de 1 punto
+
+5
+Respuesta equivocada
+Tu respuesta
+7
+9
+Corregir respuesta
+10
+12.
+¿Cuál es el efecto de activar "Conservar líneas juntas" en la configuración de párrafo?
+
+Obtuvo 0 de 1 punto
+
+El párrafo se vuelve inmóvil
+Respuesta equivocada
+Tu respuesta
+El párrafo se mantiene unido en una sola página
+Corregir respuesta
+Se impide la edición del párrafo
+Se aplica sangría doble
+13.
+¿Qué es una nota al pie en Word?
+
+Obtuvo 0 de 1 punto
+
+Un comentario emergente
+Respuesta equivocada
+Tu respuesta
+Una anotación que se inserta al final del documento
+Una aclaración que aparece al pie de la misma página donde se hace la referencia
+Corregir respuesta
+Un hipervínculo oculto
+14.
+¿Qué ocurre si se insertan títulos a los objetos del documento y luego se usa la función "Insertar tabla de ilustraciones"?
+
+Obtuvo 1 de 1 punto
+
+Word crea una tabla con hipervínculos a dichos elementos
+Corregir respuesta
+Tu respuesta
+Word inserta una tabla de contenidos
+El documento se guarda como plantilla
+Se elimina el formato de las ilustraciones
+15.
+¿Qué extensión usa Word para guardar un documento habilitado para macros?
+
+Obtuvo 0 de 1 punto
+
+.doc
+Respuesta equivocada
+Tu respuesta
+.docx
+.dotx
+.docm
+Corregir respuesta
+16.
+¿Para qué sirve el comando "Inspeccionar documento" en la ficha Archivo?
+
+Obtuvo 0 de 1 punto
+
+Editar encabezados
+Respuesta equivocada
+Tu respuesta
+Buscar sinónimos
+Detectar datos ocultos o personales antes de compartir un archivo
+Corregir respuesta
+Insertar pie de página
+17.
+¿Cuál es la capacidad máxima del portapapeles de Word 365 según el grupo Portapapeles?
+
+Obtuvo 0 de 1 punto
+
+10 elementos
+Respuesta equivocada
+Tu respuesta
+24 elementos
+Corregir respuesta
+100 elementos
+Ilimitado
+18.
+¿Cómo se activa el Inspector de Estilo y qué muestra?
+
+Obtuvo 0 de 1 punto
+
+Desde la cinta Inicio > muestra errores ortográficos
+Respuesta equivocada
+Tu respuesta
+Desde el panel de estilos > muestra qué formatos están aplicados en cada parte del documento
+Corregir respuesta
+Desde el grupo Vista > aplica macros
+No se puede activar en Word 365

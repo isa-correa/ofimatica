@@ -1,0 +1,212 @@
+1.
+¿Qué tipo de programa es Microsoft Excel 365?
+
+Obtuvo 0 de 1 punto
+
+a) Navegador web.
+Respuesta equivocada
+Tu respuesta
+b) Hoja de cálculo.
+Corregir respuesta
+c) Procesador de texto.
+d) Gestor de bases de datos.
+2.
+¿Cuál es el nombre por defecto de un libro de Excel?
+
+Obtuvo 0 de 1 punto
+
+a) Hoja1
+Respuesta equivocada
+Tu respuesta
+b) Documento1
+c) Libro1
+Corregir respuesta
+d) Base1
+3.
+¿Cuál de las siguientes afirmaciones sobre la "caja de búsqueda" en Excel 365 es correcta?
+
+Obtuvo 0 de 1 punto
+
+a) Solo permite buscar acciones recientes realizadas en el libro actual.
+Respuesta equivocada
+Tu respuesta
+b) Es una función ubicada en la barra de fórmulas que permite buscar celdas por su contenido.
+c) Ofrece resultados que incluyen acciones recientes, sugerencias, ayuda y búsqueda dentro del libro.
+Corregir respuesta
+d) Solo está disponible si el archivo está almacenado en OneDrive.
+4.
+¿Dónde se encuentra la opción para restaurar una versión anterior de un libro en Excel 365?
+
+Obtuvo 0 de 1 punto
+
+a) En la ficha "Inicio", grupo "Historial".
+Respuesta equivocada
+Tu respuesta
+b) En la opción "Archivo > Información" o haciendo clic sobre el nombre del libro en la barra de título.
+Corregir respuesta
+c) En la barra de herramientas de acceso rápido, mediante el botón "Restaurar".
+d) Dentro de la ficha "Datos", grupo "Herramientas de datos".
+5.
+¿Qué extensión por defecto tiene un libro de Excel 365?
+
+Obtuvo 0 de 1 punto
+
+a) .xls
+Respuesta equivocada
+Tu respuesta
+b) .xml
+c) .xlsm
+d) .xlsx
+Corregir respuesta
+6.
+¿Cuál es la extensión de una plantilla de Excel?
+
+Obtuvo 0 de 1 punto
+
+a) .xlsx
+Respuesta equivocada
+Tu respuesta
+b) .xlt
+c) .xltx
+Corregir respuesta
+d) .xlmt
+7.
+¿Qué tipo de archivo de Excel se corresponde con la extensión .xlsm?
+
+Obtuvo 1 de 1 punto
+
+a) Libro habilitado para macros
+Corregir respuesta
+Tu respuesta
+b) Libro de Excel para versiones 97-2003
+c) Plantilla de Excel
+d) Libro de Excel para versiones 97-2003
+8.
+En una hoja de cálculo Excel, por el concepto de rango se entiende el: (Aux AGE 2005)
+
+Obtuvo 0 de 1 punto
+
+a) Grupo de celdas que contienen valores numéricos, referenciados por la dirección de cada una de las celdas.
+Respuesta equivocada
+Tu respuesta
+b) Dos o más celdas de una hoja.
+c) Grupo de celdas contiguas.
+Corregir respuesta
+d) Grado de complejidad asociado a una fórmula matricial.
+9.
+¿Cuál de las siguientes referencias a un rango es correcto? (Aux AGE 2006)
+
+Obtuvo 0 de 1 punto
+
+a) A1;D6
+Respuesta equivocada
+Tu respuesta
+b) A1:D6
+Corregir respuesta
+c) A1&D6
+d) A1.D6
+10.
+En Excel 365, un grupo de celdas adyacentes se denomina:
+
+Obtuvo 0 de 1 punto
+
+a) Referencia.
+Respuesta equivocada
+Tu respuesta
+b) Asociación.
+c) Rango.
+Corregir respuesta
+d) Grupo.
+11.
+De las siguientes opciones enumeradas, ¿cuál NO está disponible en el menú contextual de una etiqueta de hoja?
+
+Obtuvo 0 de 1 punto
+
+a) Insertar
+Respuesta equivocada
+Tu respuesta
+b) Proteger hoja
+c) Color de pestaña
+d) Guardar hoja
+Corregir respuesta
+12.
+¿Cuáles son los límites mínimo y máximo del zoom en Excel?
+
+Obtuvo 0 de 1 punto
+
+a) 10%-300%
+Respuesta equivocada
+Tu respuesta
+b) 1%-400%
+c) 10%-500%
+d) 10%-400%
+Corregir respuesta
+13.
+Si estamos escribiendo en una celda por primera vez (en una celda en blanco) ¿qué nos muestra la barra de estado?
+
+Obtuvo 0 de 1 punto
+
+a) Listo
+Respuesta equivocada
+Tu respuesta
+b) Modificar
+c) Introducir
+Corregir respuesta
+d) Escribir
+14.
+Señala cuál de las siguientes no es una función del cuadro de nombres:
+
+Obtuvo 1 de 1 punto
+
+a) Nombrar hojas.
+Corregir respuesta
+Tu respuesta
+b) Seleccionar celdas.
+c) Desplazarnos de celda.
+d) Seleccionar una fila.
+15.
+¿Cómo nos desplazamos a la celda A1?
+
+Obtuvo 0 de 1 punto
+
+a) Pulsando Ctrl + 1
+Respuesta equivocada
+Tu respuesta
+b) Pulsando Ctrl + A + 1
+c) Pulsando Ctrl + Inicio
+Corregir respuesta
+d) Pulsando AvPag
+16.
+Para desplazarnos a la primera celda modificada de la columna activa pulsaremos…
+
+Obtuvo 1 de 1 punto
+
+a) Pulsando Ctrl + flecha arriba
+Corregir respuesta
+Tu respuesta
+b) Pulsando Ctrl + flecha derecha
+c) Pulsando May + flecha arriba
+d) Pulsando May + flecha derecha
+17.
+¿Cómo podemos modificar el contenido de una celda?
+
+Obtuvo 0 de 1 punto
+
+a) Pulsando F2.
+Respuesta equivocada
+Tu respuesta
+b) Haciendo doble clic en ella.
+c) Desde la barra de fórmulas.
+d) Todas son correctas.
+Corregir respuesta
+18.
+¿Qué tecla debemos mantener pulsada si queremos hacer una selección discontinua de celdas de una hoja de Excel?
+
+Obtuvo 1 de 1 punto
+
+a) CTRL
+Corregir respuesta
+Tu respuesta
+b) MAY
+c) TAB
+d) Intro

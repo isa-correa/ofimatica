@@ -1,0 +1,295 @@
+{
+ "w-of-04-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sombreado (pág. 31)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las sombras en el marco o borde de un objeto son un efecto de formas e imágenes. El **Sombreado** del grupo Párrafo no dibuja sombras.",
+   "No. Colorear las letras es el **color de fuente** (grupo Fuente). El sombreado no toca las letras.",
+   "No. Una sombra en las letras es un **efecto de texto** (grupo Fuente). Aunque se llame “sombreado”, lo que hace es otra cosa.",
+   "Es esta. El **Sombreado** (Inicio > Párrafo) aplica un **color de fondo** al texto o párrafo seleccionado. También se puede aplicar al fondo de una tabla."
+  ],
+  "ojo": "“Sombreado” suena a sombra, pero es un color de fondo. Para colorear solo el fondo de unas palabras, como un fosforito, está el resaltado de texto del grupo Fuente."
+ },
+ "w-of-04-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Alineación (págs. 31 y 32)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La alineación **derecha** aparece en el cuadro Párrafo y en la cinta.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La **distribuida** existe en Word, pero no se muestra en el cuadro Párrafo: se aplica con la combinación **Ctrl + May + J**.",
+   "Es verdadera, así que no se marca. La alineación **centrada** aparece en el cuadro Párrafo y en la cinta.",
+   "Es verdadera, así que no se marca. La alineación **justificada** aparece en el cuadro Párrafo y en la cinta."
+  ],
+  "ojo": "Tanto en el cuadro Párrafo como en la cinta se muestran 4 alineaciones: izquierda, centrada, derecha y justificada. La distribuida es la quinta, escondida."
+ },
+ "w-of-04-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, pestaña Sangría y espacio, Sangrías (págs. 33 y 34)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La sangría **especial francesa** desplaza todo el párrafo hacia la derecha, menos la primera línea. Por defecto mide 1,25 cm.",
+   "No. La sangría **derecha** añade espacio entre el párrafo y el margen derecho. No empuja el texto hacia la derecha.",
+   "No. La sangría **izquierda** aleja del margen izquierdo el párrafo entero, primera línea incluida.",
+   "No. La sangría de **1ª línea** hace lo contrario: desplaza solo la primera línea y el resto se queda en su sitio."
+  ],
+  "ojo": "Primera línea y francesa son opuestas. En la primera línea se mueve solo la primera. En la francesa se mueven todas menos la primera."
+ },
+ "w-of-04-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, pestaña Líneas y saltos de página (págs. 36 a 38)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Conservar líneas juntas** está en la pestaña Líneas y saltos de página: evita que las líneas de un mismo párrafo queden repartidas entre dos páginas.",
+   "No. El **interlineado de 1,5 líneas** se elige en Inicio > Párrafo > Interlineado, o con Ctrl + 5. No está en esta pestaña.",
+   "No. El **espaciado posterior** está en la otra pestaña del cuadro Párrafo, Sangría y espacio.",
+   "No. Ojo, porque el **control de líneas viudas y huérfanas** también es una casilla de esta pestaña, de hecho viene marcada por defecto. Mira el aviso."
+  ],
+  "ojo": "La pestaña Líneas y saltos de página recoge: control de líneas viudas y huérfanas, conservar con el siguiente, conservar líneas juntas, salto de página anterior, suprimir números de línea y no dividir con guiones.",
+  "revisar": "Dos opciones parecen válidas: Conservar líneas juntas (la de la plantilla, pág. 38) y Control de líneas viudas y huérfanas (pág. 36), que también es una casilla de esa pestaña. Puede que la pregunta original tratase una de ellas como de otra pestaña. Se mantiene la respuesta de la plantilla."
+ },
+ "w-of-04-005": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos MAY + tecla de función (pág. 1)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Ctrl + <** disminuye el tamaño de la fuente. No cambia entre mayúsculas y minúsculas.",
+   "No. **Ctrl + M** abre el cuadro Fuente.",
+   "Es esta. **May + F3** alterna el texto entre primera letra en mayúscula, todo en mayúscula y todo en minúscula. En Inicio > Fuente, el botón equivalente es Cambiar mayúsculas y minúsculas.",
+   "No. **Ctrl + Y** rehace la última acción."
+  ]
+ },
+ "w-of-05-001": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos con tecla CTRL (pág. 1)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Ctrl + A** va a Archivo > Abrir. Los atajos en español son por la inicial del verbo: A de Abrir, G de Guardar.",
+   "No. **Windows + S** es un atajo del sistema operativo (abre la búsqueda de Windows), no de Word.",
+   "Es esta. **Ctrl + G** guarda el documento (G de Guardar). Si quieres elegir nombre, es F12 (Guardar como).",
+   "No. **Windows + U** es de Windows (abre accesibilidad), no de Word."
+  ]
+ },
+ "w-of-05-002": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, Temas, grupo Formato del documento (pág. 66)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El grupo Párrafo de Inicio da formato a los párrafos que seleccionas (alineación, sangría, interlineado). No cambia el diseño general de todos los títulos y subtítulos del documento.",
+   "No. El formato de fuente de Inicio se aplica solo al texto seleccionado, no a todos los títulos y subtítulos a la vez.",
+   "No. **Configurar página** (ficha Disposición) trata de márgenes, orientación, tamaño, columnas y saltos, no de títulos.",
+   "Es esta. En **Diseño > Formato del documento** se eligen los **conjuntos de estilos**, que cambian de forma coordinada la apariencia de títulos, subtítulos y párrafos. Ahí mismo están Colores, Fuentes, Espaciado entre párrafos y Efectos."
+  ]
+ },
+ "w-of-05-003": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Configurar página, Números de línea (pág. 77)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Números de línea** muestra números junto a cada línea del texto. Opciones: ninguno, continuo, reiniciar cada página y reiniciar cada sección.",
+   "No. Un marcador que lleva a un punto concreto es la herramienta **Marcador** (ficha Insertar), que no tiene que ver con numerar líneas.",
+   "No. Ir a una línea o página concreta se hace con **Ir a** (F5 o Ctrl + I). Números de línea no abre ninguna ventana para eso.",
+   "No. Las estadísticas de líneas, palabras y caracteres salen en **Contar palabras** (Revisar). Números de línea no cuenta nada."
+  ],
+  "ojo": "Para quitar la numeración de un párrafo concreto está “Suprimir números de línea”, en el cuadro Párrafo (pestaña Líneas y saltos de página)."
+ },
+ "w-of-05-004": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos MAY + tecla de función (pág. 1)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Ctrl + Alt + S** no figura entre los atajos de la lista de la academia, y no abre el diccionario de sinónimos.",
+   "No. **F8** amplía una selección.",
+   "Es esta. **May + F7** abre el panel **Sinónimos**. Truco: F7 solo abre el Editor (revisión), y con May abre los sinónimos.",
+   "No. **May + F1** abre el panel Mostrar formato."
+  ]
+ },
+ "w-of-05-005": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos con tecla CTRL (págs. 1 y 2)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Ctrl + W** elimina el formato de párrafo del texto.",
+   "No. **Ctrl + V** pega el contenido del portapapeles.",
+   "Es esta. **Ctrl + Y** rehace la última acción que se había deshecho. Su pareja es **Ctrl + Z**, que deshace.",
+   "No. **Ctrl + N** aplica negrita."
+  ]
+ },
+ "w-of-05-006": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Teclas de función (pág. 1) y Atajos con tecla ALT (pág. 3)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sola se queda corta: **F1** abre el panel de Ayuda y es verdad, pero también lo es la opción c.",
+   "No. **Ctrl + F1** no abre la ayuda: muestra u oculta los comandos de la cinta de opciones.",
+   "No. Sola se queda corta: la **ficha Ayuda** de la cinta (ALT + N) también da acceso a la ayuda, pero F1 también vale.",
+   "Es esta. Son correctas a y c: la ayuda se abre con **F1** y también desde la **ficha Ayuda** de la cinta. Ctrl + F1 es otra cosa."
+  ],
+  "ojo": "Cuando una opción dice “son correctas a y c”, se comprueba una a una. Aquí la trampa es Ctrl + F1, que no abre la ayuda."
+ },
+ "w-of-05-007": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos MAY + tecla de función (pág. 1)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **May + S** no figura en la lista de atajos de Word. En Word, la S con Ctrl es subrayado.",
+   "No. **Ctrl + F2** (igual que Ctrl + P) va a Archivo > Imprimir.",
+   "No. **Ctrl + L** abre Buscar y reemplazar en la pestaña Reemplazar.",
+   "Es esta. **May + F7** abre el panel **Sinónimos**."
+  ]
+ },
+ "w-of-05-008": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos con tecla CTRL (pág. 1)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Ctrl + P** (P de Print, Imprimir) lleva a Archivo > Imprimir. Hace lo mismo que Ctrl + F2.",
+   "No. **Alt + 1** activa el Autoguardado.",
+   "No. **Alt + F7** no figura entre los atajos de la lista de la academia, y no imprime.",
+   "No. **Ctrl + 1** aplica interlineado simple."
+  ]
+ },
+ "w-of-05-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Sangrías (págs. 33 y 34)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La **justificada** es un tipo de alineación, no de sangría.",
+   "Es esta. Hay 4 tipos de sangría: **izquierda, derecha, especial 1ª línea y especial francesa**.",
+   "No. **1,5 líneas** es un interlineado, no una sangría.",
+   "No. La **centrada** es una alineación, no una sangría."
+  ]
+ },
+ "w-of-05-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Alineación (pág. 32)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Alineado solo a la derecha es la alineación **derecha**.",
+   "Es esta. El texto **justificado** queda alineado a derecha e izquierda a la vez, ajustando el espacio entre palabras. La última línea queda sin justificar. Atajo: **Ctrl + J**.",
+   "No. Texto centrado es la alineación **centrada**.",
+   "No. Alineado solo a la izquierda es la alineación **izquierda**, la de por defecto."
+  ],
+  "ojo": "En la justificada, la última línea del párrafo no se estira. Si se estira, es la alineación distribuida (Ctrl + May + J)."
+ },
+ "w-of-05-011": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Sangrías (págs. 33 y 34)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La **centrada** no es una sangría, es una alineación.",
+   "No. De nuevo, la **centrada** es una alineación. Las sangrías son 4 y esa no está.",
+   "Es esta. Las sangrías son **izquierda, derecha, de primera línea y francesa**.",
+   "No. **Barra** no es un tipo de sangría. La barra es un tipo de tabulación."
+  ]
+ },
+ "w-of-06-001": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Dibujar tabla (pág. 51)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Dibujar tabla no genera una imagen. La tabla que se crea es editable, como cualquier otra de Word.",
+   "No. Diseñar la tabla con un cuadro de diálogo en el que se indican filas y columnas es **Insertar tabla**.",
+   "Es esta. **Dibujar tabla** permite dibujar manualmente con el ratón los límites, filas y columnas de la tabla.",
+   "No. Elegir entre modelos ya hechos es **Tablas rápidas**."
+  ],
+  "ojo": "En Insertar > Tabla hay varias formas de crear una: cuadrícula, Insertar tabla (cuadro de diálogo), Dibujar tabla (con el ratón), Convertir texto en tabla, Hoja de cálculo de Excel y Tablas rápidas."
+ },
+ "w-of-06-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Ordenar (pág. 31) y 4.3 Tablas, Ordenar (pág. 52)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En el menú contextual de la tabla no hay una ruta “Propiedades > Ordenar”. Propiedades de tabla sirve para ajustar filas, columnas y celdas.",
+   "No. Una tabla de Word sí se puede ordenar, sin pasar por Excel.",
+   "Es esta. Con el cursor dentro de la tabla se pulsa **Ordenar** en **Inicio > Párrafo**. Ordena por orden alfabético o numérico, ascendente o descendente, y sirve para listas, párrafos y tablas.",
+   "No. Ordenar no está en el menú del botón secundario sobre una columna seleccionada."
+  ],
+  "ojo": "Ordenar también está en la ficha de las herramientas de tabla (Disposición de tabla), pero la ruta que da la plantilla es la de Inicio."
+ },
+ "w-of-06-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Seleccionar (págs. 48 y 49)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Seleccionar todo el texto con formato similar** sí está en el menú Seleccionar.",
+   "Es verdadera, así que no se marca. **Seleccionar objetos** sí está en el menú.",
+   "Es verdadera, así que no se marca. **Seleccionar todo** sí está en el menú.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Seleccionar tabla** no está en el menú Seleccionar de Inicio."
+  ],
+  "ojo": "Las cuatro opciones del menú Seleccionar son: Seleccionar todo, Seleccionar objetos, Seleccionar todo el texto con formato similar y Panel de selección. El enunciado dice “cuatro opciones” y la cuarta no es la de tabla.",
+  "revisar": "Seleccionar tabla existe en Word, pero dentro de las herramientas de tabla (Disposición de tabla > Seleccionar), no en Inicio > Edición. Los apuntes solo detallan las opciones de Inicio."
+ },
+ "w-of-06-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Buscar (pág. 46) y 4.9 Ficha Vista, panel de navegación (pág. 96)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Al pulsar **Buscar** se abre el **Panel de navegación** en la pestaña de búsqueda (Ctrl + B). Tiene tres pestañas: Títulos, Páginas y Resultados.",
+   "No. La ventana **Buscar y reemplazar**, con sus pestañas, se abre desde el desplegable de Buscar > Búsqueda avanzada, o con Ctrl + L (Reemplazar) o F5 (Ir a).",
+   "No. No existe una ventana “Búsqueda” de ese tipo. El botón Buscar abre el panel de navegación.",
+   "No. Tampoco existe una ventana emergente “Encontrar”. Eso no es de Word."
+  ],
+  "ojo": "Buscar abre el panel de la izquierda. Búsqueda avanzada abre el cuadro Buscar y reemplazar (en la pestaña Buscar)."
+ },
+ "w-of-06-005": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos varios (pág. 3)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un **triple clic** sobre una palabra del párrafo selecciona el párrafo entero. También sirve un doble clic en el margen izquierdo del documento.",
+   "No. **Ctrl + clic** selecciona una oración, no un párrafo.",
+   "No. Un solo **clic** coloca el cursor. Solo con un clic en el margen izquierdo se selecciona una línea.",
+   "No. **Doble clic** sobre una palabra selecciona esa palabra."
+  ],
+  "ojo": "Clic en el margen izquierdo: una línea. Doble clic en el margen: un párrafo. Doble clic en palabra: una palabra. Ctrl + clic: una oración. Triple clic: un párrafo."
+ },
+ "w-of-06-006": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Teclas de función (pág. 1)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **F12** abre la ventana **Guardar como**, donde se pone nombre al documento.",
+   "No. **F8** amplía una selección.",
+   "No. **Alt + F8** abre el cuadro de macros. No guarda.",
+   "No. **F7** abre el panel del Editor (revisión ortográfica y gramatical)."
+  ],
+  "revisar": "Alt + F8 no aparece en la lista de atajos de la academia. Que abre el cuadro de macros es conocimiento de Word."
+ },
+ "w-of-06-007": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Teclas de función (pág. 1)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Insertar autotexto se hace con F3.",
+   "Es esta. **F5** abre **Buscar y reemplazar**, en la pestaña **Ir a**.",
+   "No. El modo de extensión de selección se activa con **F8**, que amplía la selección.",
+   "No. En Word 365 no hay barra de menús que activar con F5. Para mostrar las teclas de acceso de la cinta se usa **F10** o Alt."
+  ],
+  "ojo": "F5 abre Buscar y reemplazar pero en la pestaña Ir a, no en Buscar. Ctrl + I también abre Ir a. Ctrl + L abre la pestaña Reemplazar.",
+  "revisar": "Que F3 es autotexto y que Word 365 no tiene barra de menús no está en los apuntes. Se explica con conocimiento general de Word."
+ },
+ "w-of-06-008": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas (pág. 51)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las tablas se añaden desde **Insertar > Tabla**, junto a otros elementos como imágenes y formas.",
+   "No. **Vista** cambia cómo se ve el documento: vistas, zoom, reglas, ventanas.",
+   "No. **Diseño** aplica temas y fondos de página. No añade elementos al documento.",
+   "No. **Correspondencia** es para sobres, etiquetas y combinar correspondencia."
+  ]
+ },
+ "w-of-06-009": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, Tablas, Desplazamiento en la tabla (pág. 54)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un encabezado de tabla se configura aparte, repitiendo filas de título. La tecla Tab no lo inserta.",
+   "No. Añadir una columna se hace con las herramientas de tabla (Insertar columnas), no con la tecla Tab.",
+   "No. Dividir celdas es un comando de la ficha Disposición de tabla (Dividir celdas), no lo hace la tecla Tab.",
+   "Es esta. Si pulsas **Tab** en la última celda de la tabla, se crea una **nueva fila** al final."
+  ],
+  "ojo": "Tab avanza a la celda siguiente y May + Tab vuelve a la anterior. Para escribir una tabulación dentro de una celda hay que usar Ctrl + Tab."
+ }
+}

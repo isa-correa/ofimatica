@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-vo-06-014",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 14,
+   "enunciado": "En un documento Word 365 si nos situamos en la última celda de una tabla y pulsamos la tecla del tabulador, ¿qué sucede en la tabla? (AUX LIBRE 2024)",
+   "opciones": [
+    "Se añade una columna al final de la tabla.",
+    "Se inserta una línea como encabezado de la tabla.",
+    "Se añade una fila al final de la tabla.",
+    "Se divide la celda en la que estamos posicionados."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-06-015",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 15,
+   "enunciado": "Señala la afirmación incorrecta acerca de la selección de elementos y desplazamientos en una tabla:",
+   "opciones": [
+    "Para movernos una celda a la derecha en una tabla, pulsamos la tecla TAB.",
+    "Para seleccionar una fila, haremos clic en el extremo izquierdo de la misma.",
+    "Para movernos una celda a la izquierda en una tabla, pulsaremos CTRL + TAB.",
+    "Para seleccionar una columna, haremos clic en la parte superior de la misma."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-06-016",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 16,
+   "enunciado": "¿Cuáles son las alineaciones verticales disponibles para el contenido de una celda en una tabla de Word?",
+   "opciones": [
+    "Arriba, centro, detrás.",
+    "Arriba, centro, derecha.",
+    "Arriba, centro, abajo.",
+    "Arriba, centro, distribuido."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-06-017",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 17,
+   "enunciado": "¿Cuál de las siguientes acciones mejora la accesibilidad en Microsoft Word 365? (AGE 2025)",
+   "opciones": [
+    "Agregar texto alternativo a las imágenes y objetos visuales.",
+    "Utilizar tablas para organizar el contenido.",
+    "Escribir la URL completa de una página web en el documento.",
+    "Utilizar colores sin contraste en el texto."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-07-001",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 1,
+   "enunciado": "Cuando insertamos una imagen en un archivo de Word, se activa la ficha auxiliar “Formato de imagen” en la cinta de opciones. Señala cuál de los siguientes comandos no se encuentra disponible en esta ficha:",
+   "opciones": [
+    "Quitar fondo.",
+    "Borde de la imagen.",
+    "Recortar.",
+    "Seleccionar imagen."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-07-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 2,
+   "enunciado": "¿Qué es necesario seleccionar en Word 365 que permita tomar una instantánea rápida de parte de la pantalla y agregarla al documento? (ADM Libre 2024)",
+   "opciones": [
+    "Insertar un gráfico.",
+    "Captura de pantalla.",
+    "Insertar vínculo.",
+    "Marcar entrada."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-07-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 3,
+   "enunciado": "En Word 365 después de insertar un modelo 3D, ¿cuál de las siguientes opciones NO se puede aplicar al modelo? (Aux Libre 2024)",
+   "opciones": [
+    "Cambiar la saturación y el tono del color del modelo.",
+    "Cambiar el tamaño del modelo.",
+    "Girar el modelo.",
+    "Rellenar el fondo del modelo"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-07-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 4,
+   "enunciado": "¿Cuál de los siguientes no es un estilo de Gráfico?",
+   "opciones": [
+    "Pirámide",
+    "Barras",
+    "Superficie",
+    "Mapas"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-07-005",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 5,
+   "enunciado": "Señala qué elemento gráfico sirve fundamentalmente para representar ideas e información:",
+   "opciones": [
+    "WordArt",
+    "SmartArt",
+    "Forma",
+    "Modelo 3D"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-07-006",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 6,
+   "enunciado": "¿Cuál de las siguientes funciones de Word NO está basada en el uso de hipervínculos? (Aux AGE Extraordinario 2019)",
+   "opciones": [
+    "Vínculo.",
+    "Referencia cruzada.",
+    "Marcador.",
+    "Dividir."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-07-007",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 7,
+   "enunciado": "Señala cuál de las siguientes opciones es la adecuada para desplazarnos a un marcador que hemos insertado en un documento de Word 365:",
+   "opciones": [
+    "Seleccionar el párrafo donde lo hemos insertado.",
+    "Pulsar sobre el comando “Mostrar todo”.",
+    "Abrir la ventana “Buscar y reemplazar”, la pestaña “Ir a…”",
+    "Pulsar Ctrl y hacer clic sobre el mismo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-07-008",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 8,
+   "enunciado": "Indica cuál de las siguientes opciones no es correcta con respecto a una referencia cruzada:",
+   "opciones": [
+    "Se insertan desde Insertar > Vínculos > Referencia cruzada.",
+    "Nos permiten vincular elementos dentro de un mismo documento.",
+    "Se pueden vincular a tablas.",
+    "No se actualizan."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-07-009",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 9,
+   "enunciado": "El espacio reservado para el encabezado y el pie de página de forma predefinida es…",
+   "opciones": [
+    "1,25 cm",
+    "0,5 cm",
+    "2,5 cm",
+    "1,5 cm"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-07-010",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 10,
+   "enunciado": "Si en Word 365 se desea cambiar de encabezado de la primera página solamente, ¿cómo debemos proceder? (AUX ESTABILIZACIÓN 2022)",
+   "opciones": [
+    "Esta opción no es posible en Word 365.",
+    "Haciendo doble click en el encabezado y marcar un check “Primera página diferente”.",
+    "Sólo es posible insertando una portada.",
+    "Insertar, fórmula, e insertar una fórmula para la variable “encabezado” en página 1 distinta al resto."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-07-011",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 11,
+   "enunciado": "¿Cuál de las siguientes opciones no es una opción de Número de página en Word 365? (AUX ADMINISTRATIVO J-CL 2023)",
+   "opciones": [
+    "Principio de página.",
+    "Márgenes de página.",
+    "Diagonal de página.",
+    "Posición actual."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-07-012",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 12,
+   "enunciado": "Para introducir un Autotexto, desde la ficha Insertar, señala a qué grupo de la cinta de opciones hemos de dirigirnos:",
+   "opciones": [
+    "Grupo “Complementos”, “Mis complementos”",
+    "Grupo “Vínculos”, “Marcador”",
+    "Grupo “Texto”, “Cuadro de texto”",
+    "Grupo “Texto”, “Elementos rápidos”"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-07-013",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 13,
+   "enunciado": "Para introducir un carácter especial en el texto, como los de Copyright o Registrado, en la pestaña Insertar, ¿cuál de las siguientes herramientas se emplea en Word? (Aux AGE 2017)",
+   "opciones": [
+    "Marcador",
+    "WordArt.",
+    "Elementos rápidos.",
+    "Símbolo."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-07-014",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 14,
+   "enunciado": "Señala cuál de las siguientes opciones acerca de los temas en Word, es incorrecta:",
+   "opciones": [
+    "No se pueden modificar",
+    "El tema por defecto es Office",
+    "Podemos personalizar el espaciado entre párrafos predeterminado.",
+    "Aplican formatos sobre los estilos y elementos de Word"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-07-015",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 15,
+   "enunciado": "¿Qué atributo está NO disponible para modificar en el grupo “Formato del documento”?",
+   "opciones": [
+    "Espaciado entre párrafos.",
+    "Marcas de agua.",
+    "Efectos.",
+    "Fuentes."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-07-016",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 16,
+   "enunciado": "¿Cuál de las siguientes configuraciones NO están disponibles para una marca de agua?",
+   "opciones": [
+    "Fuente.",
+    "Distribución.",
+    "Color.",
+    "Espaciado."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-07-017",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 17,
+   "enunciado": "Para insertar una Marca de Agua, iremos a…",
+   "opciones": [
+    "Ficha “Diseño”, “Fondo de página”",
+    "Ficha “Insertar”, “Marca de agua”",
+    "Ficha “Diseño de Página”, “Marca de agua”",
+    "Cuadro “Configuración de página”, “Marca de agua”"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-07-018",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 7",
+   "n": 18,
+   "enunciado": "Señala la respuesta correcta con respecto a los bordes que podemos aplicar en Word 365:",
+   "opciones": [
+    "Hay 16 tipos de bordes",
+    "Para aplicarlo a un párrafo, hemos de seleccionarlo previamente",
+    "Para aplicarlo a un texto, hemos de seleccionarlo previamente",
+    "Uno de los valores de bordes es Sombreado"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-08-001",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 1,
+   "enunciado": "Señala cuál de las siguientes medidas se corresponden a los márgenes predeterminados en Word 365:",
+   "opciones": [
+    "Superior e inferior 2,5 cm, Izquierdo y derecho 3 cm",
+    "Superior e inferior 2,5 ptos, Izquierdo y derecho 3 ptos",
+    "Superior e inferior 3 cm, Izquierdo y derecho 2,5 cm",
+    "Superior e inferior 3 ptos, Izquierdo y derecho 3 ptos"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-08-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 2,
+   "enunciado": "¿Cuál de los siguientes NO es un margen predefinido en Word 365?",
+   "opciones": [
+    "Superior.",
+    "Normal.",
+    "Moderado.",
+    "Estrecho."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-08-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 8",
+   "n": 3,
+   "enunciado": "El cuadro de diálogo de Configurar página está conformado por tres pestañas. Señala cuáles son:",
+   "opciones": [
+    "Márgenes, Disposición, Saltos.",
+    "Márgenes, Papel, Diseño.",
+    "Márgenes, Papel, Disposición.",
+    "Márgenes, Temas, Papel."
+   ],
+   "correcta": 2
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-au-03-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 1,
+   "enunciado": "Si queremos obtener información detallada del documento que estamos editando, ¿dónde nos dirigimos?",
+   "opciones": [
+    "Menú \"Información\" de la ficha \"Archivo\"",
+    "Menú \"Información\" de la ficha \"Vista\"",
+    "Menú \"Detalles\" de la ficha \"Archivo\"",
+    "Menú \"Información\" de la ficha \"Revisar\""
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-03-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 2,
+   "enunciado": "¿Cuántos caracteres debe tener como máximo una contraseña?",
+   "opciones": [
+    "10 caracteres, diferencia entre mayúscula y minúscula",
+    "10 caracteres, no diferencia entre mayúscula y minúscula",
+    "15 caracteres, diferencia entre mayúscula y minúscula",
+    "15 caracteres, no diferencia entre mayúscula y minúscula"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-03-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 3,
+   "enunciado": "Señale a qué opción de \"Archivo\" debemos dirigirnos si necesitamos examinar el contenido del documento en busca de posibles problemas de accesibilidad:",
+   "opciones": [
+    "Proteger documento.",
+    "Comprobar si hay problemas.",
+    "Administrar documento.",
+    "Marcar como solo lectura."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-03-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 4,
+   "enunciado": "Para conocer datos del documento, tales como el autor, el tiempo de edición, dónde está guardado, etc. ¿a qué opción de la ficha \"Archivo\" tenemos que acudir?",
+   "opciones": [
+    "Compartir",
+    "Información",
+    "Exportar",
+    "Guardar Como"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-03-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 5,
+   "enunciado": "¿Qué posibilidades nos permite la opción \"Guardar como\" en Word 365?",
+   "opciones": [
+    "Elegir la ubicación donde guardamos el archivo",
+    "Elegir la ubicación donde guardamos el archivo, el nombre y su extensión",
+    "Sobrescribir la información del archivo sobre la versión guardada anteriormente",
+    "Recuperar una copia de seguridad"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-03-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 6,
+   "enunciado": "¿Qué extensión tiene un documento Word habilitado para versiones 97-2003?",
+   "opciones": [
+    ".doc",
+    ".dotm",
+    ".docm",
+    ".domx"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-03-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 7,
+   "enunciado": "¿Cuál de los siguientes tamaños de papel estándar es más pequeño?",
+   "opciones": [
+    "A5",
+    "Tabloide",
+    "A3",
+    "Oficio"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-03-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 8,
+   "enunciado": "Queremos imprimir únicamente la página 7 de la sección 3 de un documento de Word 365. ¿Cómo deberemos indicarlo en la impresión personalizada?",
+   "opciones": [
+    "s7p3.",
+    "p3s7.",
+    "p7s3.",
+    "s3-p7."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-03-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 9,
+   "enunciado": "En las opciones de impresión de Word 365 seleccionamos «Estilos» dentro de la información del documento. ¿Qué resultado se obtendrá?",
+   "opciones": [
+    "Se imprimirá únicamente un documento con información sobre los estilos aplicados.",
+    "Se imprimirá el documento original añadiendo junto a cada párrafo el nombre del estilo utilizado.",
+    "Se imprimirá el documento y, a continuación, una relación de todos los estilos disponibles en Word.",
+    "Se imprimirán únicamente los estilos personalizados creados por el usuario."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-03-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 3",
+   "n": 10,
+   "enunciado": "Tenemos un documento almacenado en OneDrive y queremos compartirlo mediante un vínculo. ¿Cuál de las siguientes opciones puede configurarse sobre dicho vínculo?",
+   "opciones": [
+    "La extensión con la que se abrirá el documento para cada destinatario.",
+    "El tamaño máximo del archivo que podrá descargar cada usuario.",
+    "La aplicación de Office con la que deberá abrirse obligatoriamente.",
+    "Si los destinatarios podrán editar el documento o únicamente visualizarlo."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-04-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 1,
+   "enunciado": "Quiero imprimir las secciones 3 y 5. ¿Cómo debo indicarlo en el cuadro de impresión de Word?",
+   "opciones": [
+    "3-5",
+    "3.5",
+    "s3,s5",
+    "s3-s5"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-04-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 2,
+   "enunciado": "¿Se pueden crear ficheros en formato HTML en Word?",
+   "opciones": [
+    "No",
+    "Depende del tamaño del fichero",
+    "Se necesita un módulo en el sistema operativo",
+    "Sí"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-04-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 3,
+   "enunciado": "Queremos guardar un documento para poder abrirlo en el procesador de textos de OpenOffice. ¿Qué extensión debemos seleccionar?",
+   "opciones": [
+    ".pdf",
+    ".doc",
+    ".docx",
+    ".odt"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-04-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 4,
+   "enunciado": "Queremos guardar un documento de texto plano (sin formato) en Word 365. ¿Qué extensión debemos usar?",
+   "opciones": [
+    ".dot",
+    ".odt",
+    ".doc",
+    ".txt"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-04-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 5,
+   "enunciado": "En Word, podemos imprimir documentos que nos facilitan información acerca del archivo que estamos elaborando. ¿Cuál de las siguientes opciones NO está disponible?",
+   "opciones": [
+    "Información del documento.",
+    "Lista de gráficos insertados.",
+    "Lista de revisiones.",
+    "Entradas de texto automático."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-04-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 6,
+   "enunciado": "¿Cuál de los siguientes márgenes NO está disponible entre los predefinidos de Word 365?",
+   "opciones": [
+    "Normal.",
+    "Ancho .",
+    "Reflejado.",
+    "Medio."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-04-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 7,
+   "enunciado": "¿Qué medidas están configuradas en el margen Normal de Word 365?",
+   "opciones": [
+    "Superior e inferior: 2,5 cm. Derecho e izquierdo: 3 cm.",
+    "Superior e inferior: 1,5 cm. Derecho e izquierdo: 2 cm.",
+    "Superior e inferior: 3 cm. Derecho e izquierdo: 2,5 cm.",
+    "Superior e inferior: 1,5 cm. Derecho e izquierdo: 3 cm."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-04-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 8,
+   "enunciado": "¿Qué extensión tienen los documentos de autorrecuperación de Word 365?",
+   "opciones": [
+    ".aut",
+    ".asd",
+    ".htm",
+    ".txt"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-04-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 4",
+   "n": 9,
+   "enunciado": "¿Qué ruta debemos seguir para imprimir en Word 365 dos hojas discontinuas de un documento?",
+   "opciones": [
+    "Archivo, imprimir y en la casilla respectiva, indicar los números de las páginas a imprimir y separarlos con comas",
+    "Archivo, imprimir y en la casilla respectiva, indicar los números de las páginas a imprimir y separarlos con punto y coma",
+    "No es posible realizar esta acción",
+    "Imprimir directamente"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-05-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 1,
+   "enunciado": "¿Qué sucede si guardamos un documento en almacenamiento local en relación con el autoguardado?",
+   "opciones": [
+    "El autoguardado aparece desactivado por defecto",
+    "Permanece activo solo si el archivo tiene formato .docx",
+    "El autoguardado no está disponible en Word 365.",
+    "Se activa automáticamente"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-05-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 2,
+   "enunciado": "¿Qué opción permite restaurar versiones anteriores de un documento en Word 365?",
+   "opciones": [
+    "Archivo > Guardar como",
+    "Archivo > Compartir > Historial",
+    "Archivo > Información > Historial de versiones",
+    "Archivo > Opciones > Avanzadas"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-05-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 3,
+   "enunciado": "¿Cuál es el límite de versiones anteriores disponibles para restaurar en una cuenta personal de Microsoft?",
+   "opciones": [
+    "15 versiones",
+    "20 versiones",
+    "25 versiones",
+    "Ilimitado"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-05-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 4,
+   "enunciado": "¿En qué ficha de la cinta de opciones se encuentra el grupo \"Portapapeles\" en Word 365?",
+   "opciones": [
+    "En la ficha Archivo",
+    "En la ficha Inicio",
+    "En la cinta de opciones de la ficha Vista",
+    "En la barra de estado"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-05-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 5,
+   "enunciado": "¿Cuál es el número máximo de elementos que puede almacenar el portapapeles en Word 365?",
+   "opciones": [
+    "10",
+    "12",
+    "24",
+    "50"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-05-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 6,
+   "enunciado": "Si queremos que el contenido pegado conserve el estilo del texto de oroigen, ¿qué opción de pegado deberíamos usar?",
+   "opciones": [
+    "Mantener formato de origen",
+    "Combinar formato",
+    "Pegar como imagen",
+    "Conservar solo texto"
+   ],
+   "correcta": 0
+  }
+ ]
+}

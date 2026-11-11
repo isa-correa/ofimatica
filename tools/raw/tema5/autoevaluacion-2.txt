@@ -1,0 +1,118 @@
+1.
+¿Cuál de los siguientes formatos de archivo no admite Excel?
+
+Obtuvo 0 de 1 punto
+
+a) .xlsx
+Respuesta equivocada
+Tu respuesta
+d) .bmp
+Corregir respuesta
+c) .ods
+b) .xlt
+2.
+El cuadro de nombres cuenta con numerosas utilidades, ¿cuál no es una de ellas?
+
+Obtuvo 1 de 1 punto
+
+d) Nombrar un libro
+Corregir respuesta
+Tu respuesta
+c) Mostrar el nombre de la celda activa
+b) Nombrar un rango
+a) Desplazarnos a una celda
+3.
+¿En qué parte de la interfaz de Excel 365 se muestra el contenido real de una celda?
+
+Obtuvo 0 de 1 punto
+
+a) En el cuadro de nombres
+Respuesta equivocada
+Tu respuesta
+b) En la barra de estado
+d) En la barra de fórmulas
+Corregir respuesta
+c) En la cinta de opciones
+4.
+Hay tres vistas disponibles en la barra de estado de Excel. ¿Cuál no es una de ellas?
+
+Obtuvo 0 de 1 punto
+
+a) Normal
+Respuesta equivocada
+Tu respuesta
+c) Diseño de página
+d) Vista previa de salto de página
+b) Pantalla completa
+Corregir respuesta
+5.
+¿Qué es un rango?
+
+Obtuvo 1 de 1 punto
+
+d) Conjunto de dos o más celdas contiguas
+Corregir respuesta
+Tu respuesta
+a) Intersección de una fila y una columna
+c) Las hojas por las que está formado un libro de Excel
+b) Conjunto de filas con el mismo estilo
+6.
+¿Cuál de los siguientes nombres de rango es correcto?
+
+Obtuvo 0 de 1 punto
+
+c) C6:A1
+Respuesta equivocada
+Tu respuesta
+b) A1.6C
+d) A1:C6
+Corregir respuesta
+a) 1A:C6
+7.
+Podemos realizar distintas operaciones si pulsamos con el botón secundario de nuestro ratón sobre el nombre de una hoja de Excel. ¿Cuál de las siguientes no es correcta?
+
+Obtuvo 0 de 1 punto
+
+d) Ocultar una hoja
+Respuesta equivocada
+Tu respuesta
+b) Eliminar el libro
+Corregir respuesta
+c) Mostrar una hoja
+a) Cambiar el nombre de la hoja
+8.
+Para desplazarnos en la hoja de calculo hacia la derecha utilizamos la tecla…
+
+Obtuvo 0 de 1 punto
+
+d) May + Tab
+Respuesta equivocada
+Tu respuesta
+b) May + Intro
+c) Tab
+Corregir respuesta
+a) Intro
+9.
+En relación con los distintos elementos que componen la interfaz de Microsoft Excel 365, señale la afirmación correcta:
+
+Obtuvo 0 de 1 punto
+
+La caja de búsqueda, integrada en la barra de título, permite buscar comandos y contenido del libro, y se activa mediante la combinación Ctrl + Q.
+Respuesta equivocada
+Tu respuesta
+El cuadro de nombres permite identificar la celda activa y desplazarse a un rango determinado, pero no permite asignar nombres a rangos de celdas.
+La barra de fórmulas permite visualizar y modificar el contenido de la celda activa, así como acceder al asistente de funciones mediante el botón Insertar función.
+Corregir respuesta
+La barra de herramientas de acceso rápido se encuentra exclusivamente integrada en la barra de título y no puede desplazarse debajo de la cinta de opciones.
+10.
+Respecto a la barra de estado de Microsoft Excel 365 y a la información que proporciona durante la edición de una hoja de cálculo, señale la afirmación incorrecta:
+
+Obtuvo 0 de 1 punto
+
+El estado «Señalar» puede aparecer cuando se está construyendo una fórmula y se seleccionan celdas para incorporarlas como referencias.
+Respuesta equivocada
+Tu respuesta
+La barra de estado puede configurarse para mostrar cálculos como la suma o el promedio de los valores numéricos de las celdas seleccionadas.
+El estado «Listo» indica que Excel se encuentra en un estado general de reposo, sin que se esté introduciendo o modificando información.
+El estado «Modificar» aparece cuando se introducen datos por primera vez en una celda que se encontraba vacía.
+Corregir respuesta

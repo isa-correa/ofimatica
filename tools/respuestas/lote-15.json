@@ -1,0 +1,281 @@
+{
+ "w-au-05-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente (pág. 26)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. 72 puntos es el máximo de la **lista desplegable** de tamaños, pero a mano se puede escribir un tamaño mayor.",
+   "No. 120 puntos no es el máximo. El rango llega mucho más arriba.",
+   "No. 1024 no es el máximo de Word. El rango llega más arriba.",
+   "Es esta. El rango de tamaños de fuente va de **1 a 1638 puntos**. La lista desplegable solo ofrece de 8 a 72."
+  ]
+ },
+ "w-au-05-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Subrayado (pág. 26)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La **sombra** es un efecto de texto que añade una sombra detrás de las letras. No traza una línea.",
+   "No. La **cursiva** inclina ligeramente la fuente hacia la derecha.",
+   "Es esta. El **subrayado** traza una línea simple bajo el texto. Si despliegas el botón, aparecen otros diseños.",
+   "No. El **iluminado** es un efecto de texto que añade un resplandor. No traza una línea."
+  ]
+ },
+ "w-au-05-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente (pág. 26)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Calibri era la fuente por defecto de versiones anteriores de Word, no de Word 365.",
+   "Es esta. El tipo de fuente por defecto en Word 365 es **Aptos (cuerpo)**, tamaño 12.",
+   "No. Arial no es la fuente por defecto de Word 365.",
+   "No. Cambria no es la fuente por defecto de Word 365."
+  ],
+  "revisar": "Contrastado en internet: Aptos sustituye a Calibri como fuente predeterminada de Office. Los apuntes (pág. 26) ya fijan Aptos."
+ },
+ "w-au-05-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Color de resaltado (pág. 27)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El **subrayado** traza una línea bajo el texto. No cambia el color de fondo.",
+   "No. El **color de fuente** cambia el color de las letras. El resaltado cambia el color del fondo del texto.",
+   "Es esta. El **color de resaltado de texto** aplica un color de fondo al texto seleccionado, de forma similar a un marcador fluorescente.",
+   "No. El **efecto sombra** añade una sombra a las letras. No pinta el fondo."
+  ]
+ },
+ "w-au-06-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Reglas (pág. 10) y Opciones de Word",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La unidad de medida se elige en **Archivo > Opciones > Avanzadas**, en el apartado de mostrar el contenido del documento.",
+   "No. General trae ajustes básicos de la interfaz. La unidad de medida no está ahí.",
+   "No. Las reglas muestran las medidas, pero la unidad no se cambia desde la propia regla.",
+   "No. En la ficha Vista solo se activan o desactivan las reglas, no se elige su unidad."
+  ],
+  "revisar": "Contrastado en internet: la unidad se cambia en Archivo > Opciones > Avanzadas, en “Mostrar medidas en unidades de”. Los apuntes (pág. 10) solo listan las unidades."
+ },
+ "w-au-06-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Interlineado (pág. 35)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La **tabulación** es una posición fija a la que se desplaza el cursor al pulsar TAB.",
+   "No. El **espaciado** es el espacio entre párrafos consecutivos, no entre las líneas de un mismo párrafo.",
+   "Es esta. El **interlineado** es el espacio entre las líneas de un mismo párrafo.",
+   "No. La **sangría** es el espacio extra entre el párrafo y los márgenes."
+  ]
+ },
+ "w-au-06-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles (pág. 25)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. 15 se queda corto: el máximo son 24 elementos.",
+   "Es esta. El panel del Portapapeles almacena como máximo **24 elementos**.",
+   "No. 3 es muy poco: el máximo son 24.",
+   "No. 16 se queda corto: el máximo son 24."
+  ]
+ },
+ "w-au-06-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles, Copiar formato (pág. 25)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Copiar formato** copia el formato de fuente, de párrafo o de ambos de un texto a otro.",
+   "No. **Copiar** duplica el elemento seleccionado en el Portapapeles, no su formato.",
+   "No. No existe un comando “Pegar formato” en el grupo. El formato se aplica con Copiar formato.",
+   "No. **Cortar** mueve el elemento al Portapapeles, quitándolo de su sitio."
+  ]
+ },
+ "w-au-06-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles (pág. 24)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Cortar** mueve el elemento seleccionado al Portapapeles para colocarlo después en otra ubicación (con Pegar).",
+   "No. El grupo Portapapeles no tiene un comando “Mover”. Se mueve cortando y pegando.",
+   "No. **Copiar** duplica el elemento y deja el original donde estaba. No lo mueve.",
+   "No. **Pegar** inserta lo que se cortó o copió, pero por sí solo no lo mueve."
+  ]
+ },
+ "w-au-06-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles, opciones de pegado (pág. 24)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “Mantener el formato imagen” no existe. La primera opción es mantener el formato de origen.",
+   "No. “Combinar origen” no existe. La opción es combinar formato. Y la primera es mantener el formato de origen, no solo “mantener formato”.",
+   "Es esta. Las cuatro opciones son: **mantener formato de origen**, **combinar formato**, **pegar como imagen** y **conservar solo el texto**.",
+   "No. “Mantener el formato texto” y “combinar imagen” no existen."
+  ]
+ },
+ "w-au-06-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente (pág. 26)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Diseño trata de temas, color de página y bordes. La negrita no está ahí.",
+   "No. Revisar trata de corrección, comentarios y control de cambios.",
+   "No. Insertar añade elementos al documento (tablas, imágenes, símbolos).",
+   "Es esta. La **negrita** está en **Inicio > Fuente**, junto a cursiva y subrayado."
+  ]
+ },
+ "w-au-06-008": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Exportar (pág. 20)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Exportar** está en la ficha **Archivo**, y crea una copia del documento en formato PDF/XPS u otros tipos.",
+   "No. Inicio tiene portapapeles, fuente, párrafo, estilos y edición.",
+   "No. Insertar añade elementos al documento.",
+   "No. Revisar trata de corrección, comentarios y control de cambios."
+  ]
+ },
+ "w-au-06-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles, Copiar formato (pág. 25)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El grupo Fuente tiene tipo, tamaño, negrita, cursiva y efectos. Copiar formato no está ahí.",
+   "No. El grupo Párrafo tiene alineación, sangrías, interlineado y listas. Copiar formato no está ahí.",
+   "Es esta. **Copiar formato** (la brocha) está en el grupo **Portapapeles**, junto a Cortar, Copiar y Pegar.",
+   "No. El grupo Edición tiene Buscar, Reemplazar y Seleccionar."
+  ]
+ },
+ "w-au-06-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Color de resaltado (pág. 27)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El **sombreado** aplica un color de fondo al texto o al párrafo, pero es un comando del grupo Párrafo.",
+   "No. “Relleno” no es un comando de la ficha Inicio para colorear texto.",
+   "No. “Fondo de texto” no es un comando con ese nombre en la cinta.",
+   "Es esta. El **color de resaltado de texto** (grupo Fuente) pinta el texto seleccionado con un color de fondo, como un marcador fluorescente."
+  ],
+  "revisar": "El enunciado dice “establece un color al texto”, que sonaría a color de fuente, pero esa opción no está entre las respuestas. La plantilla da como correcta Resaltado de texto, y es la más cercana de las cuatro."
+ },
+ "w-au-07-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado (pág. 29)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **espaciado** afecta a la separación entre caracteres. Puede ser normal, expandido o comprimido, y se mide en puntos. Comprimido la reduce.",
+   "No. La **escala** cambia el ancho de cada carácter, no la distancia entre ellos.",
+   "No. El **tamaño** cambia lo grande que es la letra, no la distancia entre caracteres.",
+   "No. La **posición** cambia la altura del texto respecto a la línea de escritura."
+  ]
+ },
+ "w-au-07-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sangrías (pág. 34)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Hay dos sangrías especiales, no una. Falta la de primera línea.",
+   "No. “Especial derecha” no existe. La sangría derecha es un tipo independiente, no una especial.",
+   "Es esta. Hay **dos** sangrías especiales: **primera línea** y **francesa**. Las otras dos sangrías son la izquierda y la derecha.",
+   "No. “Especial justificada” no existe. Justificada es una alineación."
+  ]
+ },
+ "w-au-07-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Efectos de texto y tipografía (pág. 27)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. “Estilo de texto” no es la categoría. Los estilos de fuente son negrita, cursiva y subrayado.",
+   "Es esta. **Reflejo** es un **efecto de texto y tipografía**, junto a iluminado y sombra. Está en el botón de efectos de texto del grupo Fuente.",
+   "No. Los estilos de fuente son negrita, cursiva y subrayado. Reflejo no es un estilo.",
+   "No. Los efectos de fuente son tachado, subíndice y superíndice (y los del cuadro Fuente). El reflejo es un efecto de texto."
+  ]
+ },
+ "w-au-07-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado, Posición (pág. 29)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La posición puede ser **elevada**.",
+   "Es verdadera, así que no se marca. La posición puede ser **bajada**.",
+   "Es verdadera, así que no se marca. La posición se mide en **puntos**.",
+   "Esta es la falsa, y por eso es la que hay que marcar. En tantos por ciento se mide la **escala**, no la posición."
+  ]
+ },
+ "w-au-07-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado (pág. 29)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El **interletraje** ajusta el espacio entre determinados pares de letras, como AV, para mejorar su aspecto. No reduce el espacio entre todos los caracteres.",
+   "Es esta. El **espaciado comprimido** reduce la separación entre los caracteres.",
+   "No. La **escala** cambia el ancho de cada carácter, no la separación entre ellos.",
+   "No. El **espaciado anterior** es el espacio entre un párrafo y el anterior, no entre caracteres."
+  ]
+ },
+ "w-au-07-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sombreado (pág. 31)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **sombreado** aplica un color de fondo al texto o párrafo seleccionado. También se puede aplicar al fondo de una tabla.",
+   "No. El **resaltado** pinta solo el texto, como un marcador. No se aplica a párrafos ni a tablas.",
+   "No. “Relleno” no es el comando que cambia el fondo de texto, tabla o párrafo en la cinta.",
+   "No. El **contorno** es un efecto de texto que dibuja el borde de las letras, no cambia el fondo."
+  ]
+ },
+ "w-au-07-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Efectos de texto (pág. 27)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El **subrayado** es un estilo de fuente, no un efecto de texto.",
+   "No. La **negrita** es un estilo de fuente, no un efecto de texto.",
+   "Es esta. El **contorno** es uno de los efectos de texto, como la sombra, el reflejo o el iluminado.",
+   "No. El **tachado** es un efecto de fuente, no un efecto de texto."
+  ],
+  "revisar": "Los apuntes (pág. 27) citan como efectos de texto reflejo, iluminado y sombra. Que el contorno también sea un efecto de texto sale de la interfaz de Word 365. Las otras tres opciones son estilos o efectos de fuente."
+ },
+ "w-au-07-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente (pág. 27)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **superíndice** está en el grupo **Fuente**, junto a subíndice y tachado.",
+   "No. El grupo Edición tiene Buscar, Reemplazar y Seleccionar.",
+   "No. El grupo Párrafo trata de listas, sangrías, alineación e interlineado.",
+   "No. El grupo Estilos tiene la galería de estilos y el panel de estilos."
+  ]
+ },
+ "w-au-07-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo (pág. 30)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El grupo Estilos tiene la galería de estilos. Las viñetas no están ahí.",
+   "No. El grupo Portapapeles tiene cortar, copiar, pegar y copiar formato.",
+   "No. El grupo Edición tiene Buscar, Reemplazar y Seleccionar.",
+   "Es esta. Las **viñetas** están en el grupo **Párrafo**, junto a la numeración y las listas multinivel."
+  ]
+ },
+ "w-au-07-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Lista multinivel (pág. 30)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. 5 niveles se quedan cortos: Word admite hasta 9.",
+   "No. 16 es demasiado: Word admite hasta 9.",
+   "Es esta. Word admite hasta **9 niveles** en una lista multinivel.",
+   "No. 10 se pasa por uno: el máximo son 9."
+  ]
+ },
+ "w-au-08-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado, Escala (pág. 29)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La **escala** ajusta el ancho de cada carácter, en tantos por ciento (por defecto, 100%). Al 200% cada letra mide el doble de ancho.",
+   "No. Al 50% cada letra mide la mitad de ancho, no el doble.",
+   "No. Duplicar el tamaño de fuente aumenta también la altura, no solo la anchura.",
+   "No. El espaciado cambia la separación entre caracteres, no la anchura de cada uno."
+  ]
+ }
+}

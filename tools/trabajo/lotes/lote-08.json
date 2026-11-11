@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-ex-07-010",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 10,
+   "enunciado": "En relación con los Elementos rápidos de Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Permiten crear, almacenar y reutilizar bloques de contenido, como autotexto, propiedades del documento y campos.",
+    "Permiten almacenar exclusivamente fragmentos de texto sin formato para insertarlos posteriormente en otros documentos.",
+    "Constituyen una galería de estilos predefinidos que permite aplicar formatos de fuente y párrafo al contenido seleccionado.",
+    "Permiten insertar automáticamente elementos gráficos, pero no almacenar fragmentos de contenido creados por el usuario."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-07-011",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 11,
+   "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente la funcionalidad de la herramienta Cuadro de texto, disponible en la pestaña Insertar?",
+   "opciones": [
+    "Permite insertar un bloque de texto que queda vinculado obligatoriamente al párrafo en el que se encuentra el punto de inserción, sin posibilidad de modificar su posición.",
+    "Permite insertar un objeto de texto que únicamente puede situarse en los márgenes del documento y cuyo formato depende del encabezado o pie de página.",
+    "Permite insertar un bloque de texto prediseñado cuya posición depende exclusivamente de las opciones de alineación del párrafo.",
+    "Permite insertar un objeto que contiene texto y que puede colocarse en diferentes posiciones del documento, así como modificar el formato de su contenido."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-07-012",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 12,
+   "enunciado": "En un documento de Word 365, queremos insertar el símbolo monetario correspondiente a la libra esterlina (£). ¿A qué pestaña y grupo de la cinta de opciones debemos dirigirnos para realizar esta operación?",
+   "opciones": [
+    "Insertar > Texto > Caracteres especiales.",
+    "Insertar > Símbolos > Símbolo.",
+    "Inicio > Fuente > Símbolos especiales.",
+    "Insertar > Elementos rápidos > Símbolo."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-07-013",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 13,
+   "enunciado": "En relación con las marcas de agua de un documento de Word 365, señale la afirmación INCORRECTA.",
+   "opciones": [
+    "Pueden incorporarse utilizando modelos predefinidos o mediante la creación de marcas de agua personalizadas.",
+    "Las marcas de agua de texto permiten configurar características como el tipo de fuente, el tamaño y el color.",
+    "Las marcas de agua de texto permiten establecer una distribución horizontal, vertical o diagonal respecto a la página.",
+    "Pueden utilizarse imágenes como marcas de agua, situándose detrás del contenido del documento."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-07-014",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 14,
+   "enunciado": "Respecto a la herramienta Bordes de página de Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Se encuentra en la pestaña Diseño y permite abrir el cuadro Bordes y sombreado, desde el que pueden aplicarse bordes al documento o a determinadas secciones.",
+    "Se encuentra en la pestaña Disposición y permite configurar exclusivamente bordes para la sección en la que está situado el cursor.",
+    "Se encuentra en la pestaña Diseño y permite aplicar bordes de página, aunque no admite utilizar diseños decorativos mediante la opción Arte.",
+    "Se encuentra en la pestaña Inicio, grupo Párrafo, y permite aplicar bordes de página exclusivamente a los párrafos seleccionados."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-07-015",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 15,
+   "enunciado": "En Microsoft Word 365 configurado en español, ¿cuál de las siguientes acciones se realiza al pulsar la combinación de teclas ALT + CTRL + K?",
+   "opciones": [
+    "Insertar un marcador en la posición actual del documento.",
+    "Abrir el cuadro de diálogo que permite insertar un vínculo o hipervínculo.",
+    "Insertar una referencia cruzada a un elemento del documento.",
+    "Abrir el cuadro de diálogo para modificar un vínculo previamente insertado."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-01-001",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 1,
+   "enunciado": "¿Cuál de los siguientes elementos podemos destacar como novedad entre las características de Word 365?",
+   "opciones": [
+    "Integración con Copilot.",
+    "Cambio de tamaño de los comandos de la Cinta de opciones.",
+    "Organizador de contactos.",
+    "Mensajería instantánea."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-01-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 2,
+   "enunciado": "¿Cuál de las siguientes características se encuentra en Microsoft Word 365?: (ADMVO LIBRE EXTRAORDINARIO 2022)",
+   "opciones": [
+    "Grabador de vídeo.",
+    "Monitor de la batería.",
+    "Línea de comandos.",
+    "Traductor."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-01-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 3,
+   "enunciado": "¿Qué interfaz muestra Word cuando abrimos el programa?",
+   "opciones": [
+    "Pantalla de inicio",
+    "Ficha Inicio",
+    "Documento en blanco",
+    "Menú Ayuda"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-01-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 4,
+   "enunciado": "¿Qué es una plantilla de Word?",
+   "opciones": [
+    "Herramienta muy útil para ayudar a que la información sea más clara y para enfatizar ciertos puntos diferenciándolos del resto del texto.",
+    "Herramienta que sirve para automatizar las opciones más usadas.",
+    "Una plantilla es un documento pre-diseñado que podemos usar para crear un nuevo documento rápidamente.",
+    "Conjunto de grupos de herramientas."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-01-005",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 5,
+   "enunciado": "En el área “Recientes” de la pantalla de inicio de Word, ¿qué elementos se presentan?",
+   "opciones": [
+    "La ubicación del último documento que hemos modificado",
+    "La fecha de modificación del último documento que hemos abierto",
+    "Lista de las ubicaciones de los documentos que hemos abierto recientemente",
+    "Lista de los documentos que hemos abierto recientemente, con su ubicación correspondiente y la fecha de modificación"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-01-006",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 6,
+   "enunciado": "¿Cuál de las siguientes NO es una característica de formato de la plantilla Normal.dotm?",
+   "opciones": [
+    "Fuente: Times New Roman 12.",
+    "Alineación: Izquierda.",
+    "Interlineado: Múltiple en 1.16.",
+    "Escala: 100%."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-01-007",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 7,
+   "enunciado": "De las siguientes opciones, ¿cuál NO está disponible en el apartado “Cuenta” de la vista Backstage de Word?",
+   "opciones": [
+    "Comprobación de actualizaciones.",
+    "Estado de la activación de la licencia.",
+    "Formatos de la plantilla por defecto.",
+    "Información de la edición de Word y soporte."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-01-008",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 8,
+   "enunciado": "En la ventana Opciones de Word aparecen agrupadas las opciones por categorías. ¿En cuál de las siguientes categorías encontramos las \"Opciones de impresión\"? (Adm. AGE 2019)",
+   "opciones": [
+    "General.",
+    "Presentación.",
+    "Revisión.",
+    "Idioma."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-01-009",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 9,
+   "enunciado": "En el menú “Opciones”, ¿qué elementos aspectos podemos configurar?",
+   "opciones": [
+    "Opciones de interfaz de Word.",
+    "Opciones de alineación de los párrafos del documento.",
+    "Formato de la fuente.",
+    "Distribución de columnas en el documento."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-01-010",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 10,
+   "enunciado": "En un documento de Word 365, ¿cuál de las siguientes opciones es la que se debe seleccionar para visualizar los símbolos que indican los saltos de página y espacios? (Adm Libre Extraordinario 2024)",
+   "opciones": [
+    "La vista de esquema.",
+    "Editor.",
+    "Investigador.",
+    "Mostrar todo."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-01-011",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 11,
+   "enunciado": "Sobre Word 365, indique cuál de las siguientes afirmaciones es falsa (Oficial CCAA):",
+   "opciones": [
+    "No se puede aumentar el tamaño de los botones que representan los comandos a través de una opción de Microsoft Office. La única forma de aumentar el tamaño de los botones es bajar la resolución de pantalla que se usa.",
+    "La barra de herramientas de acceso rápido se puede mostrar en varias líneas.",
+    "Puede crear fichas personalizadas y grupos personalizados para que contengan los comandos que usa con más frecuencia.",
+    "No se puede cambiar el color de la cinta de opciones, o sus iconos."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-01-012",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 12,
+   "enunciado": "En Word 365, ¿desde dónde se puede acceder a la Personalización de cinta de opciones? (Oficial CCAA):",
+   "opciones": [
+    "Opciones de Word, Complementos.",
+    "Opciones de Word, Barra de herramientas de acceso rápido.",
+    "Opciones de Word, Personalizar cinta de opciones.",
+    "Opciones de Word, General."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-01-013",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 13,
+   "enunciado": "En Word 365, las \"Opciones de autocorrección\", ¿en qué apartado de \"Opciones de Word\" podemos encontrarlas? (Oficial Universidades):",
+   "opciones": [
+    "Opciones de Word General.",
+    "Opciones de Word Avanzadas.",
+    "Opciones de Word Mostrar.",
+    "Opciones de Word Revisión."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-01-014",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 14,
+   "enunciado": "En Word 365, ¿cuál es la función principal de la Barra de herramientas de acceso rápido?",
+   "opciones": [
+    "Agrupar y organizar todas las funciones y herramientas disponibles en Word.",
+    "Visualizar información relevante sobre el documento que se está visualizando o editando.",
+    "Tener acceso rápido a algunos comandos que utilizamos con frecuencia.",
+    "Acceder a las opciones de configuración."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-01-015",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 15,
+   "enunciado": "De forma predeterminada Word presenta una barra encima de la cinta de opciones, con los iconos para Autoguardado, Guardar, Deshacer y Rehacer. ¿Qué nombre tiene esta barra? (Aux Est AGE Extraordinario 2019)",
+   "opciones": [
+    "Barra de estado.",
+    "Barra de tareas.",
+    "Barra de programación.",
+    "Barra de herramientas de acceso rápido."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-01-016",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 16,
+   "enunciado": "La opción “contar palabras”, ¿qué estadísticas muestra? (Admvo Libre Extraordinario 2022)",
+   "opciones": [
+    "Páginas, palabras, párrafos y líneas",
+    "Páginas, palabras, caracteres con y sin espacios y líneas",
+    "Páginas, palabras, caracteres con y sin espacios, párrafos y líneas",
+    "Páginas, palabras, caracteres con y sin espacios, caracteres especiales, fórmulas, párrafos y líneas"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-01-017",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 17,
+   "enunciado": "En Word 365, ¿se puede mover la barra de herramientas de acceso rápido? (Oficial CCAA)",
+   "opciones": [
+    "Sí, se puede mover desde una de las dos ubicaciones posibles.",
+    "No, solo tiene una ubicación que es por encima de la Cinta de opciones.",
+    "Si, se puede arrastrar a cualquier parte de la zona de trabajo de Word.",
+    "Sólo se podría intercambiar por la Barra de estado."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-01-018",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 1",
+   "n": 18,
+   "enunciado": "En Word 365, ¿se puede hacer que la cinta de opciones se oculte? (Ayuntamientos)",
+   "opciones": [
+    "No, la Cinta de opciones siempre está visible y no puede ocultarse.",
+    "Sí, desde \"Opciones de visualización de la cinta de opciones\".",
+    "Sí, desde “Opciones de Word” y “Personalizar Cinta de opciones”.",
+    "Completamente no se puede ocultar, a lo sumo se pueden ocultar los comandos, pero no las pestañas."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-02-001",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 1,
+   "enunciado": "“Guardar como” nos permite…",
+   "opciones": [
+    "Elegir la ruta donde guardamos el archivo",
+    "Elegir la ruta donde guardamos el archivo, el nombre y su extensión",
+    "Sobrescribir la información del archivo sobre la versión guardada anteriormente",
+    "Recuperar una copia de seguridad"
+   ],
+   "correcta": 1
+  }
+ ]
+}

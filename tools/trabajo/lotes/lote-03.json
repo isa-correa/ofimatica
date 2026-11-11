@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-of-06-010",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 10,
+   "enunciado": "Señale la ruta correcta para agregar una tabla de Excel a un documento de Word 365 (Aux AGE 2008)",
+   "opciones": [
+    "Convirtiendo una tabla de Word previamente seleccionada en una hoja de Microsoft Excel.",
+    "Desde Excel, importando los datos de la tabla.",
+    "Desde el botón \"Tabla\", del grupo \"Tablas\" de la pestaña \"Insertar\".",
+    "Desde el botón \"mis Complementos\" del grupo \"Complementos\" de la ficha \"Insertar\"."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-of-06-011",
+   "tema": "word",
+   "origen": "oficiales",
+   "test": "Oficial 6",
+   "n": 11,
+   "enunciado": "En Word 365, ¿cuál de las siguientes opciones se utiliza para garantizar que se puede ver correctamente la tabla completa en la vista de diseño web? (Aux Libre 2022)",
+   "opciones": [
+    "Alinear al centro.",
+    "Autoajustar a la ventana.",
+    "Autoajustar al contenido.",
+    "Ancho de columna fijo."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-01-001",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 1,
+   "enunciado": "En relación con la integración de Microsoft Word 365 con servicios de almacenamiento en la nube, señale la afirmación correcta.",
+   "opciones": [
+    "Word 365 utiliza de forma predeterminada Google Drive como servicio de almacenamiento asociado a la cuenta Microsoft.",
+    "OneDrive es el servicio de almacenamiento en la nube integrado con Microsoft 365 y permite guardar y acceder a documentos desde distintos dispositivos.",
+    "Dropbox sustituye a OneDrive cuando el documento se guarda mediante Autoguardado.",
+    "iCloud constituye el servicio de almacenamiento predeterminado de Word cuando se utiliza una cuenta personal."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-01-002",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 2,
+   "enunciado": "¿En qué ficha de la cinta de opciones de Word 365 se encuentran las herramientas destinadas a configurar las opciones del programa?",
+   "opciones": [
+    "Insertar.",
+    "Diseño.",
+    "Revisar.",
+    "Archivo."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-01-003",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 3,
+   "enunciado": "Cuando iniciamos Microsoft Word 365 sin abrir previamente ningún documento, ¿qué interfaz se muestra inicialmente?",
+   "opciones": [
+    "La pantalla de inicio, desde la que podemos crear un documento o abrir archivos recientes.",
+    "La ficha Inicio de la cinta de opciones, con un documento nuevo ya abierto.",
+    "La vista Backstage, mostrando directamente el apartado Información.",
+    "La vista Diseño de impresión con la plantilla Normal cargada."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-01-004",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 4,
+   "enunciado": "Cuando creamos un nuevo documento en blanco en Word 365, ¿en qué plantilla se basa de forma predeterminada?",
+   "opciones": [
+    "Normal.docx.",
+    "Documento1.dotx.",
+    "Normal.dotm.",
+    "Documento1.docx."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-01-005",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 5,
+   "enunciado": "Respecto al formato predeterminado de un nuevo documento en blanco de Word 365, señale la opción que NO corresponde a uno de sus valores iniciales.",
+   "opciones": [
+    "Tamaño de fuente: 12 puntos.",
+    "Alineación del párrafo: centrada.",
+    "Espaciado anterior: 0 puntos.",
+    "Interlineado: múltiple en 1,16."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-01-006",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 6,
+   "enunciado": "¿Cuál es la fuente utilizada de forma predeterminada al crear un nuevo documento en blanco en Word 365?",
+   "opciones": [
+    "Calibri.",
+    "Cambria.",
+    "Times New Roman.",
+    "Aptos."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-01-007",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 7,
+   "enunciado": "En el área de documentos recientes de Word 365 se muestra diversa información sobre los archivos utilizados. ¿Cuál de los siguientes datos NO forma parte de esa información?",
+   "opciones": [
+    "La fecha de creación del documento.",
+    "El nombre del archivo.",
+    "Su ubicación.",
+    "La fecha de modificación."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-01-008",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 8,
+   "enunciado": "Accedemos a Archivo > Cuenta en Word 365. ¿Cuál de las siguientes operaciones podemos realizar desde este apartado?",
+   "opciones": [
+    "Modificar el interlineado utilizado por la plantilla predeterminada.",
+    "Cambiar la ubicación de los archivos de Autorrecuperación.",
+    "Comprobar la disponibilidad de actualizaciones de Office.",
+    "Establecer la extensión predeterminada de los nuevos documentos."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-01-009",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 9,
+   "enunciado": "En relación con la configuración del Tema de Office en Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Solo puede modificarse desde Archivo > Cuenta.",
+    "Puede modificarse desde Archivo > Cuenta y también desde Opciones > General.",
+    "Únicamente puede modificarse desde Opciones > Presentación.",
+    "Se configura desde Personalizar cinta de opciones."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-01-010",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 10,
+   "enunciado": "Queremos configurar qué marcas de formato se muestran en pantalla en un documento de Word. ¿A qué categoría de Opciones de Word debemos acceder?",
+   "opciones": [
+    "General.",
+    "Revisión.",
+    "Avanzadas.",
+    "Presentación."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-01-011",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 11,
+   "enunciado": "En relación con las Opciones de Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Las opciones de Autocorrección y Autoformato se encuentran dentro de la categoría Revisión.",
+    "Las marcas de formato están visibles de forma predeterminada y se imprimen junto con el documento.",
+    "La categoría General contiene las opciones destinadas específicamente a determinar qué marcas de formato se muestran.",
+    "La barra de herramientas de acceso rápido se distribuye automáticamente en varias líneas cuando se añaden numerosos comandos."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-01-012",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 12,
+   "enunciado": "Respecto a la personalización de la cinta de opciones de Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Puede desplazarse libremente a cualquiera de los laterales de la ventana de Word.",
+    "El tamaño individual de sus comandos puede modificarse desde la barra de estado.",
+    "Es posible modificar el nombre de pestañas o grupos personalizados, así como importar o exportar personalizaciones de la cinta.",
+    "Cada pestaña puede configurarse con un color distinto desde las opciones de accesibilidad."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-01-013",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 13,
+   "enunciado": "¿Cuál de las siguientes aplicaciones se clasifica como procesador de textos?",
+   "opciones": [
+    "Bloc de notas.",
+    "Microsoft Word.",
+    "Microsoft Access.",
+    "Adobe Acrobat Reader."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-01-014",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 14,
+   "enunciado": "Al guardar un documento de Word 365 utilizando el formato predeterminado, ¿qué extensión se asigna al archivo?",
+   "opciones": [
+    ".doc.",
+    ".dotx.",
+    ".dotm.",
+    ".docx."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-01-015",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 15,
+   "enunciado": "Respecto a las reglas de Microsoft Word 365, señale la afirmación INCORRECTA.",
+   "opciones": [
+    "La regla puede activarse desde la ficha Referencias de la cinta de opciones.",
+    "La unidad de medida utilizada puede configurarse en centímetros.",
+    "Word dispone de regla horizontal y vertical.",
+    "Entre las unidades de medida admitidas se encuentran pulgadas, picas y milímetros."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-01-016",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 16,
+   "enunciado": "¿Qué conjunto de vistas de documento dispone de acceso directo mediante botones situados en la barra de estado de Word 365?",
+   "opciones": [
+    "Esquema, Diseño web y Borrador.",
+    "Borrador, Diseño de impresión y Esquema.",
+    "Modo de lectura, Diseño web y Diseño de impresión.",
+    "Modo de lectura, Esquema y Borrador."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-01-017",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 17,
+   "enunciado": "Al utilizar la herramienta Contar palabras de Word 365, ¿cuál de los siguientes conjuntos de estadísticas se muestra?",
+   "opciones": [
+    "Páginas, palabras, caracteres con espacios, caracteres especiales y líneas.",
+    "Páginas, palabras, caracteres con y sin espacios, párrafos y líneas.",
+    "Páginas, palabras, párrafos y líneas exclusivamente.",
+    "Palabras, caracteres, fórmulas, párrafos, líneas y secciones."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-01-018",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 18,
+   "enunciado": "¿Qué asistente de inteligencia artificial se encuentra integrado en Microsoft Word 365?",
+   "opciones": [
+    "Gemini.",
+    "ChatGPT.",
+    "DeepSeek.",
+    "Microsoft Copilot."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-01-019",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 19,
+   "enunciado": "Queremos establecer el formato de archivo que Word utilizará de forma predeterminada al guardar documentos. ¿En qué categoría de Opciones de Word se configura este parámetro?",
+   "opciones": [
+    "Guardar.",
+    "General.",
+    "Presentación.",
+    "Avanzadas."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-01-020",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 1",
+   "n": 20,
+   "enunciado": "Creamos un documento nuevo en blanco en Word 365 y todavía no le hemos asignado ningún nombre. ¿Qué denominación utiliza Word de forma predeterminada para identificarlo?",
+   "opciones": [
+    "Doc1.",
+    "Doc.",
+    "Documento1.",
+    "Docx."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-02-001",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 1,
+   "enunciado": "Entre los formatos de archivo compatibles con Microsoft Word 365, ¿a qué tipo de archivo corresponde la extensión .doc?",
+   "opciones": [
+    "Plantilla de Word 97-2003.",
+    "Documento de Word basado en XML.",
+    "Documento habilitado para macros de Word 97-2003.",
+    "Documento de Word 97-2003."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-02-002",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 2,
+   "enunciado": "En relación con las funcionalidades de Microsoft Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Permite crear y administrar bases de datos relacionales mediante las herramientas de tablas de la ficha Insertar.",
+    "Incorpora, entre otras herramientas, corrector ortográfico, diccionario de sinónimos y funciones de traducción.",
+    "Permite revisar la ortografía y gramática del documento, pero no dispone de herramientas de traducción.",
+    "Permite insertar tablas y gráficos, mientras que la inserción de imágenes requiere una aplicación externa."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-02-003",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 3,
+   "enunciado": "En la barra de estado de Word 365 se muestra información relativa a la página del documento. ¿Cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "Se muestra exclusivamente el número total de páginas y, al pulsarlo, se abre Configurar página.",
+    "Se muestran el número de página actual, el total de páginas y el número de párrafos del documento.",
+    "Se muestra la página en la que se encuentra el cursor y el número total de páginas; al pulsar sobre esa información se abre el panel de navegación.",
+    "Se muestra únicamente la página actual y, al pulsarla, se abre el cuadro Ir a."
+   ],
+   "correcta": 2
+  }
+ ]
+}

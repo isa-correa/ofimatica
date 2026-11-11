@@ -1,0 +1,71 @@
+1.
+¿Cómo se puede conseguir un subrayado no predeterminado en Word 365? (Aux Libre 2022)
+
+Obtuvo 1 de 1 punto
+
+Desde la Pestaña Inicio, grupo fuente, más subrayados.
+Corregir respuesta
+Tu respuesta
+Desde la Pestaña Vista, grupo fuente, más subrayados.
+Desde la Pestaña Diseño, grupo fuente, más subrayados.
+Desde la Pestaña Insertar, grupo fuente, más subrayados.
+2.
+¿Cómo podemos configurar el efecto "Superíndice" en un texto de Word 365? (Aux AGE 2006)
+
+Obtuvo 0 de 1 punto
+
+Configurando el Estilo de Fuente en la opción Fuente del menú Formato.
+Respuesta equivocada
+Tu respuesta
+Mediante la opción de Salto del menú Insertar.
+Configurando el efecto Superíndice en la pestaña Fuente del Menú Fuente.
+Corregir respuesta
+Configurando la Posición en la pestaña Avanzado del menú Fuente
+3.
+¿Dónde encontramos el efecto "Resaltado de texto" en Word 365? (Aux AGE 2006)
+
+Obtuvo 0 de 1 punto
+
+En el grupo "Párrafo" de la pestaña "Inicio".
+Respuesta equivocada
+Tu respuesta
+En el grupo "Efectos" de la pestaña "Formato de texto".
+En el grupo "Formato del documento" de la pestaña "Diseño".
+En el grupo "Fuente" de la pestaña "Inicio".
+Corregir respuesta
+4.
+¿Cuál de los siguientes efectos NO se pueden configurar directamente desde la cinta de opciones? (Aux AGE 2006)
+
+Obtuvo 0 de 1 punto
+
+Tachado.
+Respuesta equivocada
+Tu respuesta
+Superíndice.
+Versalitas.
+Corregir respuesta
+Subíndice.
+5.
+¿Cuál de los siguientes efectos de fuente NO aparece en el grupo efectos del cuadro "Fuente"? (Aux AGE 2007)
+
+Obtuvo 0 de 1 punto
+
+Tachado.
+Respuesta equivocada
+Tu respuesta
+Versalitas.
+Subíndice.
+Contorno.
+Corregir respuesta
+6.
+¿Cuáles de los siguientes son efectos de fuente? (Aux AGE 2009)
+
+Obtuvo 0 de 1 punto
+
+Cursiva, subrayado, tachado y superíndice.
+Respuesta equivocada
+Tu respuesta
+Negrita, superíndice, subrayado y versalitas.
+Negrita, superíndice, versales y cursiva.
+Versalitas, subíndice, tachado y mayúsculas.
+Corregir respuesta

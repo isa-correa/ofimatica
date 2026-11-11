@@ -1,0 +1,130 @@
+1.
+En Word 365, ¿qué método abreviado de teclado debemos utilizar para guardar un documento?
+
+Obtuvo 0 de 1 punto
+
+CTRL + A
+Respuesta equivocada
+Tu respuesta
+Tecla logotipo Windows + S
+CTRL + G
+Corregir respuesta
+Tecla logotipo Windows + U
+2.
+Queremos establecer el diseño general de todos los títulos y subtítulos de un documento de Word 365. ¿Qué función debemos usar?
+
+Obtuvo 0 de 1 punto
+
+Inicio > Diseño de párrafo.
+Respuesta equivocada
+Tu respuesta
+Inicio > Formato de fuente.
+Disposición > Configurar página.
+Diseño > Formato del documento.
+Corregir respuesta
+3.
+En Word, ¿qué utilidad tiene la opción Números de línea que se encuentra en la pestaña Disposición > Configurar página? (Aux AGE Estabilización 2019)
+
+Obtuvo 1 de 1 punto
+
+Muestra de forma automática números de línea junto a cada línea de texto en el documento.
+Corregir respuesta
+Tu respuesta
+Permite crear un marcador único, referenciado por un número, para acceder de forma rápida a una línea concreta.
+Abre una ventana de diálogo en la que podemos escribir el número de línea a la que queremos desplazarnos.
+Cuenta los números de línea totales del texto contenido en el documento y muestra las estadísticas en una nueva ventana.
+4.
+En Word 365, para mostrar el panel de tareas del diccionario de sinónimos, ¿qué método abreviado de teclado deberíamos utilizar? (Admvo Libre 2022)
+
+Obtuvo 0 de 1 punto
+
+Ctrl + Alt + S
+Respuesta equivocada
+Tu respuesta
+F8
+Mayús + F7
+Corregir respuesta
+Mayús + F1
+5.
+Si en Word 365 queremos rehacer una acción que previamente hemos deshecho, ¿cuál de las siguientes opciones debemos ejecutar? (Aux Estabilización 2022)
+
+Obtuvo 0 de 1 punto
+
+Ctrl + W
+Respuesta equivocada
+Tu respuesta
+Ctrl + V
+Ctrl + Y
+Corregir respuesta
+Ctrl + N
+6.
+¿Cómo abrimos el menú de "Ayuda" en Word 365? (Aux AGE 2006)
+
+Obtuvo 0 de 1 punto
+
+Pulsando F1.
+Respuesta equivocada
+Tu respuesta
+Pulsando Ctrl + F1.
+Desde la ficha correspondiente en la cinta de opciones.
+Son correctas a y c.
+Corregir respuesta
+7.
+¿Con qué combinación de teclas (o método abreviado) se consigue que aparezca el panel de sinónimos? (Aux AGE 2007)
+
+Obtuvo 0 de 1 punto
+
+MAYUSC + S
+Respuesta equivocada
+Tu respuesta
+CTRL + F2
+CTRL + L
+MAYUSC + F7
+Corregir respuesta
+8.
+Si desea imprimir el documento que aparece en pantalla, ¿cuál de los siguientes métodos abreviados de teclado deberá utilizar? (Aux AGE 2009)
+
+Obtuvo 1 de 1 punto
+
+Ctrl + P
+Corregir respuesta
+Tu respuesta
+Alt + 1
+Alt + F7
+Ctrl + 1
+9.
+¿Cuáles son los tipos de sangría de Word 365? (Aux AGE 2009)
+
+Obtuvo 0 de 1 punto
+
+Derecha, izquierda, 1ª línea y justificada.
+Respuesta equivocada
+Tu respuesta
+Derecha, Izquierda, 1ª línea y francesa.
+Corregir respuesta
+Derecha, Izquierda, 1,5 líneas y francesa.
+Derecha, Izquierda, 1ª línea y centrada.
+10.
+Señale la opción correcta cuando hablamos de un texto justificado en Word 365: (Aux AGE 2015)
+
+Obtuvo 0 de 1 punto
+
+Está alineado a la derecha.
+Respuesta equivocada
+Tu respuesta
+Está alineado a derecha e izquierda.
+Corregir respuesta
+Está centrado.
+Está alineado a la izquierda.
+11.
+Señale los tipos de sangría hay en Word 365: (Aux AGE 2015)
+
+Obtuvo 0 de 1 punto
+
+Izquierda, derecha y centrada.
+Respuesta equivocada
+Tu respuesta
+Izquierda, derecha, centrada y francesa.
+Izquierda, derecha, de primera línea y francesa.
+Corregir respuesta
+Izquierda, derecha, francesa y barra.

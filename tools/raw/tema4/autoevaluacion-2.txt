@@ -1,0 +1,120 @@
+1.
+¿Qué extensión tienen los documentos de Word?
+
+Obtuvo 0 de 1 punto
+
+.doc
+Respuesta equivocada
+Tu respuesta
+.dot
+.docm
+.docx
+Corregir respuesta
+2.
+¿Qué vistas aparecen disponibles en la barra de estado?
+
+Obtuvo 1 de 1 punto
+
+Modo lectura, diseño de impresión, diseño web
+Corregir respuesta
+Tu respuesta
+Modo lectura, diseño de impresión, borrador
+Modo lectura, diseño de impresión, modo inmersivo
+Modo lectura, diseño de impresión, esquema
+3.
+¿Cómo se ordena la cinta de opciones?
+
+Obtuvo 1 de 1 punto
+
+Ficha, grupo, comando, llamador de grupo
+Corregir respuesta
+Tu respuesta
+Fichas, comandos, grupos
+Llamadores de grupo, ficha, comando, grupo
+Grupo, ficha, comando
+4.
+¿A que apartado del menú "Opciones de Word" tenemos que acceder para modificar elementos de la interfaz de Word?
+
+Obtuvo 1 de 1 punto
+
+General
+Corregir respuesta
+Tu respuesta
+Accesibilidad
+Avanzadas
+Presentación
+5.
+El espaciado posterior definido por defecto en Word 365 está establecido en la siguiente medida:
+
+Obtuvo 0 de 1 punto
+
+10 puntos.
+Respuesta equivocada
+Tu respuesta
+0 puntos.
+8 puntos.
+Corregir respuesta
+Automático.
+6.
+¿Desde qué ficha de la cinta de opciones de Word podemos activar y desactivar las reglas?
+
+Obtuvo 0 de 1 punto
+
+Diseño.
+Respuesta equivocada
+Tu respuesta
+Vista.
+Corregir respuesta
+Insertar.
+Inicio.
+7.
+En Word 365 queremos configurar cómo se muestra el contenido del documento en la pantalla y al imprimirlo. Debemos hacerlo desde las Opciones de Word, en la pestaña…
+
+Obtuvo 0 de 1 punto
+
+General
+Respuesta equivocada
+Tu respuesta
+Revisión
+Presentación
+Corregir respuesta
+Complementos
+8.
+¿Cuál es la fuente por defecto en Word?
+
+Obtuvo 0 de 1 punto
+
+Calibri, tamaño 12
+Respuesta equivocada
+Tu respuesta
+Aptos, tamaño 12
+Corregir respuesta
+Courier, tamaño11
+Times New Roman, tamaño 12
+
+MODIFICACIÓN OFFICE 365: la fuente por defecto pasa de Calibri a Aptos.
+
+9.
+¿En qué zona de la interfaz de Word podemos ver en qué página estamos situados?
+
+Obtuvo 0 de 1 punto
+
+En la barra de herramientas de acceso rápido
+Respuesta equivocada
+Tu respuesta
+En la cinta de opciones
+En la barra de título
+En la barra de estado
+Corregir respuesta
+10.
+Para configurar el espacio entre las distintas líneas de un párrafo, utilizaremos la opción…
+
+Obtuvo 0 de 1 punto
+
+Espaciado.
+Respuesta equivocada
+Tu respuesta
+Interletraje.
+Interlineado.
+Corregir respuesta
+Alineación.

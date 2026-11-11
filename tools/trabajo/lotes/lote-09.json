@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-vo-02-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 2,
+   "enunciado": "Vamos a inspeccionar un documento Word antes de publicarlo. Para ello utilizamos \"Comprobar si hay problemas\", dentro del menú Archivo. Al hacer clic, nos ofrece tres opciones. ¿Cuál de las siguientes NO es una de las opciones ofrecidas? (AUX LIBRE 2019)",
+   "opciones": [
+    "Restringir edición.",
+    "Inspeccionar documento.",
+    "Comprobar accesibilidad.",
+    "Comprobar compatibilidad."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-02-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 3,
+   "enunciado": "¿Qué extensión usa un documento Word habilitado para macros?",
+   "opciones": [
+    ".doc",
+    ".dotm",
+    ".docm",
+    ".domx"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-02-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 4,
+   "enunciado": "Entre los formatos de archivo que son compatibles con Word, la extensión .dotm indica: (ADMVO LIBRE 2022)",
+   "opciones": [
+    "Documento de archivo binario para Word 97-Word 2003.",
+    "Documento de archivo basado en XML y habilitado para macros para Word 365, Word 2021, Word 2019, Word 2016, Word 2010 y Office Word 2007. Almacena código de macros PHP.",
+    "Plantilla para crear nuevos archivos de Word 365, Word 2021, Word 2019, Word 2016 y Office Word 2007 que contienen macros.",
+    "Plantilla para crear nuevos archivos de Word 365, Word 2021, Word 2019, Word 2016 y Office Word 2007 que no contienen macros."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-02-005",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 5,
+   "enunciado": "¿Cuál de los siguientes tamaños de papel estándar es más grande? (AUX LIBRE 2016)",
+   "opciones": [
+    "A5",
+    "Carta",
+    "Ejecutivo",
+    "Oficio"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-02-006",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 6,
+   "enunciado": "Quiero imprimir desde la sección 5 a la 7. ¿Cómo debo indicarlo?",
+   "opciones": [
+    "5-7",
+    "5,7",
+    "s5,s7",
+    "s5-s7"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-02-007",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 7,
+   "enunciado": "En Word 365, tenemos la siguiente configuración de impresión: Información del documento: Estilos / Imprimir a una cara / Intercaladas 1;2;3; 1;2;3; 1;2;3 / Orientación vertical. ¿Qué impresión obtendríamos?",
+   "opciones": [
+    "Esa configuración no es posible en Word 365.",
+    "Se imprimiría el documento y después de la última página una lista con los estilos usados en el documento.",
+    "Se imprimiría el documento con una anotación en cada párrafo indicando el estilo que tiene aplicado.",
+    "Se imprime únicamente una lista de estilos usados en el documento."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-02-008",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 8,
+   "enunciado": "En Word 365, indique cuál de las siguientes configuraciones de impresión es INCORRECTA:",
+   "opciones": [
+    "Imprimir todas las páginas. Imprimir a una cara. Intercaladas 1;2;3; 1;2;3; 1;2;3. Orientación vertical.",
+    "Entradas de texto automático. Imprimir a una cara. Intercaladas 1;2;3; 1;2;3; 1;2;3. Orientación vertical.",
+    "Imprimir todas las páginas. Imprimir a una cara. Sin Intercalar 1;2;3; 1;2;3; 1;2;3. Orientación vertical.",
+    "Imprimir selección. Imprimir a una cara. Intercaladas 1;2;3; 1;2;3; 1;2;3. Orientación vertical."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-02-009",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 9,
+   "enunciado": "De las siguientes opciones, ¿cuál NO nos ofrece Word para compartir un archivo guardado en el almacenamiento local?",
+   "opciones": [
+    "Cargar el documento en OneDrive.",
+    "Enviar vínculo.",
+    "Adjuntar a e-mail como documento de Word.",
+    "Adjuntar a e-mail como archivo PDF."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-02-010",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 2",
+   "n": 10,
+   "enunciado": "Si compartimos un documento de Word a través de un vínculo, dentro de las opciones de personalización de permisos, ¿cuál NO está disponible?",
+   "opciones": [
+    "Podemos compartir el vínculo con cualquier persona, o con un listado específico.",
+    "Podemos configurar si pueden editar o sólo ver el documento.",
+    "Podemos establecer una fecha de expiración del enlace.",
+    "Podemos bloquear a usuarios específicos desde la ficha “Archivo” > ”Exportar”"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-03-001",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 1,
+   "enunciado": "En relación con el Historial de versiones de Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Está disponible para cualquier documento, con independencia de que se encuentre almacenado localmente o en la nube.",
+    "Permite consultar y restaurar versiones anteriores del documento, siempre que el archivo esté almacenado en OneDrive.",
+    "Solo puede abrirse desde Archivo > Opciones > Guardar > Historial de versiones.",
+    "Genera automáticamente una copia independiente del documento cada vez que se cierra Word."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-03-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 2,
+   "enunciado": "Respecto al Autoguardado de Word 365, indique la afirmación correcta.",
+   "opciones": [
+    "Se encuentra activado de forma predeterminada tanto para archivos locales como para documentos almacenados en OneDrive.",
+    "Solo puede desactivarse desde Archivo > Opciones > Guardar.",
+    "Está habilitado de forma predeterminada cuando el documento está almacenado en OneDrive y puede activarse o desactivarse desde el selector de la barra de herramientas de acceso rápido.",
+    "Cuando está activado, guarda los cambios únicamente al cerrar el documento."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-03-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 3,
+   "enunciado": "Un documento de Word 365 está almacenado en OneDrive y tiene activado el Autoguardado. En relación con las opciones de la ficha Archivo, señale la afirmación correcta.",
+   "opciones": [
+    "Se mantienen disponibles «Guardar» y «Guardar como», y se añade además la opción «Guardar una copia».",
+    "«Guardar como» permanece disponible, pero «Guardar» queda sustituido por «Guardar una copia».",
+    "Desaparecen «Guardar» y «Guardar como» y son sustituidas por «Guardar una copia».",
+    "La opción «Guardar una copia» solo aparece cuando el Autoguardado está desactivado."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-03-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 4,
+   "enunciado": "Señala cuál de las siguientes no es una opción de pegado en Word:",
+   "opciones": [
+    "Mantener formato de origen.",
+    "Mantener formato de destino.",
+    "Combinar formato.",
+    "Pegar como imagen."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-03-005",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 5,
+   "enunciado": "Indica cuántos elementos puede conservar el portapapeles en Microsoft Word:",
+   "opciones": [
+    "12 elementos.",
+    "24 elementos.",
+    "10 elementos.",
+    "255 elementos."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-03-006",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 6,
+   "enunciado": "Señala cuál de las siguientes afirmaciones es INCORRECTA acerca de la fuente en Word:",
+   "opciones": [
+    "El tamaño por defecto de la fuente en Word es 11 puntos.",
+    "El tipo de fuente por defecto en Word es Aptos.",
+    "El tamaño máximo de la fuente en Word es 1638 puntos.",
+    "Se puede aumentar y disminuir el tamaño de la fuente en los botones correspondientes de la cinta de Opciones."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-03-007",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 7,
+   "enunciado": "¿Cómo se puede conseguir un subrayado no predeterminado en Word 365? (AUX ESTABILIZACIÓN 2022)",
+   "opciones": [
+    "Desde la pestaña Diseño fuente, más subrayados.",
+    "Desde la pestaña Vista fuente, más subrayados.",
+    "Desde la pestaña Insertar fuente, más subrayados.",
+    "Desde la pestaña Inicio fuente, más subrayados."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-03-008",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 8,
+   "enunciado": "¿Cuáles de los siguientes son efectos de fuente?",
+   "opciones": [
+    "Negrita, superíndice, versales y cursiva.",
+    "Cursiva, subrayado, tachado y superíndice.",
+    "Versalitas, subíndice, tachado y mayúsculas.",
+    "Negrita, superíndice, subrayado y versalitas."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-03-009",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 3",
+   "n": 9,
+   "enunciado": "¿Cuál de las siguientes opciones de formato de la fuente afecta a la anchura de los caracteres?",
+   "opciones": [
+    "Posición.",
+    "Escala.",
+    "Interletraje.",
+    "Espaciado."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-04-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 2,
+   "enunciado": "En Word 365, a la siguiente línea de texto “E l r í o E b r o.” se le han aplicado varios formatos. ¿Cuál de las siguientes respuestas indicadas recoge de forma correcta estos formatos aplicados? (AGE 2026)",
+   "opciones": [
+    "Fuente en cursiva y con espaciado extendido.",
+    "Fuente en cursiva y superíndice.",
+    "Fuente doble tachado y con espaciado extendido.",
+    "Fuente con espaciado comprimido y versalitas."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-04-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 3,
+   "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente una lista multinivel en Word 365?",
+   "opciones": [
+    "Es un tipo de lista no ordenada que utiliza símbolos gráficos para representar los elementos.",
+    "Es una lista en la que los elementos están numerados o etiquetados con letras, sin jerarquía entre ellos.",
+    "Es una estructura jerárquica con niveles dependientes entre sí, que permite aplicar diferentes formatos a cada nivel.",
+    "Es una lista que solo admite tres niveles de jerarquía y todos deben tener el mismo formato."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-04-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 4,
+   "enunciado": "¿Qué opción permite acceder a diseños personalizados para viñetas, numeraciones o listas multinivel en el grupo “Párrafo” de Word 365?",
+   "opciones": [
+    "Activar la opción “Formato condicional”.",
+    "Hacer clic en “Diseño de lista automática”.",
+    "Seleccionar la opción “Estilos rápidos”.",
+    "Pulsar sobre “Definir nueva…” en la sección correspondiente."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-04-005",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 5,
+   "enunciado": "Señale la opción correcta cuando hablamos de un texto justificado en Word 365:",
+   "opciones": [
+    "Está alineado a derecha e izquierda.",
+    "Está alineado a la derecha.",
+    "Está alineado a la izquierda.",
+    "Está centrado."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-04-006",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 6,
+   "enunciado": "¿Cuál de las siguientes alineaciones no aparece incluida en la lista del menú de configuración de párrafo ni en la cinta de opciones?",
+   "opciones": [
+    "Justificada.",
+    "Centrada.",
+    "Distribuida.",
+    "Izquierda."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-04-007",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 7,
+   "enunciado": "¿Qué tipo de alineación de párrafo utiliza Word 365 por defecto? (Aux AGE 2007).",
+   "opciones": [
+    "Derecha.",
+    "Centrada.",
+    "Justificada.",
+    "Izquierda"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-04-008",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 8,
+   "enunciado": "Señale los tipos de sangría hay en Word 365:",
+   "opciones": [
+    "Izquierda, derecha, primera línea y francesa.",
+    "Izquierda, derecha, francesa y barra.",
+    "Izquierda, derecha y centrada.",
+    "Izquierda, derecha, centrada y francesa."
+   ],
+   "correcta": 0
+  }
+ ]
+}

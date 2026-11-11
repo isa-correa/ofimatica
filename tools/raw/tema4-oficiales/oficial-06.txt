@@ -1,0 +1,128 @@
+1.
+¿Cuál es la finalidad de la función "Dibujar tabla" en Word? (Aux AGE Estabilización 2019)
+
+Obtuvo 0 de 1 punto
+
+Crear un dibujo de una tabla en formato png, para insertar en el texto como imagen.
+Respuesta equivocada
+Tu respuesta
+Diseñar tablas mediante un cuadro de diálogo, estableciendo el número de filas y columnas.
+Diseñar tablas mediante el puntero del ratón, dibujando los bordes de celdas, filas y columnas.
+Corregir respuesta
+Insertar una tabla entre las disponibles en las plantillas de tabla integradas.
+2.
+¿Cuál de las siguientes opciones es correcta con respecto a ordenar los datos de una tabla de Word? (Aux Est AGE Extraordinario 2019)
+
+Obtuvo 0 de 1 punto
+
+Es posible, haciendo clic con el botón secundario del ratón sobre la tabla, y en el menú desplegable, Propiedades > Ordenar.
+Respuesta equivocada
+Tu respuesta
+No es posible si la tabla está hecha en Word. Si está hecha en Excel, podemos ordenarla antes de incrustarla en el texto.
+Es posible, situando el cursor dentro de la tabla, y pulsando el botón Ordenar de la pestaña Inicio de la cinta de opciones de Word.
+Corregir respuesta
+Es posible, seleccionando la columna y haciendo clic con el botón secundario del ratón, y en el menú desplegable, Ordenar.
+3.
+En el menú Inicio de Word, grupo Edición, uno de los elementos es Seleccionar, que despliega cuatro opciones. ¿Cuál de las siguientes opciones NO aparece en este menú? (Aux Est AGE Extraordinario 2019)
+
+Obtuvo 0 de 1 punto
+
+Seleccionar todo el texto con formato similar (sin datos).
+Respuesta equivocada
+Tu respuesta
+Seleccionar objetos.
+Seleccionar todo.
+Seleccionar tabla.
+Corregir respuesta
+4.
+Al hacer clic en el botón "Buscar" de la pestaña "Inicio" de Word, ¿cuál de los siguientes comportamientos es el correcto? (Aux Est AGE Extraordinario 2019)
+
+Obtuvo 1 de 1 punto
+
+Se abre la ventana "Navegación" con el campo para escribir la búsqueda, y tres pestañas: Títulos, Páginas y Resultados.
+Corregir respuesta
+Tu respuesta
+Se abre la ventana "Buscar y Reemplazar" con dos pestañas: Buscar y Reemplazar.
+Se abre la ventana "Búsqueda" sólo con el campo para escribir la búsqueda.
+Se abre la ventana emergente "Encontrar" sólo con el campo para escribir la búsqueda.
+5.
+Señale la opción correcta para seleccionar todo un párrafo en Word 365: (Aux AGE 2016)
+
+Obtuvo 1 de 1 punto
+
+Basta dar un triple clic en una palabra del párrafo.
+Corregir respuesta
+Tu respuesta
+Basta con pulsar y mantener la tecla CTRL y hacer clic en cualquier parte del párrafo.
+Basta dar un clic sobre una palabra del párrafo.
+Basta dar doble clic en una palabra del párrafo.
+6.
+Señale la opción correcta para Word 365 si queremos guardar un documento con nombre: (Aux AGE 2016)
+
+Obtuvo 1 de 1 punto
+
+F12
+Corregir respuesta
+Tu respuesta
+F8
+Alt + F8
+F7
+7.
+Señale la función de la tecla F5 en Word 365: (Aux AGE 2016)
+
+Obtuvo 0 de 1 punto
+
+Insertar autotexto.
+Respuesta equivocada
+Tu respuesta
+Abre la ventana buscar y reemplazar.
+Corregir respuesta
+Activar modo de extensión.
+Activar barra de menú.
+8.
+Queremos añadir una tabla al documento de Word. ¿En qué pestaña encontramos esta opción? (AGE 2017)
+
+Obtuvo 1 de 1 punto
+
+Insertar.
+Corregir respuesta
+Tu respuesta
+Vista.
+Diseño.
+Correspondencia.
+9.
+En un documento Word 365 si nos situamos en la última celda de una tabla y pulsamos la tecla del tabulador, ¿qué sucede en la tabla?
+
+Obtuvo 0 de 1 punto
+
+Se inserta una línea como encabezado de la tabla.
+Respuesta equivocada
+Tu respuesta
+Se añade una columna al final de la tabla.
+Se divide la celda en la que estamos posicionados.
+Se añade una fila al final de la tabla.
+Corregir respuesta
+10.
+Señale la ruta correcta para agregar una tabla de Excel a un documento de Word 365 (Aux AGE 2008)
+
+Obtuvo 0 de 1 punto
+
+Convirtiendo una tabla de Word previamente seleccionada en una hoja de Microsoft Excel.
+Respuesta equivocada
+Tu respuesta
+Desde Excel, importando los datos de la tabla.
+Desde el botón "Tabla", del grupo "Tablas" de la pestaña "Insertar".
+Corregir respuesta
+Desde el botón "mis Complementos" del grupo "Complementos" de la ficha "Insertar".
+11.
+En Word 365, ¿cuál de las siguientes opciones se utiliza para garantizar que se puede ver correctamente la tabla completa en la vista de diseño web? (Aux Libre 2022)
+
+Obtuvo 0 de 1 punto
+
+Alinear al centro.
+Respuesta equivocada
+Tu respuesta
+Autoajustar a la ventana.
+Corregir respuesta
+Autoajustar al contenido.
+Ancho de columna fijo.

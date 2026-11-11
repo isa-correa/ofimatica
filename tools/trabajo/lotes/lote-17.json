@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-au-10-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 7,
+   "enunciado": "¿Qué efecto tiene CTRL + MAY + signo +?",
+   "opciones": [
+    "Superíndice",
+    "Subíndice",
+    "Mayúsculas",
+    "Aumentar tamaño de fuente"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-10-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 8,
+   "enunciado": "¿Cuál de estas combinaciones aplica interlineado doble?",
+   "opciones": [
+    "CTRL + 1",
+    "CTRL + 2",
+    "CTRL + 5",
+    "CTRL + 0"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-10-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 9,
+   "enunciado": "El atajo CTRL + D realiza:",
+   "opciones": [
+    "Aplica negrita",
+    "Alineación centrada",
+    "Alineación a la derecha",
+    "Inserta un hipervínculo"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-10-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 10",
+   "n": 10,
+   "enunciado": "¿Qué acción realiza CTRL + ALT + K?",
+   "opciones": [
+    "Inserta una nota al pie",
+    "Inserta un hipervínculo",
+    "Inserta una imagen",
+    "Aumenta tamaño de fuente"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-11-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 1,
+   "enunciado": "¿En qué ficha de la cinta de opciones encontramos el grupo \"Estilos\"?",
+   "opciones": [
+    "Insertar.",
+    "Diseño.",
+    "Disposición.",
+    "Inicio."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-11-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 2,
+   "enunciado": "La primera línea de un párrafo que, por un salto de página queda como última de una página, se denomina:",
+   "opciones": [
+    "Línea huérfana.",
+    "Línea viuda.",
+    "Primera línea.",
+    "Número de línea."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-11-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 3,
+   "enunciado": "¿Cuántos tipos de tabulaciones hay en Word 365?",
+   "opciones": [
+    "Barra, izquierda, derecha,centro y decimal.",
+    "Barra, izquierda, derecha, distribuida y decimal.",
+    "Barra, justificada, derecha,centro y decimal.",
+    "Barra, izquierda, derecha, distribuida y principal."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-11-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 4,
+   "enunciado": "¿Cuál de los siguientes NO es un tipo de estilo en Word 365?",
+   "opciones": [
+    "Tabulación.",
+    "Carácter.",
+    "Lista.",
+    "Párrafo."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-11-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 5,
+   "enunciado": "¿Cuál de los siguientes no es un tipo de interlineado de Word?",
+   "opciones": [
+    "Sencillo.",
+    "Múltiple.",
+    "Comprimido.",
+    "Mínimo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-11-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 6,
+   "enunciado": "Señala cómo se denomina la última línea de un párrafo que, por insertar un salto de página, queda como primera de una página:",
+   "opciones": [
+    "Línea huérfana.",
+    "Línea viuda.",
+    "Primera línea.",
+    "Salto de línea."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-11-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 7,
+   "enunciado": "¿Cuál de las siguientes NO es una propiedad de un párrafo?",
+   "opciones": [
+    "Espaciado anterior",
+    "Nivel",
+    "Sangría especial francesa",
+    "Escala"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-11-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 8,
+   "enunciado": "¿Cuál de las siguientes opciones NO es una sangría?",
+   "opciones": [
+    "Primera línea",
+    "Izquierda",
+    "Francesa",
+    "Justificada"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-11-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 11",
+   "n": 9,
+   "enunciado": "Desde la regla podemos modificar (señala la respuesta incorrecta):",
+   "opciones": [
+    "Alineación",
+    "Sangría Francesa",
+    "Sangría Derecha",
+    "Tabulaciones"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-12-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 1,
+   "enunciado": "Si queremos que, en una tabulación, el texto quede centrado con respecto a la marca de tabulación…",
+   "opciones": [
+    "Establecer una tabulación tipo barra.",
+    "Establecer una tabulación y aplicarle una alineación centrada.",
+    "Establecer una tabulación centrada.",
+    "Establecer una alineación centrada al párrafo en concreto."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-12-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 2,
+   "enunciado": "¿Cuál de las siguientes es un tipo de tabulación en Word 365?",
+   "opciones": [
+    "Barra.",
+    "Numerada.",
+    "Centesimal.",
+    "Rellenar."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-12-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 3,
+   "enunciado": "Si queremos que dos párrafos consecutivos no sean separados por un salto de página, activaremos la opción de paginación…",
+   "opciones": [
+    "Conservar líneas juntas.",
+    "Control de líneas viudas y huérfanas.",
+    "Conservar juntos.",
+    "Conservar con el siguiente."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-12-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 4,
+   "enunciado": "Si tenemos establecida una fuente de tamaño 20 ¿cuál de los siguientes interlineados será más grande?",
+   "opciones": [
+    "Sencillo.",
+    "Doble.",
+    "Mínimo en 25.",
+    "Múltiple en 2,5."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-12-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 5,
+   "enunciado": "¿Cómo se denomina la distancia que existe entre el margen y el texto de un documento?",
+   "opciones": [
+    "Encuadernación.",
+    "Margen.",
+    "Sangría.",
+    "Interlineado."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-12-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 6,
+   "enunciado": "¿Cuántos tipos de interlineados hay en Word 365?",
+   "opciones": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-12-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 7,
+   "enunciado": "¿Qué tipo de sangría desplaza solo la primera línea de un párrafo?",
+   "opciones": [
+    "Sangría francesa",
+    "Sangría izquierda",
+    "Sangría derecha",
+    "Sangría especial de 1ª línea"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-12-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 8,
+   "enunciado": "¿Qué sucede al activar la opción \"Sangrías simétricas\" en un documento pensado para impresión a doble cara?",
+   "opciones": [
+    "Las sangrías se desactivan automáticamente",
+    "La sangría izquierda se convierte en \"Exterior\" y la derecha en \"Interior\"",
+    "Se aplican márgenes alternos en páginas pares e impares",
+    "La sangría izquierda pasa a ser \"Interior\" y la derecha, \"Exterior\""
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-12-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 9,
+   "enunciado": "¿Cuál es el valor predeterminado del interlineado en Word 365?",
+   "opciones": [
+    "Sencillo",
+    "Múltiple en 1,5",
+    "Exacto en 12 pt",
+    "Múltiple en 1,16"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-12-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 10,
+   "enunciado": "Si deseamos que un párrafo comience siempre en una nueva página, ¿qué opción debemos activar?",
+   "opciones": [
+    "Conservar con el siguiente",
+    "Salto de página anterior",
+    "No dividir con guiones",
+    "Línea viuda"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-12-011",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 11,
+   "enunciado": "¿Cuál de las siguientes opciones evita que el contenido de un párrafo se divida entre dos páginas?",
+   "opciones": [
+    "Conservar líneas juntas",
+    "Control de líneas viudas",
+    "No dividir con guiones",
+    "Salto de sección continua"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-12-012",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 12",
+   "n": 12,
+   "enunciado": "¿Para qué sirve la opción \"No dividir con guiones\"?",
+   "opciones": [
+    "Para unir automáticamente palabras con guiones",
+    "Para impedir que las palabras se separen con guiones al final de línea",
+    "Para añadir guiones largos entre párrafos",
+    "Para dividir un párrafo en varias secciones"
+   ],
+   "correcta": 1
+  }
+ ]
+}

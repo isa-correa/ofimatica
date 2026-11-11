@@ -1,0 +1,58 @@
+1.
+¿Qué función realiza la opción de "Sombreado" en un documento de Word? (Aux AGE 2017)
+
+Obtuvo 0 de 1 punto
+
+Crea sombras en el marco del texto.
+Respuesta equivocada
+Tu respuesta
+Colorea las letras del texto.
+Crea sombras en las letras del texto.
+Colorea el fondo del texto o párrafo seleccionado.
+Corregir respuesta
+2.
+¿Cuál de las alineaciones NO aparece en el cuadro "Párrafo"? (Aux AGE 2006)
+
+Obtuvo 0 de 1 punto
+
+Derecha.
+Respuesta equivocada
+Tu respuesta
+Distribuida.
+Corregir respuesta
+Centrada.
+Justificada.
+3.
+¿Qué tipo de sangría desplaza hacia la derecha un bloque de texto, dejando la primera línea sin desplazar? (Aux AGE 2007)
+
+Obtuvo 1 de 1 punto
+
+Francesa.
+Corregir respuesta
+Tu respuesta
+Derecha.
+Izquierda.
+Primera línea.
+4.
+¿Cuál de los siguientes comandos de párrafo podemos configurar desde la pestaña "Líneas y Saltos de página" del menú "Párrafo? (Aux AGE 2007)
+
+Obtuvo 1 de 1 punto
+
+Conservar líneas juntas.
+Corregir respuesta
+Tu respuesta
+Interlineado 1,5 líneas.
+Espaciado posterior.
+Control líneas viudas.
+5.
+Señale cuál de las siguientes combinaciones de teclas (método abreviado) permite cambiar una palabra seleccionada a mayúsculas o a minúsculas (Aux AGE 2008)
+
+Obtuvo 0 de 1 punto
+
+CTRL+<
+Respuesta equivocada
+Tu respuesta
+CTRL+M
+MAYÚS+F3
+Corregir respuesta
+CTRL+Y

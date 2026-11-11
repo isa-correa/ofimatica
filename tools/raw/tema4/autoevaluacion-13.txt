@@ -1,0 +1,119 @@
+1.
+En Word 365, aplicamos un estilo vinculado a una única palabra situada dentro de un párrafo. ¿Qué características del estilo se aplicarán en este caso?
+
+Obtuvo 0 de 1 punto
+
+Las de fuente y las de párrafo, siempre que exista una selección.
+Respuesta equivocada
+Tu respuesta
+Únicamente las de fuente, al no haberse seleccionado el párrafo completo.
+Corregir respuesta
+Las de párrafo, conservándose el formato de fuente previo.
+Las de párrafo y solo aquellas de fuente que coincidan con el estilo Normal.
+2.
+Un usuario necesita identificar los formatos que se han aplicado a una parte del documento y eliminarlos, sin modificar la definición de los estilos. ¿Qué herramienta debe utilizar?
+
+Obtuvo 0 de 1 punto
+
+Administrar estilos.
+Respuesta equivocada
+Tu respuesta
+Modificar estilo.
+Inspector de estilo.
+Corregir respuesta
+Seleccionar todo el texto con formato similar.
+3.
+En Word 365 se accede a Inicio > Edición > Búsqueda avanzada. Respecto al funcionamiento de esta herramienta, señale la afirmación INCORRECTA.
+
+Obtuvo 0 de 1 punto
+
+Permite establecer criterios relacionados con el formato del texto.
+Respuesta equivocada
+Tu respuesta
+Puede limitar la búsqueda a determinadas partes del documento.
+Resalta automáticamente todas las coincidencias a la vez, sin necesidad de activar ninguna opción.
+Corregir respuesta
+Permite restringir los resultados a palabras completas.
+4.
+Queremos localizar únicamente la palabra «Tema», evitando coincidencias con «temario» y distinguiendo entre mayúsculas y minúsculas. ¿Qué configuración debemos utilizar?
+
+Obtuvo 1 de 1 punto
+
+Activar Solo palabras completas y Coincidir mayúsculas y minúsculas.
+Corregir respuesta
+Tu respuesta
+Activar Usar caracteres comodín y Buscar siguiente.
+Activar Resaltado de lectura y Buscar en.
+Activar Coincidir mayúsculas y minúsculas y Resaltado de lectura.
+5.
+Al realizar una búsqueda avanzada, necesitamos localizar texto que presente un determinado formato. ¿Qué botón permite establecer este criterio?
+
+Obtuvo 0 de 1 punto
+
+Especial.
+Respuesta equivocada
+Tu respuesta
+Formato.
+Corregir respuesta
+Buscar en.
+Resaltado de lectura.
+6.
+En el cuadro Buscar y reemplazar hemos encontrado una coincidencia y queremos sustituir únicamente esa aparición, continuando después con la búsqueda. ¿Qué comando utilizaremos?
+
+Obtuvo 0 de 1 punto
+
+Reemplazar todos.
+Respuesta equivocada
+Tu respuesta
+Buscar siguiente.
+Reemplazar.
+Corregir respuesta
+Ir a.
+7.
+Desde Inicio > Edición > Seleccionar, ¿qué opción permite mostrar en un panel lateral los objetos de la parte del documento que estamos editando?
+
+Obtuvo 0 de 1 punto
+
+Seleccionar objetos.
+Respuesta equivocada
+Tu respuesta
+Panel de selección.
+Corregir respuesta
+Seleccionar todo el texto con formato similar.
+Panel de navegación.
+8.
+Un usuario desea convertir una grabación de audio en texto, diferenciando las intervenciones de los distintos participantes. ¿Qué herramienta resulta adecuada?
+
+Obtuvo 0 de 1 punto
+
+Dictar, porque separa automáticamente las intervenciones de cada orador.
+Respuesta equivocada
+Tu respuesta
+Leer en voz alta, porque convierte el audio en párrafos.
+Transcribir, que puede trabajar con audio grabado o cargado.
+Corregir respuesta
+Buscar, utilizando el criterio de reconocimiento de voz.
+9.
+Respecto a las herramientas del grupo Páginas de la pestaña Insertar, señale la afirmación correcta.
+
+Obtuvo 0 de 1 punto
+
+Página en blanco finaliza la página en el punto de inserción sin añadir contenido adicional.
+Respuesta equivocada
+Tu respuesta
+Portada incorpora un modelo prediseñado como primera página del documento.
+Corregir respuesta
+Salto de página inserta una página prediseñada antes de la página actual.
+Portada y Página en blanco son comandos equivalentes, diferenciándose únicamente en el diseño.
+10.
+En Word 365 queremos desplazarnos directamente a un marcador concreto del documento mediante el cuadro Buscar y reemplazar. ¿Qué pestaña debemos utilizar?
+
+Obtuvo 0 de 1 punto
+
+Buscar.
+Respuesta equivocada
+Tu respuesta
+Reemplazar.
+Formato.
+Ir a.
+Corregir respuesta

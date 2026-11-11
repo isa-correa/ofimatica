@@ -1,0 +1,116 @@
+1.
+Si queremos obtener información detallada del documento que estamos editando, ¿dónde nos dirigimos?
+
+Obtuvo 1 de 1 punto
+
+Menú "Información" de la ficha "Archivo"
+Corregir respuesta
+Tu respuesta
+Menú "Información" de la ficha "Vista"
+Menú "Detalles" de la ficha "Archivo"
+Menú "Información" de la ficha "Revisar"
+2.
+¿Cuántos caracteres debe tener como máximo una contraseña?
+
+Obtuvo 0 de 1 punto
+
+10 caracteres, diferencia entre mayúscula y minúscula
+Respuesta equivocada
+Tu respuesta
+10 caracteres, no diferencia entre mayúscula y minúscula
+15 caracteres, diferencia entre mayúscula y minúscula
+Corregir respuesta
+15 caracteres, no diferencia entre mayúscula y minúscula
+3.
+Señale a qué opción de "Archivo" debemos dirigirnos si necesitamos examinar el contenido del documento en busca de posibles problemas de accesibilidad:
+
+Obtuvo 0 de 1 punto
+
+Proteger documento.
+Respuesta equivocada
+Tu respuesta
+Comprobar si hay problemas.
+Corregir respuesta
+Administrar documento.
+Marcar como solo lectura.
+4.
+Para conocer datos del documento, tales como el autor, el tiempo de edición, dónde está guardado, etc. ¿a qué opción de la ficha "Archivo" tenemos que acudir?
+
+Obtuvo 0 de 1 punto
+
+Compartir
+Respuesta equivocada
+Tu respuesta
+Información
+Corregir respuesta
+Exportar
+Guardar Como
+5.
+¿Qué posibilidades nos permite la opción "Guardar como" en Word 365?
+
+Obtuvo 0 de 1 punto
+
+Elegir la ubicación donde guardamos el archivo
+Respuesta equivocada
+Tu respuesta
+Elegir la ubicación donde guardamos el archivo, el nombre y su extensión
+Corregir respuesta
+Sobrescribir la información del archivo sobre la versión guardada anteriormente
+Recuperar una copia de seguridad
+6.
+¿Qué extensión tiene un documento Word habilitado para versiones 97-2003?
+
+Obtuvo 1 de 1 punto
+
+.doc
+Corregir respuesta
+Tu respuesta
+.dotm
+.docm
+.domx
+7.
+¿Cuál de los siguientes tamaños de papel estándar es más pequeño?
+
+Obtuvo 1 de 1 punto
+
+A5
+Corregir respuesta
+Tu respuesta
+Tabloide
+A3
+Oficio
+8.
+Queremos imprimir únicamente la página 7 de la sección 3 de un documento de Word 365. ¿Cómo deberemos indicarlo en la impresión personalizada?
+
+Obtuvo 0 de 1 punto
+
+s7p3.
+Respuesta equivocada
+Tu respuesta
+p3s7.
+p7s3.
+Corregir respuesta
+s3-p7.
+9.
+En las opciones de impresión de Word 365 seleccionamos «Estilos» dentro de la información del documento. ¿Qué resultado se obtendrá?
+
+Obtuvo 1 de 1 punto
+
+Se imprimirá únicamente un documento con información sobre los estilos aplicados.
+Corregir respuesta
+Tu respuesta
+Se imprimirá el documento original añadiendo junto a cada párrafo el nombre del estilo utilizado.
+Se imprimirá el documento y, a continuación, una relación de todos los estilos disponibles en Word.
+Se imprimirán únicamente los estilos personalizados creados por el usuario.
+10.
+Tenemos un documento almacenado en OneDrive y queremos compartirlo mediante un vínculo. ¿Cuál de las siguientes opciones puede configurarse sobre dicho vínculo?
+
+Obtuvo 0 de 1 punto
+
+La extensión con la que se abrirá el documento para cada destinatario.
+Respuesta equivocada
+Tu respuesta
+El tamaño máximo del archivo que podrá descargar cada usuario.
+La aplicación de Office con la que deberá abrirse obligatoriamente.
+Si los destinatarios podrán editar el documento o únicamente visualizarlo.
+Corregir respuesta

@@ -1,0 +1,118 @@
+1.
+¿En qué ficha de la cinta de opciones se encuentra el comando "Resaltar campos de combinación?
+
+Obtuvo 0 de 1 punto
+
+Vista.
+Respuesta equivocada
+Tu respuesta
+Inicio.
+Referencias.
+Correspondencia.
+Corregir respuesta
+2.
+Señala en qué grupo se encuentra la opción "contar palabras":
+
+Obtuvo 1 de 1 punto
+
+El grupo Revisión
+Corregir respuesta
+Tu respuesta
+El grupo Comentarios
+El grupo Seguimiento
+El grupo Idioma
+3.
+Las opciones de corrección de ortografía y gramática, ¿en qué apartado de las opciones de Word se encuentran?
+
+Obtuvo 0 de 1 punto
+
+Guardar.
+Respuesta equivocada
+Tu respuesta
+General.
+Presentación.
+Revisión.
+Corregir respuesta
+4.
+¿Cuál de las siguientes no es una alineación que podamos aplicar a una tabla En Word 365?
+
+Obtuvo 0 de 1 punto
+
+Ajustar al Centro.
+Respuesta equivocada
+Tu respuesta
+Derecha.
+Ajustar a la Izquierda.
+Justificada.
+Corregir respuesta
+5.
+En un documento de Word 365, se ha insertado una forma prediseñada. Indica qué tipo de Ajuste de Texto debemos seleccionar si queremos que el objeto se integre en el párrafo, colocándolo en línea con el mismo:
+
+Obtuvo 0 de 1 punto
+
+Delante del texto.
+Respuesta equivocada
+Tu respuesta
+Arriba y abajo.
+En línea con el texto.
+Corregir respuesta
+Estrecho.
+6.
+¿Qué tipo de subrayado aplica Word al detectar un error gramatical en el texto?
+
+Obtuvo 0 de 1 punto
+
+Púrpura discontinuo
+Respuesta equivocada
+Tu respuesta
+Verde subrayado
+Rojo ondulado
+Azul doble
+Corregir respuesta
+7.
+¿Qué sucede si insertamos una marca de agua personalizada a partir de una selección en Word 365?
+
+Obtuvo 0 de 1 punto
+
+No puede aplicarse en combinación con bordes de página
+Respuesta equivocada
+Tu respuesta
+Se añade a la galería de marcas de agua
+Corregir respuesta
+Se guarda como encabezado
+Solo puede usarse una vez en el documento
+8.
+¿Qué diferencia presenta la pestaña "Borde de página" respecto a la pestaña "Bordes" del cuadro "Bordes y sombreado"?
+
+Obtuvo 0 de 1 punto
+
+Permite aplicar bordes con estilo de tabla
+Respuesta equivocada
+Tu respuesta
+Agrega el comando "Arte" para aplicar dibujos decorativos como borde de página
+Corregir respuesta
+Permite usar relleno de color en los márgenes
+Solo puede aplicarse en la portada del documento
+9.
+¿Qué ocurre si en el cuadro "Bordes y sombreado" no se selecciona ningún texto antes de aplicar un borde?
+
+Obtuvo 1 de 1 punto
+
+Se aplica automáticamente al párrafo donde esté posicionado el cursor
+Corregir respuesta
+Tu respuesta
+El borde se aplica al documento completo
+No se aplica ningún formato
+Word muestra un mensaje de error
+10.
+¿Qué tipo de elementos se pueden aplicar desde el grupo fondo de página en Word 365?
+
+Obtuvo 0 de 1 punto
+
+Solo colores sólidos y bordes
+Respuesta equivocada
+Tu respuesta
+Marcas de agua, color de página y bordes de página
+Corregir respuesta
+Encabezados personalizados y marcas
+Únicamente imágenes de fondo

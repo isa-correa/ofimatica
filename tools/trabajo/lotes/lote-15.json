@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-au-05-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 7,
+   "enunciado": "¿Cuál es el tamaño máximo de fuente que puede establecerse manualmente en Word 365?",
+   "opciones": [
+    "72 puntos",
+    "120 puntos",
+    "1024 puntos",
+    "1638 puntos"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-05-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 8,
+   "enunciado": "¿Qué comando del grupo \"Fuente\" aplica una línea bajo el texto?",
+   "opciones": [
+    "Sombra",
+    "Cursiva",
+    "Subrayado",
+    "Iluminado"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-05-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 9,
+   "enunciado": "¿Cuál es el nombre del tipo de fuente por defecto en Word 365?",
+   "opciones": [
+    "Calibri",
+    "Aptos (Cuerpo)",
+    "Arial",
+    "Cambria"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-05-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 5",
+   "n": 10,
+   "enunciado": "¿Qué herramienta permite aplicar un color llamativo a partes seleccionadas del texto, similar a un subrayador?",
+   "opciones": [
+    "Subrayado",
+    "Color de fuente",
+    "Resaltado de texto",
+    "Efecto sombra"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-06-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 1,
+   "enunciado": "Para configurar la unidad de medida por defecto en Word 365, ¿en qué apartado del programa debemos hacerlo?",
+   "opciones": [
+    "Apartado Avanzadas de Opciones de Word.",
+    "Apartado General de Opciones de Word.",
+    "Las reglas de la vista Diseño de impresión.",
+    "Ficha Vista de la cinta de opciones."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-06-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 2,
+   "enunciado": "¿Cómo se denomina el espaciado que hay entre las líneas de un mismo párrafo?",
+   "opciones": [
+    "Tabulación.",
+    "Espaciado.",
+    "Interlineado.",
+    "Sangría."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-06-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 3,
+   "enunciado": "¿Cuántos elementos puede conservar la herramienta \"Portapapeles\"?",
+   "opciones": [
+    "15",
+    "24",
+    "3",
+    "16"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-06-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 4,
+   "enunciado": "¿Qué herramienta nos permite copiar la configuraciones de párrafo, de fuente o ambos de un texto a otro?",
+   "opciones": [
+    "Copiar formato",
+    "Copiar",
+    "Pegar formato",
+    "Cortar"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-06-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 5,
+   "enunciado": "¿Qué opción nos permite MOVER los elementos de una parte del documento a otro?",
+   "opciones": [
+    "Cortar",
+    "Mover",
+    "Copiar",
+    "Pegar"
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-06-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 6,
+   "enunciado": "¿Cuál de las siguientes son opciones de pegado en Word 365?",
+   "opciones": [
+    "Mantener el formato imagen, combinar formato, pegar como imagen y conservar solo texto",
+    "Mantener formato, combinar origen, pegar como imagen y conservar solo texto",
+    "Mantener el formato origen, combinar formato, pegar como imagen y conservar solo texto",
+    "Mantener el formato texto, combinar imagen, pegar como imagen y conservar solo texto"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-06-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 7,
+   "enunciado": "Señala en qué ficha de la cinta de opciones se encuentra el comando Negrita:",
+   "opciones": [
+    "Diseño",
+    "Revisar",
+    "Insertar",
+    "Inicio"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-06-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 8,
+   "enunciado": "¿En qué ficha de la cinta de opciones se encuentra la opción de Exportar?:",
+   "opciones": [
+    "Archivo.",
+    "Inicio.",
+    "Insertar.",
+    "Revisar."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-06-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 9,
+   "enunciado": "Señala en qué grupo de la cinta de opciones de Word se encuentra el comando \"Copiar formato\":",
+   "opciones": [
+    "Fuente.",
+    "Párrafo.",
+    "Portapapeles.",
+    "Edición."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-06-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 6",
+   "n": 10,
+   "enunciado": "¿Qué atributo de la cinta de opciones establece un color al texto de nuestro documento?",
+   "opciones": [
+    "Sombreado",
+    "Relleno",
+    "Fondo de texto",
+    "Resaltado de texto"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-07-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 1,
+   "enunciado": "¿Qué opción de fuente nos permite disminuir la distancia entre caracteres?",
+   "opciones": [
+    "Espaciado.",
+    "Escala.",
+    "Tamaño.",
+    "Posición."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-07-002",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 2,
+   "enunciado": "¿Cuántos tipos de sangrías especiales hay en Word 365 y cuáles son?",
+   "opciones": [
+    "Una, especial francesa.",
+    "Dos, especial francesa y especial derecha.",
+    "Dos, especial francesa y especial primera línea.",
+    "3, especial francesa, especial primera línea y especial justificada."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-07-003",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 3,
+   "enunciado": "En Word 365, señala qué tipo de atributo es \"Reflejo\":",
+   "opciones": [
+    "Estilo de texto.",
+    "Efecto de texto.",
+    "Estilo de fuente.",
+    "Efecto de fuente."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-07-004",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 4,
+   "enunciado": "Señala la afirmación INCORRECTA acerca del atributo \"Posición\" de la fuente, en Word 365.",
+   "opciones": [
+    "Puede ser elevada.",
+    "Puede ser bajada.",
+    "Se mide en puntos.",
+    "Se mide en tantos por ciento."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-07-005",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 5,
+   "enunciado": "Si queremos reducir el espacio entre los caracteres de una palabra, ¿qué atributo debemos utilizar?",
+   "opciones": [
+    "Interletraje para fuentes.",
+    "Espaciado comprimido.",
+    "Escala.",
+    "Espaciado anterior."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-au-07-006",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 6,
+   "enunciado": "¿Qué configuración cambia el color que está detrás del texto, tabla o párrafo seleccionado?",
+   "opciones": [
+    "Sombreado.",
+    "Resaltado.",
+    "Relleno.",
+    "Contorno."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-07-007",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 7,
+   "enunciado": "Indica cuál de los siguientes, es un efecto de texto en Word 365:",
+   "opciones": [
+    "Subrayado.",
+    "Negrita.",
+    "Contorno.",
+    "Tachado."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-07-008",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 8,
+   "enunciado": "Indica en qué grupo de la cinta de opciones de Word se encuentra el efecto superíndice:",
+   "opciones": [
+    "Fuente.",
+    "Edición.",
+    "Párrafo.",
+    "Estilos."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-au-07-009",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 9,
+   "enunciado": "Necesitamos añadir una viñeta; ¿en qué grupo de la ficha inicio nos encontramos dicha herramienta?",
+   "opciones": [
+    "Estilos.",
+    "Portapapeles.",
+    "Edición.",
+    "Párrafo."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-au-07-010",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 7",
+   "n": 10,
+   "enunciado": "¿Cuántos niveles como máximo se pueden añadir en una lista multinivel?",
+   "opciones": [
+    "5",
+    "16",
+    "9",
+    "10"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-au-08-001",
+   "tema": "word",
+   "origen": "autoevaluacion",
+   "test": "Autoevaluación 8",
+   "n": 1,
+   "enunciado": "Si queremos duplicar la anchura de cada carácter, debemos configurar el siguiente atributo:",
+   "opciones": [
+    "Escala al 200%.",
+    "Escala al 50%.",
+    "El tamaño de la fuente al doble.",
+    "El espaciado."
+   ],
+   "correcta": 0
+  }
+ ]
+}

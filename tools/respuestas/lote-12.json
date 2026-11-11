@@ -1,0 +1,290 @@
+{
+ "w-vo-08-004": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, Configurar página, pestaña Márgenes, Varias páginas (pág. 73)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Normal** es una de las opciones de “Varias páginas”, y es la que viene por defecto.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Las **sangrías simétricas** son de la configuración de párrafo. En “Varias páginas” el equivalente son los **márgenes simétricos**.",
+   "Es verdadera, así que no se marca. **Dos páginas por hoja** es una opción de “Varias páginas”.",
+   "Es verdadera, así que no se marca. **Formato libro** es una opción de “Varias páginas” y prepara el documento para imprimirlo y plegarlo."
+  ],
+  "ojo": "Varias páginas tiene cuatro opciones: normal, márgenes simétricos, dos páginas por hoja y formato libro. Sangrías simétricas es de párrafo."
+ },
+ "w-vo-08-005": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, Configurar página, pestaña Disposición (pág. 74)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Justificada** es uno de los cuatro valores de la alineación vertical, pero no es el que viene por defecto.",
+   "No. **Centrada** es uno de los valores de la alineación vertical, pero no es el predeterminado.",
+   "Es esta. La alineación vertical de la página tiene 4 valores (superior, centrada, justificada y abajo), y el predeterminado es **Superior**.",
+   "No. **Abajo** es uno de los valores, pero no el predeterminado."
+  ]
+ },
+ "w-vo-08-006": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Configurar página, Columnas (pág. 75)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El comando **Columnas** está en **Disposición > Configurar página**. Distribuye el texto en dos o más columnas.",
+   "No. Insertar sirve para añadir elementos (tablas, imágenes, símbolos). Las columnas no están ahí.",
+   "No. Diseño trata de temas, fondo de página y bordes. No tiene el comando Columnas.",
+   "No. Inicio tiene el formato de fuente y párrafo, no la distribución en columnas."
+  ]
+ },
+ "w-vo-08-007": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Configurar página, cuadro Columnas (pág. 75)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El número de columnas no depende de la memoria del equipo: Word fija un máximo.",
+   "No. 11 se queda corto. El máximo es mayor.",
+   "Es esta. En el cuadro **Columnas**, el número de columnas puede estar **entre 1 y 45**.",
+   "No. 24 es el número de estilos de línea de los bordes, no de columnas."
+  ],
+  "ojo": "Número de columnas: de 1 a 45. Estilos de línea de borde: 24. Estilos de subrayado: 17."
+ },
+ "w-vo-08-008": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Configurar página, Saltos (pág. 76)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El salto de sección **Continua** existe: empieza la sección en la misma página.",
+   "Esta es la falsa, y por eso es la que hay que marcar. No existe un salto de sección de ajuste de texto. El **salto de ajuste de texto** es un salto de página, no de sección.",
+   "Es verdadera, así que no se marca. El salto de sección **Página par** existe: empieza la sección en la siguiente página par.",
+   "Es verdadera, así que no se marca. El salto de sección **Página siguiente** existe: empieza la sección en la página siguiente."
+  ],
+  "ojo": "Saltos de sección: página siguiente, continua, página par y página impar. Saltos de página: de página, de columna y de ajuste de texto."
+ },
+ "w-vo-08-009": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Configurar página, Saltos de sección (págs. 75 y 76)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí se pueden alternar orientaciones: las secciones permiten aplicar configuraciones distintas, como la orientación, a distintas partes del documento.",
+   "No. El salto **Continua** empieza la nueva sección en la misma página, y no encaja con cambiar la orientación de una página completa.",
+   "No. No hay esa limitación: con secciones puedes cambiar la orientación de cualquier página, no solo de las primeras o últimas.",
+   "Es esta. Se puede usar un salto de sección **Página siguiente**: la nueva sección empieza en la página siguiente, y en ella puedes poner la orientación horizontal."
+  ],
+  "revisar": "La opción 1 (Continua) se descarta porque la sección empieza en la misma página. En la práctica Word también fuerza una página nueva al cambiar la orientación, pero la respuesta de la plantilla es Página siguiente."
+ },
+ "w-vo-08-010": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Configurar página, Saltos de sección (págs. 75 y 76)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Al eliminar un salto de sección, Word combina el texto antes y después en una sola sección, que usa el formato de la sección que seguía al salto.",
+   "Es verdadera, así que no se marca. Con secciones puedes tener una parte del documento a una columna y otra a dos columnas.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Un cambio de formato de sección afecta solo a esa sección. Las secciones sirven justo para que el resto del documento no adquiera ese formato.",
+   "Es verdadera, así que no se marca. Las secciones permiten aplicar configuraciones y diseños de página distintos a partes diferentes del mismo documento."
+  ]
+ },
+ "w-vo-08-011": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Organizar (págs. 78 a 80)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. El **Panel de navegación** no es del grupo Organizar. Se abre con Buscar (Ctrl + B) o desde la ficha Vista.",
+   "Es verdadera, así que no se marca. **Alinear** está en Organizar: alinea los objetos con los márgenes o los bordes de la página.",
+   "Es verdadera, así que no se marca. **Agrupar** está en Organizar: junta varios objetos en uno.",
+   "Es verdadera, así que no se marca. **Girar** es un comando de Organizar para dar la vuelta a un objeto."
+  ],
+  "ojo": "Organizar: posición, ajustar texto, traer adelante, enviar atrás, panel de selección, alinear, agrupar y girar.",
+  "revisar": "Los apuntes (págs. 78 a 80) citan Posición, Ajustar texto, Traer adelante, Enviar atrás, Panel de selección, Alinear y Agrupar. Girar está en el grupo Organizar de Word 365, aunque los apuntes no lo describan."
+ },
+ "w-vo-08-012": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Organizar, Ajustar texto (pág. 78)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se ajusta la posición de un texto respecto a los márgenes. Ajustar texto actúa sobre un objeto, no sobre un texto.",
+   "No. Colocar un objeto respecto a los demás es cosa de Alinear, Traer adelante o Enviar atrás, no de Ajustar texto.",
+   "No. Colocar un objeto respecto a los bordes de la página lo hace **Posición** o **Alinear**.",
+   "Es esta. **Ajustar texto** establece cómo interactúa una forma, imagen u otro objeto con el **texto adyacente**: en línea con el texto, cuadrado, estrecho, transparente, arriba y abajo, detrás o delante."
+  ]
+ },
+ "w-vo-08-013": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Organizar, Ajustar texto (págs. 78 a 80)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. “Inferior” no es una opción de ajuste de texto.",
+   "Es verdadera, así que no se marca. **Arriba y abajo** ajusta el texto arriba y abajo del objeto, sin texto en los lados.",
+   "Es verdadera, así que no se marca. **Transparente** es parecido a Estrecho, pero el texto puede rellenar los huecos entre los elementos de la imagen.",
+   "Es verdadera, así que no se marca. **Estrecho** hace que el texto siga la forma del objeto, rodeándolo a poca distancia."
+  ],
+  "ojo": "Ajustes de texto: en línea con el texto, cuadrado, estrecho, transparente, arriba y abajo, detrás del texto y delante del texto."
+ },
+ "w-vo-08-014": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Organizar, Delimitador de objeto (pág. 80)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El ancla no bloquea ni protege el párrafo. No impide editarlo.",
+   "Es esta. El **delimitador de objeto (ancla)** indica el párrafo al que está vinculado el objeto: si mueves ese párrafo, la imagen se desplaza con él.",
+   "No. El ancla no indica restricciones de edición del documento.",
+   "No. No es decorativo: señala la posición relativa del objeto respecto al texto. Los objetos “En línea con el texto” se comportan como caracteres y no llevan ancla."
+  ]
+ },
+ "w-vo-08-015": {
+  "bloque": "word-referencias",
+  "precepto": "Tema 4 · 4.6 Ficha Referencias, Notas al pie y notas al final (pág. 82)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. La nota al pie no va al final del párrafo: aparece al **final de la página** donde está la referencia.",
+   "Es verdadera, así que no se marca. La nota al pie se inserta al final de la página donde se encuentra la referencia.",
+   "Es verdadera, así que no se marca. En el cuadro Notas al pie y notas al final se configura cómo continúa o reinicia la numeración, por ejemplo en cada página.",
+   "Es verdadera, así que no se marca. La nota al final se encuentra al final del documento o de la sección."
+  ]
+ },
+ "w-vo-08-016": {
+  "bloque": "word-referencias",
+  "precepto": "Tema 4 · 4.6 Ficha Referencias, Notas al pie y notas al final (pág. 82)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Inicio tiene portapapeles, fuente, párrafo y estilos. Las notas no están ahí.",
+   "No. Insertar tiene tablas, imágenes, vínculos y símbolos, pero las notas no están ahí.",
+   "Es esta. Las notas al pie y las notas al final se insertan desde la ficha **Referencias**, grupo Notas al pie.",
+   "No. Disposición trata de la página: márgenes, columnas y saltos. No inserta notas."
+  ]
+ },
+ "w-vo-08-017": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Ctrl + Alt + A** no es el atajo de las notas.",
+   "Es esta. **Ctrl + Alt + O** inserta una nota al pie. La nota al final se inserta con Ctrl + Alt + L.",
+   "No. **Ctrl + Alt + C** es el atajo de Copiar formato, no de las notas al pie.",
+   "No. **Ctrl + Alt + W** no es el atajo de las notas al pie."
+  ],
+  "ojo": "Nota al pie: Ctrl + Alt + O. Nota al final: Ctrl + Alt + L. Hipervínculo: Ctrl + Alt + K."
+ },
+ "w-vo-08-018": {
+  "bloque": "word-referencias",
+  "precepto": "Tema 4 · 4.6 Ficha Referencias, Notas al pie y notas al final (pág. 82)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Ir a la posición de la nota requiere hacer **doble clic** en la marca o usar el comando de la cinta (Nota al pie siguiente). Pasar el ratón no mueve el cursor.",
+   "Es esta. Al situar el puntero sobre la marca de referencia, Word muestra en un **cuadro emergente** el texto de la nota, sin necesidad de desplazarse hasta ella.",
+   "No. Sí ocurre algo: al pasar el ratón por encima ya aparece el texto de la nota. No hace falta hacer clic.",
+   "No. Word no sustituye el texto del documento. Solo muestra la nota en un cuadro emergente."
+  ]
+ },
+ "w-vo-08-019": {
+  "bloque": "word-referencias",
+  "precepto": "Tema 4 · 4.6 Ficha Referencias, Índice (págs. 84 y 85)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. Eso describe una **tabla de contenido**, que representa la estructura del documento con títulos y subtítulos. El **índice** reúne términos o conceptos concretos y las páginas donde aparecen.",
+   "Es verdadera, así que no se marca. Para crear un índice, primero se seleccionan los términos con **Marcar entrada**.",
+   "Es verdadera, así que no se marca. El índice se puede actualizar desde la cinta de opciones si su contenido ha cambiado.",
+   "Es verdadera, así que no se marca. Una vez marcadas las entradas, se inserta el índice con el comando **Insertar índice**."
+  ],
+  "ojo": "Tabla de contenido: estructura por títulos. Índice: términos y páginas, tipo glosario."
+ },
+ "w-vo-08-020": {
+  "bloque": "word-referencias",
+  "precepto": "Tema 4 · 4.6 Ficha Referencias, Título y tabla de ilustraciones (págs. 83 y 84)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Una tabla de ilustraciones se genera a partir de los títulos de las ilustraciones.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Los **marcadores** no llevan título numerado, así que no entran en una tabla de ilustraciones.",
+   "Es verdadera, así que no se marca. Las tablas, con su título, también pueden organizarse y enumerarse.",
+   "Es verdadera, así que no se marca. Las imágenes son elementos visuales que pueden llevar título numerado, y por tanto entran en la tabla."
+  ],
+  "ojo": "La tabla de ilustraciones se hace con los títulos (ilustraciones, tablas, ecuaciones). Primero se añaden los títulos y luego se inserta la tabla."
+ },
+ "w-vo-08-021": {
+  "bloque": "word-correspondencia",
+  "precepto": "Tema 4 · 4.7 Ficha Correspondencia (pág. 85)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Los **mensajes de correo electrónico** son uno de los documentos que se pueden crear.",
+   "Esta es la falsa, y por eso es la que hay que marcar. “Factura” no está entre los tipos de documento de la combinación. Los tipos son cartas, mensajes de correo, sobres, etiquetas y directorio.",
+   "Es verdadera, así que no se marca. Las **cartas** son uno de los documentos que se pueden crear.",
+   "Es verdadera, así que no se marca. Las **etiquetas** son uno de los documentos que se pueden crear."
+  ]
+ },
+ "w-vo-08-022": {
+  "bloque": "word-correspondencia",
+  "precepto": "Tema 4 · 4.7 Ficha Correspondencia (págs. 85 a 87)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se puede elaborar en el momento: una de las opciones es “Escribir una lista nueva”.",
+   "Esta es la falsa, y por eso es la que hay que marcar. No tiene por qué estar hecha de antemano: puedes escribir una lista nueva en el momento, o usar una existente.",
+   "Es verdadera, así que no se marca. El **Asistente para combinar correspondencia** tiene 6 pasos, de elegir el documento a completar la combinación.",
+   "Es verdadera, así que no se marca. Antes de finalizar, **Vista previa de resultados** permite ver cómo quedará el documento con los datos reales."
+  ]
+ },
+ "w-vo-08-023": {
+  "bloque": "word-correspondencia",
+  "precepto": "Tema 4 · 4.7 Ficha Correspondencia, origen de datos (pág. 85)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Escribir una lista nueva** es una de las tres opciones de Seleccionar destinatarios.",
+   "Esta es la falsa, y por eso es la que hay que marcar. “Conectar con Access” no es una opción propia. Una base de Access se usa como lista existente, dentro de **Usar una lista existente**.",
+   "Es verdadera, así que no se marca. **Usar una lista existente** (hecha en Excel, Access o una tabla de Word) es una de las tres opciones.",
+   "Es verdadera, así que no se marca. **Elegir de los contactos de Outlook** es una de las tres opciones."
+  ]
+ },
+ "w-vo-08-024": {
+  "bloque": "word-correspondencia",
+  "precepto": "Tema 4 · 4.7 Ficha Correspondencia, Reglas de combinación (págs. 86 y 87)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Siguiente registro si** sirve para decidir cuándo se pasa al siguiente registro. No inserta un texto u otro según una condición.",
+   "Es esta. La regla **Si... Entonces... Si no** inserta un contenido u otro según se cumpla una condición. Aquí compara la fecha actual con la fecha de pago y escribe “Vencido” solo si se cumple.",
+   "No. **Saltar registro si** excluye un registro de la combinación cuando cumple una condición. Aquí no se quiere excluir la carta, sino mostrar un texto.",
+   "No. **Rellenar** pide al usuario un dato durante la combinación. No compara fechas ni decide un texto."
+  ],
+  "revisar": "Los apuntes (págs. 86 y 87) explican Si... Entonces... Si no y Saltar registro si. Siguiente registro si y Rellenar se describen aquí con el comportamiento de Word 365."
+ },
+ "w-vo-09-001": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8 Ficha Revisar, grupo Revisión (págs. 88 y 89)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En Archivo no hay una “Revisión ortográfica”. Archivo trata de gestionar el documento.",
+   "Es esta. La ortografía y gramática se revisan desde **Revisar > Revisión > Ortografía y gramática**. También se abre el **Editor** con **F7**.",
+   "No. En Word 365 no hay una ficha Formato con esa opción. La ficha correcta es Revisar.",
+   "No. No hace falta ningún complemento: el corrector viene integrado en Word."
+  ]
+ },
+ "w-vo-09-002": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8 Ficha Revisar, grupo Voz, Leer en voz alta (pág. 90)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Leer en voz alta** está en **Revisar**, en el grupo Voz. Reproduce el contenido del documento y va resaltando el texto que lee.",
+   "No. La ficha Ayuda no contiene esta herramienta.",
+   "No. En Inicio está el grupo Voz con Dictar y Transcribir, que pasan voz a texto. Leer en voz alta hace lo contrario y está en Revisar.",
+   "No. Diseño trata de temas y fondo de página. No tiene herramientas de lectura."
+  ],
+  "ojo": "Leer en voz alta también aparece en Vista > Inmersivo (pág. 96), pero por defecto está en Revisar."
+ },
+ "w-vo-09-003": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8 Ficha Revisar, grupo Comentarios (pág. 90) y 4.3 Ficha Insertar (pág. 61)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El comando **Comentario** está en **Insertar > Comentarios**.",
+   "No. Según la plantilla, esta no es la respuesta marcada, aunque sí es cierto que **Revisar > Nuevo comentario** también inserta un comentario. Consulta el aviso de revisión.",
+   "No. Inicio no tiene el comando Comentario.",
+   "No. Diseño no tiene el comando Comentario."
+  ],
+  "revisar": "Dos opciones parecen válidas. Los apuntes (págs. 61 y 90) dicen que los comentarios se insertan desde Insertar > Comentario y desde Revisar > Nuevo comentario. Se mantiene la respuesta de la plantilla (Insertar), pero Revisar también sería correcta."
+ },
+ "w-vo-09-004": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8 Ficha Revisar, grupo Seguimiento, Control de cambios (pág. 92)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Con el **control de cambios** activado, lo que se elimina no desaparece: se queda **tachado en rojo**. Sirve para seguir los cambios, sobre todo si varios usuarios editan el documento.",
+   "No. Un comentario aparece como un globo en el lateral del documento, no como texto tachado y en rojo.",
+   "No. Una referencia cruzada se muestra como un texto que remite a otro elemento del documento. No va tachada.",
+   "No. Un hipervínculo se muestra por defecto en azul, y en morado si ya se ha visitado. No va tachado."
+  ]
+ }
+}

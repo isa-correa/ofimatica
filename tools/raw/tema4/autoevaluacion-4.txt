@@ -1,0 +1,118 @@
+1.
+Quiero imprimir las secciones 3 y 5. ¿Cómo debo indicarlo en el cuadro de impresión de Word?
+
+Obtuvo 0 de 1 punto
+
+3-5
+Respuesta equivocada
+Tu respuesta
+3.5
+s3,s5
+Corregir respuesta
+s3-s5
+2.
+¿Se pueden crear ficheros en formato HTML en Word?
+
+Obtuvo 0 de 1 punto
+
+No
+Respuesta equivocada
+Tu respuesta
+Depende del tamaño del fichero
+Se necesita un módulo en el sistema operativo
+Sí
+Corregir respuesta
+3.
+Queremos guardar un documento para poder abrirlo en el procesador de textos de OpenOffice. ¿Qué extensión debemos seleccionar?
+
+Obtuvo 0 de 1 punto
+
+.pdf
+Respuesta equivocada
+Tu respuesta
+.doc
+.docx
+.odt
+Corregir respuesta
+4.
+Queremos guardar un documento de texto plano (sin formato) en Word 365. ¿Qué extensión debemos usar?
+
+Obtuvo 0 de 1 punto
+
+.dot
+Respuesta equivocada
+Tu respuesta
+.odt
+.doc
+.txt
+Corregir respuesta
+5.
+En Word, podemos imprimir documentos que nos facilitan información acerca del archivo que estamos elaborando. ¿Cuál de las siguientes opciones NO está disponible?
+
+Obtuvo 0 de 1 punto
+
+Información del documento.
+Respuesta equivocada
+Tu respuesta
+Lista de gráficos insertados.
+Corregir respuesta
+Lista de revisiones.
+Entradas de texto automático.
+6.
+¿Cuál de los siguientes márgenes NO está disponible entre los predefinidos de Word 365?
+
+Obtuvo 0 de 1 punto
+
+Normal.
+Respuesta equivocada
+Tu respuesta
+Ancho .
+Reflejado.
+Medio.
+Corregir respuesta
+7.
+¿Qué medidas están configuradas en el margen Normal de Word 365?
+
+Obtuvo 1 de 1 punto
+
+Superior e inferior: 2,5 cm. Derecho e izquierdo: 3 cm.
+Corregir respuesta
+Tu respuesta
+Superior e inferior: 1,5 cm. Derecho e izquierdo: 2 cm.
+Superior e inferior: 3 cm. Derecho e izquierdo: 2,5 cm.
+Superior e inferior: 1,5 cm. Derecho e izquierdo: 3 cm.
+8.
+¿Qué extensión tienen los documentos de autorrecuperación de Word 365?
+
+Obtuvo 0 de 1 punto
+
+.aut
+Respuesta equivocada
+Tu respuesta
+.asd
+Corregir respuesta
+.htm
+.txt
+9.
+¿Qué ruta debemos seguir para imprimir en Word 365 dos hojas discontinuas de un documento?
+
+Obtuvo 1 de 1 punto
+
+Archivo, imprimir y en la casilla respectiva, indicar los números de las páginas a imprimir y separarlos con comas
+Corregir respuesta
+Tu respuesta
+Archivo, imprimir y en la casilla respectiva, indicar los números de las páginas a imprimir y separarlos con punto y coma
+No es posible realizar esta acción
+Imprimir directamente
+10.
+Para conocer datos del documento, tales como el autor, el tiempo de edición, dónde está guardado, etc. ¿a qué opción de la ficha "Archivo" tenemos que acudir?
+
+Obtuvo 0 de 1 punto
+
+Compartir
+Respuesta equivocada
+Tu respuesta
+Información
+Corregir respuesta
+Exportar
+Guardar Como

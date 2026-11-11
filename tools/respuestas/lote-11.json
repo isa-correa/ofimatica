@@ -1,0 +1,295 @@
+{
+ "w-vo-06-014": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, desplazamiento en la tabla (pág. 54)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las columnas se añaden desde Insertar y eliminar, no con el tabulador. El tabulador no crea columnas.",
+   "No. Un encabezado de tabla se consigue repitiendo las filas de título, no con el tabulador.",
+   "Es esta. Si pulsas **TAB** en la **última celda** de la tabla, se crea una **nueva fila** al final.",
+   "No. Dividir una celda se hace con el botón “Dividir celdas” de Disposición de tabla, no con el tabulador."
+  ],
+  "ojo": "TAB avanza de celda, MAY + TAB retrocede. En la última celda, TAB crea una fila nueva."
+ },
+ "w-vo-06-015": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, selección de elementos y desplazamiento (págs. 54 y 55)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **TAB** pasa a la celda siguiente y selecciona su contenido.",
+   "Es verdadera, así que no se marca. Para seleccionar una fila, colocas el cursor en el lateral izquierdo, a su altura, y haces un clic.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Para ir a la celda anterior se pulsa **MAY + TAB**. **CTRL + TAB** sirve para insertar una tabulación dentro de la celda.",
+   "Es verdadera, así que no se marca. Para seleccionar una columna, colocas el cursor en su parte superior y haces un clic."
+  ],
+  "ojo": "En una tabla, TAB no es una tabulación: mueve entre celdas. La tabulación se inserta con CTRL + TAB."
+ },
+ "w-vo-06-016": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Propiedades de tabla, ficha Celda (pág. 54)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “Detrás” no es una alineación vertical. Las verticales son arriba, centro y abajo.",
+   "No. “Derecha” es una alineación horizontal, no vertical.",
+   "Es esta. La alineación vertical de una celda puede ser **arriba**, **centro** o **abajo**, en la ficha Celda de Propiedades de tabla.",
+   "No. “Distribuido” no es una alineación vertical de celda."
+  ],
+  "ojo": "Horizontal: izquierda, centro, derecha. Vertical: arriba, centro, abajo. Combinadas dan 9 posiciones."
+ },
+ "w-vo-06-017": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Texto alternativo (pág. 56)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **texto alternativo** añade una descripción textual a una imagen u otro objeto visual. Su finalidad principal es mejorar la accesibilidad, porque los lectores de pantalla pueden leerlo.",
+   "No. Organizar el contenido con tablas no mejora la accesibilidad. Las tablas son para datos, y usarlas para maquetar complica la lectura con lector de pantalla.",
+   "No. Escribir la URL entera no ayuda: es mejor un texto descriptivo en el vínculo, que el lector de pantalla pueda leer con sentido.",
+   "No. Los colores sin contraste empeoran la accesibilidad, porque el texto se lee peor."
+  ],
+  "revisar": "Los apuntes (pág. 56) solo recogen el texto alternativo como mejora de accesibilidad. Que las tablas de maquetación o las URL largas perjudican la accesibilidad sale de las buenas prácticas generales, no de los apuntes."
+ },
+ "w-vo-07-001": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Formato de imagen (pág. 56)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Quitar fondo** elimina un área específica de la imagen y está en Formato de imagen.",
+   "Es verdadera, así que no se marca. **Borde de la imagen** está en Formato de imagen.",
+   "Es verdadera, así que no se marca. **Recortar** (recorte de imagen) está en Formato de imagen.",
+   "Esta es la falsa, y por eso es la que hay que marcar. “Seleccionar imagen” no es un comando de la ficha Formato de imagen: la imagen se selecciona haciendo clic sobre ella."
+  ],
+  "revisar": "Los apuntes (pág. 56) no mencionan ningún comando “Seleccionar imagen” y sí citan quitar fondo, borde y recorte. La plantilla da la opción 3 como la que no está."
+ },
+ "w-vo-07-002": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Captura de pantalla (pág. 56)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Gráfico** inserta un gráfico para representar datos. No captura la pantalla.",
+   "Es esta. **Captura de pantalla** realiza un recorte de pantalla, seleccionando la parte que necesitas. También permite insertar una captura de una de las ventanas abiertas.",
+   "No. **Vínculo** enlaza un elemento con otro recurso. No hace capturas.",
+   "No. **Marcar entrada** es de las Referencias: sirve para crear un índice. No captura la pantalla."
+  ]
+ },
+ "w-vo-07-003": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Modelos 3D (pág. 56)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. Los apuntes citan lo que se puede hacer con un modelo 3D: girarlo, cambiar su tamaño, modificar su posición y aplicar distintos efectos. Cambiar la saturación y el tono del color es de las imágenes, no del modelo.",
+   "Es verdadera, así que no se marca. Cambiar el tamaño del modelo es una de las acciones posibles.",
+   "Es verdadera, así que no se marca. Girar el modelo es una de las acciones posibles.",
+   "Es verdadera, así que no se marca. El formato del modelo permite aplicar efectos y relleno, y el fondo se considera dentro de esos efectos."
+  ],
+  "revisar": "Los apuntes (pág. 56) solo citan girar, cambiar tamaño, modificar posición y aplicar efectos. La opción 3 (rellenar el fondo) se da por verdadera como parte de los efectos, sin que lo diga el texto de forma expresa."
+ },
+ "w-vo-07-004": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Gráficos (pág. 57)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. **Pirámide** no es un tipo de gráfico de Word. Se parece a un diseño de SmartArt, que es otra herramienta.",
+   "Es verdadera, así que no se marca. **Barras** es un tipo de gráfico.",
+   "Es verdadera, así que no se marca. **Superficie** es un tipo de gráfico.",
+   "Es verdadera, así que no se marca. **Mapas** es un tipo de gráfico."
+  ],
+  "ojo": "No confundas Gráfico con Gráfico SmartArt (nota de la pág. 59). La pirámide es un diseño de SmartArt.",
+  "revisar": "Los apuntes (págs. 57 y 58) no listan los tipos de gráfico. Que Barras, Superficie y Mapas existan y Pirámide no, sale del cuadro Insertar gráfico de Word 365."
+ },
+ "w-vo-07-005": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, SmartArt (pág. 58)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **WordArt** es texto con efectos decorativos que se inserta como objeto. No representa ideas ni información.",
+   "Es esta. **SmartArt** es un elemento gráfico para representar visualmente información, procesos, relaciones o estructuras. Se organiza en categorías según el tipo de información.",
+   "No. Una **forma** es una figura prediseñada, como un rectángulo, una flecha o un círculo. Por sí sola no representa información.",
+   "No. Un **modelo 3D** es un objeto tridimensional que se puede girar y mover. No sirve para representar ideas."
+  ],
+  "ojo": "Gráfico representa datos. SmartArt representa ideas, procesos o jerarquías."
+ },
+ "w-vo-07-006": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Vínculos (págs. 60 y 61) y 4.9 Ficha Vista (pág. 97)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Vínculo** (hipervínculo) enlaza un elemento del documento con otro recurso.",
+   "Es verdadera, así que no se marca. Una **referencia cruzada** enlaza una parte del documento con otro elemento del mismo documento.",
+   "Es verdadera, así que no se marca. Un **marcador** señala una ubicación a la que luego se puede crear un vínculo.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Dividir** es un comando de la ficha Vista que crea una línea de separación dentro de un documento. No usa hipervínculos."
+  ],
+  "revisar": "Los apuntes tratan Vínculo, Marcador y Referencia cruzada en el mismo grupo Vínculos (págs. 60 y 61), y Dividir como comando de Vista (pág. 97). Que referencia cruzada y marcador se basen en hipervínculos sale del conocimiento general de Word."
+ },
+ "w-vo-07-007": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Vínculos, Marcador (pág. 61)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Seleccionar el párrafo solo lo marca como seleccionado. No te lleva a ningún marcador.",
+   "No. **Mostrar todo** enseña las marcas de formato. No sirve para desplazarse a un marcador.",
+   "Es esta. Una vez insertado, te desplazas al marcador desde el cuadro **Buscar y reemplazar**, pestaña **Ir a**, y eliges “Marcador”.",
+   "No. **Ctrl + clic** sirve para abrir un hipervínculo. Un marcador no es un vínculo, aunque se pueda crear un vínculo hacia él."
+  ],
+  "ojo": "Atajo: Ctrl + I abre directamente la pestaña Ir a."
+ },
+ "w-vo-07-008": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Vínculos, Referencia cruzada (pág. 61)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La referencia cruzada se inserta desde **Insertar > Vínculos > Referencia cruzada**.",
+   "Es verdadera, así que no se marca. Permite hacer referencia desde una parte del documento a otro elemento situado en otra ubicación del mismo documento.",
+   "Es verdadera, así que no se marca. Se pueden usar con elementos numerados, títulos, marcadores, notas, ecuaciones, ilustraciones y tablas.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Las referencias cruzadas **sí se actualizan** si cambia el contenido, con el botón “Actualizar campo” o pulsando **F9**."
+  ]
+ },
+ "w-vo-07-009": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Encabezado y pie de página (pág. 62)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La distancia del encabezado y del pie respecto al borde de la página es, por defecto, de **1,25 cm**.",
+   "No. 0,5 cm queda corto: la distancia por defecto es 1,25 cm.",
+   "No. 2,5 cm es el margen superior e inferior por defecto de la página, no la distancia del encabezado y el pie.",
+   "No. 1,5 cm es un valor cercano pero no es el predeterminado, que es 1,25 cm."
+  ],
+  "ojo": "Margen superior e inferior por defecto: 2,5 cm. Distancia del encabezado y pie: 1,25 cm."
+ },
+ "w-vo-07-010": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Encabezado y pie de página (pág. 62)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí es posible: Word permite usar un encabezado distinto en la primera página.",
+   "Es esta. Haces **doble clic** en el encabezado para editarlo, y en la ficha auxiliar “Encabezado y pie de página” marcas **Primera página diferente**.",
+   "No. No hace falta insertar una portada. Basta con marcar “Primera página diferente”.",
+   "No. Las fórmulas son para cálculos en tablas. No existe una “variable encabezado” en Insertar."
+  ]
+ },
+ "w-vo-07-011": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Encabezado y pie de página, Número de página (pág. 62)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Principio de página** es una de las posiciones del número de página.",
+   "Es verdadera, así que no se marca. **Márgenes de página** es una de las posiciones del número de página.",
+   "Esta es la falsa, y por eso es la que hay que marcar. “Diagonal de página” no existe como posición de número de página.",
+   "Es verdadera, así que no se marca. **Posición actual** inserta el número donde está el cursor."
+  ],
+  "ojo": "Posiciones: principio de página, final de página, márgenes de página y posición actual.",
+  "revisar": "Contrastado en internet: las posiciones del menú Número de página son principio de página, final de página, márgenes de página y posición actual. Los apuntes (pág. 62) no las listan."
+ },
+ "w-vo-07-012": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Texto, Elementos rápidos, Autotexto (pág. 64)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. “Mis complementos” sirve para añadir complementos de Office. No tiene Autotexto.",
+   "No. **Marcador** está en el grupo Vínculos y sirve para señalar una ubicación del documento. No guarda fragmentos de texto.",
+   "No. **Cuadro de texto** inserta un objeto con texto en una zona concreta. No es Autotexto.",
+   "Es esta. **Insertar > Texto > Elementos rápidos > Autotexto**. Ahí aparece la galería, y para crear uno seleccionas el texto y eliges “Guardar selección en galería de texto automático”."
+  ]
+ },
+ "w-vo-07-013": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Símbolos, Símbolo (pág. 65)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Marcador** señala una ubicación del documento. No inserta caracteres.",
+   "No. **WordArt** da efectos decorativos a un texto. No inserta caracteres especiales.",
+   "No. **Elementos rápidos** guarda bloques de contenido reutilizable (autotexto, propiedades, campos). No inserta caracteres especiales.",
+   "Es esta. **Símbolo** (grupo Símbolos) inserta símbolos especiales que no están en el teclado, como Copyright o Registrado."
+  ]
+ },
+ "w-vo-07-014": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, Temas (págs. 66 y 67)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. Los temas sí se pueden modificar: puedes cambiar colores, fuentes y efectos, y guardar el resultado como tema personalizado.",
+   "Es verdadera, así que no se marca. El tema por defecto es **Office**.",
+   "Es verdadera, así que no se marca. En Formato del documento, **Espaciado entre párrafos** permite aplicar distintos espaciados e interlineados al conjunto de estilos.",
+   "Es verdadera, así que no se marca. Un tema aplica colores, fuentes y efectos sobre los estilos y elementos del documento."
+  ]
+ },
+ "w-vo-07-015": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, grupo Formato del documento y Fondo de página (págs. 66 y 67)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Espaciado entre párrafos** sí está en Formato del documento.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Marca de agua** pertenece al grupo **Fondo de página**, no a Formato del documento, así que no se puede modificar desde ahí.",
+   "Es verdadera, así que no se marca. **Efectos** sí está en Formato del documento.",
+   "Es verdadera, así que no se marca. **Fuentes** sí está en Formato del documento."
+  ],
+  "ojo": "Formato del documento: conjuntos de estilos, colores, fuentes, espaciado entre párrafos y efectos. Fondo de página: marca de agua, color de página y bordes."
+ },
+ "w-vo-07-016": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, grupo Fondo de página, Marca de agua (pág. 67)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. En una marca de agua de texto se puede cambiar el **tipo de fuente**.",
+   "Es verdadera, así que no se marca. Se puede elegir la **distribución**: diagonal u horizontal.",
+   "Es verdadera, así que no se marca. Se puede cambiar el **color** del texto.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **espaciado** no es una configuración de la marca de agua. Se configura el texto, la fuente (tamaño y color) y la distribución."
+  ]
+ },
+ "w-vo-07-017": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, grupo Fondo de página, Marca de agua (pág. 67)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La marca de agua está en **Diseño > Fondo de página > Marca de agua**.",
+   "No. En la ficha Insertar no hay una marca de agua. Insertar sirve para añadir otros elementos, como tablas, imágenes o símbolos.",
+   "No. En Word 365 no existe una ficha “Diseño de Página” con ese nombre: el comando está en Diseño.",
+   "No. El cuadro Configurar página trata de márgenes, papel y disposición. No tiene marcas de agua."
+  ]
+ },
+ "w-vo-07-018": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, Bordes de página, cuadro Bordes y sombreado (pág. 69)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No hay 16 tipos de borde. El estilo de línea tiene **24** opciones, y las formas del borde (Valor) son: ninguno, cuadro, sombra, 3D y personalizado.",
+   "No. Para aplicarlo a un párrafo no hace falta seleccionarlo: si no hay texto seleccionado, el borde se aplica al párrafo donde está el punto de inserción.",
+   "Es esta. Para aplicar el borde a un **texto**, hay que seleccionarlo antes. Si seleccionas texto, Word te deja elegir si el borde va al texto o al párrafo.",
+   "No. “Sombreado” no es un valor de borde: es otra pestaña del cuadro. El valor que añade efecto es **Sombra**."
+  ],
+  "ojo": "Valor del borde: Ninguno, Cuadro, Sombra, 3D y Personalizado. No confundas Sombra (valor) con Sombreado (pestaña)."
+ },
+ "w-vo-08-001": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, márgenes (pág. 17) y 4.5 Ficha Disposición, Márgenes (pág. 72)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los márgenes predeterminados (Normal) son **2,5 cm** arriba y abajo, y **3 cm** a izquierda y derecha.",
+   "No. Los márgenes se miden en centímetros, no en puntos. Unos 2,5 puntos serían menos de un milímetro.",
+   "No. Están cambiados: son 2,5 cm arriba y abajo, y 3 cm a izquierda y derecha, no al revés.",
+   "No. Los márgenes no son iguales en los cuatro lados y se miden en centímetros, no en puntos."
+  ],
+  "ojo": "Normal: superior e inferior 2,5 cm. Izquierdo y derecho 3 cm."
+ },
+ "w-vo-08-002": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Configurar página, Márgenes (págs. 72 y 73)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. **Superior** es uno de los cuatro márgenes que se configuran (superior, inferior, izquierdo y derecho), no un margen predefinido.",
+   "Es verdadera, así que no se marca. **Normal** es el margen predefinido por defecto.",
+   "Es verdadera, así que no se marca. **Moderado** es uno de los márgenes predefinidos que ofrece Word.",
+   "Es verdadera, así que no se marca. **Estrecho** es uno de los márgenes predefinidos que ofrece Word."
+  ],
+  "revisar": "Contrastado en internet: los márgenes predefinidos de Word son Normal, Estrecho, Moderado, Ancho y Reflejado. Los apuntes (págs. 17 y 72) solo nombran Normal."
+ },
+ "w-vo-08-003": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, Configurar página (pág. 73)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “Saltos” no es una pestaña del cuadro Configurar página. Los saltos están en un botón del grupo.",
+   "No. “Diseño” no es una pestaña de este cuadro. La tercera pestaña se llama **Disposición**.",
+   "Es esta. El cuadro **Configurar página** tiene tres pestañas: **Márgenes**, **Papel** y **Disposición**.",
+   "No. “Temas” es un grupo de la ficha Diseño, no una pestaña de Configurar página."
+  ]
+ }
+}

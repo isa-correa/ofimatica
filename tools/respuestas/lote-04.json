@@ -1,0 +1,286 @@
+{
+ "w-ex-02-004": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Guardar como (pág. 14)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Archivo > Guardar como** permite dar nombre, elegir ubicación y **seleccionar el tipo de archivo**. Ahí se elige PDF.",
+   "No. **Administrar documento** (en Información) da acceso a versiones recuperables y a recuperar documentos no guardados. No genera PDF.",
+   "No. “Proteger documento” está en Archivo > Información, no en Revisar. Y sus opciones no guardan en PDF.",
+   "No. **Configurar página** trata de márgenes, orientación y tamaño. No elige el formato de archivo."
+  ],
+  "ojo": "Otra vía a PDF: Archivo > Compartir, que permite adjuntar una copia en PDF por correo."
+ },
+ "w-ex-02-005": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **.doc** es el documento de Word 97-2003, no una plantilla.",
+   "Es esta. **.dot** es la plantilla de Word 97-2003. La plantilla actual es .dotx.",
+   "No. **.dotx** es la plantilla de Word moderno, no la de 97-2003.",
+   "No. **.docx** es un documento actual, no una plantilla."
+  ]
+ },
+ "w-ex-02-006": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Historial de versiones (pág. 14)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En **Archivo > Guardar** se guarda el documento. No hay ahí un “Administrar versiones”.",
+   "Es esta. **Archivo > Información > Historial de versiones** permite consultar y restaurar versiones anteriores. Solo está disponible si el archivo está en OneDrive.",
+   "No. En **Opciones > Guardar** se configura la autorrecuperación y el formato predeterminado, no el historial de versiones.",
+   "No. La ficha Revisar no tiene un apartado “Proteger” con historial de versiones. Proteger documento está en Archivo > Información."
+  ]
+ },
+ "w-ex-02-007": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Proteger documento, Agregar una firma digital (pág. 13)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La firma no tiene que ver con la versión de Word en la que se abra el documento.",
+   "No. La firma no impide copiar el contenido. Para limitar cambios está Restringir edición.",
+   "Es esta. La **firma digital** garantiza la **autenticidad** del autor y la **integridad** del documento: si se modifica después de firmarlo, se detecta.",
+   "No. Convertir en solo lectura y desactivar la edición es lo que hace **Marcar como final**, otra opción distinta."
+  ],
+  "revisar": "Que la firma permite detectar modificaciones posteriores es la consecuencia de la integridad. Los apuntes solo dicen que garantiza autenticidad e integridad."
+ },
+ "w-ex-02-008": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas (pág. 14)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Archivo > Información > Comprobar si hay problemas > Inspeccionar documento** busca propiedades, datos personales e información oculta.",
+   "No. **Restringir edición** pertenece a Proteger documento y limita los cambios. No busca datos ocultos.",
+   "No. Inspeccionar documento no cuelga de Revisar > Comprobar accesibilidad. Son dos herramientas hermanas dentro de Comprobar si hay problemas.",
+   "No. El Centro de confianza trata de la seguridad del programa (macros, ubicaciones de confianza). Inspeccionar documento no está ahí."
+  ]
+ },
+ "w-ex-02-009": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo (pág. 15), Imprimir (págs. 15 a 17) y 4. Área de trabajo (págs. 10 y 11)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La barra de estado se personaliza con el botón secundario, y la de acceso rápido admite añadir y quitar comandos.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **.xlsx** es un libro de Excel. Word guarda .doc, .docx y .pdf, pero no .xlsx.",
+   "Es verdadera, así que no se marca. La **impresión personalizada** admite páginas, intervalos y secciones.",
+   "Es verdadera, así que no se marca. Entre los márgenes predefinidos está **Normal** (superior e inferior 2,5 cm, derecho e izquierdo 3 cm)."
+  ]
+ },
+ "w-ex-02-010": {
+  "bloque": "word-vista",
+  "precepto": "Tema 4 · 4. Área de trabajo, Vistas (pág. 11) y 4.9 Ficha Vista (pág. 94)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Modo de lectura** es una vista de Word.",
+   "Es verdadera, así que no se marca. **Diseño de impresión** es una vista (la predeterminada).",
+   "Es verdadera, así que no se marca. **Diseño web** es una vista.",
+   "Esta es la falsa, y por eso es la que hay que marcar. “Diseño de archivo” no es una vista de Word."
+  ],
+  "ojo": "Las vistas de la ficha Vista son: Modo de lectura, Diseño de impresión, Diseño web, Esquema y Borrador."
+ },
+ "w-ex-02-011": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, listados asociados al documento (pág. 16)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La **lista de revisiones** se puede imprimir.",
+   "Es verdadera, así que no se marca. Se puede imprimir un documento con los **estilos** aplicados.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Los **gráficos** no son uno de esos listados.",
+   "Es verdadera, así que no se marca. Se pueden imprimir las **asignaciones de tecla**, los atajos personalizados del documento."
+  ],
+  "ojo": "Además del contenido, se pueden imprimir estos listados: información del documento, lista de revisiones, estilos, entradas de texto automático y asignaciones de tecla."
+ },
+ "w-ex-02-012": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 3. Iniciando Word, Plantillas (pág. 2) y 4.1 Ficha Archivo, formatos de archivo (pág. 15)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se guarda con **formato de plantilla** (.dotx, o .dotm si lleva macros), en la ubicación de plantillas si queremos que aparezca al crear documentos.",
+   "No. Cambiar el archivo de carpeta no lo convierte en plantilla. Hay que cambiar el **tipo de archivo**.",
+   "No. Word no tiene un “Asistente para transformar documentos” obligatorio en Archivo. Basta con Guardar como y elegir el tipo.",
+   "No. Sí se puede: cualquier documento existente se puede guardar como plantilla."
+  ]
+ },
+ "w-ex-02-013": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, impresión personalizada (págs. 15 y 16)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es una configuración válida. Imprimir selección, doble cara, intercaladas y horizontal se pueden combinar.",
+   "Es verdadera, así que no se marca. Es una configuración válida. La lista de revisiones es uno de los listados imprimibles, y el resto de ajustes son normales.",
+   "Es verdadera, así que no se marca. Es una configuración válida. Todas las páginas, doble cara, sin intercalar y vertical se pueden combinar. (“Oientación” es solo una errata.)",
+   "Esta es la falsa, y por eso es la que hay que marcar. En la impresión personalizada las páginas sueltas se separan con **comas** (1, 5, 7), no con punto y coma. Los rangos llevan guion (4-10)."
+  ],
+  "ojo": "Impresión personalizada: páginas con comas (1, 5, 7), rangos con guion (4-10), secciones con s (s3) y página de sección con p y s (p7s3)."
+ },
+ "w-ex-02-014": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones, Presentación (pág. 5)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **General** trata de la interfaz, el fondo y el tema de Office.",
+   "No. **Avanzadas** no es la categoría de las opciones de visualización de página según los apuntes.",
+   "Es esta. En **Presentación** se configura cómo se muestra el documento en pantalla y cómo se imprime: visualización de página, colores e imágenes de fondo, texto oculto, marcas de formato.",
+   "No. **Revisión** trata de Autocorrección, Autoformato y corrección ortográfica y gramatical."
+  ]
+ },
+ "w-ex-02-015": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Proteger documento, Cifrar con contraseña (pág. 13)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En Archivo > Cuenta no hay apartado de seguridad para cifrar documentos. Cuenta trata de la sesión, actualizaciones y licencia.",
+   "Es esta. **Archivo > Información > Proteger documento > Cifrar con contraseña**.",
+   "No. La ficha Revisar tiene Restringir edición, pero Cifrar con contraseña no está ahí.",
+   "No. En Opciones > Revisión están la Autocorrección y el corrector. Proteger documento no está en Opciones."
+  ]
+ },
+ "w-ex-02-016": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Proteger documento, Cifrar con contraseña (pág. 13)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Para que la contraseña entre en vigor, hay que **guardar el documento**.",
+   "No. Word no obliga a mezclar letras, números y caracteres especiales.",
+   "No. El límite que dan los apuntes es de **15 caracteres como máximo**, no de ocho como mínimo. Sí es cierto que distingue mayúsculas de minúsculas.",
+   "No. Al establecer la contraseña hay que guardar el documento después. No se guarda solo."
+  ],
+  "ojo": "Dos datos de la contraseña: máximo 15 caracteres y distingue mayúsculas de minúsculas. Y recuerda guardar.",
+  "revisar": "Que Word no exige mezclar tipos de caracteres ni un mínimo no está dicho tal cual en los apuntes, que solo mencionan el máximo y que hay que guardar. Contrastado con guías externas."
+ },
+ "w-ex-02-017": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 4. Área de trabajo, Barra de estado (pág. 11)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La barra de estado no se mueve a la parte superior. Solo la de acceso rápido puede cambiar de sitio (debajo de la cinta).",
+   "No. No se puede situar en los laterales. Con el menú contextual solo se personalizan sus elementos.",
+   "No. No se puede arrastrar. No hay una posición temporal que se recupere al reiniciar.",
+   "Es esta. La barra de estado está siempre **abajo** de la ventana. Con el botón secundario solo se decide qué información muestra."
+  ],
+  "revisar": "Los apuntes no dicen expresamente que la barra de estado no se pueda mover. Dicen que se personaliza con el botón secundario. Que su posición es fija es conocimiento de Word."
+ },
+ "w-ex-02-018": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, Tamaño del papel (pág. 17)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Oficio** es mayor que A4, pero menor que Tabloide y A3.",
+   "No. **Tabloide** es grande, pero queda por debajo de A3 en la lista.",
+   "Es esta. **A3** es el mayor. Orden de menor a mayor: A5, Ejecutivo, Carta, A4, Oficio, Tabloide, A3.",
+   "No. **A5** es el más pequeño de la lista."
+  ]
+ },
+ "w-ex-02-019": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Proteger documento, Marcar como final (pág. 13)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cifrar y exigir contraseña es **Cifrar con contraseña**.",
+   "Es esta. **Marcar como final** informa de que el documento es definitivo y lo pone en **solo lectura**, desactivando las opciones de edición.",
+   "No. Determinar qué cambios pueden hacer otros usuarios es **Restringir edición**.",
+   "No. La firma digital, que garantiza la autenticidad, es **Agregar una firma digital**."
+  ]
+ },
+ "w-ex-02-020": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas (pág. 14)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. “Comprobar espacio disponible” no existe en este grupo.",
+   "Es verdadera, así que no se marca. **Inspeccionar documento** busca datos personales y propiedades ocultas.",
+   "Es verdadera, así que no se marca. **Comprobar accesibilidad** detecta problemas para personas con discapacidad.",
+   "Es verdadera, así que no se marca. **Comprobar compatibilidad** detecta funciones que fallan en versiones antiguas."
+  ]
+ },
+ "w-ex-03-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, efectos (págs. 27 a 29)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En la pestaña Avanzado, **Posición** (Elevada o Bajada) se parece, pero no es el efecto Superíndice: permite fijar la altura en puntos. Mira el aviso.",
+   "No. Un **salto de línea** pasa texto a la línea siguiente. No sube caracteres.",
+   "Es esta. El efecto **Superíndice** sitúa el texto por encima de la línea de escritura y reduce su tamaño. Hay un botón en Inicio > Fuente y la casilla en el cuadro Fuente.",
+   "No. Los **estilos** (grupo Estilos) aplican conjuntos de formato como Título 1. No existe un estilo que suba caracteres sin más."
+  ],
+  "revisar": "La opción 0 (Posición Elevada) también sube el texto, así que podría considerarse válida. Los apuntes la describen como “similar a aplicar un superíndice, pero especificando la altura”. La plantilla da por buena la 2."
+ },
+ "w-ex-03-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Color de resaltado de texto (pág. 27)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Formato del documento** (Diseño) cambia estilos, colores, fuentes y espaciado del conjunto del documento.",
+   "Es esta. El **color de resaltado de texto** está en **Inicio > Fuente**, como un marcador fluorescente.",
+   "No. **Párrafo** tiene el sombreado (color de fondo de párrafo), no el resaltado de texto.",
+   "No. **Temas** (Diseño) cambia el conjunto de colores, fuentes y efectos del documento."
+  ]
+ },
+ "w-ex-03-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, efectos y cuadro Fuente (págs. 27 y 28)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El **tachado** tiene su botón en Inicio > Fuente.",
+   "No. El **subíndice** tiene botón propio en Inicio > Fuente.",
+   "Es esta. Las **versalitas** solo se activan desde el cuadro Fuente, pestaña Fuente.",
+   "No. El **superíndice** tiene botón propio en Inicio > Fuente."
+  ]
+ },
+ "w-ex-03-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 3. Iniciando Word, plantilla Normal.dotm (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La alineación por defecto de Normal.dotm es **izquierda**.",
+   "No. La **derecha** hay que aplicarla a mano (Ctrl + D).",
+   "No. La **centrada** también se aplica a mano (Ctrl + T).",
+   "No. La **justificada** no es la predeterminada (Ctrl + J para aplicarla)."
+  ]
+ },
+ "w-ex-03-005": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Proteger documento, Cifrar con contraseña (pág. 13)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los apuntes hablan de un límite máximo de 15 caracteres, no de un mínimo de cuatro.",
+   "No. Word no exige mezclar letras y números.",
+   "Es esta. Hay que **guardar el documento** para que la protección tenga efecto.",
+   "No. Word no obliga a usar mayúsculas, minúsculas y caracteres especiales. Sí distingue mayúsculas de minúsculas al escribirla."
+  ]
+ },
+ "w-ex-03-006": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **.docx** es un documento normal, no una plantilla.",
+   "Es esta. **.dotx** es la plantilla de Word **sin macros**. La que lleva macros es .dotm.",
+   "No. **.odt** es el formato de Open Document (LibreOffice).",
+   "No. **.txt** es texto sin formato."
+  ]
+ },
+ "w-ex-03-007": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **.doc** es el documento de Word 97-2003, no una plantilla.",
+   "No. **.docx** es un documento normal.",
+   "No. **.pptx** es de PowerPoint.",
+   "Es esta. **.dotx** es la extensión de la plantilla de Word. Truco: la t de .dotx es de template."
+  ]
+ },
+ "w-ex-03-008": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas, Inspeccionar documento (pág. 14)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Inspeccionar documento** busca propiedades, datos personales y otra información oculta.",
+   "No. **Comprobar accesibilidad** busca problemas que dificulten la lectura a personas con discapacidad.",
+   "No. **Comprobar compatibilidad** avisa de características que no funcionan en versiones antiguas.",
+   "No. **Restringir edición** limita los cambios que pueden hacer otros usuarios."
+  ]
+ }
+}

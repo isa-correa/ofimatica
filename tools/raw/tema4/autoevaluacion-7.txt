@@ -1,0 +1,117 @@
+1.
+¿Qué opción de fuente nos permite disminuir la distancia entre caracteres?
+
+Obtuvo 1 de 1 punto
+
+Espaciado.
+Corregir respuesta
+Tu respuesta
+Escala.
+Tamaño.
+Posición.
+2.
+¿Cuántos tipos de sangrías especiales hay en Word 365 y cuáles son?
+
+Obtuvo 0 de 1 punto
+
+Una, especial francesa.
+Respuesta equivocada
+Tu respuesta
+Dos, especial francesa y especial derecha.
+Dos, especial francesa y especial primera línea.
+Corregir respuesta
+3, especial francesa, especial primera línea y especial justificada.
+3.
+En Word 365, señala qué tipo de atributo es "Reflejo":
+
+Obtuvo 0 de 1 punto
+
+Estilo de texto.
+Respuesta equivocada
+Tu respuesta
+Efecto de texto.
+Corregir respuesta
+Estilo de fuente.
+Efecto de fuente.
+4.
+Señala la afirmación INCORRECTA acerca del atributo "Posición" de la fuente, en Word 365.
+
+Obtuvo 0 de 1 punto
+
+Puede ser elevada.
+Respuesta equivocada
+Tu respuesta
+Puede ser bajada.
+Se mide en puntos.
+Se mide en tantos por ciento.
+Corregir respuesta
+5.
+Si queremos reducir el espacio entre los caracteres de una palabra, ¿qué atributo debemos utilizar?
+
+Obtuvo 0 de 1 punto
+
+Interletraje para fuentes.
+Respuesta equivocada
+Tu respuesta
+Espaciado comprimido.
+Corregir respuesta
+Escala.
+Espaciado anterior.
+6.
+¿Qué configuración cambia el color que está detrás del texto, tabla o párrafo seleccionado?
+
+Obtuvo 1 de 1 punto
+
+Sombreado.
+Corregir respuesta
+Tu respuesta
+Resaltado.
+Relleno.
+Contorno.
+7.
+Indica cuál de los siguientes, es un efecto de texto en Word 365:
+
+Obtuvo 0 de 1 punto
+
+Subrayado.
+Respuesta equivocada
+Tu respuesta
+Negrita.
+Contorno.
+Corregir respuesta
+Tachado.
+8.
+Indica en qué grupo de la cinta de opciones de Word se encuentra el efecto superíndice:
+
+Obtuvo 1 de 1 punto
+
+Fuente.
+Corregir respuesta
+Tu respuesta
+Edición.
+Párrafo.
+Estilos.
+9.
+Necesitamos añadir una viñeta; ¿en qué grupo de la ficha inicio nos encontramos dicha herramienta?
+
+Obtuvo 0 de 1 punto
+
+Estilos.
+Respuesta equivocada
+Tu respuesta
+Portapapeles.
+Edición.
+Párrafo.
+Corregir respuesta
+10.
+¿Cuántos niveles como máximo se pueden añadir en una lista multinivel?
+
+Obtuvo 0 de 1 punto
+
+5
+Respuesta equivocada
+Tu respuesta
+16
+9
+Corregir respuesta
+10

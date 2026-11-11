@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-ex-05-018",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 18,
+   "enunciado": "La opción Inicio > Mostrar todo en Word 365 permite:",
+   "opciones": [
+    "Visualizar todos los cambios realizados.",
+    "Mostrar marcas de párrafo y símbolos de formato ocultos.",
+    "Mostrar todos los formatos aplicados.",
+    "Mostrar propiedades ocultas del documento."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-05-019",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 19,
+   "enunciado": "En Word 365 queremos establecer una tabulación para introducir cantidades numéricas de modo que la parte entera quede situada a la izquierda de la marca de tabulación y la parte decimal a la derecha. ¿Qué tipo de alineación de tabulación debemos seleccionar?",
+   "opciones": [
+    "Decimal",
+    "Derecha",
+    "Centrada",
+    "Barra."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-05-020",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 20,
+   "enunciado": "El panel de Estilos de Word 365 incorpora tres botones principales. ¿Cuál de las siguientes combinaciones es correcta?",
+   "opciones": [
+    "Administrar estilos – Modificar estilos – Eliminar estilos.",
+    "Nuevo estilo – Eliminar estilos – Modificar estilos.",
+    "Nuevo estilo – Inspector de estilos – Administrar estilos.",
+    "Nuevo estilo – Administrar estilos – Modificar estilos."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-06-001",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 1,
+   "enunciado": "¿Cuál de las siguientes extensiones corresponde a un documento de Word que permite almacenar macros?",
+   "opciones": [
+    ".dotm.",
+    ".docx.",
+    ".docm.",
+    ".dotx."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-06-002",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 2,
+   "enunciado": "En Word 365, ¿cuál de las siguientes rutas permite acceder a los documentos que no se han guardado, utilizando los archivos de autorrecuperación disponibles?",
+   "opciones": [
+    "Archivo > Información > Proteger documento > Recuperar documentos sin guardar.",
+    "Archivo > Opciones > Guardar > Recuperar documentos sin guardar.",
+    "Archivo > Historial > Restaurar documentos sin guardar.",
+    "Archivo > Abrir > Recuperar documentos sin guardar."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-06-003",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 3,
+   "enunciado": "¿Qué efecto tiene la combinación de teclas CTRL + 2 cuando el punto de inserción se encuentra situado dentro de un párrafo de un documento de Word 365?",
+   "opciones": [
+    "Aplica un interlineado de 1,5 líneas al párrafo.",
+    "Aplica un espaciado posterior de 2 puntos.",
+    "Aplica un interlineado doble al párrafo.",
+    "Aplica un interlineado sencillo con espaciado posterior de 2 puntos."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-06-004",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 4,
+   "enunciado": "Al compartir mediante un vínculo un documento de Word 365 almacenado en OneDrive personal, ¿cuál de las siguientes opciones de configuración NO se encuentra entre las disponibles?",
+   "opciones": [
+    "Establecer una contraseña para acceder al documento compartido.",
+    "Limitar el número máximo de veces que puede abrirse el vínculo compartido.",
+    "Determinar si los destinatarios pueden modificar el documento o únicamente visualizarlo.",
+    "Establecer una fecha de expiración a partir de la cual el vínculo dejará de funcionar."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-06-007",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 7,
+   "enunciado": "En relación con los procedimientos disponibles para insertar una tabla en un documento de Word 365, señale cuál de las siguientes opciones NO constituye un método válido de inserción.",
+   "opciones": [
+    "Seleccionar las dimensiones de la tabla mediante la cuadrícula disponible en Insertar > Tabla.",
+    "Utilizar el comando Dibujar tabla para crear manualmente las filas y columnas.",
+    "Seleccionar un fragmento de texto y utilizar el comando Convertir texto en tabla.",
+    "Seleccionar un fragmento de texto y utilizar el comando Convertir tabla en texto."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-06-008",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 8,
+   "enunciado": "Desde el cuadro de diálogo Propiedades de tabla de Word 365, pestaña Tabla, podemos configurar la alineación de la tabla respecto a los márgenes del documento. ¿Cuáles son las opciones disponibles?",
+   "opciones": [
+    "Izquierda, Centrada y Justificada.",
+    "Izquierda, Centrada y Derecha.",
+    "Izquierda, Derecha y Distribuida.",
+    "Izquierda, Centrada y Ajustada al texto."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-06-009",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 9,
+   "enunciado": "En un documento de Word 365, se establece una tabulación de tipo Derecha en una determinada posición de la regla. ¿Cómo se dispondrá el texto introducido respecto a dicha marca de tabulación?",
+   "opciones": [
+    "El texto comenzará en la marca y se extenderá hacia su derecha.",
+    "El texto quedará centrado respecto a la posición de la marca.",
+    "El texto comenzará en la marca y se extenderá hacia su izquierda.",
+    "El texto se distribuirá entre la marca de tabulación y el margen derecho del párrafo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-06-010",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 10,
+   "enunciado": "En un documento de Word 365, queremos impedir que un párrafo de varias líneas quede dividido entre dos páginas cuando se produzca un salto de página automático. ¿Qué opción debemos activar?",
+   "opciones": [
+    "Conservar con el siguiente, desde la pestaña Líneas y saltos de página del cuadro Párrafo.",
+    "Conservar líneas juntas, desde la pestaña Líneas y saltos de página del cuadro Párrafo.",
+    "Control de líneas viudas y huérfanas, desde la pestaña Sangría y espacio del cuadro Párrafo.",
+    "Salto de página anterior, desde la pestaña Líneas y saltos de página del cuadro Párrafo."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-06-011",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 11,
+   "enunciado": "En relación con la configuración de las tabulaciones de Word 365, señale cuál de las siguientes afirmaciones es INCORRECTA.",
+   "opciones": [
+    "Es posible establecer tabulaciones desde la regla, seleccionando previamente el tipo de alineación correspondiente.",
+    "El cuadro Tabulaciones permite definir la posición, alineación y relleno de las marcas de tabulación.",
+    "La tabulación de barra establece una línea vertical en la posición indicada, sin determinar una alineación del texto.",
+    "Las posiciones de tabulación establecidas en el cuadro Párrafo se aplican a todos los párrafos del documento, aunque solo se haya seleccionado uno."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-06-012",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 12,
+   "enunciado": "En Word 365 configurado en español, ¿cuál de las siguientes acciones se realiza al utilizar la combinación de teclas CTRL + N sobre un texto seleccionado?",
+   "opciones": [
+    "Aplicar el estilo de fuente Negrita al texto seleccionado.",
+    "Crear un documento nuevo basado en la plantilla Normal.",
+    "Aplicar el efecto de fuente Versalitas al texto seleccionado.",
+    "Abrir el cuadro de diálogo Fuente para modificar sus características."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-06-013",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 13,
+   "enunciado": "En Word 365, nos encontramos editando el contenido de una celda de una tabla y queremos desplazarnos a la celda inmediatamente anterior mediante el teclado. ¿Qué combinación debemos utilizar?",
+   "opciones": [
+    "CTRL + TAB.",
+    "MAYÚS + INTRO.",
+    "CTRL + MAYÚS + TAB.",
+    "MAYÚS + TAB."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-06-014",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 14,
+   "enunciado": "En Word 365, queremos incorporar un título y una descripción a una tabla para facilitar su interpretación. ¿Desde qué apartado podemos configurar esta información?",
+   "opciones": [
+    "Desde Propiedades de tabla, en la pestaña Texto alternativo.",
+    "Desde Propiedades de tabla, en la pestaña Celda.",
+    "Desde la ficha auxiliar Diseño de tabla, mediante el comando Título de tabla.",
+    "Desde Propiedades de tabla, en la pestaña Tabla, mediante Opciones."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-06-015",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 6",
+   "n": 15,
+   "enunciado": "Respecto a la inserción de portadas en un documento de Microsoft Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "El comando Portada se encuentra en la pestaña Diseño y permite aplicar un modelo prediseñado a la página seleccionada.",
+    "El comando Portada permite insertar una página en blanco inmediatamente después de la página que se está editando.",
+    "El comando Portada, disponible en Insertar > Páginas, permite incorporar un modelo prediseñado como primera página del documento.",
+    "El comando Portada inserta un salto de sección y aplica automáticamente al documento un encabezado diferente en la primera página."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-07-001",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 1,
+   "enunciado": "En Microsoft Word 365, una vez aplicado un determinado formato a un fragmento de texto, ¿cuál de los siguientes procedimientos permite crear un estilo rápido a partir del formato seleccionado?",
+   "opciones": [
+    "Desde la pestaña Inicio, grupo Estilos, desplegar la galería de estilos y seleccionar la opción Crear un estilo.",
+    "Desde la pestaña Inicio, grupo Fuente, abrir el cuadro de diálogo Fuente y seleccionar Crear un estilo.",
+    "Desde la pestaña Diseño, grupo Formato del documento, desplegar el comando Estilos y seleccionar Nuevo estilo rápido.",
+    "Desde la pestaña Inicio, grupo Edición, seleccionar Formato y, posteriormente, Guardar como estilo."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-07-002",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 2,
+   "enunciado": "En Microsoft Word 365, al desplegar el comando Buscar del grupo Edición de la pestaña Inicio, ¿cuál de las siguientes opciones NO figura entre las disponibles en dicho menú?",
+   "opciones": [
+    "Buscar.",
+    "Búsqueda avanzada.",
+    "Ir a.",
+    "Buscar y reemplazar."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-07-003",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 3,
+   "enunciado": "En Word 365, queremos dividir una celda de una tabla en varias filas o columnas. ¿Cuál de los siguientes procedimientos permite realizar esta operación?",
+   "opciones": [
+    "Seleccionar la celda y utilizar el comando Dividir tabla de la ficha auxiliar Disposición.",
+    "Seleccionar la celda y utilizar el comando Dividir celdas de la ficha auxiliar Diseño de tabla.",
+    "Seleccionar la celda y utilizar el comando Dividir celdas de la ficha auxiliar Disposición de tabla.",
+    "Seleccionar la celda y utilizar el comando Distribuir celdas de la ficha auxiliar Disposición de tabla."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-07-004",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 4,
+   "enunciado": "Respecto a la herramienta Dirección del texto, disponible en las herramientas de tabla de Microsoft Word 365, señale la afirmación INCORRECTA.",
+   "opciones": [
+    "Permite establecer una dirección horizontal para el contenido de las celdas.",
+    "Permite orientar el texto verticalmente en sentido de arriba hacia abajo.",
+    "Permite orientar el texto verticalmente en sentido de abajo hacia arriba.",
+    "Permite establecer una dirección diagonal ascendente para el contenido de las celdas."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-07-005",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 5,
+   "enunciado": "En una tabla de Word 365, ¿qué efecto tiene la aplicación del comando Autoajustar al contenido, disponible en la ficha auxiliar Disposición?",
+   "opciones": [
+    "Ajusta automáticamente la anchura de la tabla tomando como referencia el ancho disponible entre los márgenes de la página.",
+    "Ajusta automáticamente el tamaño de la tabla y sus columnas en función del contenido de las celdas.",
+    "Establece un ancho de columna fijo, evitando que se modifique al introducir nuevo contenido.",
+    "Iguala automáticamente la anchura de todas las columnas de la tabla, independientemente de su contenido."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-07-006",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 6,
+   "enunciado": "En Word 365, al seleccionar una imagen insertada en el documento, se activa la ficha auxiliar Formato de imagen. ¿Cuál de las siguientes operaciones NO puede realizarse desde las herramientas de formato de dicha imagen?",
+   "opciones": [
+    "Modificar el brillo, el contraste y la nitidez de la imagen.",
+    "Aplicar efectos visuales, como sombras, reflejos o giros tridimensionales.",
+    "Modificar los datos de origen de la imagen mediante el comando Editar datos, disponible en la ficha Formato de imagen.",
+    "Recortar la imagen y modificar su posición respecto al texto del documento."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-07-007",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 7,
+   "enunciado": "En Word 365, se desea incorporar al documento una captura de una de las ventanas que se encuentran abiertas en el equipo. ¿Cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "La captura debe realizarse mediante la herramienta Recortes de Windows, ya que Word no dispone de un comando propio para esta operación.",
+    "Desde la pestaña Insertar, grupo Ilustraciones, puede utilizarse el comando Captura de pantalla para incorporar una ventana abierta o realizar un recorte de pantalla.",
+    "Desde la pestaña Vista, grupo Ventana, puede utilizarse el comando Captura de pantalla para incorporar automáticamente todas las ventanas abiertas.",
+    "Desde la pestaña Insertar, grupo Imágenes, puede utilizarse el comando Captura de pantalla, que permite incorporar únicamente imágenes previamente guardadas."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-07-008",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 8,
+   "enunciado": "En un documento de Word 365, se desea establecer un encabezado diferente para las páginas pares y las impares. ¿Cuál de las siguientes opciones permite realizar esta configuración?",
+   "opciones": [
+    "Desde la ficha auxiliar Encabezado y pie de página, activar la opción Primera página diferente.",
+    "Desde la ficha auxiliar Encabezado y pie de página, activar la opción Páginas pares e impares diferentes.",
+    "Desde la pestaña Disposición, seleccionar Saltos y establecer un salto de sección para cada página par.",
+    "No es posible configurar encabezados diferentes para páginas pares e impares en un mismo documento de Word."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-07-009",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 7",
+   "n": 9,
+   "enunciado": "Si desplegamos el comando Número de página de la pestaña Insertar, ¿cuál de las siguientes opciones se encuentra disponible para establecer la posición de la numeración en Word 365?",
+   "opciones": [
+    "Centro de página.",
+    "Principio de sección.",
+    "Márgenes de página.",
+    "Diagonal de página."
+   ],
+   "correcta": 2
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "w-ex-04-012": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos con tecla CTRL (pág. 1)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Ctrl + U** crea un documento nuevo.",
+   "No. **Ctrl + L** abre Buscar y reemplazar en la pestaña Reemplazar.",
+   "No. **Ctrl + B** abre el panel de navegación.",
+   "Es esta. **Ctrl + E** selecciona el documento completo. Truco: E de “Entero”, porque en inglés es Ctrl + A."
+  ]
+ },
+ "w-ex-04-013": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Alineación (págs. 31 y 32) y 4.5.2 Disposición, grupo Párrafo (pág. 77)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Ctrl + J** aplica la alineación justificada.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El grupo Párrafo de **Disposición** solo tiene sangrías izquierda y derecha y el espaciado. La alineación no está ahí.",
+   "Es verdadera, así que no se marca. Se puede con el botón **Justificar** de Inicio > Párrafo.",
+   "Es verdadera, así que no se marca. En el cuadro Párrafo, pestaña Sangría y espacio, se elige la alineación."
+  ]
+ },
+ "w-ex-04-014": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo (págs. 33 a 38)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El **tachado** es un efecto de fuente: está en el grupo Fuente y en el cuadro Fuente.",
+   "No. El **margen superior** se configura en Configurar página (Disposición).",
+   "No. La **línea entre columnas** es una opción del cuadro Columnas (Disposición).",
+   "Es esta. El **interlineado** (sencillo, 1,5, doble, mínimo, exacto, múltiple) se configura en el cuadro Párrafo, pestaña Sangría y espacio."
+  ]
+ },
+ "w-ex-04-015": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Color de resaltado de texto (pág. 27)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Archivo > Información trata de propiedades y protección del documento, no de formato de texto.",
+   "Es esta. El **color de resaltado de texto** está en **Inicio > Fuente**.",
+   "No. El grupo Párrafo tiene el sombreado, pero no hay ahí una herramienta llamada “Resaltado”.",
+   "No. La ficha Diseño no tiene un grupo Párrafo con resaltado."
+  ]
+ },
+ "w-ex-04-016": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado (pág. 29)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El **interlineado** es formato de párrafo.",
+   "Es esta. La **posición** (altura del texto respecto a la línea de escritura) es un atributo de fuente, de la pestaña Avanzado del cuadro Fuente.",
+   "No. El **nivel de esquema** es formato de párrafo.",
+   "No. Los **números de línea** son de Disposición y se suprimen en el cuadro Párrafo."
+  ]
+ },
+ "w-ex-04-017": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado, Posición (pág. 29)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No hay un comando Posición visible en la cinta del grupo Fuente.",
+   "Es esta. **Inicio > llamador del grupo Fuente > pestaña Avanzado > Posición** (Normal, Elevada o Bajada, en puntos).",
+   "No. El grupo Párrafo de Disposición no tiene Posición.",
+   "No. La pestaña Líneas y saltos de página trata de paginación, no de la posición de los caracteres."
+  ]
+ },
+ "w-ex-04-018": {
+  "bloque": "word-entorno",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones, General (pág. 4)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. “Personalizar la copia de Microsoft Office” está en **General**, junto a la interfaz, el fondo y el tema de Office.",
+   "No. **Avanzadas** reúne opciones de edición, no esta sección.",
+   "No. **Revisión** trata de Autocorrección y corrector.",
+   "No. **Presentación** trata de la visualización e impresión del documento."
+  ],
+  "revisar": "El nombre exacto de la sección “Personalizar la copia de Office” no aparece en los apuntes. Los apuntes sí sitúan en General la interfaz, el fondo y el tema de Office."
+ },
+ "w-ex-04-019": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Ordenar (pág. 31)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. **Inicio > Párrafo > Ordenar** ordena por orden alfabético o numérico, ascendente o descendente. Sirve para listas, párrafos y tablas.",
+   "No. Referencias trata de tablas de contenido, notas y citas. No ordena.",
+   "No. El grupo Fuente da formato a los caracteres, no ordena.",
+   "No. Disposición tiene un grupo Organizar (posición de objetos), pero no ordena párrafos."
+  ]
+ },
+ "w-ex-04-020": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos MAY + tecla de función (pág. 1)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Ctrl + L** abre Buscar y reemplazar en la pestaña Reemplazar.",
+   "Es esta. **May + F7** abre el panel de Sinónimos.",
+   "No. **Ctrl + F2** va a Archivo > Imprimir.",
+   "No. **May + S** no es un atajo de Word de la lista."
+  ]
+ },
+ "w-ex-05-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Compartir (págs. 18 y 19)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se puede enviar una copia en formato **Word**.",
+   "Es verdadera, así que no se marca. Se puede enviar una copia en formato **PDF**.",
+   "Es verdadera, así que no se marca. Se puede **cargar en OneDrive** para compartirlo.",
+   "Esta es la falsa, y por eso es la que hay que marcar. “Crear un recurso compartido en red” no es una opción de Archivo > Compartir."
+  ]
+ },
+ "w-ex-05-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Efectos de texto y tipografía (pág. 27)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El **resaltado** es una herramienta aparte del grupo Fuente, no un efecto de texto y tipografía.",
+   "Es esta. **Iluminado** es un efecto de texto y tipografía, junto a reflejo y sombra.",
+   "No. La **posición** es un atributo de la pestaña Avanzado del cuadro Fuente.",
+   "No. La **tabulación** es formato de párrafo."
+  ]
+ },
+ "w-ex-05-003": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Configurar página, Márgenes (pág. 72)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los márgenes predefinidos de Word son **Normal, Estrecho, Moderado, Ancho y Reflejado**, además de los personalizados.",
+   "No. “Doble” y “Espaciado” no son márgenes predefinidos de Word.",
+   "No. “Espaciado” y “Anterior” no son márgenes predefinidos.",
+   "No. “Alto” y “Doble” no son márgenes predefinidos."
+  ],
+  "revisar": "Los apuntes dicen que Word ofrece márgenes predefinidos y que el predeterminado es Normal (superior e inferior 2,5 cm, derecho e izquierdo 3 cm), pero no listan todos los nombres. La lista es conocimiento de Word."
+ },
+ "w-ex-05-005": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos con tecla CTRL (págs. 1 y 2)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Ctrl + I** abre Buscar y reemplazar en la pestaña Ir a.",
+   "Es esta. **Ctrl + 5** aplica interlineado de 1,5 líneas. Ctrl + 1 es sencillo y Ctrl + 2 es doble.",
+   "No. **Ctrl + D** alinea el párrafo a la derecha.",
+   "No. **Ctrl + L** abre Buscar y reemplazar en la pestaña Reemplazar."
+  ]
+ },
+ "w-ex-05-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado (pág. 29)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El **interlineado** es la separación entre líneas, y es formato de párrafo.",
+   "No. La **posición** afecta a la altura del texto, no a la separación entre caracteres.",
+   "No. El **tamaño** es el de la letra, no la separación entre caracteres.",
+   "Es esta. El **espaciado** afecta a la separación entre caracteres: Normal, Expandido o Comprimido, medido en puntos."
+  ]
+ },
+ "w-ex-05-007": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos con tecla CTRL (pág. 1)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Ctrl + I** abre Buscar y reemplazar en la pestaña Ir a.",
+   "Es esta. **Ctrl + Q** alinea el párrafo a la izquierda. Los atajos de alineación son Q (izquierda), T (centrada), D (derecha) y J (justificada).",
+   "No. **Ctrl + D** alinea a la derecha.",
+   "No. **Ctrl + L** abre Buscar y reemplazar en la pestaña Reemplazar."
+  ]
+ },
+ "w-ex-05-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles, opciones de pegado (pág. 24)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Mantener formato de origen** conserva el formato original. Es la opción predeterminada.",
+   "No. **Combinar formato** adapta el contenido al formato que lo rodea, pero conserva algunos estilos del origen.",
+   "Es esta. **Conservar solo texto** pega el texto y adopta el formato de destino, sin tener en cuenta el de origen.",
+   "No. **Pegar como imagen** convierte el contenido en una imagen."
+  ]
+ },
+ "w-ex-05-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupos Fuente y Párrafo (págs. 27, 31) y cuadro Párrafo (pág. 37)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **tachado** tiene botón en la cinta.",
+   "Es verdadera, así que no se marca. **Aumentar sangría** tiene botón en la cinta.",
+   "Es verdadera, así que no se marca. La alineación **centrada** tiene botón en la cinta.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Conservar con el siguiente** solo se configura en el cuadro Párrafo, pestaña Líneas y saltos de página."
+  ]
+ },
+ "w-ex-05-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Tabulaciones, Alineación (pág. 39)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Falta la **barra**: son 5 tipos, no 4.",
+   "Es esta. Los 5 tipos son **izquierda, derecha, centrada, decimal y barra**.",
+   "No. La **distribuida** no es un tipo de tabulación, es una alineación de párrafo.",
+   "No. La **justificada** y la **distribuida** son alineaciones de párrafo, no de tabulación."
+  ]
+ },
+ "w-ex-05-011": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Interlineado (pág. 35)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Expandido** es un tipo de espaciado entre caracteres (pestaña Avanzado del cuadro Fuente).",
+   "No. **Comprimido** es también un espaciado entre caracteres.",
+   "Es esta. **Múltiple** es uno de los 6 tipos de interlineado: sencillo, doble, 1,5 líneas, múltiple, mínimo y exacto. Es el predefinido, en 1,16.",
+   "No. “Máximo” no existe. Lo que sí existe es **Mínimo**."
+  ]
+ },
+ "w-ex-05-012": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Teclas de función (pág. 1)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **F1** abre el panel de Ayuda.",
+   "No. **F10** muestra las Key Tips (teclas de acceso).",
+   "Es esta. **F5** abre Buscar y reemplazar en la pestaña **Ir a**.",
+   "No. **F4** repite la última acción."
+  ]
+ },
+ "w-ex-05-013": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1.2 Guardar una copia (pág. 22)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No hace falta desactivar el Autoguardado. Con Autoguardado activo en OneDrive, Guardar y Guardar como desaparecen y se sustituyen por otra opción.",
+   "No. “Restaurar como copia” sirve para recuperar una versión anterior, no para crear un archivo nuevo con otra extensión.",
+   "Es esta. Con Autoguardado y OneDrive, **Guardar una copia** sustituye a Guardar y Guardar como y permite elegir **ubicación, nombre y extensión**.",
+   "No. Guardar una copia sí permite cambiar el formato. No hace falta usar Exportar."
+  ]
+ },
+ "w-ex-05-014": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, efectos (pág. 27)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La **Posición elevada** de la pestaña Avanzado se parece, pero es otra herramienta: fija la altura en puntos. El efecto Superíndice no está ahí.",
+   "No. En Insertar hay símbolos y ecuaciones, pero el efecto Superíndice no es de esa ficha.",
+   "Es esta. El efecto **Superíndice** está en **Inicio > Fuente**, junto a Subíndice y Tachado.",
+   "No. El estilo de fuente no se configura en el menú Párrafo. El superíndice es un efecto de fuente."
+  ]
+ },
+ "w-ex-05-015": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, pestaña Líneas y saltos de página (págs. 36 y 37)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Conservar líneas juntas** evita que un mismo párrafo se parta entre dos páginas. No une dos párrafos.",
+   "Es esta. **Conservar con el siguiente** mantiene el párrafo seleccionado y el siguiente en la misma página.",
+   "No. El **control de líneas viudas y huérfanas** evita que quede una sola línea de un párrafo aislada. No une dos párrafos.",
+   "No. Sí existe una opción: Conservar con el siguiente."
+  ]
+ },
+ "w-ex-05-016": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, Estilo vinculado (págs. 44 y 45)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Falla en las dos mitades: una palabra seleccionada recibe solo la fuente, y un párrafo recibe fuente y párrafo, no solo párrafo.",
+   "No. El estilo vinculado sí distingue entre selección de caracteres y de párrafo.",
+   "Es esta. Con un **estilo vinculado**: si seleccionas un carácter o palabra, se aplica la **fuente**. Si seleccionas un párrafo o solo te colocas en él, se aplican **fuente y párrafo**.",
+   "No. No hace falta convertirlo en estilo de párrafo: el vinculado ya aplica las dos cosas cuando se selecciona el párrafo."
+  ]
+ },
+ "w-ex-05-017": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, botón Tabulaciones (pág. 39)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El cuadro Fuente trata de tipo de letra, tamaño, efectos, escala y espaciado.",
+   "No. Configurar página trata de márgenes, papel y diseño.",
+   "Es esta. El botón **Tabulaciones** está en el cuadro **Párrafo**. Ahí se fija posición, alineación y relleno.",
+   "No. Viñetas y numeración trata de listas."
+  ]
+ }
+}

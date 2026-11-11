@@ -1,0 +1,282 @@
+{
+ "w-ex-05-018": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 3. Iniciando Word, Opciones, Presentación (pág. 5) y Ficha Inicio, grupo Párrafo (cinta de opciones, pág. 3)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Ver los cambios realizados es cosa del Control de cambios (ficha Revisar).",
+   "Es esta. **Mostrar todo** enseña las marcas de formato: marcas de párrafo, espacios, tabulaciones y otros símbolos ocultos.",
+   "No. Para ver los formatos aplicados se usa el panel Mostrar formato (May + F1) o el Inspector de estilo. Mostrar todo no hace eso.",
+   "No. Las propiedades del documento se ven en Archivo > Información."
+  ]
+ },
+ "w-ex-05-019": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Tabulaciones, Alineación (pág. 39)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La tabulación **decimal** deja los enteros a la izquierda de la marca y la parte decimal a la derecha, de forma que los números quedan alineados por la coma.",
+   "No. La **derecha** hace que el texto termine en la marca. No separa enteros y decimales.",
+   "No. La **centrada** centra el texto sobre la marca.",
+   "No. La **barra** solo dibuja una línea vertical en la marca. No coloca texto."
+  ]
+ },
+ "w-ex-05-020": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, Panel de Estilos (págs. 41 y 45)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “Modificar estilos” y “Eliminar estilos” no son botones del panel. Modificar se hace con el desplegable de cada estilo, y eliminar desde Administrar estilos.",
+   "No. Eliminar y Modificar estilos tampoco son botones del panel. Eliminar se hace desde Administrar estilos.",
+   "Es esta. Los tres botones del panel son **Nuevo estilo, Inspector de estilo y Administrar estilos**.",
+   "No. Falta el Inspector de estilo, y “Modificar estilos” no es botón del panel."
+  ]
+ },
+ "w-ex-06-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles con Word (pág. 15)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **.dotm** admite macros, pero es una plantilla, no un documento.",
+   "No. **.docx** es un documento sin macros.",
+   "Es esta. **.docm** es el documento de Word habilitado para macros.",
+   "No. **.dotx** es una plantilla sin macros."
+  ]
+ },
+ "w-ex-06-002": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 3. Iniciando Word, Abrir, Recuperar documentos sin guardar (pág. 3)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En Proteger documento están Marcar como final, Cifrar con contraseña, Restringir edición y la firma. No recupera nada.",
+   "No. En Opciones > Guardar se configura cada cuánto se guarda la autorrecuperación, pero los documentos no se recuperan desde ahí.",
+   "No. No existe un apartado “Archivo > Historial > Restaurar documentos sin guardar”.",
+   "Es esta. En **Archivo > Abrir** está **Recuperar documentos sin guardar**, que da acceso a las copias temporales de la Autorrecuperación."
+  ],
+  "ojo": "También se llega desde Archivo > Información > Administrar documento."
+ },
+ "w-ex-06-003": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos con tecla CTRL (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El interlineado de 1,5 líneas es **Ctrl + 5**.",
+   "No. Ctrl + 2 no cambia el espaciado posterior.",
+   "Es esta. **Ctrl + 2** aplica interlineado **doble**. Ctrl + 1 es sencillo y Ctrl + 5 es 1,5.",
+   "No. Ctrl + 2 no combina un interlineado sencillo con espaciado posterior."
+  ]
+ },
+ "w-ex-06-004": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Compartir, permisos del vínculo (págs. 18 y 19)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se puede establecer una **contraseña**.",
+   "Esta es la falsa, y por eso es la que hay que marcar. No se puede limitar el número de veces que se abre el vínculo.",
+   "Es verdadera, así que no se marca. Se puede configurar si los usuarios **editan o solo visualizan**.",
+   "Es verdadera, así que no se marca. Se puede establecer una **fecha de expiración**."
+  ],
+  "ojo": "Permisos del vínculo: a quién (cualquier persona o lista limitada), editar o solo ver, fecha de expiración y contraseña."
+ },
+ "w-ex-06-007": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas (pág. 51) y Convertir en texto (pág. 53)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La **cuadrícula** de Insertar > Tabla es un método válido.",
+   "Es verdadera, así que no se marca. **Dibujar tabla** es un método válido.",
+   "Es verdadera, así que no se marca. **Convertir texto en tabla** transforma un texto en tabla.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Convertir tabla en texto** (en Word, Convertir en texto) hace lo contrario: quita la tabla."
+  ]
+ },
+ "w-ex-06-008": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, cuadro Propiedades de tabla, Ficha Tabla (pág. 53)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La **justificada** es una alineación de párrafo, no de tabla.",
+   "Es esta. La alineación de la tabla respecto a los márgenes es **izquierda, centrada o derecha**.",
+   "No. La **distribuida** es una alineación de párrafo, no de tabla.",
+   "No. “Ajustada al texto” no es una alineación. El ajuste del texto alrededor de la tabla es otra opción distinta."
+  ],
+  "revisar": "Los apuntes citan la Ficha Tabla de Propiedades de tabla, pero el contenido exacto de su alineación no se detalla. La respuesta se basa en el cuadro real de Word 365."
+ },
+ "w-ex-06-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Tabulaciones, Alineación (pág. 39)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Que el texto empiece en la marca y se extienda a la derecha es la tabulación **izquierda**.",
+   "No. Que el texto quede centrado sobre la marca es la tabulación **centrada**.",
+   "Es esta. En la tabulación **derecha**, el texto **termina en la marca** y se extiende hacia su izquierda.",
+   "No. Ninguna tabulación distribuye el texto hasta el margen derecho."
+  ]
+ },
+ "w-ex-06-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, pestaña Líneas y saltos de página (pág. 38)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Conservar con el siguiente** mantiene un párrafo junto al siguiente. No impide dividir el propio párrafo.",
+   "Es esta. **Conservar líneas juntas** evita que las líneas de un mismo párrafo queden repartidas entre dos páginas.",
+   "No. El **control de líneas viudas y huérfanas** evita líneas sueltas, y además está en la pestaña Líneas y saltos de página, no en Sangría y espacio.",
+   "No. **Salto de página anterior** fuerza que el párrafo empiece en página nueva."
+  ]
+ },
+ "w-ex-06-011": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Tabulaciones (págs. 39 y 40)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se pueden fijar tabulaciones desde la **regla**, eligiendo antes el tipo.",
+   "Es verdadera, así que no se marca. El cuadro Tabulaciones define **posición, alineación y relleno**.",
+   "Es verdadera, así que no se marca. La tabulación de **barra** dibuja una línea vertical y no coloca texto.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Las tabulaciones son formato de párrafo: solo afectan a los párrafos seleccionados, no a todo el documento."
+  ],
+  "revisar": "Que las tabulaciones afectan solo a los párrafos seleccionados es lógica de formato de párrafo. Los apuntes no lo dicen con esas palabras."
+ },
+ "w-ex-06-012": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, Atajos con tecla CTRL (pág. 1)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En español, **Ctrl + N** aplica negrita (N de Negrita).",
+   "No. Crear un documento nuevo es **Ctrl + U**.",
+   "No. Las versalitas no tienen atajo en esta lista.",
+   "No. El cuadro Fuente se abre con **Ctrl + M**."
+  ]
+ },
+ "w-ex-06-013": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, Desplazamiento en la tabla (pág. 54) y Atajos de teclado Word, Atajos varios (pág. 3)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. **Ctrl + Tab** inserta una tabulación dentro de la celda.",
+   "No. **May + Intro** inserta un salto de línea.",
+   "No. **Ctrl + May + Tab** no es el atajo para ir a la celda anterior.",
+   "Es esta. **May + Tab** va a la celda anterior. **Tab** va a la siguiente."
+  ]
+ },
+ "w-ex-06-014": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, Propiedades de tabla, Texto alternativo (pág. 54)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En **Propiedades de tabla > Texto alternativo** se añaden un título y una descripción, para mejorar la accesibilidad con lectores de pantalla.",
+   "No. La pestaña **Celda** fija la alineación vertical del contenido (arriba, centro, abajo).",
+   "No. En Diseño de tabla no hay un comando “Título de tabla” para esto.",
+   "No. La pestaña **Tabla** configura tamaño, alineación y ajuste. El texto alternativo tiene su propia pestaña."
+  ]
+ },
+ "w-ex-06-015": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Páginas, Portada (pág. 50)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Portada no está en Diseño.",
+   "No. Insertar una página en blanco es el comando **Página en blanco**.",
+   "Es esta. **Insertar > Páginas > Portada** ofrece modelos prediseñados que se insertan como **primera página** del documento.",
+   "No. Portada no inserta un salto de sección ni cambia el encabezado de la primera página."
+  ]
+ },
+ "w-ex-07-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, Crear un estilo (pág. 40)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se aplica el formato, y en **Inicio > Estilos** se despliega la galería y se elige **Crear un estilo**. Se abre el cuadro para ponerle nombre.",
+   "No. El cuadro Fuente no tiene la opción Crear un estilo.",
+   "No. Diseño > Formato del documento aplica conjuntos de estilos, no crea uno a partir del formato.",
+   "No. El grupo Edición busca, reemplaza y selecciona. No crea estilos."
+  ]
+ },
+ "w-ex-07-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Edición, Buscar (págs. 46 y 47)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Buscar** abre el panel de navegación.",
+   "Es verdadera, así que no se marca. **Búsqueda avanzada** abre el cuadro Buscar y reemplazar.",
+   "Es verdadera, así que no se marca. **Ir a** abre el cuadro Buscar y reemplazar en la pestaña Ir a.",
+   "Esta es la falsa, y por eso es la que hay que marcar. “Buscar y reemplazar” es el nombre del cuadro de diálogo, no una opción del menú. Reemplazar es un botón aparte del grupo Edición."
+  ]
+ },
+ "w-ex-07-003": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, herramientas de tabla, Dividir celdas (pág. 52)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **Dividir tabla** parte la tabla en dos, no una celda.",
+   "No. **Dividir celdas** no está en Diseño de tabla, sino en **Disposición de tabla**.",
+   "Es esta. Se selecciona la celda y se pulsa **Dividir celdas** en la ficha auxiliar **Disposición de tabla**. Se puede dividir en filas o en columnas.",
+   "No. “Distribuir celdas” no divide ninguna celda."
+  ]
+ },
+ "w-ex-07-004": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, herramientas de tabla, Dirección del texto (pág. 52)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Existe la dirección **horizontal**.",
+   "Es verdadera, así que no se marca. Existe **arriba-abajo**.",
+   "Es verdadera, así que no se marca. Existe **abajo-arriba**.",
+   "Esta es la falsa, y por eso es la que hay que marcar. No existe una dirección diagonal. Solo hay tres: horizontal, arriba-abajo y abajo-arriba."
+  ]
+ },
+ "w-ex-07-005": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, herramientas de tabla, Autoajustar (pág. 52)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Ajustar el ancho tomando como referencia la página es **Autoajustar a la ventana**.",
+   "Es esta. **Autoajustar al contenido** adapta el tamaño de las columnas a lo que contienen las celdas.",
+   "No. Mantener siempre el ancho indicado es **Ancho de columna fijo**.",
+   "No. Igualar el ancho de todas las columnas es **Distribuir columnas**, otro comando."
+  ]
+ },
+ "w-ex-07-006": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Imágenes (pág. 56)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se puede corregir **brillo, contraste y nitidez**.",
+   "Es verdadera, así que no se marca. Se pueden aplicar **efectos** (sombreado, giro 3D, reflexión).",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Editar datos** es de los gráficos, que tienen una hoja de cálculo asociada. Una imagen no tiene datos de origen.",
+   "Es verdadera, así que no se marca. Se puede **recortar** y cambiar la **posición y el ajuste al texto**."
+  ]
+ },
+ "w-ex-07-007": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Captura de pantalla (pág. 56)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Word sí tiene comando propio para esto.",
+   "Es esta. **Insertar > Ilustraciones > Captura de pantalla** permite insertar una de las ventanas disponibles o hacer un recorte de pantalla.",
+   "No. Captura de pantalla no está en Vista, y no inserta todas las ventanas de golpe.",
+   "No. La captura permite insertar ventanas abiertas o un recorte, no solo imágenes guardadas. Y está en el grupo Ilustraciones."
+  ]
+ },
+ "w-ex-07-008": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Encabezado y pie de página (pág. 62)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Primera página diferente** solo cambia el encabezado de la primera página.",
+   "Es esta. En la ficha auxiliar Encabezado y pie de página, **Páginas pares e impares diferentes** permite encabezados distintos en pares e impares.",
+   "No. No hace falta un salto de sección por cada página par.",
+   "No. Sí es posible: se activa la opción Páginas pares e impares diferentes, sin recurrir a saltos de sección."
+  ]
+ },
+ "w-ex-07-009": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Encabezado y pie de página, Número de página (pág. 63)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. “Centro de página” no es una de las posiciones del desplegable.",
+   "No. “Principio de sección” no es una posición. Las posiciones se refieren a la página.",
+   "Es esta. **Márgenes de página** es una de las posiciones, junto a Principio de página, Final de página y Posición actual.",
+   "No. “Diagonal de página” no existe."
+  ],
+  "revisar": "Los apuntes dicen que Número de página ofrece diseños predefinidos y permite configurar la posición, pero no listan los nombres de las posiciones. Esa lista es conocimiento de Word."
+ }
+}

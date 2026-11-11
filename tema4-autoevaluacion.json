@@ -1,0 +1,2447 @@
+{
+ "tema4_autoevaluacion": [
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 1)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué es una plantilla de Word?",
+     "opciones": [
+      "Herramienta muy útil para ayudar a destacar las partes más importantes de un texto.",
+      "Herramienta que reúne los comandos más usados.",
+      "Es un documento pre-diseñado que podemos usar en numerosas ocasiones.",
+      "Es una nueva ficha en la cinta de opciones de Word."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 2,
+     "enunciado": "Cuando iniciamos el programa Word 365, ¿qué interfaz nos muestra en pantalla?",
+     "opciones": [
+      "Vista Backstage.",
+      "Ficha Inicio.",
+      "Documento en blanco.",
+      "Los archivos recientes."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 3,
+     "enunciado": "En el área \"Recientes\" de la pantalla de inicio de Word, ¿qué elementos se presentan?",
+     "opciones": [
+      "La fecha de creación del último documento que hemos editado.",
+      "La ubicación del último archivo que hemos editado.",
+      "Lista de las ubicaciones de los documentos que hemos abierto recientemente",
+      "Lista de los documentos que hemos abierto recientemente, con su ubicación correspondiente y la fecha de modificación"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 4,
+     "enunciado": "En el menú \"Opciones\", ¿qué elementos aspectos podemos configurar?",
+     "opciones": [
+      "Ubicación por defecto al guardar un documento.",
+      "El color del fondo de página.",
+      "Orientación de la página.",
+      "Distribución de los márgenes."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Cuántas reglas hay en el área de trabajo de Word?",
+     "opciones": [
+      "2, superior e izquierda",
+      "2, superior y derecha",
+      "2, inferior e izquierda",
+      "2, inferior y derecha"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Cuántas unidades de medida hay disponibles en Word?",
+     "opciones": [
+      "4",
+      "5",
+      "3",
+      "6"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 7,
+     "enunciado": "¿En qué unidad de medida está configurada la regla de Word por defecto?",
+     "opciones": [
+      "En centímetros",
+      "En picas",
+      "En milímetros",
+      "En puntos"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Cuáles de las siguientes no es una unidad de medida disponible en Word?",
+     "opciones": [
+      "Centímetros",
+      "Milímetros",
+      "Micras",
+      "Pulgadas"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Sobre qué aspectos NO nos ofrece información las reglas?",
+     "opciones": [
+      "Sangrías",
+      "Tabulaciones",
+      "Márgenes",
+      "Interlineado"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Qué comandos están disponibles en la barra de herramientas de acceso rápido?",
+     "opciones": [
+      "Guardar, deshacer, cortar",
+      "Guardar, rehacer, abrir",
+      "Guardar, deshacer, compartir",
+      "Guardar, deshacer, rehacer y Autoguardado"
+     ],
+     "correcta": 3
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 2)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué extensión tienen los documentos de Word?",
+     "opciones": [
+      ".doc",
+      ".dot",
+      ".docm",
+      ".docx"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Qué vistas aparecen disponibles en la barra de estado?",
+     "opciones": [
+      "Modo lectura, diseño de impresión, diseño web",
+      "Modo lectura, diseño de impresión, borrador",
+      "Modo lectura, diseño de impresión, modo inmersivo",
+      "Modo lectura, diseño de impresión, esquema"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Cómo se ordena la cinta de opciones?",
+     "opciones": [
+      "Ficha, grupo, comando, llamador de grupo",
+      "Fichas, comandos, grupos",
+      "Llamadores de grupo, ficha, comando, grupo",
+      "Grupo, ficha, comando"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 4,
+     "enunciado": "¿A que apartado del menú \"Opciones de Word\" tenemos que acceder para modificar elementos de la interfaz de Word?",
+     "opciones": [
+      "General",
+      "Accesibilidad",
+      "Avanzadas",
+      "Presentación"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "El espaciado posterior definido por defecto en Word 365 está establecido en la siguiente medida:",
+     "opciones": [
+      "10 puntos.",
+      "0 puntos.",
+      "8 puntos.",
+      "Automático."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Desde qué ficha de la cinta de opciones de Word podemos activar y desactivar las reglas?",
+     "opciones": [
+      "Diseño.",
+      "Vista.",
+      "Insertar.",
+      "Inicio."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 7,
+     "enunciado": "En Word 365 queremos configurar cómo se muestra el contenido del documento en la pantalla y al imprimirlo. Debemos hacerlo desde las Opciones de Word, en la pestaña…",
+     "opciones": [
+      "General",
+      "Revisión",
+      "Presentación",
+      "Complementos"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Cuál es la fuente por defecto en Word?",
+     "opciones": [
+      "Calibri, tamaño 12",
+      "Aptos, tamaño 12",
+      "Courier, tamaño11",
+      "Times New Roman, tamaño 12"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 9,
+     "enunciado": "¿En qué zona de la interfaz de Word podemos ver en qué página estamos situados?",
+     "opciones": [
+      "En la barra de herramientas de acceso rápido",
+      "En la cinta de opciones",
+      "En la barra de título",
+      "En la barra de estado"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 10,
+     "enunciado": "Para configurar el espacio entre las distintas líneas de un párrafo, utilizaremos la opción…",
+     "opciones": [
+      "Espaciado.",
+      "Interletraje.",
+      "Interlineado.",
+      "Alineación."
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 3)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Si queremos obtener información detallada del documento que estamos editando, ¿dónde nos dirigimos?",
+     "opciones": [
+      "Menú \"Información\" de la ficha \"Archivo\"",
+      "Menú \"Información\" de la ficha \"Vista\"",
+      "Menú \"Detalles\" de la ficha \"Archivo\"",
+      "Menú \"Información\" de la ficha \"Revisar\""
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Cuántos caracteres debe tener como máximo una contraseña?",
+     "opciones": [
+      "10 caracteres, diferencia entre mayúscula y minúscula",
+      "10 caracteres, no diferencia entre mayúscula y minúscula",
+      "15 caracteres, diferencia entre mayúscula y minúscula",
+      "15 caracteres, no diferencia entre mayúscula y minúscula"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "Señale a qué opción de \"Archivo\" debemos dirigirnos si necesitamos examinar el contenido del documento en busca de posibles problemas de accesibilidad:",
+     "opciones": [
+      "Proteger documento.",
+      "Comprobar si hay problemas.",
+      "Administrar documento.",
+      "Marcar como solo lectura."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 4,
+     "enunciado": "Para conocer datos del documento, tales como el autor, el tiempo de edición, dónde está guardado, etc. ¿a qué opción de la ficha \"Archivo\" tenemos que acudir?",
+     "opciones": [
+      "Compartir",
+      "Información",
+      "Exportar",
+      "Guardar Como"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Qué posibilidades nos permite la opción \"Guardar como\" en Word 365?",
+     "opciones": [
+      "Elegir la ubicación donde guardamos el archivo",
+      "Elegir la ubicación donde guardamos el archivo, el nombre y su extensión",
+      "Sobrescribir la información del archivo sobre la versión guardada anteriormente",
+      "Recuperar una copia de seguridad"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Qué extensión tiene un documento Word habilitado para versiones 97-2003?",
+     "opciones": [
+      ".doc",
+      ".dotm",
+      ".docm",
+      ".domx"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Cuál de los siguientes tamaños de papel estándar es más pequeño?",
+     "opciones": [
+      "A5",
+      "Tabloide",
+      "A3",
+      "Oficio"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 8,
+     "enunciado": "Queremos imprimir únicamente la página 7 de la sección 3 de un documento de Word 365. ¿Cómo deberemos indicarlo en la impresión personalizada?",
+     "opciones": [
+      "s7p3.",
+      "p3s7.",
+      "p7s3.",
+      "s3-p7."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 9,
+     "enunciado": "En las opciones de impresión de Word 365 seleccionamos «Estilos» dentro de la información del documento. ¿Qué resultado se obtendrá?",
+     "opciones": [
+      "Se imprimirá únicamente un documento con información sobre los estilos aplicados.",
+      "Se imprimirá el documento original añadiendo junto a cada párrafo el nombre del estilo utilizado.",
+      "Se imprimirá el documento y, a continuación, una relación de todos los estilos disponibles en Word.",
+      "Se imprimirán únicamente los estilos personalizados creados por el usuario."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 10,
+     "enunciado": "Tenemos un documento almacenado en OneDrive y queremos compartirlo mediante un vínculo. ¿Cuál de las siguientes opciones puede configurarse sobre dicho vínculo?",
+     "opciones": [
+      "La extensión con la que se abrirá el documento para cada destinatario.",
+      "El tamaño máximo del archivo que podrá descargar cada usuario.",
+      "La aplicación de Office con la que deberá abrirse obligatoriamente.",
+      "Si los destinatarios podrán editar el documento o únicamente visualizarlo."
+     ],
+     "correcta": 3
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 4)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Quiero imprimir las secciones 3 y 5. ¿Cómo debo indicarlo en el cuadro de impresión de Word?",
+     "opciones": [
+      "3-5",
+      "3.5",
+      "s3,s5",
+      "s3-s5"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Se pueden crear ficheros en formato HTML en Word?",
+     "opciones": [
+      "No",
+      "Depende del tamaño del fichero",
+      "Se necesita un módulo en el sistema operativo",
+      "Sí"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 3,
+     "enunciado": "Queremos guardar un documento para poder abrirlo en el procesador de textos de OpenOffice. ¿Qué extensión debemos seleccionar?",
+     "opciones": [
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".odt"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 4,
+     "enunciado": "Queremos guardar un documento de texto plano (sin formato) en Word 365. ¿Qué extensión debemos usar?",
+     "opciones": [
+      ".dot",
+      ".odt",
+      ".doc",
+      ".txt"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 5,
+     "enunciado": "En Word, podemos imprimir documentos que nos facilitan información acerca del archivo que estamos elaborando. ¿Cuál de las siguientes opciones NO está disponible?",
+     "opciones": [
+      "Información del documento.",
+      "Lista de gráficos insertados.",
+      "Lista de revisiones.",
+      "Entradas de texto automático."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Cuál de los siguientes márgenes NO está disponible entre los predefinidos de Word 365?",
+     "opciones": [
+      "Normal.",
+      "Ancho .",
+      "Reflejado.",
+      "Medio."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Qué medidas están configuradas en el margen Normal de Word 365?",
+     "opciones": [
+      "Superior e inferior: 2,5 cm. Derecho e izquierdo: 3 cm.",
+      "Superior e inferior: 1,5 cm. Derecho e izquierdo: 2 cm.",
+      "Superior e inferior: 3 cm. Derecho e izquierdo: 2,5 cm.",
+      "Superior e inferior: 1,5 cm. Derecho e izquierdo: 3 cm."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Qué extensión tienen los documentos de autorrecuperación de Word 365?",
+     "opciones": [
+      ".aut",
+      ".asd",
+      ".htm",
+      ".txt"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Qué ruta debemos seguir para imprimir en Word 365 dos hojas discontinuas de un documento?",
+     "opciones": [
+      "Archivo, imprimir y en la casilla respectiva, indicar los números de las páginas a imprimir y separarlos con comas",
+      "Archivo, imprimir y en la casilla respectiva, indicar los números de las páginas a imprimir y separarlos con punto y coma",
+      "No es posible realizar esta acción",
+      "Imprimir directamente"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 10,
+     "enunciado": "Para conocer datos del documento, tales como el autor, el tiempo de edición, dónde está guardado, etc. ¿a qué opción de la ficha \"Archivo\" tenemos que acudir?",
+     "opciones": [
+      "Compartir",
+      "Información",
+      "Exportar",
+      "Guardar Como"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 5)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué sucede si guardamos un documento en almacenamiento local en relación con el autoguardado?",
+     "opciones": [
+      "El autoguardado aparece desactivado por defecto",
+      "Permanece activo solo si el archivo tiene formato .docx",
+      "El autoguardado no está disponible en Word 365.",
+      "Se activa automáticamente"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Qué opción permite restaurar versiones anteriores de un documento en Word 365?",
+     "opciones": [
+      "Archivo > Guardar como",
+      "Archivo > Compartir > Historial",
+      "Archivo > Información > Historial de versiones",
+      "Archivo > Opciones > Avanzadas"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Cuál es el límite de versiones anteriores disponibles para restaurar en una cuenta personal de Microsoft?",
+     "opciones": [
+      "15 versiones",
+      "20 versiones",
+      "25 versiones",
+      "Ilimitado"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 4,
+     "enunciado": "¿En qué ficha de la cinta de opciones se encuentra el grupo \"Portapapeles\" en Word 365?",
+     "opciones": [
+      "En la ficha Archivo",
+      "En la ficha Inicio",
+      "En la cinta de opciones de la ficha Vista",
+      "En la barra de estado"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Cuál es el número máximo de elementos que puede almacenar el portapapeles en Word 365?",
+     "opciones": [
+      "10",
+      "12",
+      "24",
+      "50"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 6,
+     "enunciado": "Si queremos que el contenido pegado conserve el estilo del texto de oroigen, ¿qué opción de pegado deberíamos usar?",
+     "opciones": [
+      "Mantener formato de origen",
+      "Combinar formato",
+      "Pegar como imagen",
+      "Conservar solo texto"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Cuál es el tamaño máximo de fuente que puede establecerse manualmente en Word 365?",
+     "opciones": [
+      "72 puntos",
+      "120 puntos",
+      "1024 puntos",
+      "1638 puntos"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Qué comando del grupo \"Fuente\" aplica una línea bajo el texto?",
+     "opciones": [
+      "Sombra",
+      "Cursiva",
+      "Subrayado",
+      "Iluminado"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Cuál es el nombre del tipo de fuente por defecto en Word 365?",
+     "opciones": [
+      "Calibri",
+      "Aptos (Cuerpo)",
+      "Arial",
+      "Cambria"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Qué herramienta permite aplicar un color llamativo a partes seleccionadas del texto, similar a un subrayador?",
+     "opciones": [
+      "Subrayado",
+      "Color de fuente",
+      "Resaltado de texto",
+      "Efecto sombra"
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 6)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Para configurar la unidad de medida por defecto en Word 365, ¿en qué apartado del programa debemos hacerlo?",
+     "opciones": [
+      "Apartado Avanzadas de Opciones de Word.",
+      "Apartado General de Opciones de Word.",
+      "Las reglas de la vista Diseño de impresión.",
+      "Ficha Vista de la cinta de opciones."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Cómo se denomina el espaciado que hay entre las líneas de un mismo párrafo?",
+     "opciones": [
+      "Tabulación.",
+      "Espaciado.",
+      "Interlineado.",
+      "Sangría."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Cuántos elementos puede conservar la herramienta \"Portapapeles\"?",
+     "opciones": [
+      "15",
+      "24",
+      "3",
+      "16"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Qué herramienta nos permite copiar la configuraciones de párrafo, de fuente o ambos de un texto a otro?",
+     "opciones": [
+      "Copiar formato",
+      "Copiar",
+      "Pegar formato",
+      "Cortar"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Qué opción nos permite MOVER los elementos de una parte del documento a otro?",
+     "opciones": [
+      "Cortar",
+      "Mover",
+      "Copiar",
+      "Pegar"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Cuál de las siguientes son opciones de pegado en Word 365?",
+     "opciones": [
+      "Mantener el formato imagen, combinar formato, pegar como imagen y conservar solo texto",
+      "Mantener formato, combinar origen, pegar como imagen y conservar solo texto",
+      "Mantener el formato origen, combinar formato, pegar como imagen y conservar solo texto",
+      "Mantener el formato texto, combinar imagen, pegar como imagen y conservar solo texto"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 7,
+     "enunciado": "Señala en qué ficha de la cinta de opciones se encuentra el comando Negrita:",
+     "opciones": [
+      "Diseño",
+      "Revisar",
+      "Insertar",
+      "Inicio"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 8,
+     "enunciado": "¿En qué ficha de la cinta de opciones se encuentra la opción de Exportar?:",
+     "opciones": [
+      "Archivo.",
+      "Inicio.",
+      "Insertar.",
+      "Revisar."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 9,
+     "enunciado": "Señala en qué grupo de la cinta de opciones de Word se encuentra el comando \"Copiar formato\":",
+     "opciones": [
+      "Fuente.",
+      "Párrafo.",
+      "Portapapeles.",
+      "Edición."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Qué atributo de la cinta de opciones establece un color al texto de nuestro documento?",
+     "opciones": [
+      "Sombreado",
+      "Relleno",
+      "Fondo de texto",
+      "Resaltado de texto"
+     ],
+     "correcta": 3
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 7)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué opción de fuente nos permite disminuir la distancia entre caracteres?",
+     "opciones": [
+      "Espaciado.",
+      "Escala.",
+      "Tamaño.",
+      "Posición."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Cuántos tipos de sangrías especiales hay en Word 365 y cuáles son?",
+     "opciones": [
+      "Una, especial francesa.",
+      "Dos, especial francesa y especial derecha.",
+      "Dos, especial francesa y especial primera línea.",
+      "3, especial francesa, especial primera línea y especial justificada."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "En Word 365, señala qué tipo de atributo es \"Reflejo\":",
+     "opciones": [
+      "Estilo de texto.",
+      "Efecto de texto.",
+      "Estilo de fuente.",
+      "Efecto de fuente."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 4,
+     "enunciado": "Señala la afirmación INCORRECTA acerca del atributo \"Posición\" de la fuente, en Word 365.",
+     "opciones": [
+      "Puede ser elevada.",
+      "Puede ser bajada.",
+      "Se mide en puntos.",
+      "Se mide en tantos por ciento."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 5,
+     "enunciado": "Si queremos reducir el espacio entre los caracteres de una palabra, ¿qué atributo debemos utilizar?",
+     "opciones": [
+      "Interletraje para fuentes.",
+      "Espaciado comprimido.",
+      "Escala.",
+      "Espaciado anterior."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Qué configuración cambia el color que está detrás del texto, tabla o párrafo seleccionado?",
+     "opciones": [
+      "Sombreado.",
+      "Resaltado.",
+      "Relleno.",
+      "Contorno."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 7,
+     "enunciado": "Indica cuál de los siguientes, es un efecto de texto en Word 365:",
+     "opciones": [
+      "Subrayado.",
+      "Negrita.",
+      "Contorno.",
+      "Tachado."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 8,
+     "enunciado": "Indica en qué grupo de la cinta de opciones de Word se encuentra el efecto superíndice:",
+     "opciones": [
+      "Fuente.",
+      "Edición.",
+      "Párrafo.",
+      "Estilos."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 9,
+     "enunciado": "Necesitamos añadir una viñeta; ¿en qué grupo de la ficha inicio nos encontramos dicha herramienta?",
+     "opciones": [
+      "Estilos.",
+      "Portapapeles.",
+      "Edición.",
+      "Párrafo."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Cuántos niveles como máximo se pueden añadir en una lista multinivel?",
+     "opciones": [
+      "5",
+      "16",
+      "9",
+      "10"
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 8)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Si queremos duplicar la anchura de cada carácter, debemos configurar el siguiente atributo:",
+     "opciones": [
+      "Escala al 200%.",
+      "Escala al 50%.",
+      "El tamaño de la fuente al doble.",
+      "El espaciado."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Cuál de las siguientes opciones no es un efecto de fuente?",
+     "opciones": [
+      "Tachado",
+      "Subíndice",
+      "Cursiva",
+      "Versalitas"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Qué opción de fuente nos permite aumentar el espacio entre caracteres?",
+     "opciones": [
+      "Espaciado",
+      "Escala",
+      "Tamaño",
+      "Posición"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Qué atributo modifica el espacio entre determinadas combinaciones de caracteres con el fin de obtener un resultado más estético?",
+     "opciones": [
+      "Espaciado para fuentes",
+      "Interletraje para caracteres",
+      "Interletraje para fuentes",
+      "Espaciado para caracteres"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 5,
+     "enunciado": "El \"Iluminado\", ¿qué tipo de atributo de fuente es?",
+     "opciones": [
+      "Estilo de texto",
+      "Efecto de fuente",
+      "Estilo de fuente",
+      "Efecto de texto"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Qué atributo puede configurarse como \"Comprimido\" o \"Expandido\"?",
+     "opciones": [
+      "Espaciado",
+      "Escala",
+      "Posición",
+      "Tamaño"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Qué tipo de sangría desplaza la primera línea de un párrafo hacia la derecha, dejando el resto del párrafo sin desplazar?",
+     "opciones": [
+      "Sangría francesa.",
+      "Izquierda.",
+      "Primera línea.",
+      "Derecha."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Cuáles de las siguientes opciones afecta a la posición de la fuente con respecto a la línea de escritura?",
+     "opciones": [
+      "Negrita.",
+      "Tachado.",
+      "Versalitas.",
+      "Posición."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Cómo se denomina la distancia que puede haber entre el margen y el texto de un documento?",
+     "opciones": [
+      "Encuadernación.",
+      "Margen.",
+      "Sangría.",
+      "Interlineado."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Cuál de las siguientes no es un tipo de sangría de Word?",
+     "opciones": [
+      "Centrada.",
+      "Izquierda.",
+      "Primera línea.",
+      "Derecha."
+     ],
+     "correcta": 0
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 9)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué acción realiza la tecla F1 en Word 365?",
+     "opciones": [
+      "Guarda el documento",
+      "Abre la ventana \"Abrir\"",
+      "Abre el panel de Ayuda",
+      "Muestra los Key Tips"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Qué combinación se utiliza para cortar un elemento seleccionado?",
+     "opciones": [
+      "CTRL + C",
+      "CTRL + X",
+      "CTRL + V",
+      "CTRL + B"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Qué hace CTRL + Z en Word?",
+     "opciones": [
+      "Rehace una acción",
+      "Deshace la última acción",
+      "Elimina una palabra",
+      "Borra el formato"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Cuál de las siguientes teclas abre el panel \"Editor\"?",
+     "opciones": [
+      "F7",
+      "F2",
+      "F8",
+      "F5"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Qué función tiene CTRL + P?",
+     "opciones": [
+      "Pegar contenido",
+      "Imprimir documento",
+      "Abrir documento",
+      "Crear nuevo documento"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 6,
+     "enunciado": "El atajo CTRL + C sirve para:",
+     "opciones": [
+      "Cerrar el documento",
+      "Cortar el contenido",
+      "Copiar el contenido",
+      "Insertar una tabla"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Cuál de estos atajos aplica negrita?",
+     "opciones": [
+      "CTRL + N",
+      "CTRL + K",
+      "CTRL + I",
+      "CTRL + S"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Qué realiza el atajo CTRL + V?",
+     "opciones": [
+      "Pega contenido",
+      "Elimina el párrafo",
+      "Muestra/Oculta la cinta",
+      "Guarda el documento"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Qué ocurre al pulsar CTRL + A?",
+     "opciones": [
+      "Abre el panel de navegación",
+      "Abre la ficha Archivo > Abrir",
+      "Aplica subrayado",
+      "Activa el autoguardado"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Qué hace el atajo CTRL + F4?",
+     "opciones": [
+      "Cierra Word",
+      "Cierra el documento",
+      "Minimiza la ventana",
+      "Guarda como PDF"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 10)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué ocurre si pulsamos CTRL + Inicio?",
+     "opciones": [
+      "Selecciona todo el texto",
+      "Inserta un salto de línea",
+      "Nos lleva al inicio del documento",
+      "Muestra los cambios recientes"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 2,
+     "enunciado": "El atajo CTRL + ALT + L sirve para:",
+     "opciones": [
+      "Insertar una nota al pie",
+      "Insertar una nota al final",
+      "Insertar un hipervínculo",
+      "Activar la ayuda"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Cuál es la función de CTRL + ALT + C?",
+     "opciones": [
+      "Centrar texto",
+      "Copiar formato",
+      "Cortar especial",
+      "Insertar campo"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 4,
+     "enunciado": "Si pulsamos MAYÚS + F3, ¿qué ocurre?",
+     "opciones": [
+      "Alternamos entre distintos tamaños de fuente",
+      "Se aplica versalitas",
+      "Alternamos entre mayúsculas y minúsculas",
+      "Aplica doble subrayado"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Qué hace CTRL + SUPR?",
+     "opciones": [
+      "Elimina el formato de párrafo",
+      "Borra una palabra a la derecha",
+      "Borra una línea entera",
+      "Cierra el documento"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 6,
+     "enunciado": "El atajo CTRL + MAY + F3:",
+     "opciones": [
+      "Copia el formato",
+      "Pega especial",
+      "Inserta marcador",
+      "Aplica superíndice"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Qué efecto tiene CTRL + MAY + signo +?",
+     "opciones": [
+      "Superíndice",
+      "Subíndice",
+      "Mayúsculas",
+      "Aumentar tamaño de fuente"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Cuál de estas combinaciones aplica interlineado doble?",
+     "opciones": [
+      "CTRL + 1",
+      "CTRL + 2",
+      "CTRL + 5",
+      "CTRL + 0"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 9,
+     "enunciado": "El atajo CTRL + D realiza:",
+     "opciones": [
+      "Aplica negrita",
+      "Alineación centrada",
+      "Alineación a la derecha",
+      "Inserta un hipervínculo"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Qué acción realiza CTRL + ALT + K?",
+     "opciones": [
+      "Inserta una nota al pie",
+      "Inserta un hipervínculo",
+      "Inserta una imagen",
+      "Aumenta tamaño de fuente"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 11)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿En qué ficha de la cinta de opciones encontramos el grupo \"Estilos\"?",
+     "opciones": [
+      "Insertar.",
+      "Diseño.",
+      "Disposición.",
+      "Inicio."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 2,
+     "enunciado": "La primera línea de un párrafo que, por un salto de página queda como última de una página, se denomina:",
+     "opciones": [
+      "Línea huérfana.",
+      "Línea viuda.",
+      "Primera línea.",
+      "Número de línea."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Cuántos tipos de tabulaciones hay en Word 365?",
+     "opciones": [
+      "Barra, izquierda, derecha,centro y decimal.",
+      "Barra, izquierda, derecha, distribuida y decimal.",
+      "Barra, justificada, derecha,centro y decimal.",
+      "Barra, izquierda, derecha, distribuida y principal."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Cuál de los siguientes NO es un tipo de estilo en Word 365?",
+     "opciones": [
+      "Tabulación.",
+      "Carácter.",
+      "Lista.",
+      "Párrafo."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Cuál de los siguientes no es un tipo de interlineado de Word?",
+     "opciones": [
+      "Sencillo.",
+      "Múltiple.",
+      "Comprimido.",
+      "Mínimo."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 6,
+     "enunciado": "Señala cómo se denomina la última línea de un párrafo que, por insertar un salto de página, queda como primera de una página:",
+     "opciones": [
+      "Línea huérfana.",
+      "Línea viuda.",
+      "Primera línea.",
+      "Salto de línea."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Cuál de las siguientes NO es una propiedad de un párrafo?",
+     "opciones": [
+      "Espaciado anterior",
+      "Nivel",
+      "Sangría especial francesa",
+      "Escala"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Cuál de las siguientes opciones NO es una sangría?",
+     "opciones": [
+      "Primera línea",
+      "Izquierda",
+      "Francesa",
+      "Justificada"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 9,
+     "enunciado": "Desde la regla podemos modificar (señala la respuesta incorrecta):",
+     "opciones": [
+      "Alineación",
+      "Sangría Francesa",
+      "Sangría Derecha",
+      "Tabulaciones"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Cuántos niveles como máximo se pueden añadir en una lista multinivel?",
+     "opciones": [
+      "5",
+      "16",
+      "9",
+      "10"
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 12)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Si queremos que, en una tabulación, el texto quede centrado con respecto a la marca de tabulación…",
+     "opciones": [
+      "Establecer una tabulación tipo barra.",
+      "Establecer una tabulación y aplicarle una alineación centrada.",
+      "Establecer una tabulación centrada.",
+      "Establecer una alineación centrada al párrafo en concreto."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Cuál de las siguientes es un tipo de tabulación en Word 365?",
+     "opciones": [
+      "Barra.",
+      "Numerada.",
+      "Centesimal.",
+      "Rellenar."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 3,
+     "enunciado": "Si queremos que dos párrafos consecutivos no sean separados por un salto de página, activaremos la opción de paginación…",
+     "opciones": [
+      "Conservar líneas juntas.",
+      "Control de líneas viudas y huérfanas.",
+      "Conservar juntos.",
+      "Conservar con el siguiente."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 4,
+     "enunciado": "Si tenemos establecida una fuente de tamaño 20 ¿cuál de los siguientes interlineados será más grande?",
+     "opciones": [
+      "Sencillo.",
+      "Doble.",
+      "Mínimo en 25.",
+      "Múltiple en 2,5."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Cómo se denomina la distancia que existe entre el margen y el texto de un documento?",
+     "opciones": [
+      "Encuadernación.",
+      "Margen.",
+      "Sangría.",
+      "Interlineado."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Cuántos tipos de interlineados hay en Word 365?",
+     "opciones": [
+      "5",
+      "6",
+      "4",
+      "7"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Qué tipo de sangría desplaza solo la primera línea de un párrafo?",
+     "opciones": [
+      "Sangría francesa",
+      "Sangría izquierda",
+      "Sangría derecha",
+      "Sangría especial de 1ª línea"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Qué sucede al activar la opción \"Sangrías simétricas\" en un documento pensado para impresión a doble cara?",
+     "opciones": [
+      "Las sangrías se desactivan automáticamente",
+      "La sangría izquierda se convierte en \"Exterior\" y la derecha en \"Interior\"",
+      "Se aplican márgenes alternos en páginas pares e impares",
+      "La sangría izquierda pasa a ser \"Interior\" y la derecha, \"Exterior\""
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Cuál es el valor predeterminado del interlineado en Word 365?",
+     "opciones": [
+      "Sencillo",
+      "Múltiple en 1,5",
+      "Exacto en 12 pt",
+      "Múltiple en 1,16"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 10,
+     "enunciado": "Si deseamos que un párrafo comience siempre en una nueva página, ¿qué opción debemos activar?",
+     "opciones": [
+      "Conservar con el siguiente",
+      "Salto de página anterior",
+      "No dividir con guiones",
+      "Línea viuda"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 11,
+     "enunciado": "¿Cuál de las siguientes opciones evita que el contenido de un párrafo se divida entre dos páginas?",
+     "opciones": [
+      "Conservar líneas juntas",
+      "Control de líneas viudas",
+      "No dividir con guiones",
+      "Salto de sección continua"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 12,
+     "enunciado": "¿Para qué sirve la opción \"No dividir con guiones\"?",
+     "opciones": [
+      "Para unir automáticamente palabras con guiones",
+      "Para impedir que las palabras se separen con guiones al final de línea",
+      "Para añadir guiones largos entre párrafos",
+      "Para dividir un párrafo en varias secciones"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 13,
+     "enunciado": "¿Qué tipo de alineación de tabulación coloca una línea vertical en el texto, sin alinear el contenido?",
+     "opciones": [
+      "Centrada",
+      "Decimal",
+      "Derecha",
+      "Barra"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 14,
+     "enunciado": "¿Cuál de los siguientes tipos de tabulación es el más adecuado para alinear cifras con decimales?",
+     "opciones": [
+      "Izquierda",
+      "Derecha",
+      "Centrada",
+      "Decimal"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 15,
+     "enunciado": "¿Qué función permite establecer un patrón (puntos, líneas, etc.) entre marcas de tabulación?",
+     "opciones": [
+      "Interlineado",
+      "Relleno",
+      "Espaciado",
+      "Posición"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 13)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "En Word 365, aplicamos un estilo vinculado a una única palabra situada dentro de un párrafo. ¿Qué características del estilo se aplicarán en este caso?",
+     "opciones": [
+      "Las de fuente y las de párrafo, siempre que exista una selección.",
+      "Únicamente las de fuente, al no haberse seleccionado el párrafo completo.",
+      "Las de párrafo, conservándose el formato de fuente previo.",
+      "Las de párrafo y solo aquellas de fuente que coincidan con el estilo Normal."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 2,
+     "enunciado": "Un usuario necesita identificar los formatos que se han aplicado a una parte del documento y eliminarlos, sin modificar la definición de los estilos. ¿Qué herramienta debe utilizar?",
+     "opciones": [
+      "Administrar estilos.",
+      "Modificar estilo.",
+      "Inspector de estilo.",
+      "Seleccionar todo el texto con formato similar."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "En Word 365 se accede a Inicio > Edición > Búsqueda avanzada. Respecto al funcionamiento de esta herramienta, señale la afirmación INCORRECTA.",
+     "opciones": [
+      "Permite establecer criterios relacionados con el formato del texto.",
+      "Puede limitar la búsqueda a determinadas partes del documento.",
+      "Resalta automáticamente todas las coincidencias a la vez, sin necesidad de activar ninguna opción.",
+      "Permite restringir los resultados a palabras completas."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 4,
+     "enunciado": "Queremos localizar únicamente la palabra «Tema», evitando coincidencias con «temario» y distinguiendo entre mayúsculas y minúsculas. ¿Qué configuración debemos utilizar?",
+     "opciones": [
+      "Activar Solo palabras completas y Coincidir mayúsculas y minúsculas.",
+      "Activar Usar caracteres comodín y Buscar siguiente.",
+      "Activar Resaltado de lectura y Buscar en.",
+      "Activar Coincidir mayúsculas y minúsculas y Resaltado de lectura."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "Al realizar una búsqueda avanzada, necesitamos localizar texto que presente un determinado formato. ¿Qué botón permite establecer este criterio?",
+     "opciones": [
+      "Especial.",
+      "Formato.",
+      "Buscar en.",
+      "Resaltado de lectura."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 6,
+     "enunciado": "En el cuadro Buscar y reemplazar hemos encontrado una coincidencia y queremos sustituir únicamente esa aparición, continuando después con la búsqueda. ¿Qué comando utilizaremos?",
+     "opciones": [
+      "Reemplazar todos.",
+      "Buscar siguiente.",
+      "Reemplazar.",
+      "Ir a."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 7,
+     "enunciado": "Desde Inicio > Edición > Seleccionar, ¿qué opción permite mostrar en un panel lateral los objetos de la parte del documento que estamos editando?",
+     "opciones": [
+      "Seleccionar objetos.",
+      "Panel de selección.",
+      "Seleccionar todo el texto con formato similar.",
+      "Panel de navegación."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 8,
+     "enunciado": "Un usuario desea convertir una grabación de audio en texto, diferenciando las intervenciones de los distintos participantes. ¿Qué herramienta resulta adecuada?",
+     "opciones": [
+      "Dictar, porque separa automáticamente las intervenciones de cada orador.",
+      "Leer en voz alta, porque convierte el audio en párrafos.",
+      "Transcribir, que puede trabajar con audio grabado o cargado.",
+      "Buscar, utilizando el criterio de reconocimiento de voz."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 9,
+     "enunciado": "Respecto a las herramientas del grupo Páginas de la pestaña Insertar, señale la afirmación correcta.",
+     "opciones": [
+      "Página en blanco finaliza la página en el punto de inserción sin añadir contenido adicional.",
+      "Portada incorpora un modelo prediseñado como primera página del documento.",
+      "Salto de página inserta una página prediseñada antes de la página actual.",
+      "Portada y Página en blanco son comandos equivalentes, diferenciándose únicamente en el diseño."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 10,
+     "enunciado": "En Word 365 queremos desplazarnos directamente a un marcador concreto del documento mediante el cuadro Buscar y reemplazar. ¿Qué pestaña debemos utilizar?",
+     "opciones": [
+      "Buscar.",
+      "Reemplazar.",
+      "Formato.",
+      "Ir a."
+     ],
+     "correcta": 3
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 14)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "En una tabla de Word 365 seleccionamos varias celdas contiguas situadas en diferentes filas y columnas. ¿Cuál de las siguientes operaciones podemos realizar sobre esa selección?",
+     "opciones": [
+      "Combinar las celdas seleccionadas en una sola.",
+      "Dividir la tabla sin indicar una fila de separación.",
+      "Aplicar exclusivamente una combinación horizontal.",
+      "Convertir cada celda seleccionada en una tabla independiente."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "Deseamos dividir una tabla de Word en dos tablas independientes. Situamos el punto de inserción en una de sus filas y utilizamos Dividir tabla. ¿Qué sucederá?",
+     "opciones": [
+      "La fila seleccionada permanecerá como última fila de la primera tabla.",
+      "La fila seleccionada pasará a ser la primera fila de la segunda tabla.",
+      "Ambas tablas compartirán la fila seleccionada como encabezado.",
+      "La fila seleccionada se dividirá en dos, conservando una única tabla."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 3,
+     "enunciado": "Respecto a la alineación del contenido en las celdas de una tabla de Word 365, señale la afirmación correcta.",
+     "opciones": [
+      "Se dispone de tres alineaciones horizontales, pero únicamente dos verticales.",
+      "Las alineaciones verticales son Superior, Inferior y Justificada.",
+      "Es posible combinar tres posiciones horizontales con tres posiciones verticales.",
+      "Las nueve alineaciones se obtienen combinando la dirección del texto con los márgenes de celda."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 4,
+     "enunciado": "Estamos configurando una tabla y queremos que sus columnas conserven la anchura establecida sin ajustarse automáticamente al texto introducido. ¿Qué opción debemos utilizar?",
+     "opciones": [
+      "Autoajustar al contenido.",
+      "Autoajustar a la ventana.",
+      "Distribuir columnas.",
+      "Ancho de columna fijo."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 5,
+     "enunciado": "Una tabla ocupa varias páginas y necesitamos que determinadas filas aparezcan como encabezado al comienzo de cada una. ¿Qué comando debemos utilizar?",
+     "opciones": [
+      "Repetir filas de título.",
+      "Autoajustar a la ventana.",
+      "Dividir tabla.",
+      "Propiedades de tabla > Columna."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 6,
+     "enunciado": "En el cuadro Propiedades de tabla de Word 365, indique cuál de las siguientes asociaciones es INCORRECTA.",
+     "opciones": [
+      "Fila: establecer el alto como Mínimo o Exacto.",
+      "Columna: establecer su anchura en centímetros o porcentaje.",
+      "Celda: definir la alineación vertical del contenido.",
+      "Tabla: configurar el alto de cada fila como Mínimo o Exacto."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 7,
+     "enunciado": "Queremos convertir una tabla de Word 365 en texto normal. ¿Cuál de las siguientes afirmaciones sobre esta operación es correcta?",
+     "opciones": [
+      "El contenido se convierte necesariamente en párrafos sin separadores.",
+      "Solo es posible convertirla utilizando tabulaciones como separadores.",
+      "Podemos elegir entre marcas de párrafo, tabulaciones, punto y coma u otro carácter.",
+      "Debemos convertir previamente todas sus celdas en una única celda."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 8,
+     "enunciado": "Necesitamos ordenar alfabéticamente el contenido de una tabla de Word 365. ¿Cuál de los siguientes procedimientos es válido?",
+     "opciones": [
+      "Utilizar exclusivamente el cuadro Propiedades de tabla > Fila.",
+      "Situarse en la tabla y utilizar Inicio > Párrafo > Ordenar.",
+      "Aplicar Autoajustar al contenido antes de seleccionar la columna.",
+      "Convertir obligatoriamente la tabla en texto antes de ordenarla."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 9,
+     "enunciado": "Estamos editando la última celda de una tabla y queremos insertar una tabulación en su interior sin crear una fila nueva. ¿Qué combinación de teclas debemos utilizar?",
+     "opciones": [
+      "TAB.",
+      "Mayús + TAB.",
+      "Ctrl + TAB.",
+      "Ctrl + Intro."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 10,
+     "enunciado": "Respecto al desplazamiento y selección en las tablas de Word 365, indique la afirmación INCORRECTA.",
+     "opciones": [
+      "Mayús + TAB permite retroceder a la celda anterior.",
+      "Para seleccionar una fila podemos hacer clic desde su lateral izquierdo, cuando cambia la forma del puntero.",
+      "La selección de una columna puede realizarse desde su parte superior cuando cambia el puntero.",
+      "Ctrl + TAB desplaza el punto de inserción a la celda inmediatamente anterior."
+     ],
+     "correcta": 3
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 15)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Respecto a la selección de elementos de una tabla en Microsoft Word 365, señale la afirmación correcta.",
+     "opciones": [
+      "Para seleccionar una celda completa, podemos realizar un triple clic dentro de ella.",
+      "Para seleccionar una columna completa, debemos situar el puntero en el lateral izquierdo de cualquiera de sus filas.",
+      "Para seleccionar una fila completa, debemos realizar un doble clic sobre cualquiera de sus celdas.",
+      "Para seleccionar toda la tabla, debemos situar el puntero en la esquina inferior derecha y hacer clic."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "En relación con el desplazamiento por las tablas de Word 365 mediante el teclado, indique la afirmación INCORRECTA.",
+     "opciones": [
+      "La combinación MAYÚS + TAB permite desplazarse a la celda anterior.",
+      "La combinación CTRL + TAB permite insertar una tabulación dentro de una celda.",
+      "La tecla TAB permite desplazarse a la siguiente celda y, si estamos en la última, añade una fila.",
+      "La combinación CTRL + TAB permite desplazarse a la celda situada inmediatamente a la derecha."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 3,
+     "enunciado": "Tras insertar una imagen en un documento de Word 365, se activa la ficha auxiliar Formato de imagen. ¿Cuál de las siguientes herramientas NO corresponde a las opciones descritas para esta ficha?",
+     "opciones": [
+      "Quitar fondo.",
+      "Correcciones de brillo, contraste y nitidez.",
+      "Diseño de gráfico.",
+      "Recortar."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 4,
+     "enunciado": "En Microsoft Word 365, ¿qué ficha auxiliar de la cinta de opciones se activa al insertar un icono en el documento, según el temario?",
+     "opciones": [
+      "Formato de imagen.",
+      "Formato de forma.",
+      "Formato de gráficos.",
+      "Diseño de gráfico."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 5,
+     "enunciado": "Respecto a las opciones de edición de las formas insertadas en Word 365, señale la afirmación correcta.",
+     "opciones": [
+      "La ficha Formato de forma permite modificar el contorno, pero no agregar texto dentro de la forma.",
+      "La ficha Formato de forma permite cambiar la forma, añadir texto y modificar características de su diseño.",
+      "La ficha Formato de imagen permite insertar una viñeta o numeración dentro de las formas.",
+      "Las formas solo pueden modificarse mediante el cuadro de diálogo Insertar formas."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 6,
+     "enunciado": "En Word 365 queremos incorporar al documento una imagen de una ventana que se encuentra abierta en el equipo. ¿Qué herramienta del grupo Ilustraciones permite realizar esta operación?",
+     "opciones": [
+      "Captura de pantalla.",
+      "Iconos.",
+      "Modelos 3D.",
+      "Formas."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 7,
+     "enunciado": "Al insertar un gráfico convencional en un documento de Word 365, ¿cuál de las siguientes afirmaciones es correcta?",
+     "opciones": [
+      "Los datos del gráfico se editan desde el panel de texto que aparece a su izquierda.",
+      "La inserción abre una ventana de Excel para configurar los datos, y se habilitan las fichas Diseño de gráfico y Formato.",
+      "La edición de sus datos se realiza exclusivamente desde la ficha Formato de gráficos.",
+      "El gráfico se convierte automáticamente en SmartArt cuando se añaden nuevos datos."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 8,
+     "enunciado": "En relación con los gráficos SmartArt de Word 365, indique cuál de las siguientes afirmaciones es INCORRECTA.",
+     "opciones": [
+      "Permiten representar ideas e información mediante diferentes categorías de diagramas.",
+      "Pueden incorporar texto directamente en las formas que componen el gráfico.",
+      "El panel de texto permite modificar el contenido del SmartArt y actualizarlo en sus formas.",
+      "Para introducir el contenido de un SmartArt es necesario abrir una hoja de cálculo de Excel."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 9,
+     "enunciado": "En Word 365, al seleccionar un gráfico SmartArt insertado en el documento, ¿qué fichas auxiliares se habilitan en la cinta de opciones?",
+     "opciones": [
+      "Diseño de gráfico y Formato.",
+      "Diseño de SmartArt y Formato.",
+      "Diseño de tabla y Disposición de tabla.",
+      "Formato de gráficos y Formato de imagen."
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 10,
+     "enunciado": "Respecto a los vínculos que pueden insertarse en un documento de Word 365, señale la afirmación correcta.",
+     "opciones": [
+      "Permiten enlazar páginas web y archivos del equipo, pero no ubicaciones del propio documento.",
+      "Pueden dirigir exclusivamente a documentos que ya existan en el equipo.",
+      "Permiten establecer enlaces a archivos, páginas web, documentos nuevos o lugares del propio documento.",
+      "Solo permiten vincular elementos externos al documento y no pueden enlazar contenido interno."
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 16)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Señala cuál de los siguientes no es un tipo de SmarArt:",
+     "opciones": [
+      "Radial",
+      "Listas",
+      "Procesos",
+      "Ciclos"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "¿En qué ficha de la cinta de opciones de Word encontramos el grupo \"Ilustraciones\"?",
+     "opciones": [
+      "Referencias.",
+      "Diseño.",
+      "Insertar.",
+      "Vista."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "Señala en qué grupo de la cinta de opciones de Word nos encontramos el comando SmartArt:",
+     "opciones": [
+      "Complementos.",
+      "Insertar.",
+      "Vínculos.",
+      "Ilustraciones."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 4,
+     "enunciado": "El comando \"Referencia cruzada\", ¿en qué grupo de la cinta de opciones se encuentra?",
+     "opciones": [
+      "Ilustraciones.",
+      "Complementos.",
+      "Multimedia.",
+      "Vínculos."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 5,
+     "enunciado": "¿En qué grupo de la cinta de opciones se encuentra el comando \"Elementos rápidos\"?",
+     "opciones": [
+      "Texto.",
+      "Símbolo.",
+      "Encabezado y pie de página.",
+      "Comentarios."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 6,
+     "enunciado": "Señala en qué ficha de la cinta de opciones de Word se encuentra el comando \"Ecuación\":",
+     "opciones": [
+      "Referencias.",
+      "Disposición.",
+      "Insertar.",
+      "Inicio."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 7,
+     "enunciado": "Señala a qué ficha de la cinta de opciones debemos dirigirnos para configurar un Encabezado:",
+     "opciones": [
+      "Ficha Vista",
+      "Ficha Diseño",
+      "Ficha Referencias",
+      "Ficha Insertar"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 8,
+     "enunciado": "Para insertar un autotexto en Word 365, debemos hacerlo desde…",
+     "opciones": [
+      "Ficha insertar, Complementos, Autotexto",
+      "Ficha insertar, Ilustraciones, Autotexto",
+      "Ficha insertar, Comentario, elementos rápidos",
+      "Ficha insertar, Texto, Elementos rápidos"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 9,
+     "enunciado": "Si quisiéramos añadir símbolo de marca registrada al final del texto, ¿a qué grupo de la cinta de opciones debemos dirigirnos?",
+     "opciones": [
+      "Grupo Texto, de la ficha Diseño",
+      "Grupo Ilustraciones de la ficha Insertar",
+      "Grupo Símbolos de la ficha Insertar",
+      "Grupo Símbolos de la ficha Referencias"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 10,
+     "enunciado": "Si en un documento queremos mostrar el nombre del autor al comienzo de todas las páginas…",
+     "opciones": [
+      "Debemos utilizar el comando \"Insertar nota el pie\" de la ficha Referencias",
+      "Debemos insertar un Autoformato",
+      "Debemos configurar un Encabezado y Pie de página, e insertar \"Información del documento > Autor\".",
+      "Debemos establecer un estilo de Título"
+     ],
+     "correcta": 2
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 17)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿En qué ficha de la cinta de opciones se encuentra el comando \"Resaltar campos de combinación?",
+     "opciones": [
+      "Vista.",
+      "Inicio.",
+      "Referencias.",
+      "Correspondencia."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 2,
+     "enunciado": "Señala en qué grupo se encuentra la opción \"contar palabras\":",
+     "opciones": [
+      "El grupo Revisión",
+      "El grupo Comentarios",
+      "El grupo Seguimiento",
+      "El grupo Idioma"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 3,
+     "enunciado": "Las opciones de corrección de ortografía y gramática, ¿en qué apartado de las opciones de Word se encuentran?",
+     "opciones": [
+      "Guardar.",
+      "General.",
+      "Presentación.",
+      "Revisión."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Cuál de las siguientes no es una alineación que podamos aplicar a una tabla En Word 365?",
+     "opciones": [
+      "Ajustar al Centro.",
+      "Derecha.",
+      "Ajustar a la Izquierda.",
+      "Justificada."
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 5,
+     "enunciado": "En un documento de Word 365, se ha insertado una forma prediseñada. Indica qué tipo de Ajuste de Texto debemos seleccionar si queremos que el objeto se integre en el párrafo, colocándolo en línea con el mismo:",
+     "opciones": [
+      "Delante del texto.",
+      "Arriba y abajo.",
+      "En línea con el texto.",
+      "Estrecho."
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Qué tipo de subrayado aplica Word al detectar un error gramatical en el texto?",
+     "opciones": [
+      "Púrpura discontinuo",
+      "Verde subrayado",
+      "Rojo ondulado",
+      "Azul doble"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Qué sucede si insertamos una marca de agua personalizada a partir de una selección en Word 365?",
+     "opciones": [
+      "No puede aplicarse en combinación con bordes de página",
+      "Se añade a la galería de marcas de agua",
+      "Se guarda como encabezado",
+      "Solo puede usarse una vez en el documento"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Qué diferencia presenta la pestaña \"Borde de página\" respecto a la pestaña \"Bordes\" del cuadro \"Bordes y sombreado\"?",
+     "opciones": [
+      "Permite aplicar bordes con estilo de tabla",
+      "Agrega el comando \"Arte\" para aplicar dibujos decorativos como borde de página",
+      "Permite usar relleno de color en los márgenes",
+      "Solo puede aplicarse en la portada del documento"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Qué ocurre si en el cuadro \"Bordes y sombreado\" no se selecciona ningún texto antes de aplicar un borde?",
+     "opciones": [
+      "Se aplica automáticamente al párrafo donde esté posicionado el cursor",
+      "El borde se aplica al documento completo",
+      "No se aplica ningún formato",
+      "Word muestra un mensaje de error"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Qué tipo de elementos se pueden aplicar desde el grupo fondo de página en Word 365?",
+     "opciones": [
+      "Solo colores sólidos y bordes",
+      "Marcas de agua, color de página y bordes de página",
+      "Encabezados personalizados y marcas",
+      "Únicamente imágenes de fondo"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 18)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "Si queremos duplicar la ventana de un documento sobre el que estamos trabajando, para así poder modificar en dos partes del mismo de forma simultánea, utilizamos…",
+     "opciones": [
+      "Duplicar ventana",
+      "Nueva ventana",
+      "Dividir",
+      "Ver en paralelo"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 2,
+     "enunciado": "Si insertamos un objeto en un documento de Word 365 y queremos ajustar su posición con respecto a la página donde lo hemos incluido, utilizamos la opción:",
+     "opciones": [
+      "Ajustar texto",
+      "Alinear",
+      "Traer hacia delante",
+      "Posición"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 3,
+     "enunciado": "Señala qué tres opciones muestra el panel de navegación de Word:",
+     "opciones": [
+      "Títulos, páginas y resultados.",
+      "Títulos, comentarios y resultados.",
+      "Títulos, subtítulos y resultados.",
+      "Títulos, imágenes y comentarios."
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Qué vista permite visualizar y reorganizar la estructura de un documento mediante niveles de títulos?",
+     "opciones": [
+      "Diseño web",
+      "Diseño de impresión",
+      "Esquema",
+      "Modo lectura"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Qué tipo de documento permite contener y gestionar varios subdocumentos vinculados?",
+     "opciones": [
+      "Documento maestro",
+      "Documento de solo lectura",
+      "Documento en blanco",
+      "Plantilla .dotx"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Qué es un subdocumento en Word?",
+     "opciones": [
+      "Un documento dentro de una tabla",
+      "Un archivo temporal",
+      "Un archivo vinculado a un documento maestro",
+      "Un comentario con versión"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Qué permite hacer la función \"Comparar documentos\"?",
+     "opciones": [
+      "Unir dos documentos automáticamente",
+      "Sustituir uno por otro",
+      "Generar un nuevo documento con los cambios destacados",
+      "Traducir simultáneamente"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Qué funcionalidad ofrece el Lector inmersivo en Word 365?",
+     "opciones": [
+      "Insertar voz al texto",
+      "Leer el documento en voz alta y ajustar visualmente la presentación",
+      "Traducir automáticamente",
+      "Exportar a EPUB"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Qué se puede hacer desde la pestaña \"Resultados\" del Panel de navegación?",
+     "opciones": [
+      "Buscar y reemplazar directamente",
+      "Ver los resultados de una búsqueda de texto",
+      "Reorganizar títulos",
+      "Insertar comentarios"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Para qué sirve la pestaña \"Páginas\" dentro del Panel de navegación?",
+     "opciones": [
+      "Muestra solo los encabezados",
+      "Muestra las miniaturas de cada página del documento",
+      "Permite cambiar el tamaño de página",
+      "Añade número de página"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 19)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué herramienta nos permite desplazarnos rápidamente por títulos, páginas o resultados de búsqueda en el documento?",
+     "opciones": [
+      "Panel de navegación",
+      "Panel de revisión",
+      "Lector inmersivo",
+      "Vista previa"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Qué opción del panel de navegación muestra miniaturas de cada una de las páginas del documento?",
+     "opciones": [
+      "Títulos",
+      "Páginas",
+      "Resultados",
+      "Encabezados"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 3,
+     "enunciado": "¿Qué sucede al usar la herramienta 'Leer en voz alta' de Word?",
+     "opciones": [
+      "Se graba el texto en formato audio",
+      "Se convierte en subtítulos",
+      "Se lee el texto en voz alta y se resalta en pantalla",
+      "Se traduce al idioma predeterminado"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Qué opción activa una visualización sin distracciones, con fondo oscuro y solo reglas visibles?",
+     "opciones": [
+      "Vista preliminar",
+      "Modo de concentración",
+      "Modo esquema",
+      "Modo lectura"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Cuál es la función del botón 'Dividir' dentro del grupo Ventana?",
+     "opciones": [
+      "Crear un salto de sección",
+      "Duplicar la vista en dos zonas del mismo documento",
+      "Abrir un segundo archivo",
+      "Ver encabezados y pies a la vez"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Qué comando permite trabajar con dos documentos de Word de forma simultánea en paralelo?",
+     "opciones": [
+      "Desplazamiento sincrónico",
+      "Dividir ventana",
+      "Ver en paralelo",
+      "Comparar documentos"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Qué función permite que el desplazamiento se realice de forma conjunta en dos documentos abiertos en paralelo?",
+     "opciones": [
+      "Organizar todo",
+      "Sincronizar barra de estado",
+      "Desplazamiento sincrónico",
+      "Vista inmersiva"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Qué opción del grupo 'Ventana' sirve para cambiar rápidamente entre varios documentos abiertos?",
+     "opciones": [
+      "Cambiar ventanas",
+      "Vista previa",
+      "Vista actual",
+      "Abrir reciente"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Qué casilla debemos marcar para mostrar los márgenes y alinear objetos con precisión?",
+     "opciones": [
+      "Mostrar encabezados",
+      "Mostrar cuadrícula",
+      "Mostrar títulos",
+      "Mostrar navegación"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Cuál de las siguientes afirmaciones sobre las líneas de cuadrícula es correcta?",
+     "opciones": [
+      "Sirven para imprimir marcas de página",
+      "Son visibles pero no imprimibles",
+      "Se activan solo en modo lectura",
+      "Solo se muestran en documentos con tablas"
+     ],
+     "correcta": 1
+    }
+   ]
+  },
+  {
+   "test": "Tema 4 - Word 365 (Autoevaluacion 20)",
+   "preguntas": [
+    {
+     "n": 1,
+     "enunciado": "¿Qué ocurre con las opciones \"Guardar\" y \"Guardar como\" cuando trabajamos con un archivo almacenado en OneDrive y el Autoguardado está activado?",
+     "opciones": [
+      "Ambas opciones permanecen disponibles",
+      "Se sustituyen por la opción \"Guardar una copia\"",
+      "Se ocultan automáticamente",
+      "Solo se activa \"Guardar como\" en ese caso"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 2,
+     "enunciado": "¿Qué permite la opción \"Mostrar ediciones\" dentro del Historial de versiones de Word 365?",
+     "opciones": [
+      "Comparar documentos distintos",
+      "Modificar versiones anteriores directamente",
+      "Ver todos los cambios realizados en cada versión",
+      "Eliminar las versiones antiguas del documento"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 3,
+     "enunciado": "En el grupo \"Párrafo\", ¿qué función tiene el comando \"Disminuir sangría\"?",
+     "opciones": [
+      "Centrar el texto automáticamente",
+      "Mover el párrafo hacia la derecha",
+      "Acercar el párrafo al margen izquierdo",
+      "Borrar todos los bordes aplicados"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 4,
+     "enunciado": "¿Cuál es la principal diferencia entre la alineación justificada y la alineación distribuida?",
+     "opciones": [
+      "La justificada aplica espacio solo entre palabras, la distribuida también entre caracteres",
+      "La distribuida es la predeterminada",
+      "La justificada usa interlineado múltiple",
+      "La distribuida añade márgenes automáticos"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 5,
+     "enunciado": "¿Qué propósito tiene la opción \"Sangrías simétricas\"?",
+     "opciones": [
+      "Aplicar sangrías automáticas en todas las páginas",
+      "Establecer el mismo margen en ambos lados",
+      "Adaptar la sangría para documentos que se imprimirán a doble cara",
+      "Activar el modo diseño doble página"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 6,
+     "enunciado": "¿Qué hace la opción \"Versalitas\" en el cuadro Fuente?",
+     "opciones": [
+      "Convierte todo el texto en minúsculas",
+      "Aplica mayúsculas más pequeñas, manteniendo la diferencia con las ya existentes",
+      "Sustituye los estilos tipográficos",
+      "Aplica sombreado de texto"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 7,
+     "enunciado": "¿Qué tipo de subrayado permite aplicar el cuadro de Fuente, y cuántas variantes tiene?",
+     "opciones": [
+      "Un solo estilo predefinido",
+      "Subrayado doble en color rojo",
+      "Hasta 17 tipos distintos de subrayado",
+      "Solo subrayado ondulado"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 8,
+     "enunciado": "¿Qué sucede al aplicar el efecto \"Oculto\" a un fragmento de texto?",
+     "opciones": [
+      "Se imprime pero no se muestra en pantalla",
+      "Se oculta y no se imprime",
+      "Se reemplaza por un símbolo",
+      "Solo se oculta en la vista Diseño Web"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 9,
+     "enunciado": "¿Cuál es la función del interletraje para fuentes?",
+     "opciones": [
+      "Aumentar el espaciado entre todos los caracteres",
+      "Justificar el texto automáticamente",
+      "Ajustar el espacio entre pares de caracteres para mejorar la estética",
+      "Reducir el tamaño de fuente en los encabezados"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 10,
+     "enunciado": "¿Qué espaciado predeterminado se aplica entre párrafos en Word 365 según la plantilla Normal.dotm?",
+     "opciones": [
+      "0 puntos antes y 12 después",
+      "0 puntos antes y 8 después",
+      "1,5 puntos antes y después",
+      "8 puntos antes y 0 después"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 11,
+     "enunciado": "¿Cuántos niveles jerárquicos se pueden establecer como máximo en una lista multinivel?",
+     "opciones": [
+      "5",
+      "7",
+      "9",
+      "10"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 12,
+     "enunciado": "¿Cuál es el efecto de activar \"Conservar líneas juntas\" en la configuración de párrafo?",
+     "opciones": [
+      "El párrafo se vuelve inmóvil",
+      "El párrafo se mantiene unido en una sola página",
+      "Se impide la edición del párrafo",
+      "Se aplica sangría doble"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 13,
+     "enunciado": "¿Qué es una nota al pie en Word?",
+     "opciones": [
+      "Un comentario emergente",
+      "Una anotación que se inserta al final del documento",
+      "Una aclaración que aparece al pie de la misma página donde se hace la referencia",
+      "Un hipervínculo oculto"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 14,
+     "enunciado": "¿Qué ocurre si se insertan títulos a los objetos del documento y luego se usa la función \"Insertar tabla de ilustraciones\"?",
+     "opciones": [
+      "Word crea una tabla con hipervínculos a dichos elementos",
+      "Word inserta una tabla de contenidos",
+      "El documento se guarda como plantilla",
+      "Se elimina el formato de las ilustraciones"
+     ],
+     "correcta": 0
+    },
+    {
+     "n": 15,
+     "enunciado": "¿Qué extensión usa Word para guardar un documento habilitado para macros?",
+     "opciones": [
+      ".doc",
+      ".docx",
+      ".dotx",
+      ".docm"
+     ],
+     "correcta": 3
+    },
+    {
+     "n": 16,
+     "enunciado": "¿Para qué sirve el comando \"Inspeccionar documento\" en la ficha Archivo?",
+     "opciones": [
+      "Editar encabezados",
+      "Buscar sinónimos",
+      "Detectar datos ocultos o personales antes de compartir un archivo",
+      "Insertar pie de página"
+     ],
+     "correcta": 2
+    },
+    {
+     "n": 17,
+     "enunciado": "¿Cuál es la capacidad máxima del portapapeles de Word 365 según el grupo Portapapeles?",
+     "opciones": [
+      "10 elementos",
+      "24 elementos",
+      "100 elementos",
+      "Ilimitado"
+     ],
+     "correcta": 1
+    },
+    {
+     "n": 18,
+     "enunciado": "¿Cómo se activa el Inspector de Estilo y qué muestra?",
+     "opciones": [
+      "Desde la cinta Inicio > muestra errores ortográficos",
+      "Desde el panel de estilos > muestra qué formatos están aplicados en cada parte del documento",
+      "Desde el grupo Vista > aplica macros",
+      "No se puede activar en Word 365"
+     ],
+     "correcta": 1
+    }
+   ]
+  }
+ ]
+}

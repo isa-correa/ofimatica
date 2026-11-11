@@ -1,0 +1,283 @@
+{
+"w-au-10-007": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Ctrl + Mayús + signo +** aplica el efecto de **superíndice**.",
+    "No. El subíndice es **Ctrl + Mayús + signo -**.",
+    "No. Pasar a mayúsculas no es este atajo. Mayús + F3 alterna entre mayúsculas y minúsculas.",
+    "No. Aumentar el tamaño de la fuente es **Ctrl + >**."
+  ],
+  "ojo": "Con el signo más sube (superíndice) y con el signo menos baja (subíndice)."
+},
+"w-au-10-008": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. **Ctrl + 1** aplica el interlineado sencillo.",
+    "Es esta. **Ctrl + 2** aplica el interlineado doble.",
+    "No. **Ctrl + 5** aplica el interlineado de 1,5 líneas.",
+    "No. **Ctrl + 0** no es el atajo del interlineado doble."
+  ]
+},
+"w-au-10-009": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La negrita es **Ctrl + N**.",
+    "No. La alineación centrada es **Ctrl + T**.",
+    "Es esta. **Ctrl + D** alinea el párrafo a la **derecha**.",
+    "No. El hipervínculo es **Ctrl + Alt + K**."
+  ],
+  "ojo": "Alineaciones: Q izquierda, T centrada, D derecha, J justificada, Mayús + J distribuida."
+},
+"w-au-10-010": {
+  "bloque": "word-atajos",
+  "precepto": "Atajos de teclado Word, atajos con tecla CTRL (pág. 2)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. La nota al pie es **Ctrl + Alt + O**.",
+    "Es esta. **Ctrl + Alt + K** inserta un hipervínculo.",
+    "No. Insertar una imagen no tiene este atajo. Se hace desde Insertar > Ilustraciones.",
+    "No. Aumentar el tamaño de la fuente un punto es **Ctrl + Alt + >**."
+  ]
+},
+"w-au-11-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos (pág. 40)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Insertar añade elementos al documento (tablas, imágenes, símbolos). No tiene el grupo Estilos.",
+    "No. Diseño tiene los temas y el formato del documento. Los estilos se aplican desde Inicio.",
+    "No. Disposición trata de la página: márgenes, columnas, saltos.",
+    "Es esta. El grupo **Estilos** está en la ficha **Inicio**, con la galería de estilos y el Panel de Estilos."
+  ]
+},
+"w-au-11-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Líneas viudas y huérfanas (pág. 36)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. La **línea huérfana** es la primera línea de un párrafo que queda como última línea de una página.",
+    "No. La **línea viuda** es la contraria: la última línea de un párrafo que queda como primera de la página siguiente.",
+    "No. “Primera línea” no es el nombre de ese problema de paginación. Es un tipo de sangría.",
+    "No. El “número de línea” es la numeración de las líneas del documento."
+  ],
+  "ojo": "Huérfana: la primera línea queda sola abajo. Viuda: la última línea queda sola arriba en la página siguiente."
+},
+"w-au-11-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Tabulaciones (pág. 39)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. Hay 5 tipos de tabulación: **izquierda**, **derecha**, **centrada**, **decimal** y **barra**.",
+    "No. “Distribuida” no es un tipo de tabulación. Es una alineación de párrafo. Falta la centrada.",
+    "No. “Justificada” no es un tipo de tabulación. Es una alineación de párrafo.",
+    "No. “Distribuida” y “principal” no son tipos de tabulación."
+  ]
+},
+"w-au-11-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Estilos, tipos de estilos (pág. 40)",
+  "correcta": 0,
+  "justificaciones": [
+    "Esta es la falsa, y por eso es la que hay que marcar. La **tabulación** no es un tipo de estilo. Los 5 tipos son: párrafo, carácter, vinculado, tabla y lista.",
+    "Es verdadera, así que no se marca. El estilo de **carácter** es un tipo de estilo.",
+    "Es verdadera, así que no se marca. El estilo de **lista** es un tipo de estilo.",
+    "Es verdadera, así que no se marca. El estilo de **párrafo** es un tipo de estilo."
+  ]
+},
+"w-au-11-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Interlineado (pág. 35)",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. **Sencillo** es un tipo de interlineado.",
+    "Es verdadera, así que no se marca. **Múltiple** es un tipo de interlineado.",
+    "Esta es la falsa, y por eso es la que hay que marcar. **Comprimido** es un tipo de espaciado entre caracteres, no de interlineado. Los 6 interlineados son sencillo, doble, 1,5 líneas, múltiple, mínimo y exacto.",
+    "Es verdadera, así que no se marca. **Mínimo** es un tipo de interlineado."
+  ]
+},
+"w-au-11-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Líneas viudas y huérfanas (pág. 36)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. La **línea huérfana** es la contraria: la primera línea de un párrafo que queda como última de una página.",
+    "Es esta. La **línea viuda** es la última línea de un párrafo que, por un salto de página, queda como primera de la página siguiente.",
+    "No. “Primera línea” no es el nombre de ese problema. Es un tipo de sangría.",
+    "No. El “salto de línea” es otra cosa: se inserta con Mayús + Intro."
+  ]
+},
+"w-au-11-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo y cuadro Fuente (págs. 29 a 35)",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. El **espaciado anterior** es una propiedad del párrafo.",
+    "Es verdadera, así que no se marca. El **nivel** (de esquema) es una propiedad del párrafo.",
+    "Es verdadera, así que no se marca. La **sangría especial francesa** es una propiedad del párrafo.",
+    "Esta es la falsa, y por eso es la que hay que marcar. La **escala** es una propiedad de la fuente: ajusta el ancho de cada carácter. No es del párrafo."
+  ],
+  "revisar": "Los apuntes explican la escala (pág. 29) y el espaciado y las sangrías (págs. 34 y 35), pero no hablan de “nivel”. Que sea una propiedad del párrafo (nivel de esquema) sale del cuadro Párrafo de Word."
+},
+"w-au-11-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sangrías (pág. 34)",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. **Primera línea** es una sangría especial.",
+    "Es verdadera, así que no se marca. La sangría **izquierda** es un tipo de sangría.",
+    "Es verdadera, así que no se marca. **Francesa** es una sangría especial.",
+    "Esta es la falsa, y por eso es la que hay que marcar. **Justificada** es una alineación, no una sangría."
+  ]
+},
+"w-au-11-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4. Área de trabajo y cinta de opciones, Reglas (pág. 10)",
+  "correcta": 0,
+  "justificaciones": [
+    "Esta es la falsa, y por eso es la que hay que marcar. La **alineación** no se modifica desde la regla. Se cambia en Inicio > Párrafo.",
+    "Es verdadera, así que no se marca. La **sangría francesa** se modifica desde la regla.",
+    "Es verdadera, así que no se marca. La **sangría derecha** se modifica desde la regla.",
+    "Es verdadera, así que no se marca. Las **tabulaciones** se colocan y modifican desde la regla."
+  ],
+  "ojo": "Con la regla: márgenes, sangrías y tabulaciones. La alineación se elige en el grupo Párrafo."
+},
+"w-au-12-001": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Tabulaciones, Alineación (pág. 39)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La tabulación de tipo **barra** coloca una línea vertical en la marca de tabulación, y no establece una posición para el texto.",
+    "No. La alineación de la tabulación se elige al crearla: no se pone una tabulación y se le aplica después una alineación de párrafo.",
+    "Es esta. Una tabulación **centrada** deja el texto centrado respecto a la marca de tabulación.",
+    "No. La alineación centrada del párrafo centra el párrafo entre los márgenes, no el texto respecto a la marca de tabulación."
+  ]
+},
+"w-au-12-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Tabulaciones (pág. 39)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Barra** es uno de los 5 tipos de tabulación: coloca una línea vertical en la marca.",
+    "No. “Numerada” no es un tipo de tabulación.",
+    "No. “Centesimal” no es un tipo de tabulación. Los tipos son izquierda, derecha, centrada, decimal y barra.",
+    "No. **Relleno** es otro apartado del cuadro, no un tipo de tabulación."
+  ]
+},
+"w-au-12-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Líneas y saltos de página (pág. 37)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. **Conservar líneas juntas** evita que un solo párrafo se reparta entre dos páginas. No mantiene dos párrafos unidos.",
+    "No. **Control de líneas viudas y huérfanas** vigila las líneas sueltas de un párrafo. No une dos párrafos.",
+    "No. “Conservar juntos” no es una opción del cuadro.",
+    "Es esta. **Conservar con el siguiente** mantiene el párrafo seleccionado y el siguiente en la misma página, evitando que un salto de página automático los separe."
+  ]
+},
+"w-au-12-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Interlineado (pág. 35)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El interlineado **sencillo** toma como referencia el tamaño de la fuente (unos 24 puntos aquí). Es el más pequeño de los cuatro.",
+    "No. El **doble** equivale a dos veces el sencillo (unos 48 puntos aquí). Es grande, pero hay uno mayor.",
+    "No. **Mínimo en 25** fija una distancia mínima de 25 puntos entre líneas. Queda por debajo del múltiple en 2,5.",
+    "Es esta. **Múltiple en 2,5** equivale a dos veces y media el interlineado sencillo (unos 60 puntos aquí). Es el mayor de los cuatro."
+  ],
+  "revisar": "Los apuntes (pág. 35) describen los tipos de interlineado, pero no dan cifras. Las medidas en puntos son una estimación, con el sencillo en torno a 1,2 veces el tamaño de la fuente."
+},
+"w-au-12-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sangrías (pág. 34)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La **encuadernación** es un espacio extra del margen para encuadernar el documento.",
+    "No. El **margen** es el espacio entre los bordes de la página y el área del contenido, y la pregunta habla de una distancia extra entre el margen y el texto.",
+    "Es esta. La **sangría** es el espacio extra entre el párrafo y los márgenes.",
+    "No. El **interlineado** es el espacio entre las líneas de un mismo párrafo."
+  ]
+},
+"w-au-12-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Interlineado (pág. 35)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Con 5 faltaría uno: son sencillo, doble, 1,5 líneas, múltiple, mínimo y exacto.",
+    "Es esta. Hay **6 tipos** de interlineado: sencillo, doble, 1,5 líneas, múltiple, mínimo y exacto.",
+    "No. Con 4 faltarían dos. Los tipos son seis.",
+    "No. Con 7 sobraría uno. Los tipos son seis."
+  ]
+},
+"w-au-12-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sangrías (pág. 34)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. La **francesa** hace lo contrario: desplaza todo el párrafo menos la primera línea.",
+    "No. La sangría **izquierda** desplaza el párrafo entero, incluida la primera línea.",
+    "No. La sangría **derecha** acerca el párrafo al margen derecho. No mueve solo la primera línea.",
+    "Es esta. La sangría especial **primera línea** desplaza únicamente la primera línea. Por defecto, 1,25 cm."
+  ]
+},
+"w-au-12-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Sangrías simétricas (pág. 35)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Las sangrías no se desactivan: cambian de nombre y se aplican de otra forma.",
+    "No. Está al revés: la izquierda pasa a **Interior** y la derecha a **Exterior**.",
+    "No. Los márgenes alternos corresponden a la opción de márgenes simétricos de Configurar página. Las sangrías simétricas son del cuadro Párrafo.",
+    "Es esta. Con **sangrías simétricas**, la sangría izquierda pasa a ser **Interior** (hacia la unión de la encuadernación) y la derecha, **Exterior** (hacia el borde de la hoja)."
+  ]
+},
+"w-au-12-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Interlineado (pág. 35)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El interlineado sencillo existe, pero no es el predeterminado.",
+    "No. El 1,5 líneas existe, pero no es el predeterminado.",
+    "No. El interlineado exacto existe, pero no es el predeterminado.",
+    "Es esta. El interlineado predefinido es **Múltiple en 1,16**."
+  ]
+},
+"w-au-12-010": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Líneas y saltos de página (pág. 38)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. **Conservar con el siguiente** mantiene un párrafo junto al siguiente. No fuerza una página nueva.",
+    "Es esta. **Salto de página anterior** fuerza a que el párrafo seleccionado comience al principio de una nueva página.",
+    "No. **No dividir con guiones** evita que las palabras se corten con guion al final de la línea.",
+    "No. La **línea viuda** es un problema de paginación, no una opción que fuerce una página nueva."
+  ]
+},
+"w-au-12-011": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Líneas y saltos de página (pág. 38)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Conservar líneas juntas** evita que las líneas de un mismo párrafo queden repartidas entre dos páginas.",
+    "No. El **control de líneas viudas y huérfanas** evita líneas sueltas, pero deja que el párrafo se divida entre dos páginas.",
+    "No. **No dividir con guiones** evita cortar palabras al final de la línea. No afecta a las páginas.",
+    "No. El **salto de sección continua** empieza una sección en la misma página. No evita que un párrafo se divida."
+  ]
+},
+"w-au-12-012": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Párrafo, Excepciones de formato (pág. 38)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. No sirve para unir palabras con guiones, sino para lo contrario.",
+    "Es esta. **No dividir con guiones** evita que, en el párrafo seleccionado, las palabras se dividan con guiones al final de la línea.",
+    "No. No añade guiones entre párrafos.",
+    "No. Dividir un párrafo en secciones se hace con los saltos de sección, no con esta casilla."
+  ]
+}
+}

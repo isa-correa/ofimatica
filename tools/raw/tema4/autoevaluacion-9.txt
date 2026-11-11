@@ -1,0 +1,117 @@
+1.
+¿Qué acción realiza la tecla F1 en Word 365?
+
+Obtuvo 0 de 1 punto
+
+Guarda el documento
+Respuesta equivocada
+Tu respuesta
+Abre la ventana "Abrir"
+Abre el panel de Ayuda
+Corregir respuesta
+Muestra los Key Tips
+2.
+¿Qué combinación se utiliza para cortar un elemento seleccionado?
+
+Obtuvo 0 de 1 punto
+
+CTRL + C
+Respuesta equivocada
+Tu respuesta
+CTRL + X
+Corregir respuesta
+CTRL + V
+CTRL + B
+3.
+¿Qué hace CTRL + Z en Word?
+
+Obtuvo 0 de 1 punto
+
+Rehace una acción
+Respuesta equivocada
+Tu respuesta
+Deshace la última acción
+Corregir respuesta
+Elimina una palabra
+Borra el formato
+4.
+¿Cuál de las siguientes teclas abre el panel "Editor"?
+
+Obtuvo 1 de 1 punto
+
+F7
+Corregir respuesta
+Tu respuesta
+F2
+F8
+F5
+5.
+¿Qué función tiene CTRL + P?
+
+Obtuvo 0 de 1 punto
+
+Pegar contenido
+Respuesta equivocada
+Tu respuesta
+Imprimir documento
+Corregir respuesta
+Abrir documento
+Crear nuevo documento
+6.
+El atajo CTRL + C sirve para:
+
+Obtuvo 0 de 1 punto
+
+Cerrar el documento
+Respuesta equivocada
+Tu respuesta
+Cortar el contenido
+Copiar el contenido
+Corregir respuesta
+Insertar una tabla
+7.
+¿Cuál de estos atajos aplica negrita?
+
+Obtuvo 1 de 1 punto
+
+CTRL + N
+Corregir respuesta
+Tu respuesta
+CTRL + K
+CTRL + I
+CTRL + S
+8.
+¿Qué realiza el atajo CTRL + V?
+
+Obtuvo 1 de 1 punto
+
+Pega contenido
+Corregir respuesta
+Tu respuesta
+Elimina el párrafo
+Muestra/Oculta la cinta
+Guarda el documento
+9.
+¿Qué ocurre al pulsar CTRL + A?
+
+Obtuvo 0 de 1 punto
+
+Abre el panel de navegación
+Respuesta equivocada
+Tu respuesta
+Abre la ficha Archivo > Abrir
+Corregir respuesta
+Aplica subrayado
+Activa el autoguardado
+10.
+¿Qué hace el atajo CTRL + F4?
+
+Obtuvo 0 de 1 punto
+
+Cierra Word
+Respuesta equivocada
+Tu respuesta
+Cierra el documento
+Corregir respuesta
+Minimiza la ventana
+Guarda como PDF

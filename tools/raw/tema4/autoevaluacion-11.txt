@@ -1,0 +1,116 @@
+1.
+¿En qué ficha de la cinta de opciones encontramos el grupo "Estilos"?
+
+Obtuvo 0 de 1 punto
+
+Insertar.
+Respuesta equivocada
+Tu respuesta
+Diseño.
+Disposición.
+Inicio.
+Corregir respuesta
+2.
+La primera línea de un párrafo que, por un salto de página queda como última de una página, se denomina:
+
+Obtuvo 1 de 1 punto
+
+Línea huérfana.
+Corregir respuesta
+Tu respuesta
+Línea viuda.
+Primera línea.
+Número de línea.
+3.
+¿Cuántos tipos de tabulaciones hay en Word 365?
+
+Obtuvo 1 de 1 punto
+
+Barra, izquierda, derecha,centro y decimal.
+Corregir respuesta
+Tu respuesta
+Barra, izquierda, derecha, distribuida y decimal.
+Barra, justificada, derecha,centro y decimal.
+Barra, izquierda, derecha, distribuida y principal.
+4.
+¿Cuál de los siguientes NO es un tipo de estilo en Word 365?
+
+Obtuvo 1 de 1 punto
+
+Tabulación.
+Corregir respuesta
+Tu respuesta
+Carácter.
+Lista.
+Párrafo.
+5.
+¿Cuál de los siguientes no es un tipo de interlineado de Word?
+
+Obtuvo 0 de 1 punto
+
+Sencillo.
+Respuesta equivocada
+Tu respuesta
+Múltiple.
+Comprimido.
+Corregir respuesta
+Mínimo.
+6.
+Señala cómo se denomina la última línea de un párrafo que, por insertar un salto de página, queda como primera de una página:
+
+Obtuvo 0 de 1 punto
+
+Línea huérfana.
+Respuesta equivocada
+Tu respuesta
+Línea viuda.
+Corregir respuesta
+Primera línea.
+Salto de línea.
+7.
+¿Cuál de las siguientes NO es una propiedad de un párrafo?
+
+Obtuvo 0 de 1 punto
+
+Espaciado anterior
+Respuesta equivocada
+Tu respuesta
+Nivel
+Sangría especial francesa
+Escala
+Corregir respuesta
+8.
+¿Cuál de las siguientes opciones NO es una sangría?
+
+Obtuvo 0 de 1 punto
+
+Primera línea
+Respuesta equivocada
+Tu respuesta
+Izquierda
+Francesa
+Justificada
+Corregir respuesta
+9.
+Desde la regla podemos modificar (señala la respuesta incorrecta):
+
+Obtuvo 1 de 1 punto
+
+Alineación
+Corregir respuesta
+Tu respuesta
+Sangría Francesa
+Sangría Derecha
+Tabulaciones
+10.
+¿Cuántos niveles como máximo se pueden añadir en una lista multinivel?
+
+Obtuvo 0 de 1 punto
+
+5
+Respuesta equivocada
+Tu respuesta
+16
+9
+Corregir respuesta
+10

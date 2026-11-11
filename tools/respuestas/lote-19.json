@@ -1,0 +1,283 @@
+{
+"w-au-15-003": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Formato de imagen (pág. 56)",
+  "correcta": 2,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. **Quitar fondo** elimina un área específica de la imagen y es de Formato de imagen.",
+    "Es verdadera, así que no se marca. Las **correcciones** de brillo, contraste y nitidez son de Formato de imagen.",
+    "Esta es la falsa, y por eso es la que hay que marcar. **Diseño de gráfico** es una ficha auxiliar de los gráficos, no de las imágenes.",
+    "Es verdadera, así que no se marca. **Recortar** (recorte de imagen) es de Formato de imagen."
+  ]
+},
+"w-au-15-004": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Iconos (pág. 57)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **Formato de imagen** se activa al insertar o seleccionar una imagen.",
+    "No. **Formato de forma** se activa al insertar una forma.",
+    "Es esta. Al insertar un icono se activa la ficha auxiliar **Formato de gráficos**.",
+    "No. **Diseño de gráfico** se activa al insertar un gráfico de datos."
+  ]
+},
+"w-au-15-005": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Formas (pág. 57)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. Sí permite agregar texto a la forma, además de cambiarla y editar su diseño.",
+    "Es esta. La ficha **Formato de forma** permite cambiar la forma, agregar texto, insertar una viñeta o numeración, y editar su diseño (color, contorno, tamaño...).",
+    "No. La ficha Formato de imagen es de las imágenes, no de las formas.",
+    "No. Las formas se modifican desde la ficha auxiliar Formato de forma, y no hay un cuadro llamado “Insertar formas” que sea el único medio."
+  ]
+},
+"w-au-15-006": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Captura de pantalla (pág. 56)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Captura de pantalla** permite insertar una captura de una de las ventanas disponibles, o un recorte de la parte de pantalla que elijas.",
+    "No. Los **iconos** son dibujos de una galería organizada por categorías.",
+    "No. Los **modelos 3D** son objetos tridimensionales que se pueden girar y mover.",
+    "No. Las **formas** son figuras prediseñadas, como rectángulos o flechas."
+  ]
+},
+"w-au-15-007": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, Gráficos (págs. 57 y 58)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. El panel de texto lateral es del **SmartArt**, no del gráfico de datos. Los datos del gráfico se editan en una hoja de cálculo.",
+    "Es esta. Al insertar un **gráfico**, Word permite introducir o modificar los datos mediante una hoja de cálculo asociada, y se habilitan las fichas **Diseño de gráfico** y **Formato**.",
+    "No. Los datos se editan en la hoja de cálculo asociada, no en la ficha Formato.",
+    "No. Un gráfico no se convierte en SmartArt: son herramientas distintas, y los apuntes avisan de que no hay que confundirlos."
+  ]
+},
+"w-au-15-008": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, SmartArt (págs. 58 y 59)",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. El SmartArt se organiza en categorías según el tipo de información que se quiere representar.",
+    "Es verdadera, así que no se marca. Se puede escribir directamente el texto dentro de las formas.",
+    "Es verdadera, así que no se marca. El panel de texto lateral modifica el contenido y se actualiza automáticamente en las formas.",
+    "Esta es la falsa, y por eso es la que hay que marcar. El contenido del SmartArt se escribe en las formas o en su panel de texto. La hoja de cálculo es propia de los **gráficos** de datos."
+  ]
+},
+"w-au-15-009": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, SmartArt (pág. 58)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. **Diseño de gráfico y Formato** son las fichas de un gráfico de datos, no de un SmartArt.",
+    "Es esta. Al insertar un SmartArt se activan las fichas auxiliares **Diseño de SmartArt** y **Formato**.",
+    "No. **Diseño de tabla y Disposición de tabla** son las fichas de una tabla.",
+    "No. **Formato de gráficos** es la de los iconos y **Formato de imagen** la de las imágenes."
+  ]
+},
+"w-au-15-010": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Vínculos, Vínculo (pág. 60)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Sí permiten enlazar ubicaciones del propio documento.",
+    "No. No se limitan a documentos que ya existen: también pueden ser una web, un documento nuevo o un correo.",
+    "Es esta. Un vínculo puede enlazar a un archivo del equipo, una web, un documento nuevo, un lugar del propio documento o una dirección de correo.",
+    "No. También pueden enlazar contenido interno, como un marcador."
+  ],
+  "revisar": "En los apuntes (pág. 60) la lista del vínculo incluye archivo, web, documento nuevo y correo. Que también pueda enlazar un lugar del propio documento sale de la pág. 61 (vínculo a marcadores)."
+},
+"w-au-16-001": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, SmartArt (pág. 58)",
+  "correcta": 0,
+  "justificaciones": [
+    "Esta es la falsa, y por eso es la que hay que marcar. **Radial** no es una categoría de SmartArt, sino un diseño concreto dentro de otras categorías.",
+    "Es verdadera, así que no se marca. **Lista** es una categoría de SmartArt.",
+    "Es verdadera, así que no se marca. **Proceso** es una categoría de SmartArt.",
+    "Es verdadera, así que no se marca. **Ciclo** es una categoría de SmartArt."
+  ],
+  "revisar": "Los apuntes (pág. 58) dicen que el SmartArt se organiza en categorías, pero no las nombran. Que Radial sea un diseño y no una categoría sale de la interfaz de Word."
+},
+"w-au-16-002": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones (pág. 56)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Referencias tiene tabla de contenido, notas, citas e índices.",
+    "No. Diseño tiene temas, marca de agua, color y bordes de página.",
+    "Es esta. El grupo **Ilustraciones** está en la ficha **Insertar**.",
+    "No. Vista tiene vistas, reglas, zoom y ventanas."
+  ]
+},
+"w-au-16-003": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Ilustraciones, SmartArt (pág. 58)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El grupo Complementos tiene los complementos de Office.",
+    "No. Insertar es la ficha, no el grupo. La pregunta pide el grupo.",
+    "No. El grupo Vínculos tiene Vínculo, Marcador y Referencia cruzada.",
+    "Es esta. **SmartArt** está en el grupo **Ilustraciones**, junto a imágenes, formas, iconos, modelos 3D y gráficos."
+  ]
+},
+"w-au-16-004": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Vínculos, Referencia cruzada (pág. 61)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El grupo Ilustraciones tiene imágenes, formas, iconos, modelos 3D y gráficos.",
+    "No. El grupo Complementos tiene los complementos de Office.",
+    "No. El grupo Multimedia es el de vídeo en línea, no el de las referencias.",
+    "Es esta. La **referencia cruzada** está en el grupo **Vínculos**, junto a Vínculo y Marcador."
+  ],
+  "revisar": "El grupo Multimedia (vídeo en línea) no aparece en los apuntes. Se descarta porque los apuntes (pág. 61) sitúan la referencia cruzada en Vínculos."
+},
+"w-au-16-005": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Texto, Elementos rápidos (pág. 63)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Elementos rápidos** está en el grupo **Texto**, junto a Cuadro de texto, WordArt, Letra capital, Línea de firma y Fecha y hora.",
+    "No. El grupo Símbolos tiene Ecuación y Símbolo.",
+    "No. El grupo Encabezado y pie de página tiene encabezado, pie y número de página, aunque dentro se pueden insertar elementos rápidos.",
+    "No. El grupo Comentarios tiene el comando Comentario."
+  ]
+},
+"w-au-16-006": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Símbolos, Ecuación (pág. 65)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. Referencias tiene tabla de contenido, notas, citas e índices.",
+    "No. Disposición trata de la página: márgenes, columnas, saltos.",
+    "Es esta. **Ecuación** está en **Insertar**, en el grupo Símbolos.",
+    "No. Inicio tiene portapapeles, fuente, párrafo, estilos y edición."
+  ]
+},
+"w-au-16-007": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Encabezado y pie de página (pág. 62)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Vista cambia cómo ves el documento. No configura encabezados.",
+    "No. Diseño trata de temas, marca de agua, color y bordes.",
+    "No. Referencias trata de tabla de contenido, notas, citas e índices.",
+    "Es esta. El **encabezado** se inserta desde **Insertar > Encabezado y pie de página**. También se edita con doble clic en la zona del encabezado."
+  ]
+},
+"w-au-16-008": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Texto, Elementos rápidos, Autotexto (pág. 64)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El grupo Complementos tiene los complementos de Office. No tiene Autotexto.",
+    "No. El grupo Ilustraciones tiene imágenes, formas, iconos y gráficos. No tiene Autotexto.",
+    "No. El grupo Comentarios tiene el comando Comentario, no los Elementos rápidos.",
+    "Es esta. **Insertar > Texto > Elementos rápidos > Autotexto**."
+  ]
+},
+"w-au-16-009": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Símbolos, Símbolo (pág. 65)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La ficha Diseño no tiene un grupo Texto.",
+    "No. El grupo Ilustraciones tiene imágenes, formas, iconos y gráficos, no símbolos.",
+    "Es esta. Los símbolos especiales que no están en el teclado, como la marca registrada, se insertan desde **Insertar > Símbolos > Símbolo**.",
+    "No. La ficha Referencias no tiene un grupo Símbolos."
+  ]
+},
+"w-au-16-010": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Encabezado y pie de página (pág. 62)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. La nota al pie va al final de la página donde está la referencia, no al comienzo de todas las páginas.",
+    "No. El autoformato aplica formatos automáticos al escribir. No repite el autor en cada página.",
+    "Es esta. El encabezado es el área que repite información en todas las páginas, y puede incluir el **autor**. Se inserta con la información del documento.",
+    "No. Un estilo de título da formato a los títulos, no repite el autor en cada página."
+  ]
+},
+"w-au-17-001": {
+  "bloque": "word-correspondencia",
+  "precepto": "Tema 4 · 4.7 Ficha Correspondencia, Escribir e insertar campos (pág. 86)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Vista cambia cómo se ve el documento. No tiene comandos de combinación de correspondencia.",
+    "No. Inicio tiene portapapeles, fuente, párrafo y estilos.",
+    "No. Referencias trata de tabla de contenido, notas, citas e índices.",
+    "Es esta. **Resaltar campos de combinación** está en la ficha **Correspondencia**, en el grupo de escribir e insertar campos."
+  ],
+  "revisar": "Los apuntes (pág. 86) citan Bloque de direcciones, Línea de saludo y Campo combinado, pero no Resaltar campos de combinación. Que esté en Correspondencia sale de la interfaz de Word."
+},
+"w-au-17-002": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8 Ficha Revisar, grupo Revisión (pág. 88)",
+  "correcta": 0,
+  "justificaciones": [
+    "Es esta. **Contar palabras** está en el grupo **Revisión**, junto a ortografía y gramática, y sinónimos.",
+    "No. El grupo Comentarios tiene los comandos de comentarios.",
+    "No. El grupo Seguimiento tiene el control de cambios.",
+    "No. El grupo Idioma trata del idioma y la traducción."
+  ]
+},
+"w-au-17-003": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · Opciones de Word, categoría Revisión (pág. 6)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. Guardar trata de la autorrecuperación, el formato predeterminado y las ubicaciones de guardado.",
+    "No. General trae ajustes básicos de la interfaz.",
+    "No. Presentación trata de cómo se muestra y se imprime el documento.",
+    "Es esta. La categoría **Revisión** recoge las opciones de corrección de ortografía y gramática, además de la autocorrección y el autoformato."
+  ]
+},
+"w-au-17-004": {
+  "bloque": "word-insertar",
+  "precepto": "Tema 4 · 4.3 Ficha Insertar, grupo Tablas, Propiedades de tabla (págs. 53 y 54)",
+  "correcta": 3,
+  "justificaciones": [
+    "Es verdadera, así que no se marca. La tabla se puede ajustar al centro.",
+    "Es verdadera, así que no se marca. La tabla se puede alinear a la derecha.",
+    "Es verdadera, así que no se marca. La tabla se puede ajustar a la izquierda.",
+    "Esta es la falsa, y por eso es la que hay que marcar. **Justificada** es una alineación de texto de los párrafos. La tabla se alinea a izquierda, centro o derecha."
+  ],
+  "revisar": "Contrastado en internet: en Propiedades de tabla, pestaña Tabla, la alineación es izquierda, centro o derecha. En los apuntes (págs. 53 y 54) esa ficha solo aparece como imagen."
+},
+"w-au-17-005": {
+  "bloque": "word-disposicion",
+  "precepto": "Tema 4 · 4.5 Ficha Disposición, grupo Organizar, Ajustar texto (pág. 78)",
+  "correcta": 2,
+  "justificaciones": [
+    "No. **Delante del texto** muestra el objeto sobre el texto, sin integrarlo en el párrafo.",
+    "No. **Arriba y abajo** coloca el texto arriba y abajo del objeto, sin texto en los lados.",
+    "Es esta. **En línea con el texto** coloca el objeto en el párrafo, igual que una línea de texto: se comporta como un carácter y se mueve con el párrafo.",
+    "No. **Estrecho** hace que el texto rodee el objeto, que no está en línea con el párrafo."
+  ]
+},
+"w-au-17-006": {
+  "bloque": "word-revisar",
+  "precepto": "Tema 4 · 4.8 Ficha Revisar, grupo Revisión, Editor (pág. 90)",
+  "correcta": 3,
+  "justificaciones": [
+    "No. El púrpura discontinuo no es el subrayado de los errores gramaticales.",
+    "No. El verde subrayado no es el subrayado de los errores gramaticales.",
+    "No. El rojo ondulado señala los errores **ortográficos**.",
+    "Es esta. Los errores gramaticales se marcan con un **subrayado doble azul**, y los ortográficos con un subrayado rojo ondulado."
+  ]
+},
+"w-au-17-007": {
+  "bloque": "word-diseno",
+  "precepto": "Tema 4 · 4.4 Ficha Diseño, grupo Fondo de página, Marca de agua (pág. 68)",
+  "correcta": 1,
+  "justificaciones": [
+    "No. La marca de agua personalizada no impide usar bordes de página. Son herramientas independientes.",
+    "Es esta. Se puede crear una marca de agua a partir de una selección **añadiéndola a la galería de marcas de agua**, y así se reutiliza.",
+    "No. Una marca de agua no se guarda como encabezado: va en el grupo Fondo de página de la ficha Diseño.",
+    "No. Una vez en la galería, se puede usar cuantas veces se quiera."
+  ],
+  "revisar": "Los apuntes (pág. 68) solo dicen que se añade a la galería. Que no impide usar bordes de página, o que se pueda reutilizar, sale del uso normal de Word."
+}
+}

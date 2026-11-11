@@ -1,0 +1,294 @@
+{
+ "w-vo-02-002": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Comprobar si hay problemas (págs. 13 y 14)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. **Restringir edición** no está en Comprobar si hay problemas: es una opción de **Proteger documento**, otro botón de la misma pantalla Información.",
+   "Es verdadera, así que no se marca. **Inspeccionar documento** busca propiedades, datos personales y otra información oculta del archivo.",
+   "Es verdadera, así que no se marca. **Comprobar accesibilidad** detecta problemas que dificulten el acceso a personas con discapacidad y ofrece recomendaciones.",
+   "Es verdadera, así que no se marca. **Comprobar compatibilidad** identifica características que pueden fallar en versiones anteriores de Word."
+  ],
+  "ojo": "Comprobar si hay problemas tiene tres: inspeccionar, accesibilidad y compatibilidad. Proteger documento es otro botón distinto."
+ },
+ "w-vo-02-003": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. **.doc** es el documento de Word 97-2003, el formato antiguo, y no lleva macros.",
+   "No. **.dotm** es una plantilla con macros, no un documento. Se parece a .docm, pero la t de “dot” marca que es plantilla.",
+   "Es esta. **.docm** es el documento de Word habilitado para macros. Piensa en doc + m de macros.",
+   "No. **.domx** no existe como extensión de Word. El documento normal es .docx."
+  ],
+  "ojo": "Documento: doc, docx, docm. Plantilla: dot, dotx, dotm. La m final siempre significa macros."
+ },
+ "w-vo-02-004": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, formatos de archivo compatibles (pág. 15)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un documento binario de Word 97-2003 es **.doc**, no .dotm.",
+   "No. Esa descripción es la de un documento con macros (.docm), y .dotm no es un documento sino una plantilla. Además, las macros de Word no son código PHP.",
+   "Es esta. **.dotm** es una plantilla de Word habilitada con macros, para crear nuevos archivos que contengan macros.",
+   "No. La plantilla de Word que no contiene macros es **.dotx**. La m de .dotm indica justo lo contrario: macros."
+  ]
+ },
+ "w-vo-02-005": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, tamaño del papel (pág. 17)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. A5 es el más pequeño de todos los tamaños de la lista de los apuntes.",
+   "No. Carta es más pequeño que Oficio. En la lista de menor a mayor va antes: A5, Ejecutivo, Carta, A4, Oficio.",
+   "No. Ejecutivo es de los pequeños, solo por encima de A5.",
+   "Es esta. Los apuntes ordenan los tamaños de menor a mayor así: A5, Ejecutivo, Carta, A4, **Oficio**, Tabloide, A3. De las cuatro opciones, Oficio es el más grande."
+  ],
+  "ojo": "Orden de menor a mayor: A5, Ejecutivo, Carta, A4, Oficio, Tabloide, A3."
+ },
+ "w-vo-02-006": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, impresión personalizada (pág. 16)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. “5-7” pide las **páginas** 5 a 7, no las secciones. Para secciones hace falta la letra s.",
+   "No. “5,7” pide solo las páginas 5 y 7, separadas por coma. No son secciones, y tampoco es un rango.",
+   "No. “s5,s7” pide la sección 5 y la sección 7 por separado, pero se saltaría la 6. La coma separa elementos sueltos.",
+   "Es esta. Una sección se indica con **s** y su número, y un rango se indica con un guion. Por eso, de la sección 5 a la 7 es **s5-s7**."
+  ],
+  "ojo": "Coma para elementos sueltos (1, 5, 7), guion para rangos (4-10) y s delante del número para secciones (s3)."
+ },
+ "w-vo-02-007": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir, listados del documento (pág. 16)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí es posible: es una de las opciones de la lista de lo que se puede imprimir, junto a Información del documento, Lista de revisiones o Entradas de texto automático.",
+   "No. Con Estilos elegido no se imprime el documento y después la lista. Se imprime solo el listado.",
+   "No. Word no marca cada párrafo con su estilo. La opción Estilos imprime un documento aparte con los estilos aplicados.",
+   "Es esta. Cuando eliges **Estilos** en lugar de “Imprimir todas las páginas”, Word imprime únicamente un documento que indica los estilos aplicados. El resto de la configuración (una cara, intercaladas, vertical) solo afecta a cómo sale."
+  ]
+ },
+ "w-vo-02-008": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Imprimir (págs. 15 y 16)",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es una configuración normal: todas las páginas, a una cara, intercaladas y en vertical.",
+   "Es verdadera, así que no se marca. “Entradas de texto automático” es uno de los listados que Word puede imprimir en lugar del documento.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Con **Sin intercalar** las copias salen agrupadas por página (1;1;1, 2;2;2, 3;3;3). La secuencia 1;2;3, 1;2;3, 1;2;3 corresponde a **Intercaladas**, así que la configuración se contradice.",
+   "Es verdadera, así que no se marca. “Imprimir selección” imprime solo el contenido que has seleccionado, y las demás opciones son válidas."
+  ],
+  "ojo": "Intercaladas: sale el documento completo una vez y otra vez (1;2;3, 1;2;3). Sin intercalar: salen todas las copias de cada página seguidas (1;1;1, 2;2;2).",
+  "revisar": "Los apuntes (pág. 16) solo dicen que intercalar o no afecta al orden de las páginas con varias copias. La notación 1;2;3 frente a 1;1;1 sale del propio cuadro de impresión de Word, no de los apuntes."
+ },
+ "w-vo-02-009": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Compartir si el documento NO está en OneDrive (pág. 18)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí lo ofrece: **Cargar en OneDrive** para compartirlo más fácilmente es la primera opción.",
+   "Es esta. **Enviar vínculo** solo está si el documento ya está en OneDrive. Un archivo local no tiene vínculo que enviar hasta que lo subas.",
+   "No. Sí lo ofrece: adjuntar una copia en formato **.docx** por correo electrónico.",
+   "No. Sí lo ofrece: adjuntar una copia en formato **.pdf** por correo electrónico."
+  ],
+  "ojo": "Archivo local: cargar en OneDrive, adjuntar docx o adjuntar pdf. Los vínculos y permisos son para OneDrive."
+ },
+ "w-vo-02-010": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Compartir, permisos del vínculo (págs. 19 y 20)",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se puede limitar con quién compartes: cualquier persona (sin iniciar sesión) o una lista limitada de personas (con inicio de sesión).",
+   "Es verdadera, así que no se marca. Se configura si los usuarios pueden editar el documento o solo verlo.",
+   "Es verdadera, así que no se marca. Se puede establecer una fecha de expiración, pasada la cual el vínculo deja de funcionar.",
+   "Esta es la falsa, y por eso es la que hay que marcar. **Archivo > Exportar** sirve para crear una copia del documento en otro formato, como PDF o XPS. No gestiona permisos ni bloquea usuarios."
+  ],
+  "ojo": "Los permisos del vínculo son: con quién, editar o ver, fecha de expiración y contraseña. Bloquear usuarios no es uno de ellos."
+ },
+ "w-vo-03-001": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1 Ficha Archivo, Información, Historial de versiones (págs. 14 y 23)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El historial de versiones no está disponible para cualquier documento: solo si el archivo está almacenado en OneDrive.",
+   "Es esta. El **Historial de versiones** permite consultar y restaurar versiones anteriores del documento, y está disponible cuando el archivo se encuentra almacenado en **OneDrive**.",
+   "No. Los apuntes lo sitúan en Archivo > Información, no en Archivo > Opciones > Guardar. En Opciones > Guardar se configura la autorrecuperación.",
+   "No. No hace una copia independiente cada vez que cierras Word. Guarda versiones del mismo archivo, de las que puedes recuperar las últimas 25 si usas una cuenta personal."
+  ]
+ },
+ "w-vo-03-002": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1.1 Autoguardado (pág. 21)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Solo está activado de forma predeterminada si el archivo está en OneDrive. En el almacenamiento local aparece desactivado.",
+   "No. No hace falta ir a Opciones: se activa o desactiva con el selector de la barra de herramientas de acceso rápido.",
+   "Es esta. El **Autoguardado** viene activado por defecto si el documento está en **OneDrive**, y se activa o desactiva con el **selector de la barra de acceso rápido**.",
+   "No. Cuando está activado guarda los cambios automáticamente cada pocos segundos mientras trabajas, no solo al cerrar."
+  ]
+ },
+ "w-vo-03-003": {
+  "bloque": "word-archivo",
+  "precepto": "Tema 4 · 4.1.2 Guardar una copia (pág. 22)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Con Autoguardado activado en OneDrive, “Guardar” y “Guardar como” dejan de estar. No se mantienen.",
+   "No. No permanece ninguna de las dos: tanto “Guardar” como “Guardar como” desaparecen.",
+   "Es esta. Con el documento en OneDrive y el Autoguardado activado, **desaparecen “Guardar” y “Guardar como”** y las sustituye **“Guardar una copia”**. Ahí eliges ubicación, nombre y extensión.",
+   "No. Es al revés: “Guardar una copia” aparece justo cuando el Autoguardado está activado, no cuando está desactivado."
+  ]
+ },
+ "w-vo-03-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles, opciones de pegado (pág. 24)",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. **Mantener formato de origen** es una opción de pegado, la predeterminada: conserva el formato de donde copiaste.",
+   "Esta es la falsa, y por eso es la que hay que marcar. No existe “mantener formato de destino”. La opción que adopta el formato de destino se llama **Conservar sólo el texto**.",
+   "Es verdadera, así que no se marca. **Combinar formato** adapta lo pegado al formato que lo rodea, conservando algunos estilos del origen.",
+   "Es verdadera, así que no se marca. **Pegar como imagen** pega el contenido como una imagen, sea texto o gráfico."
+  ],
+  "ojo": "Las opciones son cuatro: mantener formato de origen, combinar formato, pegar como imagen y conservar solo el texto."
+ },
+ "w-vo-03-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Portapapeles (pág. 25)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. 12 se queda corto. El panel del portapapeles guarda más.",
+   "Es esta. El panel del **Portapapeles** (se abre con el llamador de grupo) almacena como máximo **24 elementos**.",
+   "No. 10 es un número que se ha inventado: el máximo es 24.",
+   "No. 255 es muchísimo más de lo que guarda. El máximo es 24."
+  ]
+ },
+ "w-vo-03-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente (pág. 26)",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. El tamaño por defecto es **12 puntos**, no 11.",
+   "Es verdadera, así que no se marca. El tipo de fuente por defecto es **Aptos (cuerpo)**.",
+   "Es verdadera, así que no se marca. El rango de tamaños de fuente va de **1 a 1638 puntos**. La lista desplegable solo ofrece de 8 a 72.",
+   "Es verdadera, así que no se marca. Los botones de aumentar y disminuir tamaño de la fuente están en el grupo Fuente de la cinta, y usan los tamaños predefinidos."
+  ],
+  "ojo": "Aptos 12 por defecto. Lista desplegable: de 8 a 72. Rango real: de 1 a 1638."
+ },
+ "w-vo-03-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, Subrayado (pág. 26)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La ficha Diseño trata de temas, colores y fondo de página, no de formato de la fuente.",
+   "No. La ficha Vista cambia cómo ves el documento (vistas, zoom, regla), no el formato del texto.",
+   "No. Insertar sirve para añadir objetos (tablas, imágenes, símbolos). El formato de la fuente no está ahí.",
+   "Es esta. En **Inicio > Fuente**, al desplegar el botón **Subrayado** aparecen otros diseños de subrayado. El predeterminado es la línea simple."
+  ],
+  "ojo": "Hay 17 estilos de subrayado en el cuadro Fuente. Por defecto no se aplica ninguno."
+ },
+ "w-vo-03-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Fuente, estilos y efectos (págs. 26 a 28)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Negrita y cursiva no son efectos, son **estilos** de fuente. Con superíndice y versalitas no basta.",
+   "No. Cursiva y subrayado son estilos de fuente, no efectos. Solo tachado y superíndice lo son.",
+   "Es esta. **Versalitas, subíndice, tachado y mayúsculas** son efectos de fuente. Subíndice y tachado salen en la cinta, y versalitas y mayúsculas, en el cuadro Fuente.",
+   "No. Negrita y subrayado son estilos de fuente. Superíndice y versalitas sí son efectos, pero la lista no vale entera."
+  ],
+  "ojo": "Estilos: negrita, cursiva y subrayado. Efectos: tachado, subíndice, superíndice, versalitas, mayúsculas, oculto."
+ },
+ "w-vo-03-009": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestaña Avanzado (pág. 29)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. **Posición** afecta a la altura del texto respecto a la línea de escritura: elevada o bajada. No cambia la anchura.",
+   "Es esta. **Escala** ajusta el ancho de cada carácter, en tantos por ciento (por defecto el 100%). Menos del 100% estrecha las letras, y más del 100% las ensancha.",
+   "No. **Interletraje** ajusta automáticamente el espacio entre determinados pares de letras, como AV, para mejorar su aspecto. No cambia la anchura de cada letra.",
+   "No. **Espaciado** cambia la separación entre caracteres (normal, expandido o comprimido), pero la letra en sí mantiene su anchura."
+  ],
+  "ojo": "Escala = ancho de la letra. Espaciado = separación entre letras. Posición = altura. Interletraje = ajuste entre pares como AV."
+ },
+ "w-vo-04-002": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, cuadro Fuente, pestañas Fuente y Avanzado (págs. 27 a 29)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las letras separadas indican **espaciado expandido** (pestaña Avanzado del cuadro Fuente), y el texto va inclinado, es decir, **cursiva**.",
+   "No. El superíndice sitúa el texto por encima de la línea de escritura y reduce su tamaño. Aquí la separación entre letras es lo que se nota, no su altura.",
+   "No. El doble tachado traza dos líneas sobre el texto. Aunque el espaciado sí es extendido, el texto no lleva doble tachado.",
+   "No. El espaciado comprimido junta las letras, y aquí están separadas: es justo el efecto contrario."
+  ],
+  "ojo": "Letras separadas = espaciado expandido. Letras pegadas = comprimido.",
+  "revisar": "El enunciado depende de cómo se ve el texto (la cursiva no se aprecia al copiarlo). El espaciado extendido se deduce de las letras separadas; la cursiva se da por buena porque es la respuesta de la plantilla."
+ },
+ "w-vo-04-003": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Lista multinivel (pág. 30)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Eso describe las **viñetas**: listas no ordenadas con un símbolo gráfico en cada elemento.",
+   "No. Eso describe la **numeración**: lista ordenada con números o letras, pero sin jerarquía entre los elementos.",
+   "Es esta. Una **lista multinivel** organiza los elementos en niveles jerárquicos, de modo que unos dependen de otros. Cada nivel puede tener su propio formato de numeración, sangría y alineación.",
+   "No. Word admite hasta **9 niveles**, no tres. Y cada nivel puede tener su propio formato."
+  ]
+ },
+ "w-vo-04-004": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, viñetas, numeración y listas (pág. 30)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El formato condicional es una herramienta de Excel que colorea celdas según su valor. No existe para listas en Word.",
+   "No. No hay ninguna opción llamada “Diseño de lista automática” en el grupo Párrafo.",
+   "No. Los estilos rápidos están en el grupo Estilos y aplican estilos al texto. No personalizan listas.",
+   "Es esta. Al desplegar viñetas, numeración o lista multinivel puedes elegir diseños predefinidos o personalizarlos con **Definir nueva…**."
+  ]
+ },
+ "w-vo-04-005": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Alineación (pág. 32)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El texto **justificado** se reparte entre ambos márgenes, ajustando el espacio entre palabras para que las líneas queden rectas a izquierda y derecha, salvo la última línea.",
+   "No. El texto alineado a la derecha es el de **alineación derecha**: línea recta por la derecha y borde izquierdo irregular.",
+   "No. Alineado a la izquierda es la alineación por defecto: recto por la izquierda e irregular por la derecha.",
+   "No. Centrado es la alineación **centrada**: las líneas quedan centradas entre ambos márgenes."
+  ]
+ },
+ "w-vo-04-006": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Alineación (págs. 31 y 32)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La justificada sí aparece, tanto en la cinta como en el cuadro Párrafo.",
+   "No. La centrada sí aparece, tanto en la cinta como en el cuadro Párrafo.",
+   "Es esta. Tanto el cuadro Párrafo como la cinta muestran **4 alineaciones**: izquierda, centrada, derecha y justificada. La **distribuida** existe, pero solo se aplica con el atajo **Ctrl + May + J**.",
+   "No. La izquierda sí aparece, y es la alineación por defecto."
+  ],
+  "ojo": "En la cinta y en el cuadro Párrafo solo hay cuatro alineaciones. La distribuida se aplica con Ctrl + May + J."
+ },
+ "w-vo-04-007": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Alineación (págs. 31 y 2)",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La alineación a la derecha hay que aplicarla; no viene por defecto.",
+   "No. El texto centrado hay que aplicarlo; no es la alineación por defecto.",
+   "No. La justificada hay que aplicarla. Por defecto el borde derecho del texto queda irregular.",
+   "Es esta. La alineación por defecto es la **izquierda**: las líneas quedan rectas por la izquierda y el borde derecho irregular. Así viene en la plantilla Normal.dotm."
+  ]
+ },
+ "w-vo-04-008": {
+  "bloque": "word-inicio",
+  "precepto": "Tema 4 · 4.2 Ficha Inicio, grupo Párrafo, Sangrías (pág. 34)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Hay 4 tipos de sangría: **izquierda**, **derecha**, especial **primera línea** y especial **francesa**.",
+   "No. “Barra” no es un tipo de sangría. Los cuatro son izquierda, derecha, primera línea y francesa.",
+   "No. “Centrada” es una alineación, no una sangría. Falta además la primera línea y la francesa.",
+   "No. “Centrada” es una alineación, no una sangría. Los tipos de sangría son izquierda, derecha, primera línea y francesa."
+  ],
+  "ojo": "Centrada es alineación, no sangría."
+ }
+}

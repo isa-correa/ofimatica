@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-ex-04-012",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 12,
+   "enunciado": "Si queremos seleccionar todo el contenido de un documento de Word utilizando el teclado, ¿qué combinación debemos emplear en la versión en español?",
+   "opciones": [
+    "Ctrl + U.",
+    "Ctrl + L.",
+    "Ctrl + B.",
+    "Ctrl + E."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-04-013",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 13,
+   "enunciado": "Queremos justificar un párrafo de Word 365. ¿Cuál de las siguientes formas de hacerlo es INCORRECTA?",
+   "opciones": [
+    "Situarse en el párrafo y utilizar Ctrl + J.",
+    "Seleccionar el párrafo y buscar Alineación justificada en Disposición > grupo Párrafo.",
+    "Situarse en el párrafo y utilizar Alineación justificada desde Inicio > Párrafo.",
+    "Abrir el cuadro \"Párrafo\" y elegir Justificada en la pestaña \"Sangría y espacio\"."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-014",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 14,
+   "enunciado": "¿Cuál de estas opciones se encuentra en el cuadro \"Párrafo\" de Word 365?",
+   "opciones": [
+    "Tachado.",
+    "Margen superior.",
+    "Línea entre columnas.",
+    "Interlineado."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-04-015",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 15,
+   "enunciado": "¿Dónde se encuentra la herramienta para aplicar color de resaltado al texto seleccionado?",
+   "opciones": [
+    "Archivo > Información > Documento.",
+    "Inicio > grupo Fuente > Color de resaltado de texto.",
+    "Inicio > grupo Párrafo > Resaltado.",
+    "Diseño > grupo Párrafo > Resaltado."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-016",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 16,
+   "enunciado": "¿Cuál de estos atributos corresponde exclusivamente al formato de fuente en Word 365?",
+   "opciones": [
+    "Interlineado.",
+    "Posición.",
+    "Nivel de esquema.",
+    "Número de línea."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-017",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 17,
+   "enunciado": "¿Dónde se encuentra la opción que permite modificar la posición de los caracteres respecto de la línea base en Word 365?",
+   "opciones": [
+    "Inicio > grupo Fuente > comando Posición visible directamente en la cinta.",
+    "Inicio > cuadro de diálogo Fuente > pestaña Avanzado > Posición.",
+    "Disposición > grupo Párrafo > Posición.",
+    "Cuadro de diálogo Párrafo > Líneas y saltos de página > Posición."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-04-018",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 18,
+   "enunciado": "Dentro de Opciones de Word, ¿en qué apartado se localiza la sección «Personalizar la copia de Office»?",
+   "opciones": [
+    "General.",
+    "Avanzadas.",
+    "Revisión.",
+    "Presentación."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-04-019",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 19,
+   "enunciado": "Tenemos varios párrafos que deseamos ordenar alfabética o numéricamente. ¿Dónde se encuentra el comando correspondiente en Word 365?",
+   "opciones": [
+    "Inicio > grupo Párrafo > Ordenar.",
+    "Referencias > grupo Párrafo > Ordenar.",
+    "Inicio > grupo Fuente > Ordenar.",
+    "Disposición > grupo Organizar > Ordenar."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-04-020",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 4",
+   "n": 20,
+   "enunciado": "En Word 365, ¿qué combinación abre el panel de sinónimos?",
+   "opciones": [
+    "Ctrl + L.",
+    "Mayús + F7.",
+    "Ctrl + F2.",
+    "Mayús + S."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-05-001",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 1,
+   "enunciado": "En relación con las posibilidades de uso compartido disponibles en Word 365 desde la ficha Archivo, ¿cuál de las siguientes alternativas NO forma parte de las opciones ofrecidas por el programa?",
+   "opciones": [
+    "Enviar una copia del documento en formato Word.",
+    "Enviar una copia del documento en formato PDF.",
+    "Cargar el documento en OneDrive.",
+    "Crear un recurso compartido en red."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-05-002",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 2,
+   "enunciado": "Dentro del conjunto de Efectos de texto y tipografía de Word 365, indique cuál de las siguientes opciones corresponde a un efecto aplicable a la fuente.",
+   "opciones": [
+    "Resaltado.",
+    "Iluminado.",
+    "Posición.",
+    "Tabulación."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-05-003",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 3,
+   "enunciado": "Al configurar los márgenes de un documento mediante las opciones predefinidas de Word 365, ¿cuál de las siguientes listas recoge estas configuraciones de márgenes disponibles?",
+   "opciones": [
+    "Normal, Estrecho, Moderado, Ancho y Reflejado.",
+    "Normal, Moderado, Doble, Espaciado y Reflejado.",
+    "Normal, Espaciado, Moderado, Anterior y Reflejado.",
+    "Normal, Estrecho, Moderado, Alto y Doble."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-05-005",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 5,
+   "enunciado": "Si en Word 365 necesitamos aplicar un interlineado de 1,5 líneas mediante teclado, ¿qué combinación de teclas debemos utilizar?",
+   "opciones": [
+    "CTRL + I.",
+    "CTRL + 5.",
+    "CTRL + D.",
+    "CTRL + L."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-05-006",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 6,
+   "enunciado": "Dentro de las opciones avanzadas de configuración de fuente, ¿qué atributo permite modificar la separación existente entre caracteres de un texto seleccionado?",
+   "opciones": [
+    "Interlineado.",
+    "Posición.",
+    "Tamaño.",
+    "Espaciado."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-05-007",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 7,
+   "enunciado": "Para modificar la alineación de un párrafo seleccionado y situarlo alineado al margen izquierdo mediante teclado, utilizaremos el atajo:",
+   "opciones": [
+    "CTRL + I.",
+    "CTRL + Q.",
+    "CTRL + D.",
+    "CTRL + L."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-05-008",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 8,
+   "enunciado": "En Word 365 copiamos un fragmento de texto que contiene varios formatos de fuente. Al pegarlo en otra parte del documento queremos eliminar el formato de origen y hacer que el texto adopte el formato existente en el lugar de destino. ¿Qué opción de pegado debemos utilizar?",
+   "opciones": [
+    "Mantener formato de origen.",
+    "Combinar formato.",
+    "Conservar solo texto.",
+    "Pegar como imagen."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-05-009",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 9,
+   "enunciado": "¿Cuál de las siguientes características de formato NO puede configurarse directamente desde los comandos habituales de la cinta de opciones de Word 365?",
+   "opciones": [
+    "Tachado.",
+    "Aumentar sangría.",
+    "Alineación centrada.",
+    "Conservar con el siguiente."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-05-010",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 10,
+   "enunciado": "Cuando se trabaja con tabulaciones en Word 365, ¿qué conjunto recoge correctamente los tipos de alineación disponibles?",
+   "opciones": [
+    "Centro, Izquierda, Derecha y Decimal.",
+    "Barra, Decimal, Izquierda, Derecha y Centro.",
+    "Centro, Distribuida, Decimal, Izquierda y Derecha.",
+    "Centro, Justificada, Decimal, Distribuida y Barra."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-05-011",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 11,
+   "enunciado": "En la configuración de párrafo de Word 365, ¿cuál de las siguientes opciones corresponde a un tipo de interlineado disponible?",
+   "opciones": [
+    "Expandido.",
+    "Comprimido.",
+    "Múltiple.",
+    "Máximo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-05-012",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 12,
+   "enunciado": "Para abrir directamente el cuadro de diálogo Buscar y reemplazar en Word 365, en la pestaña \"Ir a\", debemos utilizar la tecla de función:",
+   "opciones": [
+    "F1.",
+    "F10.",
+    "F5.",
+    "F4."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-05-013",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 13,
+   "enunciado": "Un usuario trabaja en Word 365 con un documento almacenado en OneDrive y con el Autoguardado activado. Necesita crear otro archivo a partir del documento actual, con un nombre y una extensión diferentes, sin sustituir el archivo sobre el que está trabajando. Señale la actuación correcta.",
+   "opciones": [
+    "Debe desactivar previamente el Autoguardado para que vuelva a estar disponible la opción «Guardar como».",
+    "Debe acceder al Historial de versiones, abrir la versión actual y utilizar «Restaurar como copia».",
+    "Puede utilizar «Guardar una copia», opción que permite seleccionar otra ubicación, cambiar el nombre y modificar la extensión del archivo.",
+    "Debe utilizar necesariamente la opción «Exportar», ya que «Guardar una copia» permite cambiar el nombre, pero no el formato del archivo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-05-014",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 14,
+   "enunciado": "El efecto Superíndice en Word 365 puede configurarse mediante:",
+   "opciones": [
+    "La configuración de Posición dentro de la pestaña Avanzado del cuadro Fuente.",
+    "La opción Superíndice situada en Insertar.",
+    "La opción Superíndice disponible en la ficha Inicio.",
+    "La configuración del estilo de fuente dentro del menú Párrafo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-05-015",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 15,
+   "enunciado": "Para evitar que dos párrafos relacionados queden separados por un salto de página, Word 365 dispone de la opción:",
+   "opciones": [
+    "Conservar líneas juntas.",
+    "Conservar con el siguiente.",
+    "Control de líneas viudas y huérfanas.",
+    "No existe una opción específica."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-05-016",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 16,
+   "enunciado": "En Word 365 se ha definido un estilo vinculado que contiene características de formato de fuente y de párrafo. Señala la afirmación correcta:",
+   "opciones": [
+    "Si se selecciona una palabra, se aplicarán tanto las propiedades de fuente como las de párrafo; si se selecciona todo el párrafo, únicamente las de párrafo.",
+    "Las características aplicadas serán siempre las mismas, ya que un estilo vinculado no distingue entre una selección de caracteres y una selección de párrafos.",
+    "Si se selecciona una palabra, se aplicarán las características de fuente; si se selecciona un párrafo o simplemente se sitúa el cursor en él, se aplicarán las características de fuente y de párrafo.",
+    "Si se selecciona una palabra, se aplicarán exclusivamente las propiedades de carácter; para aplicar las de párrafo será necesario convertir previamente el estilo vinculado en estilo de párrafo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-05-017",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 5",
+   "n": 17,
+   "enunciado": "El cuadro de diálogo desde el que podemos configurar las tabulaciones de un documento de Word 365 es:",
+   "opciones": [
+    "Formato Fuente.",
+    "Configurar página.",
+    "Formato Párrafo.",
+    "Numeración y viñetas."
+   ],
+   "correcta": 2
+  }
+ ]
+}

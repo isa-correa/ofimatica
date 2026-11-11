@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-ex-02-004",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 4,
+   "enunciado": "Queremos obtener una copia de un documento de Word en formato PDF utilizando la opción «Guardar como». ¿Cuál de las siguientes actuaciones es correcta?",
+   "opciones": [
+    "Acceder a Archivo > Guardar como, seleccionar la ubicación y elegir PDF como tipo de archivo.",
+    "Acceder a Archivo > Información y seleccionar PDF dentro de Administrar documento.",
+    "Acceder a Revisar > Proteger documento y seleccionar Guardar como PDF.",
+    "Acceder a Disposición > Configurar página y seleccionar PDF como formato de salida."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-02-005",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 5,
+   "enunciado": "¿Qué extensión corresponde a una plantilla de Microsoft Word para las versiones Word 97-2003?",
+   "opciones": [
+    ".doc.",
+    ".dot.",
+    ".dotx.",
+    ".docx."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-02-006",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 6,
+   "enunciado": "En Word 365, ¿cuál de las siguientes rutas permite acceder al Historial de versiones de un documento almacenado en OneDrive?",
+   "opciones": [
+    "Archivo > Guardar > Administrar versiones.",
+    "Archivo > Información > Historial de versiones.",
+    "Archivo > Opciones > Guardar > Versiones anteriores.",
+    "Revisar > Proteger > Historial de versiones."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-02-007",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 7,
+   "enunciado": "Respecto a la utilización de una firma digital válida en un documento de Word, señale la afirmación correcta.",
+   "opciones": [
+    "Garantiza que el documento podrá abrirse en cualquier versión de Microsoft Word.",
+    "Impide que cualquier usuario pueda copiar el contenido del documento firmado.",
+    "Permite verificar la autenticidad e integridad del documento, de modo que pueda detectarse si ha sido modificado después de la firma.",
+    "Convierte automáticamente el documento en solo lectura y elimina todas las opciones de edición."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-02-008",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 8,
+   "enunciado": "Antes de distribuir un documento queremos comprobar si contiene información personal u otros datos ocultos. ¿Qué ruta permite realizar esta comprobación?",
+   "opciones": [
+    "Archivo > Información > Comprobar si hay problemas > Inspeccionar documento.",
+    "Archivo > Información > Proteger documento > Restringir edición.",
+    "Revisar > Comprobar accesibilidad > Inspeccionar documento.",
+    "Archivo > Opciones > Centro de confianza > Inspeccionar documento."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-02-009",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 9,
+   "enunciado": "En relación con Microsoft Word 365, señale la afirmación FALSA.",
+   "opciones": [
+    "Tanto la barra de estado como la barra de herramientas de acceso rápido admiten determinadas opciones de personalización.",
+    "Entre los formatos en los que Word permite guardar directamente un documento se encuentran .doc, .docx, .pdf y .xlsx.",
+    "En la impresión personalizada pueden especificarse páginas, intervalos de páginas e incluso secciones del documento.",
+    "Word dispone de configuraciones de márgenes predefinidas, entre las que se encuentra «Normal»."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-02-010",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 10,
+   "enunciado": "¿Cuál de las siguientes opciones NO corresponde a una vista de documento disponible en Microsoft Word 365?",
+   "opciones": [
+    "Modo de lectura.",
+    "Diseño de impresión.",
+    "Diseño web.",
+    "Diseño de archivo."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-02-011",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 11,
+   "enunciado": "Dentro de las opciones de impresión de Word 365 pueden imprimirse determinados tipos de información asociada al documento. ¿Cuál de las siguientes NO constituye una de esas opciones?",
+   "opciones": [
+    "Lista de revisiones.",
+    "Estilos.",
+    "Gráficos.",
+    "Asignaciones de tecla."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-02-012",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 12,
+   "enunciado": "Tenemos un documento de Word cuyo diseño queremos reutilizar como base para crear otros documentos. ¿Cómo podemos hacerlo?",
+   "opciones": [
+    "Guardándolo con un formato de plantilla de Word y, cuando corresponda, en la ubicación destinada a las plantillas.",
+    "Cambiándolo de ubicación a la carpeta de plantillas, sin necesidad de modificar su tipo de archivo.",
+    "Utilizando obligatoriamente el Asistente para transformar documentos disponible en la ficha Archivo.",
+    "No es posible convertir un documento existente en una plantilla; debe crearse desde cero."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-02-013",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 13,
+   "enunciado": "En Word 365, indique cuál de las siguientes configuraciones de impresión es INCORRECTA.",
+   "opciones": [
+    "Imprimir selección - Impresión a doble cara - Intercaladas - Orientación horizontal.",
+    "Lista de revisiones - Impresión a una cara - Intercaladas - Orientación horizontal.",
+    "Imprimir todas las páginas - Impresión a doble cara - Copias sin intercalar - Oientación vertical.",
+    "Impresión personalizada 1;2;4;5; - Impresión a una cara - Intercaladas - Orientación vertical."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-02-014",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 14,
+   "enunciado": "Queremos modificar las «Opciones de presentación de la página» de Word 365. ¿En qué categoría del cuadro Opciones de Word debemos buscarlas?",
+   "opciones": [
+    "General.",
+    "Avanzadas.",
+    "Presentación.",
+    "Revisión."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-02-015",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 15,
+   "enunciado": "Queremos proteger un documento de Word mediante una contraseña. ¿Cuál es la ruta adecuada?",
+   "opciones": [
+    "Archivo > Cuenta > Seguridad > Cifrar documento.",
+    "Archivo > Información > Proteger documento > Cifrar con contraseña.",
+    "Revisar > Proteger > Cifrar con contraseña.",
+    "Archivo > Opciones > Revisión > Proteger documento."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-02-016",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 16,
+   "enunciado": "Establecemos una contraseña para proteger un documento de Word 365. ¿Cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "Para que la protección establecida entre en vigor, el documento debe guardarse.",
+    "Word exige que la contraseña incluya obligatoriamente letras, números y al menos un carácter especial.",
+    "La contraseña debe contener, como mínimo, ocho caracteres y diferenciar entre mayúsculas y minúsculas.",
+    "Una vez establecida la contraseña, el documento queda automáticamente guardado y protegido sin realizar ninguna otra operación."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-02-017",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 17,
+   "enunciado": "Respecto a la barra de estado de Microsoft Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "Puede desplazarse entre la parte superior e inferior del área de trabajo.",
+    "Puede situarse en cualquiera de los laterales de la ventana mediante el menú contextual.",
+    "Puede arrastrarse libremente, aunque al reiniciar Word vuelve a su posición original.",
+    "Su ubicación se mantiene en la zona inferior de la ventana y no puede desplazarse a otra posición."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-02-018",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 18,
+   "enunciado": "Atendiendo a los tamaños de papel disponibles en Word, ¿cuál de los siguientes tiene mayores dimensiones?",
+   "opciones": [
+    "Oficio.",
+    "Tabloide.",
+    "A3.",
+    "A5."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-02-019",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 19,
+   "enunciado": "En Archivo > Información > Proteger documento seleccionamos «Marcar como final». ¿Qué efecto produce esta opción?",
+   "opciones": [
+    "Cifra el contenido y exige una contraseña para volver a abrir el documento.",
+    "Informa de que el documento se considera definitivo y lo establece como solo lectura, desactivando las opciones de edición.",
+    "Permite determinar qué tipos de cambios podrán realizar otros usuarios sobre el documento.",
+    "Incorpora una firma digital invisible para garantizar automáticamente la autenticidad del archivo."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-02-020",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 2",
+   "n": 20,
+   "enunciado": "Dentro de Archivo > Información > Comprobar si hay problemas se ofrecen varias herramientas. ¿Cuál de las siguientes NO pertenece a este grupo?",
+   "opciones": [
+    "Comprobar espacio disponible.",
+    "Inspeccionar documento.",
+    "Comprobar accesibilidad.",
+    "Comprobar compatibilidad."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-03-001",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 1,
+   "enunciado": "En Word 365 queremos que determinados caracteres aparezcan por encima de la línea de escritura ¿Qué opción permite aplicar este formato?",
+   "opciones": [
+    "Modificar la posición del carácter desde las opciones avanzadas de espaciado.",
+    "Insertar un salto de línea antes del texto seleccionado.",
+    "Activar el efecto Superíndice desde las opciones de Fuente.",
+    "Aplicar un estilo de fuente específico desde el grupo Estilos."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-03-002",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 2,
+   "enunciado": "¿En qué ubicación de la cinta de opciones de Word 365 se encuentra la herramienta destinada a aplicar un color de resaltado al texto seleccionado?",
+   "opciones": [
+    "En el grupo Formato del documento de la ficha Diseño.",
+    "En el grupo Fuente de la ficha Inicio.",
+    "En el grupo Párrafo de la ficha Inicio.",
+    "En el grupo Temas de la ficha Diseño."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-03-003",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 3,
+   "enunciado": "¿Cuál de los siguientes efectos de fuente requiere acceder al cuadro de diálogo Fuente y no dispone de un botón específico directamente visible en el grupo Fuente de la ficha Inicio?",
+   "opciones": [
+    "Tachado.",
+    "Subíndice.",
+    "Versalitas.",
+    "Superíndice."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-03-004",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 4,
+   "enunciado": "Al crear un nuevo documento en blanco en Word 365, ¿qué alineación se aplica de forma predeterminada a los párrafos?",
+   "opciones": [
+    "Alineación a la izquierda.",
+    "Alineación a la derecha.",
+    "Alineación centrada.",
+    "Alineación justificada."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-ex-03-005",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 5,
+   "enunciado": "Respecto a la protección mediante contraseña de un documento de Word 365, señale la afirmación correcta.",
+   "opciones": [
+    "La contraseña debe contener obligatoriamente un mínimo de cuatro caracteres.",
+    "Word exige combinar letras y números para poder establecerla.",
+    "Una vez establecida la contraseña, es necesario guardar el documento para que la protección tenga efecto.",
+    "La contraseña debe contener necesariamente mayúsculas, minúsculas y caracteres especiales."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-ex-03-006",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 6,
+   "enunciado": "Queremos guardar un archivo como plantilla de Word 365 sin macros. ¿Qué extensión corresponde a este tipo de archivo?",
+   "opciones": [
+    ".docx.",
+    ".dotx.",
+    ".odt.",
+    ".txt."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-ex-03-007",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 7,
+   "enunciado": "Disponemos de un documento cuyo diseño queremos reutilizar posteriormente como base para crear otros documentos. ¿Con qué extensión debemos guardarlo como plantilla de Word?",
+   "opciones": [
+    ".doc.",
+    ".docx.",
+    ".pptx.",
+    ".dotx."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-ex-03-008",
+   "tema": "word",
+   "origen": "examenes",
+   "test": "Examen 3",
+   "n": 8,
+   "enunciado": "Antes de distribuir un documento queremos comprobar si contiene información personal, propiedades u otros datos ocultos. ¿Qué herramienta de Word 365 debemos utilizar?",
+   "opciones": [
+    "Inspeccionar documento.",
+    "Comprobar accesibilidad.",
+    "Comprobar compatibilidad.",
+    "Restringir edición."
+   ],
+   "correcta": 0
+  }
+ ]
+}

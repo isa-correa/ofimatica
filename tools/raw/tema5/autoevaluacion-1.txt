@@ -1,0 +1,115 @@
+1.
+¿Qué elemento de la interfaz de Excel permite acceder rápidamente a funciones como Guardar, Deshacer y Rehacer?
+
+Obtuvo 0 de 1 punto
+
+b) Cinta de opciones
+Respuesta equivocada
+Tu respuesta
+a) Barra de estado
+c) Barra de herramientas de acceso rápido
+Corregir respuesta
+d) Panel de navegación
+2.
+¿Qué ocurre al pulsar ALT + Q en Excel 365?
+
+Obtuvo 0 de 1 punto
+
+c) Se activa la celda activa
+Respuesta equivocada
+Tu respuesta
+d) Se abre la caja de búsqueda
+Corregir respuesta
+a) Se guarda automáticamente el archivo
+b) Se muestra el historial de versiones
+3.
+¿Cuál de estas afirmaciones sobre el historial de versiones es cierta?
+
+Obtuvo 0 de 1 punto
+
+d) Solo muestra las dos últimas versiones guardadas
+Respuesta equivocada
+Tu respuesta
+a) Solo está disponible si el archivo se ha compartido en la nube
+Corregir respuesta
+c) Las versiones se visualizan en un panel lateral en modo solo lectura
+b) Las versiones se abren en modo edición
+4.
+¿Qué es una celda en Excel?
+
+Obtuvo 1 de 1 punto
+
+c) La intersección entre una fila y una columna
+Corregir respuesta
+Tu respuesta
+b) El cuadro de nombres de cada hoja
+a) La unión entre dos filas
+d) Un conjunto de fórmulas relacionadas
+5.
+¿Qué extensión corresponde a un libro de Excel habilitado para macros?
+
+Obtuvo 0 de 1 punto
+
+a) .xlsx
+Respuesta equivocada
+Tu respuesta
+d) .xltx
+c) .xlsm
+Corregir respuesta
+b) .xlsb
+6.
+¿Cuál es la diferencia entre una celda activa y un rango seleccionado?
+
+Obtuvo 1 de 1 punto
+
+c) La celda activa es donde se introduce el dato; el rango es una selección de varias celdas
+Corregir respuesta
+Tu respuesta
+d) El rango siempre está compuesto por celdas no contiguas
+a) No existe diferencia, son lo mismo
+b) La celda activa se ilumina; el rango no
+7.
+¿Cómo se denomina el rango que va desde la celda A1 hasta la celda C6?
+
+Obtuvo 1 de 1 punto
+
+d) Rango A1:C6
+Corregir respuesta
+Tu respuesta
+c) Rango A1;C6
+a) Rango A1-A6
+b) Rango A1C6
+8.
+¿Qué sucede si al escribir en una celda ya hay contenido?
+
+Obtuvo 0 de 1 punto
+
+d) El nuevo dato se almacena en el portapapeles
+Respuesta equivocada
+Tu respuesta
+b) Excel muestra una advertencia
+a) Se fusiona el contenido anterior con el nuevo
+c) Se elimina el contenido anterior
+Corregir respuesta
+9.
+En relación con los diferentes formatos de archivo disponibles en Microsoft Excel 365, señale cuál de las siguientes asociaciones entre el tipo de documento y su extensión es correcta:
+
+Obtuvo 1 de 1 punto
+
+Plantilla de Excel — .xltx.
+Corregir respuesta
+Tu respuesta
+Libro habilitado para macros — .xlsb.
+Libro de Excel 97-2003 — .xlt.
+Libro binario de Excel — .xlsx.
+10.
+Al iniciar Microsoft Excel 365 y crear varios libros nuevos en blanco, sin modificar sus nombres predeterminados, ¿cuál de las siguientes afirmaciones es correcta?
+
+Obtuvo 1 de 1 punto
+
+Los libros reciben inicialmente los nombres Libro1, Libro2, Libro3, y así sucesivamente.
+Corregir respuesta
+Tu respuesta
+Excel asigna automáticamente el nombre Documento1, Documento2, Documento3, y así sucesivamente.
+Todos los libros reciben inicialmente el nombre Hoja1, que se modifica al guardar el archivo.
+Excel no asigna ningún nombre al libro hasta que el usuario lo guarda por primera vez.

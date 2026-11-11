@@ -1,0 +1,186 @@
+1.
+Si queremos que, en una tabulación, el texto quede centrado con respecto a la marca de tabulación…
+
+Obtuvo 0 de 1 punto
+
+Establecer una tabulación tipo barra.
+Respuesta equivocada
+Tu respuesta
+Establecer una tabulación y aplicarle una alineación centrada.
+Establecer una tabulación centrada.
+Corregir respuesta
+Establecer una alineación centrada al párrafo en concreto.
+2.
+¿Cuál de las siguientes es un tipo de tabulación en Word 365?
+
+Obtuvo 1 de 1 punto
+
+Barra.
+Corregir respuesta
+Tu respuesta
+Numerada.
+Centesimal.
+Rellenar.
+3.
+Si queremos que dos párrafos consecutivos no sean separados por un salto de página, activaremos la opción de paginación…
+
+Obtuvo 0 de 1 punto
+
+Conservar líneas juntas.
+Respuesta equivocada
+Tu respuesta
+Control de líneas viudas y huérfanas.
+Conservar juntos.
+Conservar con el siguiente.
+Corregir respuesta
+4.
+Si tenemos establecida una fuente de tamaño 20 ¿cuál de los siguientes interlineados será más grande?
+
+Obtuvo 0 de 1 punto
+
+Sencillo.
+Respuesta equivocada
+Tu respuesta
+Doble.
+Mínimo en 25.
+Múltiple en 2,5.
+Corregir respuesta
+
+Vamos a desgranar los interlienados indicados:
+-Sencillo: igual que el tamaño de la fuente; por tanto, 20 puntos.
+-Doble: es el doble del sencillo; así, tenemos 40 puntos.
+-Exacto: nos indica en la propia respuesta, 25 puntos.
+-Múltiple 2,5: aquí nos indica que, serían 2,5 veces el interlineado sencillo. Por tanto: 50 puntos.
+
+(Te adjunto imagen con interlineados aplicados)
+
+5.
+¿Cómo se denomina la distancia que existe entre el margen y el texto de un documento?
+
+Obtuvo 0 de 1 punto
+
+Encuadernación.
+Respuesta equivocada
+Tu respuesta
+Margen.
+Sangría.
+Corregir respuesta
+Interlineado.
+6.
+¿Cuántos tipos de interlineados hay en Word 365?
+
+Obtuvo 0 de 1 punto
+
+5
+Respuesta equivocada
+Tu respuesta
+6
+Corregir respuesta
+4
+7
+7.
+¿Qué tipo de sangría desplaza solo la primera línea de un párrafo?
+
+Obtuvo 0 de 1 punto
+
+Sangría francesa
+Respuesta equivocada
+Tu respuesta
+Sangría izquierda
+Sangría derecha
+Sangría especial de 1ª línea
+Corregir respuesta
+8.
+¿Qué sucede al activar la opción "Sangrías simétricas" en un documento pensado para impresión a doble cara?
+
+Obtuvo 0 de 1 punto
+
+Las sangrías se desactivan automáticamente
+Respuesta equivocada
+Tu respuesta
+La sangría izquierda se convierte en "Exterior" y la derecha en "Interior"
+Se aplican márgenes alternos en páginas pares e impares
+La sangría izquierda pasa a ser "Interior" y la derecha, "Exterior"
+Corregir respuesta
+9.
+¿Cuál es el valor predeterminado del interlineado en Word 365?
+
+Obtuvo 0 de 1 punto
+
+Sencillo
+Respuesta equivocada
+Tu respuesta
+Múltiple en 1,5
+Exacto en 12 pt
+Múltiple en 1,16
+Corregir respuesta
+10.
+Si deseamos que un párrafo comience siempre en una nueva página, ¿qué opción debemos activar?
+
+Obtuvo 1 de 1 punto
+
+Conservar con el siguiente
+Salto de página anterior
+Corregir respuesta
+Tu respuesta
+No dividir con guiones
+Línea viuda
+11.
+¿Cuál de las siguientes opciones evita que el contenido de un párrafo se divida entre dos páginas?
+
+Obtuvo 1 de 1 punto
+
+Conservar líneas juntas
+Corregir respuesta
+Tu respuesta
+Control de líneas viudas
+No dividir con guiones
+Salto de sección continua
+12.
+¿Para qué sirve la opción "No dividir con guiones"?
+
+Obtuvo 0 de 1 punto
+
+Para unir automáticamente palabras con guiones
+Respuesta equivocada
+Tu respuesta
+Para impedir que las palabras se separen con guiones al final de línea
+Corregir respuesta
+Para añadir guiones largos entre párrafos
+Para dividir un párrafo en varias secciones
+13.
+¿Qué tipo de alineación de tabulación coloca una línea vertical en el texto, sin alinear el contenido?
+
+Obtuvo 0 de 1 punto
+
+Centrada
+Respuesta equivocada
+Tu respuesta
+Decimal
+Derecha
+Barra
+Corregir respuesta
+14.
+¿Cuál de los siguientes tipos de tabulación es el más adecuado para alinear cifras con decimales?
+
+Obtuvo 0 de 1 punto
+
+Izquierda
+Respuesta equivocada
+Tu respuesta
+Derecha
+Centrada
+Decimal
+Corregir respuesta
+15.
+¿Qué función permite establecer un patrón (puntos, líneas, etc.) entre marcas de tabulación?
+
+Obtuvo 0 de 1 punto
+
+Interlineado
+Respuesta equivocada
+Tu respuesta
+Relleno
+Corregir respuesta
+Espaciado
+Posición

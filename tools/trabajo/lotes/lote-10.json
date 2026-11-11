@@ -1,0 +1,379 @@
+{
+ "preguntas": [
+  {
+   "id": "w-vo-04-009",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 9,
+   "enunciado": "¿Qué configuración de párrafo gestionamos mediante el uso del atributo interlineado?",
+   "opciones": [
+    "La distancia de la primera línea y el margen.",
+    "La distancia entre párrafos.",
+    "La distancia entre líneas de un mismo párrafo.",
+    "La separación entre caracteres que conforman un párrafo."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-04-010",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 10,
+   "enunciado": "¿Cuál es el interlineado por defecto en un documento de Word 365?",
+   "opciones": [
+    "Múltiple en 1,16 ptos.",
+    "Múltiple en 1,08 ptos.",
+    "Sencillo.",
+    "1,5 líneas."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-04-011",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 4",
+   "n": 11,
+   "enunciado": "Señale qué atributo afecta al espacio que hay entre un párrafo y el párrafo inmediatamente anterior y posterior:",
+   "opciones": [
+    "Alineación anterior y posterior.",
+    "Justificación anterior y posterior.",
+    "Interlineado anterior y posterior.",
+    "Espaciado anterior y posterior."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-05-001",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 1,
+   "enunciado": "¿Cuál de las siguientes opciones de paginación impide que un salto de página separe en dos partes un mismo párrafo?",
+   "opciones": [
+    "Conservar con el siguiente.",
+    "Salto de página anterior.",
+    "Conservar líneas juntas.",
+    "No dividir con guiones."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-05-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 2,
+   "enunciado": "¿Qué casilla debemos activar si no queremos que dos párrafos se separen al insertarse un salto de página automático?",
+   "opciones": [
+    "Control de líneas viudas y huérfanas.",
+    "Conservar con el siguiente.",
+    "Suprimir números de línea.",
+    "Conservar líneas juntas."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-05-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 3,
+   "enunciado": "Para que la última línea de un párrafo no quede como primera línea de una página, señala qué control de paginación debemos activar:",
+   "opciones": [
+    "Suprimir números de línea.",
+    "Conservar con el siguiente.",
+    "Control de líneas viudas y huérfanas.",
+    "Conservar líneas juntas."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-05-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 4,
+   "enunciado": "Señala la función que cumple el comando “Posición”, en el cuadro de diálogo “Tabulaciones”:",
+   "opciones": [
+    "El lugar en la regla donde se va a desplazar el punto de inserción cuando pulsamos la tecla tabulador.",
+    "El lugar de la regla donde se van a establecer los rellenos, una vez configurados en el cuadro de opciones de Tabulación.",
+    "La distancia entre una tabulación y la anterior.",
+    "La separación rellenos de una tabulación."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-05-005",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 5,
+   "enunciado": "¿Cómo se denomina el lugar de la cinta de opciones donde se muestran los estilos más utilizados?",
+   "opciones": [
+    "Galería de Estilos.",
+    "Galería de Temas.",
+    "Galería de Formatos rápidos.",
+    "Galería de Formatos."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-05-006",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 6,
+   "enunciado": "Señala cuál de los siguientes NO es un tipo de estilo en Word 365:",
+   "opciones": [
+    "Estilo tabla.",
+    "Estilo párrafo.",
+    "Estilo fuente.",
+    "Estilo carácter."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-05-007",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 7,
+   "enunciado": "Señale la respuesta correcta respecto a los estilos de Word:",
+   "opciones": [
+    "El estilo tipo párrafo se puede aplicar a una sola palabra",
+    "El estilo tipo párrafo no se puede aplicar sólo a una palabra",
+    "El estilo vinculado se puede aplicar sólo a textos tipo lista",
+    "El estilo lista no se puede crear desde cero"
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-05-008",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 8,
+   "enunciado": "Si necesitamos ver qué estilos hay aplicados en un documento de Word 365, ¿qué herramienta debemos usar?",
+   "opciones": [
+    "Debemos utilizar el botón “Opciones” del panel de estilos",
+    "Debemos desplegar la galería de estilos rápidos",
+    "Debemos utilizar el botón “Inspector de estilos”",
+    "No podemos elegir los estilos que se muestran en dicho panel"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-05-009",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 5",
+   "n": 9,
+   "enunciado": "Señale la sentencia correcta respecto a los estilos personales en Word 365:",
+   "opciones": [
+    "Word no permite la creación de estos elementos.",
+    "Los tiene que definir el usuario partiendo desde cero.",
+    "Word permite crearlos a partir de estilos ya predefinidos.",
+    "No tienen ninguna utilidad en Word."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-06-001",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 1,
+   "enunciado": "Al hacer clic en el botón \"Buscar\" de la pestaña \"Inicio\" de Word, ¿cuál de los siguientes comportamientos es el correcto? (Aux AGE Extraordinario 2019)",
+   "opciones": [
+    "Se abre la ventana \"Navegación\" con el campo para escribir la búsqueda, y tres pestañas: Títulos, Páginas y Resultados.",
+    "Se abre la ventana emergente \"Encontrar\" sólo con el campo para escribir la búsqueda.",
+    "Se abre la ventana \"Búsqueda\" sólo con el campo para escribir la búsqueda.",
+    "Se abre la ventana \"Buscar y Reemplazar\" con dos pestañas: Buscar y Reemplazar."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-06-002",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 2,
+   "enunciado": "Señala la afirmación incorrecta acerca de las funciones de los comandos recogidos en el grupo “Edición” de la ficha “Inicio”:",
+   "opciones": [
+    "Por defecto, Word busca palabras completas, y resalta todos los resultados coincidentes a la vez.",
+    "Cuando pulsamos “Búsqueda avanzada”, se inicia un cuadro de diálogo con 3 pestañas.",
+    "“Ir a”, permite desplazarnos directamente a los diferentes elementos que forman el documento: marcadores, títulos, páginas…",
+    "Por defecto, la búsqueda de Word no distingue entre mayúscula y minúscula."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-06-003",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 3,
+   "enunciado": "En Microsoft Word 365 configurado en español, ¿qué acción se realiza al presionar la combinación de teclas CTRL + B dentro de un documento? (AGE 2025)",
+   "opciones": [
+    "Se abre el cuadro de diálogo “Buscar y reemplazar”.",
+    "Abre el panel de tareas de Navegación para buscar en el contenido del documento.",
+    "Se guarda el documento con un nuevo nombre.",
+    "Se inserta una nota al pie."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-06-004",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 4,
+   "enunciado": "En la pestaña Inicio de Word, grupo Edición, uno de los elementos es Seleccionar, que despliega cuatro opciones. ¿Cuál de las siguientes opciones NO aparece en este menú? (Aux Est AGE Extraordinario 2019)",
+   "opciones": [
+    "Seleccionar todo.",
+    "Seleccionar tabla.",
+    "Seleccionar todo el texto con formato similar (sin datos).",
+    "Seleccionar objetos."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-06-005",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 5,
+   "enunciado": "¿Cuál de los siguientes atajos abre el cuadro “Buscar y reemplazar”, en la pestaña “Reemplazar”?",
+   "opciones": [
+    "CTRL + E",
+    "CTRL + N",
+    "CTRL + L",
+    "CTRL + A"
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-06-006",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 6,
+   "enunciado": "En el grupo \"Voz\" de Word 365, ¿qué ocurre cuando se activa la herramienta \"Dictar\"?",
+   "opciones": [
+    "Se abre una grabadora de sonidos para adjuntar archivos de audio.",
+    "Word comienza a convertir la voz del usuario en texto mientras habla.",
+    "Word selecciona automáticamente todo el texto y lo copia al portapapeles.",
+    "Se activa el lector inmersivo para mejorar la comprensión lectora del usuario."
+   ],
+   "correcta": 1
+  },
+  {
+   "id": "w-vo-06-007",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 7,
+   "enunciado": "Señale la respuesta correcta sobre la función Transcribir de Word 365:",
+   "opciones": [
+    "Los usuarios con una suscripción a Microsoft 365 pueden transcribir un máximo de 600 minutos de audio cargado al mes.",
+    "Las grabaciones se almacenarán en la carpeta Archivos transcritos en Google Drive.",
+    "Se puede transcribir la voz grabando directamente en Word o cargando un archivo de audio.",
+    "Convierte la voz en una transcripción de texto sin distinguir ni separar a los diferentes oradores."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-06-008",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 8,
+   "enunciado": "Cuando insertamos una tabla, aparecen dos fichas auxiliares en la cinta de opciones",
+   "opciones": [
+    "Disposición y Formato",
+    "Diseño y Formato",
+    "Diseño y Distribución",
+    "Diseño de tabla y Disposición de tabla"
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-06-009",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 9,
+   "enunciado": "Señale la ruta correcta para agregar una tabla de Excel a un documento de Word 365 (Aux AGE 2008)",
+   "opciones": [
+    "Desde el botón “mis Complementos” del grupo “Complementos” de la ficha “Insertar”.",
+    "Desde Excel, importando los datos de la tabla.",
+    "Convirtiendo una tabla de Word previamente seleccionada en una hoja de Microsoft Excel.",
+    "Desde el botón “Tabla”, del grupo “Tablas” de la pestaña “Insertar”."
+   ],
+   "correcta": 3
+  },
+  {
+   "id": "w-vo-06-010",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 10,
+   "enunciado": "Queremos añadir una tabla al documento de Word. ¿En qué pestaña encontramos esta opción? (AGE 2017)",
+   "opciones": [
+    "Insertar.",
+    "Diseño.",
+    "Correspondencia.",
+    "Vista."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-06-011",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 11,
+   "enunciado": "¿Cuál de las siguientes opciones es correcta con respecto a ordenar los datos de una tabla de Word? (Aux AGE Extraordinario 2019)",
+   "opciones": [
+    "Es posible, haciendo clic con el botón secundario del ratón sobre la tabla, y en el menú desplegable, Propiedades > Ordenar.",
+    "No es posible si la tabla está hecha en Word. Si está hecha en Excel, podemos ordenarla antes de incrustarla en el texto.",
+    "Es posible, situando el cursor dentro de la tabla, y pulsando el botón Ordenar de la pestaña Inicio de la cinta de opciones de Word.",
+    "Es posible, seleccionando la columna y haciendo clic con el botón secundario del ratón, y en el menú desplegable, Ordenar."
+   ],
+   "correcta": 2
+  },
+  {
+   "id": "w-vo-06-012",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 12,
+   "enunciado": "En Word 365, ¿cuál de las siguientes opciones se utiliza para garantizar que se puede ver correctamente la tabla completa en la vista de diseño web? (AUX LIBRE 2022)",
+   "opciones": [
+    "Autoajustar a la ventana.",
+    "Autoajustar al contenido.",
+    "Ancho de columna fijo.",
+    "Alinear al centro."
+   ],
+   "correcta": 0
+  },
+  {
+   "id": "w-vo-06-013",
+   "tema": "word",
+   "origen": "votaciones",
+   "test": "Votaciones clase 6",
+   "n": 13,
+   "enunciado": "¿Cuáles son las alineaciones posibles de una tabla en un documento de Word 365?",
+   "opciones": [
+    "Ajustar a la Izquierda, Ajustar al centro y derecha.",
+    "Izquierda, Ajustar al centro y justificada.",
+    "Izquierda, derecha y distribuida.",
+    "Ajustar a la izquierda, centrada y justificada."
+   ],
+   "correcta": 0
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+1.
+Señala cuál de los siguientes no es un tipo de SmarArt:
+
+Obtuvo 1 de 1 punto
+
+Radial
+Corregir respuesta
+Tu respuesta
+Listas
+Procesos
+Ciclos
+2.
+¿En qué ficha de la cinta de opciones de Word encontramos el grupo "Ilustraciones"?
+
+Obtuvo 0 de 1 punto
+
+Referencias.
+Respuesta equivocada
+Tu respuesta
+Diseño.
+Insertar.
+Corregir respuesta
+Vista.
+3.
+Señala en qué grupo de la cinta de opciones de Word nos encontramos el comando SmartArt:
+
+Obtuvo 0 de 1 punto
+
+Complementos.
+Respuesta equivocada
+Tu respuesta
+Insertar.
+Vínculos.
+Ilustraciones.
+Corregir respuesta
+4.
+El comando "Referencia cruzada", ¿en qué grupo de la cinta de opciones se encuentra?
+
+Obtuvo 0 de 1 punto
+
+Ilustraciones.
+Respuesta equivocada
+Tu respuesta
+Complementos.
+Multimedia.
+Vínculos.
+Corregir respuesta
+5.
+¿En qué grupo de la cinta de opciones se encuentra el comando "Elementos rápidos"?
+
+Obtuvo 1 de 1 punto
+
+Texto.
+Corregir respuesta
+Tu respuesta
+Símbolo.
+Encabezado y pie de página.
+Comentarios.
+6.
+Señala en qué ficha de la cinta de opciones de Word se encuentra el comando "Ecuación":
+
+Obtuvo 0 de 1 punto
+
+Referencias.
+Respuesta equivocada
+Tu respuesta
+Disposición.
+Insertar.
+Corregir respuesta
+Inicio.
+7.
+Señala a qué ficha de la cinta de opciones debemos dirigirnos para configurar un Encabezado:
+
+Obtuvo 0 de 1 punto
+
+Ficha Vista
+Respuesta equivocada
+Tu respuesta
+Ficha Diseño
+Ficha Referencias
+Ficha Insertar
+Corregir respuesta
+8.
+Para insertar un autotexto en Word 365, debemos hacerlo desde…
+
+Obtuvo 0 de 1 punto
+
+Ficha insertar, Complementos, Autotexto
+Respuesta equivocada
+Tu respuesta
+Ficha insertar, Ilustraciones, Autotexto
+Ficha insertar, Comentario, elementos rápidos
+Ficha insertar, Texto, Elementos rápidos
+Corregir respuesta
+9.
+Si quisiéramos añadir símbolo de marca registrada al final del texto, ¿a qué grupo de la cinta de opciones debemos dirigirnos?
+
+Obtuvo 0 de 1 punto
+
+Grupo Texto, de la ficha Diseño
+Respuesta equivocada
+Tu respuesta
+Grupo Ilustraciones de la ficha Insertar
+Grupo Símbolos de la ficha Insertar
+Corregir respuesta
+Grupo Símbolos de la ficha Referencias
+10.
+Si en un documento queremos mostrar el nombre del autor al comienzo de todas las páginas…
+
+Obtuvo 0 de 1 punto
+
+Debemos utilizar el comando "Insertar nota el pie" de la ficha Referencias
+Respuesta equivocada
+Tu respuesta
+Debemos insertar un Autoformato
+Debemos configurar un Encabezado y Pie de página, e insertar "Información del documento > Autor".
+Corregir respuesta
+Debemos establecer un estilo de Título

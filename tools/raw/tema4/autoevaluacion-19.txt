@@ -1,0 +1,118 @@
+1.
+¿Qué herramienta nos permite desplazarnos rápidamente por títulos, páginas o resultados de búsqueda en el documento?
+
+Obtuvo 1 de 1 punto
+
+Panel de navegación
+Corregir respuesta
+Tu respuesta
+Panel de revisión
+Lector inmersivo
+Vista previa
+2.
+¿Qué opción del panel de navegación muestra miniaturas de cada una de las páginas del documento?
+
+Obtuvo 0 de 1 punto
+
+Títulos
+Respuesta equivocada
+Tu respuesta
+Páginas
+Corregir respuesta
+Resultados
+Encabezados
+3.
+¿Qué sucede al usar la herramienta 'Leer en voz alta' de Word?
+
+Obtuvo 0 de 1 punto
+
+Se graba el texto en formato audio
+Respuesta equivocada
+Tu respuesta
+Se convierte en subtítulos
+Se lee el texto en voz alta y se resalta en pantalla
+Corregir respuesta
+Se traduce al idioma predeterminado
+4.
+¿Qué opción activa una visualización sin distracciones, con fondo oscuro y solo reglas visibles?
+
+Obtuvo 0 de 1 punto
+
+Vista preliminar
+Respuesta equivocada
+Tu respuesta
+Modo de concentración
+Corregir respuesta
+Modo esquema
+Modo lectura
+5.
+¿Cuál es la función del botón 'Dividir' dentro del grupo Ventana?
+
+Obtuvo 0 de 1 punto
+
+Crear un salto de sección
+Respuesta equivocada
+Tu respuesta
+Duplicar la vista en dos zonas del mismo documento
+Corregir respuesta
+Abrir un segundo archivo
+Ver encabezados y pies a la vez
+6.
+¿Qué comando permite trabajar con dos documentos de Word de forma simultánea en paralelo?
+
+Obtuvo 0 de 1 punto
+
+Desplazamiento sincrónico
+Respuesta equivocada
+Tu respuesta
+Dividir ventana
+Ver en paralelo
+Corregir respuesta
+Comparar documentos
+7.
+¿Qué función permite que el desplazamiento se realice de forma conjunta en dos documentos abiertos en paralelo?
+
+Obtuvo 0 de 1 punto
+
+Organizar todo
+Respuesta equivocada
+Tu respuesta
+Sincronizar barra de estado
+Desplazamiento sincrónico
+Corregir respuesta
+Vista inmersiva
+8.
+¿Qué opción del grupo 'Ventana' sirve para cambiar rápidamente entre varios documentos abiertos?
+
+Obtuvo 1 de 1 punto
+
+Cambiar ventanas
+Corregir respuesta
+Tu respuesta
+Vista previa
+Vista actual
+Abrir reciente
+9.
+¿Qué casilla debemos marcar para mostrar los márgenes y alinear objetos con precisión?
+
+Obtuvo 0 de 1 punto
+
+Mostrar encabezados
+Respuesta equivocada
+Tu respuesta
+Mostrar cuadrícula
+Corregir respuesta
+Mostrar títulos
+Mostrar navegación
+10.
+¿Cuál de las siguientes afirmaciones sobre las líneas de cuadrícula es correcta?
+
+Obtuvo 0 de 1 punto
+
+Sirven para imprimir marcas de página
+Respuesta equivocada
+Tu respuesta
+Son visibles pero no imprimibles
+Corregir respuesta
+Se activan solo en modo lectura
+Solo se muestran en documentos con tablas
