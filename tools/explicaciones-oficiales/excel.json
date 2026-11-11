@@ -1,0 +1,106 @@
+{
+"x-in-01-055": {
+"just": "La sintaxis **Hoja!Celda** referencia una celda de otra hoja **del mismo libro**. La fórmula `=Dato!B1+Resultados!B1` suma la B1 de la hoja Dato y la B1 de la hoja Resultados, esté donde esté la fórmula.",
+"ojo": "Para referenciar otro libro, haría falta el nombre del archivo entre corchetes: `=[Libro2.xlsx]Hoja1!B1`. Y sí se pueden hacer cálculos con celdas de hojas distintas."
+},
+"x-in-01-056": {
+"just": "La función **O** devuelve **VERDADERO** si **al menos una** de sus condiciones se cumple. Entre «A1 mayor que B1», «igual» y «menor», siempre se cumple una, así que C1 es **VERDADERO en todos los casos**.",
+"ojo": "Si la función fuera **Y**, que pide que se cumplan todas, el resultado sería siempre FALSO, porque no pueden cumplirse las tres a la vez."
+},
+"x-in-01-057": {
+"just": "**DIA(A1)** devuelve el **número de día del mes** (de 1 a 31) de una fecha.",
+"ojo": "**AHORA** devuelve la fecha y hora actuales y no lleva argumentos, **DIA.LAB** suma días laborables a una fecha y **DIAS** calcula la diferencia entre dos fechas."
+},
+"x-in-01-059": {
+"just": "Al **combinar celdas**, Excel conserva **solo el valor de la celda superior izquierda** y descarta el resto, avisando antes con un cuadro de diálogo. Queda **Azul**, centrado.",
+"ojo": "Si quieres unir el contenido de varias celdas, usa la función **UNIRCADENAS** o **CONCAT**, no Combinar y centrar."
+},
+"x-in-01-060": {
+"just": "`EXTRAE(texto; posición_inicial; núm_de_caracteres)` toma caracteres desde una posición. En «Referencia 01», «Referencia» ocupa 10 caracteres, el espacio es el 11 y el 0 es el 12, así que dos caracteres desde ahí dan **01**.",
+"ojo": "La trampa es no contar el espacio. Para el inicio del texto se usa IZQUIERDA y para el final DERECHA."
+},
+"x-in-02-056": {
+"just": "**FORMULATEXTO(A1)** devuelve la **fórmula** de una celda **como texto**.",
+"ojo": "**BUSCARH** busca en filas, **COLUMNA** da el número de columna y **FIELDVALUE** no devuelve la fórmula de la celda. Para ver las fórmulas de toda la hoja a la vez, se usa Fórmulas > Mostrar fórmulas."
+},
+"x-in-02-057": {
+"just": "El formato personalizado **mmm-aa** muestra el **mes abreviado de tres letras** y el **año con dos cifras**: **ene-21**. El valor real de la celda no cambia, solo cómo se ve.",
+"ojo": "Con **mmmm** saldría el mes completo, con **aaaa** el año de cuatro cifras y con **dd** se vería el día. Si quitas el formato, la fecha sería el número de serie 44197."
+},
+"x-in-02-064": {
+"just": "En un mensaje de Outlook se puede **crear un gráfico de Excel** directamente: **Insertar > Ilustraciones > Gráfico**, se elige el tipo, se pulsa Aceptar y se escriben los datos en la hoja de Excel que se abre.",
+"ojo": "No hace falta copiar el gráfico desde Excel, aunque también se puede. Y no existe un grupo «Excel» en la pestaña Opciones del mensaje."
+},
+"x-in-03-053": {
+"just": "**PRUEBA** no existe como función de Excel. Las otras sí: **PRUEBA.F.N** (prueba F), **SI** (condiciones) y **BUSCAR** (búsquedas).",
+"ojo": "Si dudas de si una función existe, fíjate en el nombre exacto: PRUEBA.F.N sí existe, pero PRUEBA sola no."
+},
+"x-in-03-054": {
+"just": "En Excel en español la función es **SI.ERROR**, con punto. Escrita como **SIERROR**, Excel no reconoce el nombre y devuelve **#¿NOMBRE?**, sin llegar a calcular la división.",
+"ojo": "Si estuviera bien escrita, `=SI.ERROR(A2/B2;\"Error en el cálculo\")` mostraría el texto, porque 55/0 da #¡DIV/0!. La trampa es el nombre de la función, no la división."
+},
+"x-in-04-057": {
+"just": "Para que una celda **solo admita valores de un conjunto** previsto, se usa **Validación de datos > Permitir: Lista**, que crea una **lista desplegable**. Está en la pestaña **Datos**.",
+"ojo": "Marcar la celda como solo lectura la bloquea por completo, y una fórmula o una tabla aparte no restringen lo que se escribe."
+},
+"x-in-04-058": {
+"just": "El signo **!** separa el nombre de la hoja de la celda **dentro del mismo libro**. La fórmula resta C3 de la hoja Presupuesto_2 a A2 de la hoja Presupuesto_1.",
+"ojo": "Si fueran libros distintos, vería el nombre del archivo entre corchetes. Excel no limita los cálculos entre hojas diferentes."
+},
+"x-in-04-059": {
+"just": "**ESLOGICO(valor)** comprueba **si el argumento es un valor lógico** (VERDADERO o FALSO) y devuelve VERDADERO o FALSO. **FALSO** es un valor lógico, así que el resultado es **VERDADERO**.",
+"ojo": "La trampa es leer la función como si devolviera el valor del argumento. ESLOGICO no mira si es verdadero o falso, sino si es del tipo lógico."
+},
+"x-in-04-060": {
+"just": "En la versión **española** de Excel, los argumentos de una función se separan con **punto y coma**. `=MAX(77,12,81,23)` con comas da **error**, porque Excel lee 77,12 como un número decimal. Correcto: `=MAX(77;12;81;23)`, que devolvería 81.",
+"ojo": "Si la pregunta usa comas entre argumentos y Excel está en español, sospecha del error. En la versión inglesa sí se usan comas."
+},
+"x-in-05-058": {
+"just": "La **segmentación de datos** son botones que **filtran datos de forma visual e interactiva** en **tablas** y **tablas dinámicas**. Se insertan desde Insertar > Filtros > Segmentación de datos.",
+"ojo": "No divide tablas en varias, no hace operaciones de cálculo y no es una función financiera. Los botones muestran qué filtro está activo."
+},
+"x-in-05-059": {
+"just": "Con la tabla seleccionada, en **Archivo > Imprimir** se elige **Imprimir selección**, y solo se imprime esa tabla.",
+"ojo": "Las demás opciones imprimen más: **hojas activas** imprime las hojas seleccionadas, y **todo el libro** o **todas las hojas** imprimen todo."
+},
+"x-in-05-060": {
+"just": "Si escribes **20-2** en una celda sin formato, Excel lo interpreta como una **fecha** y muestra **20-feb** (20 de febrero del año actual). El valor guardado es el número de serie de esa fecha.",
+"ojo": "No es una resta: para que lo fuera haría falta empezar con `=`. Si el formato de celda fuera Texto, se vería 20-2."
+},
+"x-in-05-067": {
+"just": "En **Power Query**, la función **Anular dinamización de columnas** convierte **columnas en filas**: transforma varias columnas en pares de atributo y valor. Está en la pestaña Transformar.",
+"ojo": "Es la inversa de **dinamizar columnas**. **Agrupar por** resume filas y **Duplicar columnas** copia, y ninguna convierte columnas en filas."
+},
+"x-in-06-062": {
+"just": "Para imprimir **una sola página de ancho** y las que hagan falta de largo, en **Archivo > Imprimir > Escala** se elige **Ajustar todas las columnas en una página**.",
+"ojo": "**Ajustar hoja en una página** comprime también el alto, y **Ajustar todas las filas en una página** hace una sola página de alto. **Sin escalado** no cambia nada."
+},
+"x-in-06-063": {
+"just": "**DIVIDIRTEXTO** **reparte un texto en varias celdas** usando el delimitador indicado. Con `=DIVIDIRTEXTO(H44;\"-\")`, «Mochila-azul» queda como **«Mochila»** en J44 y **«azul»** en K44, porque el resultado se derrama a la derecha.",
+"ojo": "No extrae solo una parte ni sustituye el guion por un espacio. Es una función de Excel 365 reciente, y por eso no existe en versiones antiguas."
+},
+"x-in-07-055": {
+"just": "`FILAS(Registros[Fecha])` **devuelve el número de filas** de la referencia que se le pasa. `Registros[Fecha]` es la **columna Fecha de la tabla Registros**, así que si el resultado es 5, la columna tiene 5 filas.",
+"ojo": "No da formato ni diferencia de días, ni pone un máximo. **COLUMNAS** haría lo mismo con las columnas."
+},
+"x-in-07-056": {
+"just": "El formato **dd/mmm/aa** muestra el **día con dos cifras**, el **mes abreviado de tres letras** y el **año con dos cifras**: **11/ago/24**.",
+"ojo": "Con **mmmm** saldría «agosto», con **aaaa** «2024». Para recordarlo: una m o dos m son el número, tres m es el nombre abreviado y cuatro m es el nombre completo."
+},
+"x-in-07-058": {
+"just": "La función **NO** **invierte el valor lógico** de su argumento: `NO(FALSO)` devuelve VERDADERO y `NO(VERDADERO)` devuelve FALSO.",
+"ojo": "**ESLOGICO** solo comprueba si el valor es lógico, y **MINVERSA** calcula la inversa de una matriz. **CAMBIAR** busca un valor y lo sustituye por otro."
+},
+"x-in-08-056": {
+"just": "Una **referencia relativa** se **ajusta al copiar** la fórmula. Al copiarla una fila hacia abajo, **A1 pasa a A2**.",
+"ojo": "Para que no cambie hay que fijarla con **$** (por ejemplo, `$A$1`), y se alterna con **F4**. No da error al copiarse."
+},
+"x-in-08-057": {
+"just": "El error **#N/A** significa **valor no disponible**: es el típico de **BUSCARV**, **BUSCARX** o COINCIDIR cuando **no encuentran** lo que buscan.",
+"ojo": "Cada error tiene su causa: **#¡DIV/0!** es dividir entre cero, **#¿NOMBRE?** es una función mal escrita, **#¡VALOR!** es un tipo de dato equivocado y **#¡REF!** es una referencia rota."
+},
+"x-in-08-058": {
+"just": "**CONTAR** cuenta solo las celdas con **números**. **CONTARA** cuenta **todas las celdas no vacías**, sean números, texto, errores o lo que sea.",
+"ojo": "Para contar celdas **en blanco** se usa **CONTAR.BLANCO**. Ni CONTAR ni CONTARA suman valores: para sumar está SUMA."
+}
+}

@@ -1,0 +1,119 @@
+{
+"acc-in-01-061": {
+"just": "La función **SiInm** funciona como el SI de Excel: `SiInm(condición; valor_si_verdadero; valor_si_falso)`. Aquí la condición es `[País]=\"Francia\"`, así que la columna nueva muestra **Francés** cuando el país es Francia y **Español** en cualquier otro caso. Se escribe en una fila de campo de la consulta, en Vista Diseño.",
+"ojo": "Fíjate en que la condición compara el campo **País**. En las opciones falsas la comparación se hace con un campo «Francia» que no existe, y ninguna dice «en caso contrario»."
+},
+"acc-in-01-062": {
+"just": "En una consulta, la sintaxis `Alias: Expresión` crea un **campo calculado**: lo que va antes de los dos puntos es el nombre de la columna (**A_N**) y lo que va después es lo que se calcula. **Año()** extrae el año de una fecha, así que cada fila muestra el año de nacimiento en la columna A_N.",
+"ojo": "El nombre de la columna es el alias que tú pones, no el nombre de la función. Y si quisieras que pidiera un valor al ejecutar, tendrías que escribir un parámetro entre corchetes en la fila Criterios, no una expresión con Año()."
+},
+"acc-in-01-063": {
+"just": "**Fecha()** devuelve la fecha del día. La regla `>=Fecha()` exige que el valor sea **hoy o posterior**, así que Access rechaza cualquier fecha pasada. La Regla de validación está en la Vista Diseño de la tabla, en las propiedades del campo.",
+"ojo": "La Regla de validación solo **admite o rechaza** valores. No rellena nada: poner un dato inicial es la propiedad **Valor predeterminado** (por ejemplo, `Fecha()`)."
+},
+"acc-in-01-064": {
+"just": "**Conmutador** (Switch en inglés) recibe parejas de **condición; valor** y devuelve el valor de la primera pareja cuya condición sea verdadera: `=Conmutador([País]=\"UK\";\"Libra\";[País]=\"USA\";\"Dólar\")`. Se escribe en el **Origen del control** del cuadro de texto, empezando por `=`.",
+"ojo": "No lo confundas con **Elegir**, que no mira condiciones: devuelve el valor que ocupa una posición numérica (`Elegir(2;\"a\";\"b\")` da «b»). Para varios casos por condición, Conmutador o SiInm anidados."
+},
+"acc-in-02-058": {
+"just": "La Regla de validación de la **Hoja de propiedades de la tabla** puede hacer referencia a uno o varios campos de la tabla. `Longitud([Texto01])<10` obliga a que el texto tenga como máximo **9 caracteres**, y solo afecta al campo Texto01. Se comprueba al guardar el registro.",
+"ojo": "Hay dos sitios para una regla: en las propiedades del **campo** (solo ve ese campo) y en las de la **tabla** (puede comparar varios campos, por ejemplo, fecha de fin mayor que fecha de inicio). Ambas valen."
+},
+"acc-in-02-059": {
+"just": "El **Divisor de bases de datos** (ficha Herramientas de base de datos) es un asistente que **separa la base en dos archivos**: el back-end, con las tablas, y el front-end, con consultas, formularios e informes, que vincula a las tablas. Así varios usuarios comparten los datos y cada uno tiene su propia copia de la interfaz.",
+"ojo": "No comprime (eso es **Compactar y reparar**) ni depura código ni parte tablas grandes por fechas. Solo reparte los objetos entre datos e interfaz."
+},
+"acc-in-02-060": {
+"just": "La propiedad **Regla de validación** limita qué valores se aceptan en un campo. Se define en Vista Diseño de la tabla, en las propiedades del campo, y va acompañada del **Texto de validación**, el mensaje que sale cuando el dato no cumple la regla.",
+"ojo": "**Valor predeterminado** solo propone un dato inicial, **Alineación del texto** es formato visual y **Calculado** es un tipo de datos que obtiene el valor de otros campos. Ninguna restringe lo que se escribe."
+},
+"acc-in-03-042": {
+"just": "La propiedad **Regla de validación** define la condición que debe cumplir el dato para aceptarse, por ejemplo `>=0` o `Entre 1 Y 10`. Se escribe en Vista Diseño de la tabla, en las propiedades del campo. Si no se cumple, Access muestra el **Texto de validación**.",
+"ojo": "Hay propiedades que parecen limitar el campo, pero cada una hace algo distinto: la **Regla de validación** limita *qué valores* se aceptan, la **Máscara de entrada** limita *cómo se escribe* (formato de DNI o teléfono) y **Requerido** obliga a que no esté vacío. «Texto precalculado» no existe, el **Valor predeterminado** solo propone un dato inicial y **Calculado** es un tipo de datos."
+},
+"acc-in-03-056": {
+"just": "Microsoft ha ido mejorando el cuadro **Tell Me** («Indícame lo que quieres hacer», hoy llamado **Buscar**), que permite localizar y ejecutar comandos escribiendo lo que se quiere hacer. Es la única afirmación cierta de las cuatro.",
+"ojo": "Las otras tres son falsas: Access 365 **sí** permite ordenar en la Hoja de propiedades, **sí** admite el tipo **Número grande** (bigint) y **sí** importa o vincula datos de archivos dBASE.",
+"revisar": "La pregunta es muy genérica y no he encontrado una fuente de Microsoft que detalle qué mejoras concretas recibió el cuadro Tell Me en Access."
+},
+"acc-in-03-058": {
+"just": "**Fecha()** devuelve la fecha del día. La regla `>=Fecha()` exige que el valor sea **hoy o posterior**, así que Access rechaza cualquier fecha pasada. Se escribe en la Regla de validación del campo, en Vista Diseño de la tabla.",
+"ojo": "La Regla de validación solo **admite o rechaza** valores. Poner una fecha inicial es la propiedad **Valor predeterminado** (por ejemplo, `Fecha()`)."
+},
+"acc-in-03-059": {
+"just": "Los **módulos** de Access contienen código escrito en **VBA** (Visual Basic para Aplicaciones), el mismo lenguaje de programación que usan las macros del resto de Microsoft 365. Se abren desde el Editor de Visual Basic (Alt + F11).",
+"ojo": "No confundas los **módulos** (código VBA) con las **macros** de Access, que se construyen con acciones predefinidas sin programar."
+},
+"acc-in-03-060": {
+"just": "Según las especificaciones de Access, un informe admite hasta **10 campos o expresiones** para ordenar o agrupar. Se configuran en el panel **Agrupar, ordenar y total**, en la Vista Diseño o Presentación del informe.",
+"ojo": "Si te dan varios números, recuerda 10 para ordenar o agrupar en un informe. Otros límites parecidos no valen: 64 caracteres para un nombre de tabla y 255 campos por tabla."
+},
+"acc-in-03-061": {
+"just": "La **consulta de datos anexados** (o de anexar) **agrega registros** al final de una tabla existente, copiándolos desde otra tabla o consulta. Es una de las **consultas de acción**, junto con actualización, eliminación y creación de tabla.",
+"ojo": "No la confundas: **Actualización** cambia valores de registros que ya existen, **Eliminación** borra registros y **Creación de tabla** genera una tabla nueva. Unir registros de varias tablas es una consulta de selección con relaciones o una de unión."
+},
+"acc-in-03-067": {
+"just": "En Access, los nombres de tabla, campo, consulta, formulario o informe pueden tener hasta **64 caracteres**, incluidos los espacios.",
+"ojo": "Para no confundirte con otros límites: 64 caracteres en nombres, 255 en un campo de texto corto, 2 GB en el tamaño de la base de datos y 255 campos por tabla."
+},
+"acc-in-04-061": {
+"just": "Las **relaciones** entre tablas (ventana Relaciones, ficha Herramientas de base de datos) sirven para mantener la **integridad referencial**: evitan, por ejemplo, registrar un pedido de un cliente que no existe o borrar un cliente que aún tiene pedidos. También permiten combinar los datos de varias tablas en consultas, formularios e informes.",
+"ojo": "Una relación no hace más rápidas las consultas ni crea índices por sí sola, y la ventana Relaciones puede servir de documentación, pero no es para lo que existen."
+},
+"acc-in-04-062": {
+"just": "En la ficha **Herramientas de base de datos**, el botón **Compactar y reparar base de datos** reduce el tamaño del archivo y arregla posibles daños. También se puede lanzar desde Archivo > Información, pero la ruta que da la pregunta, con ese nombre exacto, es la de Herramientas de base de datos.",
+"ojo": "Access no tiene fichas «Edición» ni «Corregir»: son del estilo antiguo de otros programas. Las fichas de Access son Archivo, Inicio, Crear, Datos externos, Herramientas de base de datos y Ayuda."
+},
+"acc-in-04-063": {
+"just": "En la ficha **Herramientas de base de datos**, el botón **Base de datos de Access** (grupo Mover datos) lanza el **Divisor de bases de datos**: un asistente que separa las tablas en un archivo **back-end** y deja en el original los demás objetos (consultas, formularios, informes) vinculados a esas tablas.",
+"ojo": "En ese mismo grupo hay otros botones, como SharePoint o SQL Server, para mover las tablas a otros sitios. Compactar y reparar es otro botón distinto, en el grupo Herramientas."
+},
+"acc-in-05-057": {
+"just": "Un **informe** de Access toma sus datos de una **tabla o de una consulta**: se elige en la propiedad **Origen del registro**. Al crearlo con el asistente se escoge el objeto en la lista.",
+"ojo": "Si necesitas datos combinados o filtrados, crea primero una **consulta** y basa el informe en ella."
+},
+"acc-in-06-046": {
+"just": "El **Encabezado del informe** aparece **una sola vez**, al principio del informe, y es donde van el título o el logotipo. Lo que se repite en todas las páginas es el **Encabezado de página**.",
+"ojo": "Las secciones de un informe son: Encabezado del informe (una vez, al principio), Encabezado de página (en cada página), Detalle (por cada registro), Pie de página (en cada página) y Pie del informe (una vez, al final)."
+},
+"acc-in-06-064": {
+"just": "Las **consultas de acción** son las que **modifican los datos**: **anexar** registros, **actualizarlos**, **eliminarlos** o **crear una tabla** nueva. Se crean en la ficha Crear > Diseño de consulta, y se ejecutan con el botón Ejecutar (!). Access avisa antes de aplicar el cambio.",
+"ojo": "La **consulta de selección** solo muestra datos sin cambiarlos. Las de **resumen** (totales), **unión** y **referencias cruzadas** tampoco modifican nada."
+},
+"acc-in-06-068": {
+"just": "En Access, las fechas dentro de una expresión van **entre almohadillas**: `>=#01/01/2024#` admite fechas del 1 de enero de 2024 en adelante. Con comillas, Access lo trata como texto y compara letra a letra.",
+"ojo": "El operador «mayor o igual» se escribe `>=`. Escrito al revés, `=>`, da error de sintaxis. Y `=#01/01/2024#` aceptaría solo esa fecha."
+},
+"acc-in-07-059": {
+"just": "El formato **Estándar** muestra el número con **separador de miles** y **dos decimales** (2.345,68), pero **sin símbolo de moneda**. Se elige en la propiedad **Formato** del campo numérico, en Vista Diseño de la tabla.",
+"ojo": "Con **Moneda** aparecería el símbolo (2.345,68 €), con **Porcentaje** el número multiplicado por 100 y seguido de %, y **Número general** muestra el número tal como se escribió, sin separador de miles."
+},
+"acc-in-07-060": {
+"just": "En la fila **Criterios** de una consulta, un texto entre **corchetes** que no coincide con ningún nombre de campo se interpreta como un **parámetro**. Al ejecutar la consulta, Access abre la ventana **Introduzca el valor del parámetro** con ese texto, y filtra por lo que escribas.",
+"ojo": "Aquí el campo se llama «Fecha Alta» y el texto del corchete es «Fecha de Alta». Como no coinciden, es un parámetro. Si coincidieran, Access lo leería como una referencia al campo."
+},
+"acc-in-07-061": {
+"just": "El **Orden automático** de tabulación de un formulario recorre los controles **de izquierda a derecha y de arriba abajo**, como se lee. Se configura en Vista Diseño, ficha Diseño de formulario, botón **Orden de tabulación**.",
+"ojo": "Si el orden automático no te sirve, desmárcalo y arrastra los controles en la lista para fijar el orden a mano. También se puede cambiar un control desde la propiedad **Índice de tabulación**."
+},
+"acc-in-07-062": {
+"just": "Un campo de tipo **Datos adjuntos** permite guardar archivos dentro del registro, pero el límite lo marca la base de datos entera: **2 GB**.",
+"ojo": "Para no confundir: 2 GB es el límite del archivo de la base, 255 caracteres el de un Texto corto y 64 caracteres el de un nombre de objeto."
+},
+"acc-in-08-059": {
+"just": "La propiedad **Indexado** con la opción **Sí (sin duplicados)** crea un índice que **impide repetir valores** en ese campo. Se configura en Vista Diseño de la tabla, en las propiedades del campo. La clave primaria ya es un índice sin duplicados.",
+"ojo": "**Requerido** solo obliga a que el campo no esté vacío, el **Tamaño del campo** limita la longitud y la **Máscara de entrada** fija el formato de escritura. Ninguna evita que dos registros tengan el mismo valor."
+},
+"acc-in-08-060": {
+"just": "En SQL, la cláusula **WHERE** filtra los registros que cumplen una condición: `SELECT * FROM Clientes WHERE País='Francia'`. En la cuadrícula de diseño de la consulta, equivale a la fila **Criterios**.",
+"ojo": "Cada cláusula tiene su función: **SELECT** elige las columnas, **ORDER BY** ordena, **GROUP BY** agrupa y **WHERE** filtra. Si el filtro es sobre un valor agregado (suma, media), se usa **HAVING**."
+},
+"acc-in-08-061": {
+"just": "La **consulta de actualización** cambia los valores de campos en registros que **ya existen**, por ejemplo, subir un 5 % el precio de todos los productos de una categoría. Se crea en Crear > Diseño de consulta > Actualizar, y se ejecuta con el botón Ejecutar (!).",
+"ojo": "Es una **consulta de acción**: modifica datos de verdad y no se puede deshacer, así que conviene hacer antes una copia. No crea tablas ni borra ni inserta registros: eso son las consultas de creación de tabla, eliminación y anexar."
+},
+"acc-in-08-062": {
+"just": "Una **clave primaria compuesta** está formada por **dos o más campos**, y lo que debe ser único es la **combinación** de sus valores en cada registro. Ningún campo de la clave puede quedar **nulo**. Se crea seleccionando los campos en Vista Diseño y pulsando el botón Clave principal.",
+"ojo": "Cada campo por separado sí puede repetirse (por ejemplo, el mismo alumno en varios cursos), siempre que la pareja no se repita. La clave primaria no desactiva la integridad referencial ni convierte la tabla en otra cosa."
+}
+}

@@ -42,9 +42,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Mac OS es un sistema operativo. AMD es un fabricante, PostgreSQL un gestor de bases de datos y RJ45 un conector de red.",
+   "Es esta. **MySQL** es un **sistema gestor de bases de datos**, no un sistema operativo. **Linux**, **Android** y **Windows** sí lo son.",
    ""
-  ]
+  ],
+  "ojo": "Un sistema operativo gestiona el hardware y permite ejecutar programas. Un gestor de bases de datos (MySQL, PostgreSQL, SQL Server, Oracle) es un programa que corre encima."
  },
  "bas-in-01-042": {
   "bloque": "basica-general",
@@ -54,8 +55,9 @@
    "",
    "",
    "",
-   "Es esta. El cortafuegos (firewall) filtra el tráfico de red y bloquea las conexiones no autorizadas. Un backup es una copia de seguridad, un plóter es un periférico de salida para dibujo de gran formato y una tarjeta de memoria es almacenamiento."
-  ]
+   "Es esta. El **firewall** (cortafuegos) filtra el tráfico de red y **bloquea las conexiones no autorizadas**. Puede ser un equipo o un programa."
+  ],
+  "ojo": "Un **backup** es una copia de seguridad, un **plóter** es una impresora de gran formato y una **tarjeta de memoria** es almacenamiento. Ninguno protege la red."
  },
  "bas-in-01-043": {
   "bloque": "basica-general",
@@ -64,9 +66,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La escala es KB < MB < GB < TB < PB < EB: cada salto multiplica por unas mil veces. El exabyte es el mayor de los cuatro que se ofrecen.",
+   "Es esta. La escala crece de mil en mil: **KB < MB < GB < TB < PB < EB**. El **exabyte (EB)** es el mayor de los cuatro que se ofrecen.",
    ""
-  ]
+  ],
+  "ojo": "Truco para recordarlo: Kilo, Mega, Giga, Tera, Peta, Exa. Cada paso multiplica aproximadamente por 1.000 (o por 1.024 en base binaria)."
  },
  "win-in-01-044": {
   "bloque": "windows-general",
@@ -76,9 +79,9 @@
    "",
    "",
    "",
-   "Es esta. La ruta es Configuración > Sistema > Información, que muestra el procesador, la RAM, el tipo de sistema y la edición y versión de Windows. Cuentas guarda los datos del usuario, y Personalización no tiene página de estado."
+   "Es esta. La ruta es **Configuración > Sistema > Información** (antes «Acerca de»). Esa página muestra el procesador, la RAM, el tipo de sistema y la edición y versión de Windows 11, y tiene el botón Copiar para pegar los datos."
   ],
-  "ojo": "Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
+  "ojo": "**Cuentas > Tu información** solo guarda los datos del usuario, y **Bluetooth y dispositivos** es para periféricos. En Personalización no hay ninguna página de estado. Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
  },
  "win-in-01-045": {
   "bloque": "windows-general",
@@ -87,10 +90,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Las opciones de inicio de sesión, PIN, huella, reconocimiento facial de Windows Hello, contraseña, están en Configuración > Cuentas, porque afectan a la identidad del usuario, no al hardware ni a la red.",
+   "Es esta. Las opciones de inicio de sesión (**Windows Hello** con cara o huella, PIN, clave de seguridad y contraseña) están en **Configuración > Cuentas > Opciones de inicio de sesión**, porque tienen que ver con la identidad del usuario.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Para ubicar un ajuste, piensa a qué se refiere: hardware y pantalla son Sistema, wifi y VPN son Red e Internet, y todo lo que identifica a la persona está en Cuentas. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-01-046": {
   "bloque": "windows-general",
@@ -100,9 +103,9 @@
    "",
    "",
    "",
-   "Es esta. El diseño Detalles muestra una fila por archivo con columnas de nombre, fecha, tipo y tamaño, así que aporta más información que cualquiera de los diseños de iconos o que la lista simple."
+   "Es esta. El diseño **Detalles** muestra una fila por archivo con varias columnas: nombre, fecha de modificación, tipo y tamaño. Es el que más información da. Se elige en el menú **Ver > Mostrar** o en el botón **Ver** del Explorador de archivos."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Los diseños de **iconos** y la **lista** solo enseñan el nombre y, a lo sumo, la miniatura. En Detalles, además, se puede añadir más columnas con clic derecho en la cabecera. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-01-047": {
   "bloque": "windows-general",
@@ -110,23 +113,23 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Duplicar envía la misma imagen a las dos pantallas, útil para proyectar. Para tener escritorio continuo entre las dos hay que elegir «Extender estas pantallas»; para apagar una, «Mostrar solo en 1» o «en 2». Nada de esto copia archivos.",
+   "Es esta. **Duplicar estas pantallas** envía la misma imagen a las dos pantallas, lo que resulta útil para proyectar. Se elige en **Configuración > Sistema > Pantalla > Varias pantallas**.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Las otras opciones del mismo menú son **Extender estas pantallas** (escritorio continuo, se mueven ventanas de una a otra) y **Mostrar solo en 1** o **solo en 2**. Ninguna copia archivos en el disco. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-01-049": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 49",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Cualquier carpeta puede anclarse al Acceso rápido con el botón derecho y «Anclar a Acceso rápido», esté donde esté y sin necesidad de que forme parte de una biblioteca. Además del anclado manual, el Explorador añade solo las carpetas usadas con frecuencia.",
+   "Es esta. Cualquier **carpeta** se puede **anclar al Acceso rápido** con clic derecho > **Anclar a Acceso rápido**, esté donde esté. Además de lo anclado a mano, el Explorador añade solo las carpetas usadas con frecuencia.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Se anclan **carpetas**, no archivos sueltos, y no hace falta que estén en una biblioteca. Que aparezcan «solo las más usadas» es falso, porque las ancladas se quedan fijas. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-01-050": {
   "bloque": "windows-general",
@@ -134,11 +137,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. El Narrador es el lector de pantalla incluido en Windows, dentro de las opciones de accesibilidad.",
+   "Es esta. El **Mapa de caracteres** sirve para copiar símbolos y caracteres especiales de una fuente, no es una herramienta de accesibilidad. Las otras tres sí lo son: la **Lupa** amplía la pantalla, el **Narrador** lee en voz alta lo que hay y el **Reconocimiento de voz** permite controlar el equipo hablando.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "En preguntas «cuál NO es», identifica primero las tres que sí lo son, y la que sobra es la respuesta. Las herramientas de accesibilidad están en **Configuración > Accesibilidad**. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-01-051": {
   "bloque": "windows-general",
@@ -147,9 +150,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El Centro de actividades y la gestión de notificaciones no dicen nada de la versión del sistema: es la opción falsa y por tanto la que hay que marcar. Las otras tres sí funcionan: winver, las propiedades de Este equipo y la página de información del sistema en Configuración.",
+   "Es esta. El **Centro de actividades** (hoy Centro de notificaciones) con **Administrar notificaciones** gestiona los avisos y no dice nada de la versión de Windows. Por eso es la falsa y la que hay que marcar.",
    ""
-  ]
+  ],
+  "ojo": "Las tres ciertas son: **winver** en la búsqueda, clic derecho en **Este equipo > Propiedades** y **Configuración > Sistema > Acerca de**. La pregunta pide la INCORRECTA, así que la que no funciona es la buena."
  },
  "w-in-01-052": {
   "bloque": "word-insertar",
@@ -158,20 +162,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El panel Formato de imagen se organiza en cuatro pestañas: Relleno y línea, Efectos, Diseño y propiedades, e Imagen. Giro 3D y Recorte no son pestañas, sino secciones dentro de Efectos y de Imagen respectivamente.",
+   "Es esta. El panel **Formato de imagen** (clic derecho sobre la imagen > Formato de imagen) tiene cuatro pestañas: **Relleno y línea**, **Efectos**, **Diseño y propiedades** e **Imagen**.",
    ""
-  ]
+  ],
+  "ojo": "**Giro 3D** y **Recorte** no son pestañas: Giro 3D es una sección dentro de Efectos y Recorte es una sección dentro de Imagen. Las opciones falsas los mezclan como si fueran pestañas."
  },
  "w-in-01-054": {
   "bloque": "word-revisar",
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 54",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. «Leer en voz alta» está en la pestaña Revisar, junto al resto de herramientas de lectura y corrección. Es distinto del Lector inmersivo, que vive en la pestaña Vista.",
+   "Es esta. **Leer en voz alta** está en la pestaña **Revisar**, en el grupo **Voz**, junto a otras herramientas de lectura. También aparece en la pestaña Vista.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "No lo confundas con el **Lector inmersivo** (pestaña Vista), que cambia el formato de lectura. **Ayuda**, **Inicio** y **Diseño** no tienen esta función."
  },
  "x-in-01-055": {
   "bloque": "excel-general",
@@ -179,10 +185,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. La sintaxis Hoja!Celda referencia una celda de otra hoja del mismo libro. Para traer datos de otro libro haría falta la ruta y el nombre del archivo entre corchetes, así que la fórmula suma las dos B1 dentro del libro actual.",
+   "Es esta. La sintaxis **Hoja!Celda** referencia una celda de otra hoja **del mismo libro**. La fórmula **=Dato!B1+Resultados!B1** suma la B1 de la hoja Dato y la B1 de la hoja Resultados, esté donde esté la fórmula.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Para referenciar otro libro, haría falta el nombre del archivo entre corchetes: **=[Libro2.xlsx]Hoja1!B1**. Y sí se pueden hacer cálculos con celdas de hojas distintas."
  },
  "x-in-01-056": {
   "bloque": "excel-general",
@@ -190,10 +197,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. La función O devuelve VERDADERO si al menos una condición se cumple. Entre «mayor que», «igual a» y «menor que» siempre se cumple exactamente una, así que el resultado es VERDADERO pase lo que pase con los valores.",
+   "Es esta. La función **O** devuelve **VERDADERO** si **al menos una** de sus condiciones se cumple. Entre «A1 mayor que B1», «igual» y «menor», siempre se cumple una, así que C1 es **VERDADERO en todos los casos**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Si la función fuera **Y**, que pide que se cumplan todas, el resultado sería siempre FALSO, porque no pueden cumplirse las tres a la vez."
  },
  "x-in-01-057": {
   "bloque": "excel-general",
@@ -201,10 +209,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. DIA extrae el número de día del mes de una fecha. AHORA devuelve la fecha y hora actuales y no admite argumentos, DIA.LAB calcula una fecha sumando días laborables y DIAS mide la diferencia entre dos fechas.",
+   "Es esta. **DIA(A1)** devuelve el **número de día del mes** (de 1 a 31) de una fecha.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**AHORA** devuelve la fecha y hora actuales y no lleva argumentos, **DIA.LAB** suma días laborables a una fecha y **DIAS** calcula la diferencia entre dos fechas."
  },
  "x-in-01-059": {
   "bloque": "excel-general",
@@ -214,8 +223,9 @@
    "",
    "",
    "",
-   "Es esta. Al combinar celdas Excel conserva únicamente el contenido de la celda superior izquierda y descarta el resto, avisando antes con un cuadro de diálogo. Por eso queda Azul, centrado."
-  ]
+   "Es esta. Al **combinar celdas**, Excel conserva **solo el valor de la celda superior izquierda** y descarta el resto, avisando antes con un cuadro de diálogo. Queda **Azul**, centrado."
+  ],
+  "ojo": "Si quieres unir el contenido de varias celdas, usa la función **UNIRCADENAS** o **CONCAT**, no Combinar y centrar."
  },
  "x-in-01-060": {
   "bloque": "excel-general",
@@ -225,8 +235,9 @@
    "",
    "",
    "",
-   "Es esta. EXTRAE(texto; posición_inicial; núm_de_caracteres) toma caracteres desde una posición. «Referencia 01» tiene el 0 en la posición 12, contando el espacio, , así que dos caracteres desde ahí devuelven 01."
-  ]
+   "Es esta. **EXTRAE(texto; posición_inicial; núm_de_caracteres)** toma caracteres desde una posición. En «Referencia 01», «Referencia» ocupa 10 caracteres, el espacio es el 11 y el 0 es el 12, así que dos caracteres desde ahí dan **01**."
+  ],
+  "ojo": "La trampa es no contar el espacio. Para el inicio del texto se usa IZQUIERDA y para el final DERECHA."
  },
  "acc-in-01-061": {
   "bloque": "access-general",
@@ -236,8 +247,9 @@
    "",
    "",
    "",
-   "Es esta. SiInm evalúa una condición y devuelve el primer valor si es verdadera y el segundo si es falsa, igual que la función SI de Excel. Aquí compara el campo País con Francia."
-  ]
+   "Es esta. La función **SiInm** funciona como el SI de Excel: **SiInm(condición; valor_si_verdadero; valor_si_falso)**. Aquí la condición es **[País]=\"Francia\"**, así que la columna nueva muestra **Francés** cuando el país es Francia y **Español** en cualquier otro caso. Se escribe en una fila de campo de la consulta, en Vista Diseño."
+  ],
+  "ojo": "Fíjate en que la condición compara el campo **País**. En las opciones falsas la comparación se hace con un campo «Francia» que no existe, y ninguna dice «en caso contrario»."
  },
  "acc-in-01-062": {
   "bloque": "access-general",
@@ -246,9 +258,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La sintaxis Alias: Expresión crea un campo calculado con el nombre que va antes de los dos puntos. Año() extrae el año de una fecha, así que la columna A_N devuelve el año de nacimiento de cada registro.",
+   "Es esta. En una consulta, la sintaxis **Alias: Expresión** crea un **campo calculado**: lo que va antes de los dos puntos es el nombre de la columna (**A_N**) y lo que va después es lo que se calcula. **Año()** extrae el año de una fecha, así que cada fila muestra el año de nacimiento en la columna A_N.",
    ""
-  ]
+  ],
+  "ojo": "El nombre de la columna es el alias que tú pones, no el nombre de la función. Y si quisieras que pidiera un valor al ejecutar, tendrías que escribir un parámetro entre corchetes en la fila Criterios, no una expresión con Año()."
  },
  "acc-in-01-063": {
   "bloque": "access-general",
@@ -257,9 +270,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Fecha() devuelve la fecha del día. La regla >=Fecha() obliga a que lo introducido sea hoy o posterior, de modo que rechaza fechas pasadas. No asigna valores por defecto: eso es la propiedad Valor predeterminado.",
+   "Es esta. **Fecha()** devuelve la fecha del día. La regla **>=Fecha()** exige que el valor sea **hoy o posterior**, así que Access rechaza cualquier fecha pasada. La Regla de validación está en la Vista Diseño de la tabla, en las propiedades del campo.",
    ""
-  ]
+  ],
+  "ojo": "La Regla de validación solo **admite o rechaza** valores. No rellena nada: poner un dato inicial es la propiedad **Valor predeterminado** (por ejemplo, **Fecha()**)."
  },
  "acc-in-01-064": {
   "bloque": "access-general",
@@ -267,10 +281,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Conmutador recibe pares de condición y valor y devuelve el valor del primer par cuya condición sea cierta, así que resuelve varios casos en una sola expresión. Elegir, en cambio, selecciona por número de índice, no por condición.",
+   "Es esta. **Conmutador** (Switch en inglés) recibe parejas de **condición; valor** y devuelve el valor de la primera pareja cuya condición sea verdadera: **=Conmutador([País]=\"UK\";\"Libra\";[País]=\"USA\";\"Dólar\")**. Se escribe en el **Origen del control** del cuadro de texto, empezando por **=**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "No lo confundas con **Elegir**, que no mira condiciones: devuelve el valor que ocupa una posición numérica (**Elegir(2;\"a\";\"b\")** da «b»). Para varios casos por condición, Conmutador o SiInm anidados."
  },
  "bas-in-01-065": {
   "bloque": "basica-general",
@@ -279,9 +294,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. HTML son las siglas de HyperText Markup Language, el lenguaje con el que se estructuran las páginas web. HTTP y HTTPS son protocolos de transferencia, y URI es el identificador de un recurso.",
+   "Es esta. **HTML** (HyperText Markup Language) es el **lenguaje de marcado de hipertexto** con el que se estructuran las páginas web.",
    ""
-  ]
+  ],
+  "ojo": "**HTTP** y **HTTPS** son protocolos de transferencia (la S es de seguro). **URI** identifica un recurso. Solo HTML es un lenguaje de marcado."
  },
  "int-in-01-066": {
   "bloque": "internet-general",
@@ -291,8 +307,9 @@
    "",
    "",
    "",
-   "Es esta. El alojamiento web u hosting es el servicio que guarda los archivos del sitio en un servidor y los sirve a quien los pide. ERP y CRM son tipos de software de gestión, y el comercio electrónico es una actividad, no un servicio de alojamiento."
-  ]
+   "Es esta. El **hosting** o **alojamiento web** es el servicio que **guarda los archivos de un sitio web en un servidor** conectado a internet y los sirve a quien los pide. Lo ofrecen empresas proveedoras de servicios de internet o de alojamiento."
+  ],
+  "ojo": "**ERP** (gestión de recursos de la empresa) y **CRM** (gestión de clientes) son programas de gestión, y el **comercio electrónico** es una actividad de venta por internet."
  },
  "int-in-01-067": {
   "bloque": "internet-general",
@@ -301,9 +318,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La S de HTTPS es de «secure»: añade cifrado TLS, de modo que el tráfico viaja protegido y se valida la identidad del servidor con un certificado. Los dos protocolos funcionan en cualquier navegador y en cualquier dispositivo.",
+   "Es esta. La **S** de **HTTPS** viene de secure: añade una **capa de seguridad** que **cifra los datos** (mediante TLS) y comprueba la identidad del servidor con un certificado. HTTP envía todo en claro.",
    ""
-  ]
+  ],
+  "ojo": "Ambos funcionan en cualquier navegador y dispositivo. Se reconoce un sitio con HTTPS por el candado de la barra de direcciones."
  },
  "int-in-01-068": {
   "bloque": "internet-general",
@@ -312,9 +330,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El diseño adaptativo o responsive reorganiza los elementos de la página según el tamaño y la orientación de la pantalla, para que la misma web sirva en móvil, tableta y escritorio. La accesibilidad y el reconocimiento de voz son cosas distintas.",
+   "Es esta. El **diseño web adaptativo (responsive)** hace que los elementos de la página **se adapten a pantallas de distinto tamaño y formato**, de modo que la misma web se vea bien en móvil, tableta y ordenador.",
    ""
-  ]
+  ],
+  "ojo": "No es accesibilidad (que busca que personas con discapacidad puedan usar la web), ni un chat de asistencia, ni el control por voz."
  },
  "int-in-01-069": {
   "bloque": "internet-general",
@@ -324,8 +343,9 @@
    "",
    "",
    "",
-   "Es esta. SMTP (Simple Mail Transfer Protocol) es el protocolo de envío de correo entre servidores. ARP traduce direcciones IP a direcciones físicas, DHCP reparte direcciones IP y Telnet abre sesiones remotas sin cifrar."
-  ]
+   "Es esta. **SMTP** (Simple Mail Transfer Protocol) es el protocolo que **envía el correo electrónico** entre servidores y desde el cliente al servidor. El puerto habitual es el 25 (o 587)."
+  ],
+  "ojo": "Para **recibir** correo se usan **POP3** o **IMAP**. **ARP** traduce IP a dirección física, **DHCP** reparte direcciones IP y **Telnet** abre sesiones remotas sin cifrar."
  },
  "int-in-01-070": {
   "bloque": "internet-general",
@@ -335,8 +355,9 @@
    "",
    "",
    "",
-   "Es esta. Los navegadores ejecutan JavaScript de forma nativa. C#, Python y Basic necesitan otro entorno."
-  ]
+   "Es esta. El único de la lista que los navegadores interpretan **de forma nativa** es **JavaScript**. Se ejecuta en el propio navegador y da dinamismo a las páginas."
+  ],
+  "ojo": "**C++**, **Visual Basic** y **Fortran** son lenguajes de programación de propósito general que necesitan compilarse o ejecutarse fuera del navegador."
  },
  "bas-in-02-041": {
   "bloque": "basica-general",
@@ -346,19 +367,21 @@
    "",
    "",
    "",
-   "Es esta. Microsoft SQL Server es un sistema gestor de bases de datos. Android y Windows son sistemas operativos y PowerShell un intérprete de comandos."
-  ]
+   "Es esta. **Microsoft SQL Server** es un **sistema gestor de bases de datos (SGBD)**: almacena, organiza y consulta datos con lenguaje SQL."
+  ],
+  "ojo": "**Android** y **Windows** son sistemas operativos, y **PowerShell** es un intérprete de comandos y lenguaje de scripts."
  },
  "bas-in-02-042": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 42",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. La edición de vídeo es una aplicación, no una función básica del sistema operativo. Las otras tres sí lo son.",
+   "Es esta. La **edición de vídeo** es una **aplicación**, no una función básica del sistema operativo. Las funciones básicas son gestionar los archivos, los dispositivos (controladores), la memoria, los procesos y las comunicaciones.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Si la pregunta dice «NO forma parte», busca la opción que sea un programa concreto y no un servicio general del sistema."
  },
  "bas-in-02-043": {
   "bloque": "basica-general",
@@ -367,9 +390,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La minería de datos consiste en descubrir patrones dentro de grandes volúmenes de datos.",
+   "Es esta. La **minería de datos** consiste en **descubrir patrones y relaciones ocultas** dentro de grandes volúmenes de datos, usando estadística y aprendizaje automático.",
    ""
-  ]
+  ],
+  "ojo": "No es almacenar datos ni copias de seguridad ni compartir en la nube. Lo suyo es analizar y extraer conocimiento."
  },
  "win-in-02-044": {
   "bloque": "windows-general",
@@ -377,23 +401,23 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Un acceso directo es un fichero simbólico que apunta a un programa o archivo y permite abrirlo desde otro sitio.",
+   "Es esta. Un **acceso directo** es un archivo pequeño (extensión .lnk) que **apunta a un programa, archivo o carpeta** y permite abrirlo desde otro sitio sin moverlo. Se crea con clic derecho > **Mostrar más opciones > Crear acceso directo**, o arrastrando con Alt.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Borrar el acceso directo no borra el archivo original. No es un permiso ni una cuenta, ni una sección de eliminados (eso es la Papelera). Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-02-046": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 46",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. «No molestar» oculta los avisos emergentes, pero las notificaciones se siguen recibiendo y quedan en el Centro de notificaciones. Va de la mano de «Concentración», que además arranca un temporizador y silencia la barra de tareas. En Windows 10 esto se llamaba «Asistente de concentración».",
+   "Es esta. **No molestar** oculta los avisos emergentes y sonoros, pero las notificaciones **siguen llegando** y se guardan en el Centro de notificaciones. Se activa desde la campana de notificaciones o en Configuración > Sistema > Notificaciones.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
+  "ojo": "No cierra aplicaciones ni cambia el brillo. Es distinto de **Concentración**, que además inicia un temporizador y silencia los avisos de la barra de tareas. En Windows 10 se llamaba Asistente de concentración. Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
  },
  "win-in-02-047": {
   "bloque": "windows-general",
@@ -401,10 +425,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. El Bloc de notas es el editor de texto de funcionalidades muy simples incluido en Windows. WordPad era el intermedio, y ya no existe.",
+   "Es esta. El **Bloc de notas** es el editor de **texto sin formato** (.txt) más sencillo que viene con Windows: no tiene negritas ni tipos de letra distintos.",
    "",
    ""
-  ]
+  ],
+  "ojo": "La **herramienta Recortes** captura la pantalla, **Windows Media Player** reproduce multimedia y **Escritorio remoto** conecta con otro equipo."
  },
  "win-in-02-048": {
   "bloque": "windows-general",
@@ -412,10 +437,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Windows+E abre el Explorador de archivos.",
+   "Es esta. **Windows + E** abre el **Explorador de archivos**. La E es de «Explorador».",
    "",
    ""
-  ]
+  ],
+  "ojo": "Otros atajos muy preguntados: **Windows + I** abre Configuración, **Windows + D** muestra el escritorio, **Windows + L** bloquea el equipo y **Ctrl + Mayús + Esc** abre el Administrador de tareas."
  },
  "win-in-02-049": {
   "bloque": "windows-general",
@@ -425,8 +451,9 @@
    "",
    "",
    "",
-   "Es esta. No existe ninguna ruta Configuración › Sistema › Explorador de archivos: esa está inventada. Las otras tres sí funcionan."
-  ]
+   "Es esta. No existe ninguna ruta **Configuración > Sistema > Explorador de archivos**. Las otras tres formas sí abren el Explorador: clic derecho en Inicio, buscar «Explorador de archivos» en Inicio y **Windows + E**."
+  ],
+  "ojo": "En preguntas «NO es válida», fíjate en las rutas inventadas: el Explorador es un programa, no un apartado de la Configuración."
  },
  "win-in-02-050": {
   "bloque": "windows-general",
@@ -434,11 +461,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Alt+D lleva el cursor directamente a la barra de direcciones del Explorador.",
+   "Es esta. **Alt + D** selecciona la **barra de direcciones** del Explorador de archivos y permite escribir una ruta. También funcionan Ctrl + L y F4.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Con otras teclas se hace otra cosa: **Alt + P** muestra u oculta el panel de vista previa, **Ctrl + W** cierra la ventana y **Ctrl + E** o F3 van al cuadro de búsqueda. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-02-051": {
   "bloque": "windows-general",
@@ -446,11 +473,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Configurar página del Bloc de notas permite encabezado y pie, y mediante códigos se puede fijar la alineación e insertar fecha, hora, nombre del archivo y número de página.",
+   "Es esta. En el **Bloc de notas**, **Archivo > Configurar página** permite un encabezado y un pie de página. Mediante códigos como **&f** (nombre del archivo), **&d** (fecha), **&t** (hora) o **&p** (número de página) se incluyen esos datos, y con **&l**, **&c** y **&r** se alinea a la izquierda, centro o derecha.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Aunque es un editor simple, el Bloc de notas sí permite encabezados y pies, pero no formato de texto (negrita, color o tipo de letra por fragmento). Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "w-in-02-053": {
   "bloque": "word-vista",
@@ -459,9 +486,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Ver macros y Grabar macro están también en la pestaña Vista, además de en Programador.",
+   "Es esta. **Ver macros** y **Grabar macro** están en la pestaña **Vista**, en el grupo **Macros**, además de en la pestaña **Programador** (que hay que activar en Opciones).",
    ""
-  ]
+  ],
+  "ojo": "La pestaña Vista cambia cómo se ve el documento (vistas, zoom, ventanas), y las macros están al final, a la derecha."
  },
  "w-in-02-054": {
   "bloque": "word-archivo",
@@ -469,21 +497,23 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. «Presentar en línea» publica el documento en un servicio de Microsoft y reparte un enlace, de modo que los asistentes lo siguen en su propio navegador mientras quien presenta pasa las páginas. No convierte el archivo ni lo envía adjunto.",
+   "Es esta. **Archivo > Compartir > Presentar en línea** permite **presentar el documento a otras personas** que lo ven en su **navegador web** mientras tú avanzas por él. Se les envía un enlace.",
    "",
    ""
-  ]
+  ],
+  "ojo": "No convierte el documento en PowerPoint, no lo manda por correo y no lo publica en FTP. Para enviarlo adjunto, la opción es **Compartir** o **Enviar por correo**."
  },
  "w-in-02-055": {
   "bloque": "word-inicio",
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 55",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El botón Buscar abre el panel Navegación, con las pestañas Títulos, Páginas y Resultados. La ventana Buscar y reemplazar sale desde Reemplazar.",
+   "Es esta. El botón **Buscar** (Inicio > Edición) abre el panel **Navegación**, con un campo de búsqueda y tres pestañas: **Títulos**, **Páginas** y **Resultados**. Se abre con **Ctrl + B**.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "La ventana **Buscar y reemplazar** (con las pestañas Buscar, Reemplazar e Ir a) se abre con **Reemplazar** o con **Ctrl + L**."
  },
  "x-in-02-056": {
   "bloque": "excel-general",
@@ -493,19 +523,21 @@
    "",
    "",
    "",
-   "Es esta. FORMULATEXTO devuelve la fórmula de una celda como cadena de texto, que es exactamente lo que pide el enunciado."
-  ]
+   "Es esta. **FORMULATEXTO(A1)** devuelve la **fórmula** de una celda **como texto**."
+  ],
+  "ojo": "**BUSCARH** busca en filas, **COLUMNA** da el número de columna y **FIELDVALUE** no devuelve la fórmula de la celda. Para ver las fórmulas de toda la hoja a la vez, se usa Fórmulas > Mostrar fórmulas."
  },
  "x-in-02-057": {
   "bloque": "excel-general",
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 57",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El formato mmm-aa muestra el mes abreviado a tres letras y el año en dos cifras: ene-21.",
+   "Es esta. El formato personalizado **mmm-aa** muestra el **mes abreviado de tres letras** y el **año con dos cifras**: **ene-21**. El valor real de la celda no cambia, solo cómo se ve.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Con **mmmm** saldría el mes completo, con **aaaa** el año de cuatro cifras y con **dd** se vería el día. Si quitas el formato, la fecha sería el número de serie 44197."
  },
  "acc-in-02-058": {
   "bloque": "access-general",
@@ -515,20 +547,21 @@
    "",
    "",
    "",
-   "Es esta. Longitud([Texto01])<10 obliga a que el contenido tenga menos de 10 caracteres, es decir, un máximo de 9. Y afecta solo a ese campo, no a todos."
-  ]
+   "Es esta. La Regla de validación de la **Hoja de propiedades de la tabla** puede hacer referencia a uno o varios campos de la tabla. **Longitud([Texto01])<10** obliga a que el texto tenga como máximo **9 caracteres**, y solo afecta al campo Texto01. Se comprueba al guardar el registro."
+  ],
+  "ojo": "Hay dos sitios para una regla: en las propiedades del **campo** (solo ve ese campo) y en las de la **tabla** (puede comparar varios campos, por ejemplo, fecha de fin mayor que fecha de inicio). Ambas valen."
  },
  "acc-in-02-059": {
   "bloque": "access-general",
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 59",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El Divisor de bases de datos separa las tablas, que pasan a una base de datos back-end, del resto de objetos.",
+   "Es esta. El **Divisor de bases de datos** (ficha Herramientas de base de datos) es un asistente que **separa la base en dos archivos**: el back-end, con las tablas, y el front-end, con consultas, formularios e informes, que vincula a las tablas. Así varios usuarios comparten los datos y cada uno tiene su propia copia de la interfaz.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "No comprime (eso es **Compactar y reparar**) ni depura código ni parte tablas grandes por fechas. Solo reparte los objetos entre datos e interfaz. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "acc-in-02-060": {
   "bloque": "access-general",
@@ -537,9 +570,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La Regla de validación es la propiedad que limita qué valores se admiten en un campo. Valor predeterminado solo propone uno.",
+   "Es esta. La propiedad **Regla de validación** limita qué valores se aceptan en un campo. Se define en Vista Diseño de la tabla, en las propiedades del campo, y va acompañada del **Texto de validación**, el mensaje que sale cuando el dato no cumple la regla.",
    ""
-  ]
+  ],
+  "ojo": "**Valor predeterminado** solo propone un dato inicial, **Alineación del texto** es formato visual y **Calculado** es un tipo de datos que obtiene el valor de otros campos. Ninguna restringe lo que se escribe."
  },
  "out-in-02-061": {
   "bloque": "outlook-general",
@@ -547,11 +581,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. La ruta es Inicio › Correo no deseado › Opciones para el correo electrónico no deseado. Las demás mezclan grupos que no van juntos.",
+   "Es esta. La ruta es **Inicio > Correo no deseado > Opciones para el correo electrónico no deseado**. Ahí se elige el nivel de protección: sin filtrado automático, bajo, alto o solo lista de remitentes seguros.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "**Correo no deseado** es un grupo de la pestaña Inicio con su propio botón, y no cuelga de «Enviar y recibir». Las rutas falsas mezclan grupos que no van juntos. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "out-in-02-062": {
   "bloque": "outlook-general",
@@ -561,8 +595,9 @@
    "",
    "",
    "",
-   "Es esta. Mensaje › grupo Incluir › Firma › Firmas, y ahí el botón Nueva y el cuadro Editar firma. No hace falta certificado digital para una firma de texto."
-  ]
+   "Es esta. Con un correo nuevo abierto, en la pestaña **Mensaje** y el grupo **Incluir**, se elige **Firma > Firmas**. Se abre la pantalla **Firmas y plantillas**, donde el botón **Nueva** crea la firma y la sección **Editar firma** permite escribirla."
+  ],
+  "ojo": "Una firma de texto **no necesita certificado digital**: eso es la firma electrónica, que es otra cosa. Y la tarjeta de visita no es lo mismo que la firma."
  },
  "out-in-02-063": {
   "bloque": "outlook-general",
@@ -571,9 +606,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Ctrl+Mayús+P abre la ventana Nueva carpeta de búsqueda.",
+   "Es esta. **Ctrl + Mayús + P** abre la ventana **Nueva carpeta de búsqueda**.",
    ""
-  ]
+  ],
+  "ojo": "Ojo con **Ctrl + Mayús + Q**: sirve para crear una convocatoria de reunión, no una carpeta de búsqueda. Una carpeta de búsqueda es una carpeta virtual que muestra los mensajes que cumplen unos criterios, sin moverlos."
  },
  "x-in-02-064": {
   "bloque": "excel-general",
@@ -581,21 +617,23 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Sí se puede crear el gráfico desde el propio mensaje: Insertar › Ilustraciones › Gráfico, y se rellenan los datos en la hoja de Excel que se abre.",
+   "Es esta. En un mensaje de Outlook se puede **crear un gráfico de Excel** directamente: **Insertar > Ilustraciones > Gráfico**, se elige el tipo, se pulsa Aceptar y se escriben los datos en la hoja de Excel que se abre.",
    "",
    ""
-  ]
+  ],
+  "ojo": "No hace falta copiar el gráfico desde Excel, aunque también se puede. Y no existe un grupo «Excel» en la pestaña Opciones del mensaje."
  },
  "out-in-02-065": {
   "bloque": "outlook-general",
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 65",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. En el mensaje, pestaña Opciones › «Dirigir respuestas a», y ahí se indica la dirección a la que deben ir las respuestas.",
+   "Es esta. En el mensaje nuevo, en la pestaña **Opciones**, se pulsa **Dirigir respuestas a**. En la ventana Propiedades, se marca **Enviar las respuestas a** y se escribe la dirección que recibirá las respuestas.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Sí existe la opción, así que no hace falta una regla ni Visual Basic. El campo **CCO** sirve para ocultar destinatarios, no para dirigir respuestas."
  },
  "out-in-02-066": {
   "bloque": "outlook-general",
@@ -605,20 +643,21 @@
    "",
    "",
    "",
-   "Es esta. Limpiar carpeta quita los mensajes redundantes de las conversaciones, es decir, los que ya están citados dentro de otro posterior."
-  ]
+   "Es esta. **Limpiar carpeta** (pestaña Inicio > grupo Eliminar > Limpiar) **quita los mensajes redundantes** de todas las conversaciones de la carpeta, es decir, los que ya están citados completos en un mensaje posterior."
+  ],
+  "ojo": "No busca correo no deseado ni elimina mensajes dañados. Hay tres variantes: limpiar conversación, limpiar carpeta y limpiar carpeta y subcarpetas."
  },
  "out-in-02-067": {
   "bloque": "outlook-general",
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 67",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El nivel Editor permite enviar elementos en nombre del titular y además crear y responder convocatorias de reunión.",
+   "Es esta. Con el nivel **Editor** en Calendario y Bandeja de entrada, el delegado puede **enviar elementos en nombre del titular** y además **crear y responder convocatorias de reunión**. Se configura en Archivo > Configuración de la cuenta > Acceso de delegado.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Las opciones falsas combinan mal esas dos capacidades. Si se pide enviar en nombre del titular y gestionar reuniones, la herramienta es **Delegar acceso**. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "out-in-02-068": {
   "bloque": "outlook-general",
@@ -627,10 +666,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Formato de texto › Edición › Buscar busca texto dentro del correo que estás escribiendo, no contactos ni otros mensajes.",
+   "Es esta. En un mensaje nuevo, **Formato de texto > Edición > Buscar** busca **texto dentro del correo que estás escribiendo**.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "No busca contactos, mensajes relacionados ni horarios del destinatario. Para ver el tiempo libre de alguien se usa el Asistente para programación en una reunión. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "bas-in-02-069": {
   "bloque": "basica-general",
@@ -638,10 +677,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. HTML es el lenguaje de marcado estándar de las páginas web. CSS da estilo pero no es de marcado.",
+   "Es esta. **HTML** es el **lenguaje de marcado estándar** para elaborar páginas web: define títulos, párrafos, enlaces, imágenes y otros elementos.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**CSS** da el estilo (colores, tamaños, posición) pero no es lenguaje de marcado. **TypeScript** es un lenguaje de programación, y **Pascal** también."
  },
  "bas-in-02-070": {
   "bloque": "basica-general",
@@ -650,9 +690,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El CAPTCHA sirve para distinguir si quien está al otro lado es una persona o un programa automático.",
+   "Es esta. El **CAPTCHA** sirve para **distinguir a una persona de un programa automático (bot)**, normalmente pidiendo reconocer imágenes o escribir un texto distorsionado. Así se evitan registros o envíos masivos.",
    ""
-  ]
+  ],
+  "ojo": "No es un sistema de autenticación ni sustituye a un certificado electrónico, ni cambia el código de la página, ni es un juego."
  },
  "acc-in-03-042": {
   "bloque": "access-general",
@@ -662,8 +703,9 @@
    "",
    "",
    "",
-   "Es esta. La propiedad Regla de validación de un campo define la condición que debe cumplir el dato para ser aceptado, y Texto de validación es el mensaje que se muestra al incumplirla. Las otras propiedades citadas no existen con esos nombres."
-  ]
+   "Es esta. La propiedad **Regla de validación** define la condición que debe cumplir el dato para aceptarse, por ejemplo **>=0** o **Entre 1 Y 10**. Se escribe en Vista Diseño de la tabla, en las propiedades del campo. Si no se cumple, Access muestra el **Texto de validación**."
+  ],
+  "ojo": "Hay propiedades que parecen limitar el campo, pero cada una hace algo distinto: la **Regla de validación** limita qué valores se aceptan, la **Máscara de entrada** limita cómo se escribe (formato de DNI o teléfono) y **Requerido** obliga a que no esté vacío. «Texto precalculado» no existe, el **Valor predeterminado** solo propone un dato inicial y **Calculado** es un tipo de datos."
  },
  "bas-in-03-043": {
   "bloque": "basica-general",
@@ -671,33 +713,36 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. CAPTCHA son las siglas de «prueba de Turing pública y automática para distinguir a los ordenadores de los humanos»: sirven para separar personas de programas automáticos, típicamente para frenar registros o envíos masivos. No acreditan la identidad de nadie.",
+   "Es esta. **CAPTCHA** significa «prueba de Turing pública y automática para distinguir ordenadores de humanos». Sirve para **comprobar que quien está al otro lado es una persona** y no un programa automático.",
    "",
    ""
-  ]
+  ],
+  "ojo": "No acredita la identidad de nadie (eso es un certificado electrónico), no certifica contenido y no evita el phishing."
  },
  "bas-in-03-044": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 44",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El phishing consiste en suplantar a una entidad de confianza, el banco, la Administración, un compañero, para que la víctima entregue datos o pulse un enlace. Adware, troyano y rootkit son tipos de software malicioso, no la técnica de engaño.",
+   "Es esta. El **phishing** es la técnica de engaño que **suplanta a una entidad de confianza** (banco, Administración, compañero) para que la víctima revele datos o pulse un enlace malicioso.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Adware**, **troyano** y **rootkit** son tipos de software malicioso, no técnicas de engaño. Las variantes del phishing son el **smishing** (por SMS) y el **vishing** (por llamada).",
+  "revisar": "La opción correcta está escrita «Phising», sin la primera h. Es una errata de la propia pregunta oficial."
  },
  "win-in-03-045": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 45",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Windows Hello es el sistema de autenticación sin contraseña de Windows: reconocimiento facial, huella dactilar o PIN. Se configura en Configuración > Cuentas > Opciones de inicio de sesión.",
+   "Es esta. **Windows Hello** es el sistema de **autenticación biométrica** de Windows: permite iniciar sesión sin escribir la contraseña, con reconocimiento facial, huella dactilar o PIN. Se configura en **Configuración > Cuentas > Opciones de inicio de sesión**.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "No es un protocolo de comunicación ni la interfaz de Windows. Que ponga «Hello» en el nombre es la trampa para pensar que es un saludo o un asistente. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-03-046": {
   "bloque": "windows-general",
@@ -705,11 +750,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. El llamado Modo Dios es una carpeta especial que reúne en una sola ventana casi todas las herramientas de configuración del sistema. Se crea haciendo una carpeta y nombrándola con la cadena GodMode y el identificador de clase correspondiente.",
+   "Es esta. El **Modo Dios** (God Mode) es una **carpeta especial** que reúne en una sola ventana casi todas las opciones de configuración y administración del sistema. Se crea haciendo una carpeta nueva y llamándola **GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}**.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Existe en Windows 11 y no tiene que ver con la BIOS ni con ejecutar solo aplicaciones de la Microsoft Store (eso se parece al Modo S). Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-03-047": {
   "bloque": "windows-general",
@@ -717,11 +762,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Windows+D minimiza todas las ventanas para dejar el escritorio a la vista, y al pulsarla otra vez las restaura. No cierra nada.",
+   "Es esta. **Windows + D** minimiza todas las ventanas para mostrar el **escritorio**, y al pulsarla otra vez las restaura. No cierra nada.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Para cerrar la ventana activa se usa **Alt + F4**. **Windows + M** minimiza todas pero no las restaura con la misma tecla. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-03-048": {
   "bloque": "windows-general",
@@ -730,32 +775,34 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El Administrador de teclado no forma parte de Windows: llega con PowerToys, que hay que instalar aparte. Servicios, Monitor de recursos y Visor de eventos vienen de serie en Herramientas de Windows.",
+   "Es esta. El **Administrador de teclado** no forma parte de Windows: viene con **PowerToys**, un conjunto de utilidades de Microsoft que hay que instalar aparte. En la carpeta **Herramientas de Windows** sí vienen de serie Servicios, Monitor de recursos y Visor de eventos.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "La carpeta Herramientas de Windows se abre desde Inicio > Todas las aplicaciones. Ahí están también el Administrador de tareas, Monitor de rendimiento y Programador de tareas. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "bas-in-03-049": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 49",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Una ruta UNC se escribe \\\\servidor\\recurso\\ruta: dos barras invertidas al principio y una sola entre cada nivel. No admite letras de unidad locales como c: dentro de la ruta.",
+   "Es esta. Una ruta **UNC** se escribe **\\\\servidor\\recurso\\carpeta\\archivo**: **dos barras invertidas** al principio y **una sola** entre cada nivel. Así que **\\\\Server2\\Share\\Test\\Foo.txt** es la correcta.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Las falsas se equivocan en algo concreto: una sola barra al inicio, una barra doble en medio o una letra de unidad local (**c:**) dentro de la ruta."
  },
  "win-in-03-050": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 50",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Al restaurar, Windows devuelve el archivo a la carpeta exacta de la que se borró, recreándola si hiciera falta. No va al escritorio ni pide destino.",
+   "Es esta. Al **restaurar** un archivo desde la **Papelera de reciclaje**, Windows lo devuelve a su **ubicación original**, y si la carpeta ya no existe, la vuelve a crear.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Solo se recupera lo que pasó por la papelera. Lo borrado con **Mayús + Supr** o desde un USB o unidad de red no se puede restaurar desde ahí."
  },
  "x-in-03-053": {
   "bloque": "excel-general",
@@ -765,9 +812,9 @@
    "",
    "",
    "",
-   "Es esta. No existe ninguna función llamada PRUEBA. Sí existen PRUEBA.F.N para la prueba F, SI para las condiciones y BUSCAR para las búsquedas."
+   "Es esta. **PRUEBA** no existe como función de Excel. Las otras sí: **PRUEBA.F.N** (prueba F), **SI** (condiciones) y **BUSCAR** (búsquedas)."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Si dudas de si una función existe, fíjate en el nombre exacto: PRUEBA.F.N sí existe, pero PRUEBA sola no. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "x-in-03-054": {
   "bloque": "excel-general",
@@ -775,11 +822,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. En Excel en español la función se escribe SI.ERROR, con punto. Al teclearla sin el punto Excel no reconoce el nombre y devuelve el error #¿NOMBRE?, sin llegar a evaluar la división. Si estuviera bien escrita sí mostraría el texto de aviso.",
+   "Es esta. En Excel en español la función es **SI.ERROR**, con punto. Escrita como **SIERROR**, Excel no reconoce el nombre y devuelve **#¿NOMBRE?**, sin llegar a calcular la división.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Si estuviera bien escrita, **=SI.ERROR(A2/B2;\"Error en el cálculo\")** mostraría el texto, porque 55/0 da #¡DIV/0!. La trampa es el nombre de la función, no la división. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "acc-in-03-056": {
   "bloque": "access-general",
@@ -789,9 +836,10 @@
    "",
    "",
    "",
-   "Es esta. El cuadro «Buscar» o Tell Me, que localiza comandos escribiendo lo que se quiere hacer, se fue mejorando en las versiones de Microsoft 365. Las otras tres afirmaciones son falsas: Access 365 sí ordena en la Hoja de propiedades, sí admite el tipo Número grande y sí importa y vincula datos externos."
+   "Es esta. Microsoft ha ido mejorando el cuadro **Tell Me** («Indícame lo que quieres hacer», hoy llamado **Buscar**), que permite localizar y ejecutar comandos escribiendo lo que se quiere hacer. Es la única afirmación cierta de las cuatro."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Las otras tres son falsas: Access 365 **sí** permite ordenar en la Hoja de propiedades, **sí** admite el tipo **Número grande** (bigint) y **sí** importa o vincula datos de archivos dBASE. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365.",
+  "revisar": "La pregunta es muy genérica y no he encontrado una fuente de Microsoft que detalle qué mejoras concretas recibió el cuadro Tell Me en Access."
  },
  "acc-in-03-058": {
   "bloque": "access-general",
@@ -800,9 +848,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Fecha() devuelve la fecha del día. La regla >=Fecha() obliga a que lo introducido sea hoy o posterior, de modo que rechaza fechas pasadas. No asigna valores por defecto: eso es la propiedad Valor predeterminado.",
+   "Es esta. **Fecha()** devuelve la fecha del día. La regla **>=Fecha()** exige que el valor sea **hoy o posterior**, así que Access rechaza cualquier fecha pasada. Se escribe en la Regla de validación del campo, en Vista Diseño de la tabla.",
    ""
-  ]
+  ],
+  "ojo": "La Regla de validación solo **admite o rechaza** valores. Poner una fecha inicial es la propiedad **Valor predeterminado** (por ejemplo, **Fecha()**)."
  },
  "acc-in-03-059": {
   "bloque": "access-general",
@@ -810,10 +859,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Los módulos de Access se programan en VBA, Visual Basic para Aplicaciones, el mismo lenguaje de macros del resto de Microsoft 365.",
+   "Es esta. Los **módulos** de Access contienen código escrito en **VBA** (Visual Basic para Aplicaciones), el mismo lenguaje de programación que usan las macros del resto de Microsoft 365. Se abren desde el Editor de Visual Basic (Alt + F11).",
    "",
    ""
-  ]
+  ],
+  "ojo": "No confundas los **módulos** (código VBA) con las **macros** de Access, que se construyen con acciones predefinidas sin programar."
  },
  "acc-in-03-060": {
   "bloque": "access-general",
@@ -822,10 +872,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Access permite hasta 10 niveles de ordenación o agrupamiento en un informe.",
+   "Es esta. Según las especificaciones de Access, un informe admite hasta **10 campos o expresiones** para ordenar o agrupar. Se configuran en el panel **Agrupar, ordenar y total**, en la Vista Diseño o Presentación del informe.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Si te dan varios números, recuerda 10 para ordenar o agrupar en un informe. Otros límites parecidos no valen: 64 caracteres para un nombre de tabla y 255 campos por tabla. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "acc-in-03-061": {
   "bloque": "access-general",
@@ -835,20 +885,21 @@
    "",
    "",
    "",
-   "Es esta. Una consulta de datos anexados añade registros nuevos al final de una tabla existente. Actualizar valores es la consulta de actualización, y combinar tablas en una sola vista es una consulta de selección con relaciones."
-  ]
+   "Es esta. La **consulta de datos anexados** (o de anexar) **agrega registros** al final de una tabla existente, copiándolos desde otra tabla o consulta. Es una de las **consultas de acción**, junto con actualización, eliminación y creación de tabla."
+  ],
+  "ojo": "No la confundas: **Actualización** cambia valores de registros que ya existen, **Eliminación** borra registros y **Creación de tabla** genera una tabla nueva. Unir registros de varias tablas es una consulta de selección con relaciones o una de unión."
  },
  "out-in-03-062": {
   "bloque": "outlook-general",
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 62",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Sin una cuenta configurada Outlook no puede enviar ni recibir nada, así que lo primero es añadir la cuenta. Firmas, mensajes y personalización de la barra vienen después.",
+   "Es esta. Lo primero es **configurar tu cuenta de Outlook**. Sin una cuenta añadida, Outlook no puede enviar ni recibir correo. Después vienen redactar mensajes, la firma y personalizar la barra de acceso rápido.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Al abrir Outlook por primera vez, un asistente pide el correo electrónico y la contraseña. Es la primera acción, aunque a veces se omita porque ya está hecha. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "out-in-03-064": {
   "bloque": "outlook-general",
@@ -857,10 +908,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Outlook es el gestor de información personal de Microsoft 365: correo, calendario con citas y reuniones, contactos y tareas. La base de datos es Access y la hoja de cálculo, Excel.",
+   "Es esta. **Outlook 365** es un **gestor de información personal** del paquete Microsoft 365: sirve para el **correo electrónico, citas, reuniones, contactos y tareas**.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "La base de datos de Microsoft 365 es **Access**, el procesador de textos es **Word** y la hoja de cálculo es **Excel**. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "out-in-03-065": {
   "bloque": "outlook-general",
@@ -869,9 +920,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La exclamación roja es la marca de importancia alta que pone quien envía el mensaje. No dice nada sobre su seguridad ni sobre lo que lleva adjunto.",
+   "Es esta. La **exclamación roja** indica **importancia alta**, que pone quien envía el mensaje para señalar que requiere atención urgente.",
    ""
-  ]
+  ],
+  "ojo": "No indica nada de seguridad, ni de adjuntos sospechosos ni de macros. Una flecha azul hacia abajo indica importancia baja."
  },
  "int-in-03-066": {
   "bloque": "internet-general",
@@ -879,34 +931,35 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. FTP, File Transfer Protocol, es el protocolo para subir y descargar archivos entre un cliente y un servidor. El envío de correo es SMTP.",
+   "Es esta. **FTP** (File Transfer Protocol) es el **protocolo de transferencia de ficheros**: sirve para subir y descargar archivos entre un cliente y un servidor.",
    "",
    ""
-  ]
+  ],
+  "ojo": "El envío de correo es **SMTP**. La variante segura de FTP es **SFTP** o **FTPS**."
  },
  "acc-in-03-067": {
   "bloque": "access-general",
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 67",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Los nombres de tabla, campo y control en Access admiten como máximo 64 caracteres.",
+   "Es esta. En Access, los nombres de tabla, campo, consulta, formulario o informe pueden tener hasta **64 caracteres**, incluidos los espacios.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Para no confundirte con otros límites: 64 caracteres en nombres, 255 en un campo de texto corto, 2 GB en el tamaño de la base de datos y 255 campos por tabla. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "out-in-03-068": {
   "bloque": "outlook-general",
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 68",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Las vistas son las distintas maneras de presentar el contenido de una carpeta, ordenado, agrupado, con o sin panel de lectura, en lista compacta o individual, y se cambian desde la pestaña Vista.",
+   "Es esta. Las **vistas** son las **distintas formas de mostrar la información de una carpeta**: ordenada, agrupada, con o sin panel de lectura, en lista compacta o de mensaje único. Se cambian desde la pestaña **Vista**.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "No sirven para proteger elementos ni para personalizar la cinta ni para configurar contactos. Se aplican a todas las carpetas, no solo a la bandeja de entrada. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "int-in-03-069": {
   "bloque": "internet-general",
@@ -914,10 +967,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Ping envía paquetes ICMP a un equipo remoto y mide si responde y en cuánto tiempo. Ipconfig muestra la configuración de red del equipo local y netstat lista las conexiones abiertas.",
+   "Es esta. **Ping** envía paquetes de prueba (ICMP) a otro equipo y comprueba **si responde y cuánto tarda**. Sirve para ver si hay comunicación con equipos remotos.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Ipconfig** muestra la configuración de red del equipo local (dirección IP, máscara, puerta de enlace). **Netstat** lista las conexiones y puertos abiertos. **Address** no es un comando."
  },
  "bas-in-03-070": {
   "bloque": "basica-general",
@@ -926,20 +980,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La memoria caché está integrada en el procesador o muy cerca de él, así que es la más rápida de todas, aunque también la más pequeña y la más cara. Le siguen la RAM, la memoria flash y la ROM.",
+   "Es esta. La **memoria caché** es la más rápida, porque está dentro del procesador o muy cerca de él. Por eso es también la más pequeña y cara.",
    ""
-  ]
+  ],
+  "ojo": "El orden de más a menos rápida es: registros, caché, RAM, memoria flash (SSD) y disco duro. La **ROM** es de solo lectura y sirve para guardar el firmware."
  },
  "bas-in-04-041": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 41",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Plug and play significa que basta con conectar el dispositivo para que funcione, sin instalar nada a mano.",
+   "Es esta. **Plug and play** («conectar y usar») significa que **basta con conectar el dispositivo** para que el sistema lo reconozca y funcione, sin instalar nada a mano.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "No es un dispositivo de juego ni exclusivo de Bluetooth. Un USB o un ratón modernos son plug and play."
  },
  "bas-in-04-042": {
   "bloque": "basica-general",
@@ -947,10 +1003,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. La BIOS inicializa y comprueba el hardware al arrancar y después carga el sistema operativo.",
+   "Es esta. La **BIOS** es el firmware que, al encender el equipo, **inicializa y comprueba el hardware** (arranque POST) y **carga el sistema operativo**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "La memoria RAM la administra el sistema operativo, no la BIOS. En equipos modernos la BIOS se ha sustituido por **UEFI**, que hace lo mismo."
  },
  "bas-in-04-043": {
   "bloque": "basica-general",
@@ -960,8 +1017,9 @@
    "",
    "",
    "",
-   "Es esta. Un bit es la unidad mínima de información: un cero o un uno. Ocho bits forman un byte."
-  ]
+   "Es esta. Un **bit** es la **unidad mínima de información** y vale **0 o 1** en binario."
+  ],
+  "ojo": "Ocho bits forman un **byte**. Kilobyte y megabyte son múltiplos del byte, no del bit."
  },
  "bas-in-04-044": {
   "bloque": "basica-general",
@@ -970,9 +1028,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. CA son las siglas de Certification Authority, la autoridad de certificación que emite los certificados. Cuidado con el orden de las palabras, que es la trampa.",
+   "Es esta. **CA** son las siglas de Certification Authority, es decir, **Autoridad de Certificación**: la entidad que emite y firma los certificados electrónicos (en España, la FNMT, por ejemplo).",
    ""
-  ]
+  ],
+  "ojo": "La trampa es el orden de las palabras: «Certificado de autoridad» no existe. Es **Autoridad** de **Certificación**."
  },
  "win-in-04-045": {
   "bloque": "windows-general",
@@ -980,11 +1039,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Está en Configuración › Sistema › Multitarea, en la opción de mostrar en la barra de tareas las ventanas abiertas en todos los escritorios.",
+   "Es esta. Sí se puede cambiar, en **Configuración > Sistema > Multitarea > Escritorios virtuales**. En **«En la barra de tareas, mostrar las ventanas que están abiertas en»** se pasa de «Solo en el escritorio que estoy usando» a **«Todos los escritorios»**.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "El ajuste está en **Multitarea**, no en la configuración de la barra de tareas. Una opción falsa lo coloca en «Varias pantallas», que es el apartado de la barra de tareas que gestiona otra cosa. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-04-046": {
   "bloque": "windows-general",
@@ -994,8 +1053,9 @@
    "",
    "",
    "",
-   "Es esta. FPS no es un sistema de archivos (son fotogramas por segundo). NTFS, FAT y FAT32 sí lo son."
-  ]
+   "Es esta. **FPS** no es un sistema de archivos, sino la sigla de «fotogramas por segundo». **NTFS**, **FAT** y **FAT32** sí son sistemas de archivos que utiliza Windows."
+  ],
+  "ojo": "Los sistemas de archivos de Windows son NTFS, FAT, FAT32, exFAT y ReFS."
  },
  "win-in-04-047": {
   "bloque": "windows-general",
@@ -1005,9 +1065,9 @@
    "",
    "",
    "",
-   "Es esta. Ctrl+Esc abre el menú Inicio, igual que la tecla Windows."
+   "Es esta. **Ctrl + Esc** abre el **menú Inicio**, igual que la tecla con el logotipo de Windows."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Las demás combinaciones de la lista no abren Inicio. Para confundir, juegan con teclas como la I y la barra espaciadora, que tienen otros usos. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-04-048": {
   "bloque": "windows-general",
@@ -1016,10 +1076,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Windows y la tecla + abre la Lupa; Windows y - reduce la ampliación.",
+   "Es esta. **Windows y la tecla +** abre la **Lupa** y aumenta el zoom. Con **Windows y -** se reduce, y **Windows + Esc** cierra la Lupa.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "**Windows + E** abre el Explorador y no tiene que ver con la lupa. Las teclas de función no son atajos de la Lupa. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-04-049": {
   "bloque": "windows-general",
@@ -1029,8 +1089,9 @@
    "",
    "",
    "",
-   "Es esta. El Explorador tiene opciones para mostrar u ocultar extensiones y elementos ocultos, así que no muestra «siempre» todo. Los absolutos delatan la falsa."
-  ]
+   "Es esta. El Explorador de archivos tiene **opciones de configuración** en la pestaña **Ver > Mostrar** para ver u ocultar las **extensiones de nombre de archivo** y los **elementos ocultos**. Por tanto, no muestra siempre todo."
+  ],
+  "ojo": "En las preguntas de opción múltiple, desconfía de las respuestas con «siempre» o «solo»: suelen ser las falsas."
  },
  "bas-in-04-050": {
   "bloque": "basica-general",
@@ -1039,9 +1100,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Un acceso directo es un elemento que abre de forma inmediata el archivo o carpeta al que está vinculado.",
+   "Es esta. Un **acceso directo** es un elemento que **abre de forma inmediata** el archivo, la carpeta o el programa al que está vinculado, sin moverlo de su sitio.",
    ""
-  ]
+  ],
+  "ojo": "No es un atajo de teclado, ni un fichero con credenciales ni un segmento de red. Borrar el acceso directo no borra el original."
  },
  "win-in-04-051": {
   "bloque": "windows-general",
@@ -1050,10 +1112,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. NTFS es el sistema de archivos predeterminado de Windows. exFAT y FAT32 se usan sobre todo en memorias extraíbles.",
+   "Es esta. **NTFS** es el sistema de archivos **predeterminado** de Windows. Admite permisos, cifrado, compresión y archivos de gran tamaño.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "**FAT32** y **exFAT** se usan sobre todo en memorias USB y tarjetas por su compatibilidad con otros sistemas. **ReFS** existe, pero es para servidores y almacenamiento especializado. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "w-in-04-053": {
   "bloque": "word-revisar",
@@ -1063,9 +1125,9 @@
    "",
    "",
    "",
-   "Es esta. «Leer en voz alta» está en la pestaña Revisar. Las otras tres opciones no existen en Word."
+   "Es esta. **Leer en voz alta** es una función de Word 365, en la pestaña **Revisar**. Las otras tres opciones (grabador de vídeo, monitor de batería, línea de comandos) no son herramientas de Word."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "En Word 365 hay también **Dictar** y **Transcribir**, que trabajan con la voz en sentido contrario: pasan voz a texto. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "w-in-04-054": {
   "bloque": "word-revisar",
@@ -1073,23 +1135,23 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Revisar › Traducir. Es la misma pestaña que la ortografía y el control de cambios.",
+   "Es esta. La opción **Traducir** está en la pestaña **Revisar**, en el grupo **Idioma**. Permite traducir una selección o todo el documento.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "En Revisar está también todo lo demás de la corrección: ortografía, sinónimos, contar palabras, comentarios y control de cambios. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "w-in-04-055": {
   "bloque": "word-atajos",
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 55",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Mayús+F3 rota entre minúsculas, «Tipo Título» con cada palabra en mayúscula inicial, y todo en mayúsculas, pulsándola repetidamente.",
+   "Es esta. **Mayús + F3** rota el texto seleccionado entre **minúsculas**, **Tipo título** (primera letra de cada palabra en mayúscula) y **MAYÚSCULAS**, cada vez que se pulsa. También está en Inicio > Fuente > Cambiar mayúsculas y minúsculas.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Otras teclas de función con Mayús: **Mayús + F1** abre Mostrar formato y **Mayús + F7** abre el diccionario de sinónimos. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "bas-in-04-056": {
   "bloque": "basica-general",
@@ -1098,9 +1160,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Contar palabras muestra páginas, palabras, caracteres con y sin espacios, párrafos y líneas. Las opciones falsas quitan o añaden elementos a esa lista.",
+   "Es esta. **Contar palabras** (ficha Revisar en Word) muestra: **páginas, palabras, caracteres (sin espacios), caracteres (con espacios), párrafos y líneas**.",
    ""
-  ]
+  ],
+  "ojo": "Las falsas quitan elementos (por ejemplo, sin párrafos) o inventan otros, como «caracteres especiales» o «fórmulas»."
  },
  "x-in-04-057": {
   "bloque": "excel-general",
@@ -1109,10 +1172,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Se resuelve con validación de datos configurada como lista desplegable, que limita la celda a los valores previstos.",
+   "Es esta. Para que una celda **solo admita valores de un conjunto** previsto, se usa **Validación de datos > Permitir: Lista**, que crea una **lista desplegable**. Está en la pestaña **Datos**.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Marcar la celda como solo lectura la bloquea por completo, y una fórmula o una tabla aparte no restringen lo que se escribe. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "x-in-04-058": {
   "bloque": "excel-general",
@@ -1121,20 +1184,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El signo de admiración separa el nombre de la hoja y la celda dentro del mismo libro. Si fueran libros distintos aparecería el nombre del archivo entre corchetes.",
+   "Es esta. El signo **!** separa el nombre de la hoja de la celda **dentro del mismo libro**. La fórmula resta C3 de la hoja Presupuesto_2 a A2 de la hoja Presupuesto_1.",
    ""
-  ]
+  ],
+  "ojo": "Si fueran libros distintos, vería el nombre del archivo entre corchetes. Excel no limita los cálculos entre hojas diferentes."
  },
  "x-in-04-059": {
   "bloque": "excel-general",
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 59",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. ESLOGICO comprueba si el argumento es un valor lógico. FALSO lo es, así que el resultado es VERDADERO. La trampa es leerlo como si devolviera el valor.",
+   "Es esta. **ESLOGICO(valor)** comprueba **si el argumento es un valor lógico** (VERDADERO o FALSO) y devuelve VERDADERO o FALSO. **FALSO** es un valor lógico, así que el resultado es **VERDADERO**.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "La trampa es leer la función como si devolviera el valor del argumento. ESLOGICO no mira si es verdadero o falso, sino si es del tipo lógico."
  },
  "x-in-04-060": {
   "bloque": "excel-general",
@@ -1142,11 +1207,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. En la versión española el separador de argumentos es el punto y coma. Escrita con comas, la fórmula da error.",
+   "Es esta. En la versión **española** de Excel, los argumentos de una función se separan con **punto y coma**. **=MAX(77,12,81,23)** con comas da **error**, porque Excel lee 77,12 como un número decimal. Correcto: **=MAX(77;12;81;23)**, que devolvería 81.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Si la pregunta usa comas entre argumentos y Excel está en español, sospecha del error. En la versión inglesa sí se usan comas. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "acc-in-04-061": {
   "bloque": "access-general",
@@ -1156,21 +1221,21 @@
    "",
    "",
    "",
-   "Es esta. Las relaciones entre tablas existen para mantener la integridad referencial de los datos."
+   "Es esta. Las **relaciones** entre tablas (ventana Relaciones, ficha Herramientas de base de datos) sirven para mantener la **integridad referencial**: evitan, por ejemplo, registrar un pedido de un cliente que no existe o borrar un cliente que aún tiene pedidos. También permiten combinar los datos de varias tablas en consultas, formularios e informes."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Una relación no hace más rápidas las consultas ni crea índices por sí sola, y la ventana Relaciones puede servir de documentación, pero no es para lo que existen. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "acc-in-04-062": {
   "bloque": "access-general",
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 62",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Herramientas de base de datos › Compactar y reparar base de datos. También está en Archivo › Información, pero con ese nombre exacto la ruta correcta es la primera.",
+   "Es esta. En la ficha **Herramientas de base de datos**, el botón **Compactar y reparar base de datos** reduce el tamaño del archivo y arregla posibles daños. También se puede lanzar desde Archivo > Información, pero la ruta que da la pregunta, con ese nombre exacto, es la de Herramientas de base de datos.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Access no tiene fichas «Edición» ni «Corregir»: son del estilo antiguo de otros programas. Las fichas de Access son Archivo, Inicio, Crear, Datos externos, Herramientas de base de datos y Ayuda. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "acc-in-04-063": {
   "bloque": "access-general",
@@ -1178,45 +1243,47 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. El botón «Base de datos de Access» lanza el asistente que divide la base en una parte de datos y otra de objetos.",
+   "Es esta. En la ficha **Herramientas de base de datos**, el botón **Base de datos de Access** (grupo Mover datos) lanza el **Divisor de bases de datos**: un asistente que separa las tablas en un archivo **back-end** y deja en el original los demás objetos (consultas, formularios, informes) vinculados a esas tablas.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "En ese mismo grupo hay otros botones, como SharePoint o SQL Server, para mover las tablas a otros sitios. Compactar y reparar es otro botón distinto, en el grupo Herramientas. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "int-in-04-064": {
   "bloque": "internet-general",
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 64",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El rango 172.16.0.0: 172.31.255.255 es uno de los tres reservados para redes privadas, junto con 10.0.0.0/8 y 192.168.0.0/16.",
+   "Es esta. Hay tres rangos de direcciones IPv4 **reservados para redes privadas**: **10.0.0.0 a 10.255.255.255**, **172.16.0.0 a 172.31.255.255** y **192.168.0.0 a 192.168.255.255**. Por eso el bloque 172.16.0.0 a 172.31.255.255 es el correcto.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "La trampa es el parecido: **175.16.x.x** parece privado pero es público, y **11.x.x.x** y **195.166.x.x** también son públicos. El segundo número del rango 172 debe estar entre 16 y 31."
  },
  "out-in-04-065": {
   "bloque": "outlook-general",
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 65",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Las comillas dobles son las que fuerzan la búsqueda de la frase exacta.",
+   "Es esta. Para buscar una **frase exacta** se escribe entre **comillas dobles**: **\"informe anual\"**. Así Outlook busca esas palabras juntas y en ese orden.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Las comillas simples no funcionan y no existe un operador «exact». Sin comillas, Outlook busca cada palabra por separado. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "bas-in-04-066": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 66",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Cl@ve es el sistema de identidad digital y firma de la Administración. Notifica, SIR y GEISER son servicios de notificación e intercambio de registros.",
+   "Es esta. **Cl@ve** es el sistema de **identidad digital y firma electrónica** de la Administración: permite identificarse ante los servicios públicos y firmar con claves de un solo uso, PIN o certificado.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Notifica** gestiona notificaciones electrónicas, y **SIR** y **GEISER** son del registro de documentos entre administraciones."
  },
  "int-in-04-067": {
   "bloque": "internet-general",
@@ -1225,9 +1292,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. POP3 descarga los mensajes al dispositivo; IMAP los mantiene en el servidor y los sincroniza. La otra de las opciones invierte justo los dos protocolos.",
+   "Es esta. **POP3** **descarga** los correos del servidor al dispositivo y normalmente los borra del servidor, mientras que **IMAP** los **deja en el servidor** y los sincroniza entre todos los dispositivos.",
    ""
-  ]
+  ],
+  "ojo": "Por eso con IMAP se ve el mismo correo desde el móvil y el ordenador. «Todas son correctas» es la típica opción falsa cuando hay una que invierte los protocolos."
  },
  "out-in-04-068": {
   "bloque": "outlook-general",
@@ -1237,19 +1305,21 @@
    "",
    "",
    "",
-   "Es esta. Archivar mueve el mensaje a la carpeta Archivo sin borrarlo, para tenerlo fuera de la bandeja pero disponible."
-  ]
+   "Es esta. **Archivar** mueve el mensaje a la carpeta **Archivo** sin borrarlo, para tenerlo fuera de la bandeja de entrada pero disponible. Está en la pestaña Inicio, grupo Eliminar."
+  ],
+  "ojo": "**Eliminar** lo manda a Elementos eliminados. Y Guardar, Eliminar temporalmente y Confirmar lectura posterior no son opciones de Outlook."
  },
  "int-in-04-069": {
   "bloque": "internet-general",
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 69",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Telnet pertenece a la capa de aplicación. Ojo: «Sesión» ni siquiera es una capa del modelo TCP/IP.",
+   "Es esta. **Telnet** está en la **capa de aplicación** del modelo TCP/IP, igual que HTTP, FTP, SMTP o DNS. Es un protocolo para abrir una terminal remota.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "El modelo TCP/IP tiene cuatro capas: **acceso a la red, internet, transporte y aplicación**. La capa de **sesión** es del modelo OSI, no del TCP/IP."
  },
  "int-in-04-070": {
   "bloque": "internet-general",
@@ -1259,19 +1329,21 @@
    "",
    "",
    "",
-   "Es esta. Los navegadores ejecutan JavaScript de forma nativa. C#, Python y Basic necesitan otro entorno."
-  ]
+   "Es esta. El único de la lista que los navegadores interpretan **de forma nativa** es **JavaScript**. Se ejecuta en el propio navegador y da dinamismo a las páginas."
+  ],
+  "ojo": "**Basic**, **C#** y **Python** son lenguajes de propósito general que se ejecutan fuera del navegador o necesitan otro entorno."
  },
  "bas-in-05-041": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 41",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El lápiz óptico introduce datos, así que es periférico de entrada. El ratón es externo y la función de la CPU es procesar, no almacenar.",
+   "Es esta. El **escáner** es un **periférico de entrada**: introduce información (documentos e imágenes) en el ordenador.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "La **impresora** es de **salida**, una **tarjeta de red** sirve para conectarse a una red y Linux **sí** admite impresoras. Entrada: teclado, ratón, escáner, micrófono. Salida: monitor, impresora, altavoces."
  },
  "bas-in-05-042": {
   "bloque": "basica-general",
@@ -1280,9 +1352,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Mac OS es un sistema operativo. AMD es un fabricante, PostgreSQL un gestor de bases de datos y RJ45 un conector de red.",
+   "Es esta. **Mac OS** (hoy macOS) es un **sistema operativo**, el de Apple.",
    ""
-  ]
+  ],
+  "ojo": "**AMD** es un fabricante de procesadores, **PostgreSQL** un gestor de bases de datos y **RJ45** es el conector de los cables de red."
  },
  "bas-in-05-043": {
   "bloque": "basica-general",
@@ -1290,21 +1363,23 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Excel es una aplicación ofimática. Windows es el sistema operativo, MySQL un gestor de bases de datos y Chrome un navegador.",
+   "Es esta. **Excel** es una **aplicación ofimática**: hoja de cálculo del paquete Microsoft Office. La ofimática incluye procesadores de texto, hojas de cálculo, presentaciones y gestores de correo.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Windows** es el sistema operativo, **MySQL** un gestor de bases de datos y **Chrome** un navegador."
  },
  "bas-in-05-044": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 44",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Es la definición de certificado electrónico, y el de la FNMT para persona física es el de Ciudadano. Las demás opciones son normas de calidad o un número de serie.",
+   "Es esta. Un **certificado electrónico** es un documento digital que **vincula a su titular con unos datos de verificación de firma** y confirma su identidad. El de la FNMT para personas físicas es el **Certificado de Ciudadano**.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "**ISO 9001** y **HACCP** son normas de calidad y seguridad alimentaria, y **CMD** es el Certificado Móvil Digital."
  },
  "win-in-05-045": {
   "bloque": "windows-general",
@@ -1312,11 +1387,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Desde 2023 la herramienta Recortes de Windows 11 graba vídeo de la pantalla, además de capturar imágenes. Escritorio remoto conecta con otro equipo, Paint dibuja y la Grabadora de acciones de usuario (psr.exe) solo guarda una secuencia de capturas con anotaciones, no vídeo.",
+   "Es esta. La herramienta **Recortes** de Windows 11 puede **grabar vídeo de la pantalla**, además de capturar imágenes. Es la más adecuada para un tutorial. Se abre con **Windows + Mayús + S** y se elige el modo de vídeo.",
    "",
    ""
   ],
-  "ojo": "Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
+  "ojo": "**Escritorio remoto** conecta con otro equipo, **Paint** dibuja y la **Grabadora de acciones del usuario** solo guarda una secuencia de capturas con anotaciones, sin vídeo. Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
  },
  "win-in-05-046": {
   "bloque": "windows-general",
@@ -1325,22 +1400,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El Narrador es el lector de pantalla incluido en Windows, dentro de las opciones de accesibilidad.",
+   "Es esta. El **Narrador** es el **lector de pantalla** de Windows 11: lee en voz alta lo que aparece en pantalla. Está en **Configuración > Accesibilidad**, y se activa con **Windows + Ctrl + Intro**.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "La **Cámara**, el **Visor XPS** y **Sway** (aplicación para crear presentaciones y boletines) no son de accesibilidad. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-05-047": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 47",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Windows+E abre el Explorador de archivos, y sigue siendo así en Windows 11.",
+   "Es esta. **Windows + E** abre el **Explorador de archivos**, en Windows 11 igual que en versiones anteriores.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Para minimizar todo se usa **Windows + D**, para cambiar entre aplicaciones **Alt + Tab**, y para maximizar una ventana **Windows + Flecha arriba**. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-05-049": {
   "bloque": "windows-general",
@@ -1349,10 +1424,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El Administrador de tareas muestra los procesos en ejecución y el consumo de CPU y memoria. Se abre con Ctrl+Mayús+Esc.",
+   "Es esta. El **Administrador de tareas** muestra los **procesos en ejecución** y su consumo de **CPU, memoria, disco y red**. Se abre con **Ctrl + Mayús + Esc** o con clic derecho en Inicio.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "El **Visor de eventos** es un registro de sucesos pasados, no del uso actual. Las propiedades del disco C: solo informan del espacio. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-05-050": {
   "bloque": "windows-general",
@@ -1361,10 +1436,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Extender reparte el escritorio entre las dos pantallas. Duplicar mostraría lo mismo en las dos.",
+   "Es esta. **Extender estas pantallas** reparte el escritorio entre las dos pantallas, de modo que cada una enseña ventanas distintas y se pueden arrastrar elementos de una a otra. Se elige en **Configuración > Sistema > Pantalla > Varias pantallas**.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "**Duplicar** muestra lo mismo en ambas, y **Mostrar únicamente en 1** o **en 2** apaga la otra pantalla. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-05-051": {
   "bloque": "windows-general",
@@ -1374,8 +1449,9 @@
    "",
    "",
    "",
-   "Es esta. El índice sirve para que los resultados de búsqueda salgan más rápido. No copia archivos ni los excluye de nada."
-  ]
+   "Es esta. **Indexar** crea un **índice** de nombres y contenido de archivos y correos, para que la **búsqueda sea más rápida**. Se configura en **Configuración > Privacidad y seguridad > Buscar en Windows**."
+  ],
+  "ojo": "El índice no hace copias de seguridad ni sincroniza con OneDrive. Si quieres que una carpeta no aparezca en las búsquedas, se excluye en las mismas opciones."
  },
  "w-in-05-054": {
   "bloque": "word-inicio",
@@ -1385,19 +1461,21 @@
    "",
    "",
    "",
-   "Es esta. Los Estilos son los que marcan la jerarquía del documento y permiten después generar la tabla de contenido automáticamente."
-  ]
+   "Es esta. Los **Estilos** (Inicio > Estilos) aplican formatos predefinidos y marcan la **jerarquía** del documento, con Título 1, Título 2, etc. Después, Word genera la **tabla de contenido** automáticamente a partir de esos títulos."
+  ],
+  "ojo": "Cambiar a mano el tamaño, el tipo de fuente o el espaciado cambia el aspecto, pero no marca la estructura. Sin estilos de título, no se puede generar una tabla de contenido automática."
  },
  "w-in-05-055": {
   "bloque": "word-referencias",
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 55",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El índice recoge palabras clave y las páginas donde aparecen. La tabla de contenido recoge los títulos, que es otra cosa.",
+   "Es esta. **Insertar índice** (Referencias > Índice) recoge las **palabras clave** marcadas con **Marcar entrada** y las **páginas** donde aparecen, al final del documento.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "No lo confundas con la **tabla de contenido**, que recoge los títulos del documento. Las notas al final y los elementos rápidos tienen otros usos."
  },
  "acc-in-05-057": {
   "bloque": "access-general",
@@ -1407,8 +1485,9 @@
    "",
    "",
    "",
-   "Es esta. Un informe de Access se puede crear tanto sobre tablas como sobre consultas."
-  ]
+   "Es esta. Un **informe** de Access toma sus datos de una **tabla o de una consulta**: se elige en la propiedad **Origen del registro**. Al crearlo con el asistente se escoge el objeto en la lista."
+  ],
+  "ojo": "Si necesitas datos combinados o filtrados, crea primero una **consulta** y basa el informe en ella."
  },
  "x-in-05-058": {
   "bloque": "excel-general",
@@ -1418,8 +1497,9 @@
    "",
    "",
    "",
-   "Es esta. La segmentación de datos son botones que filtran de forma visual e interactiva tablas y tablas dinámicas."
-  ]
+   "Es esta. La **segmentación de datos** son botones que **filtran datos de forma visual e interactiva** en **tablas** y **tablas dinámicas**. Se insertan desde Insertar > Filtros > Segmentación de datos."
+  ],
+  "ojo": "No divide tablas en varias, no hace operaciones de cálculo y no es una función financiera. Los botones muestran qué filtro está activo."
  },
  "x-in-05-059": {
   "bloque": "excel-general",
@@ -1428,20 +1508,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Con la tabla seleccionada, en la pantalla de impresión se elige «Imprimir selección».",
+   "Es esta. Con la tabla seleccionada, en **Archivo > Imprimir** se elige **Imprimir selección**, y solo se imprime esa tabla.",
    ""
-  ]
+  ],
+  "ojo": "Las demás opciones imprimen más: **hojas activas** imprime las hojas seleccionadas, y **todo el libro** o **todas las hojas** imprimen todo."
  },
  "x-in-05-060": {
   "bloque": "excel-general",
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 60",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Excel interpreta 20-2 como una fecha y lo muestra como 20-feb.",
+   "Es esta. Si escribes **20-2** en una celda sin formato, Excel lo interpreta como una **fecha** y muestra **20-feb** (20 de febrero del año actual). El valor guardado es el número de serie de esa fecha.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "No es una resta: para que lo fuera haría falta empezar con **=**. Si el formato de celda fuera Texto, se vería 20-2."
  },
  "out-in-05-061": {
   "bloque": "outlook-general",
@@ -1450,9 +1532,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. «Buzón actual» busca en todas las carpetas del buzón en el que estás, no en las dos cuentas a la vez ni solo en la carpeta abierta.",
+   "Es esta. La búsqueda sobre **Buzón actual** se hace en **todas las carpetas del buzón** de la cuenta en la que estás, no en las dos cuentas a la vez ni solo en la carpeta abierta.",
    ""
-  ]
+  ],
+  "ojo": "En el desplegable de ámbito hay otras opciones: **Carpeta actual**, **Subcarpetas**, **Todos los buzones** y **Todos los elementos de Outlook** (esa también incluye citas y tareas)."
  },
  "out-in-05-062": {
   "bloque": "outlook-general",
@@ -1460,10 +1543,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Las reglas son las que ejecutan acciones automáticas sobre los mensajes según condiciones como el asunto o el remitente.",
+   "Es esta. Para que Outlook actúe solo sobre los mensajes según una condición, como el asunto, se usa una **regla** (Inicio > Reglas > Administrar reglas y alertas). Aquí sería: si el asunto contiene «Aviso», **establecer la importancia en alta**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "El **seguimiento** marca un mensaje para recordártelo, la **tarea** es un elemento propio y la **alerta** avisa en pantalla al llegar el mensaje. Solo la regla cambia propiedades automáticamente."
  },
  "out-in-05-063": {
   "bloque": "outlook-general",
@@ -1471,10 +1555,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Delegar acceso es lo único que permite enviar elementos en nombre de otra persona y gestionar sus convocatorias de reunión.",
+   "Es esta. **Delegar acceso** permite que otra persona **envíe elementos en tu nombre** y **cree y responda convocatorias de reunión**. Se configura en Archivo > Configuración de la cuenta > Acceso de delegado.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Cambiar permisos en una carpeta da acceso a su contenido, pero no permite enviar en tu nombre. Las reglas y las directivas de retención no sirven para esto."
  },
  "out-in-05-064": {
   "bloque": "outlook-general",
@@ -1483,9 +1568,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Limpieza de buzón informa del tamaño del buzón y ofrece las herramientas para reducirlo.",
+   "Es esta. La **Limpieza de buzón** (Archivo > Herramientas > Limpieza de buzón) **informa del tamaño del buzón** y ofrece herramientas para reducirlo: buscar elementos grandes, vaciar elementos eliminados o archivar.",
    ""
-  ]
+  ],
+  "ojo": "Las **preferencias de descarga** controlan qué se descarga, los **pasos rápidos** automatizan acciones frecuentes y **Crear grupo** es para colaborar. Ninguno gestiona el tamaño."
  },
  "ia-in-05-065": {
   "bloque": "ia-general",
@@ -1493,10 +1579,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. ChatGPT es el sistema de chat basado en inteligencia artificial. Drive y OneDrive son almacenamiento y Kindle un lector de libros.",
+   "Es esta. **ChatGPT** es un **sistema de chat basado en inteligencia artificial** (un modelo de lenguaje): responde en lenguaje natural a lo que se le escribe.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Drive** y **OneDrive** son almacenamiento en la nube, y **Kindle** es un lector de libros electrónicos de Amazon."
  },
  "win-in-05-066": {
   "bloque": "windows-general",
@@ -1504,11 +1591,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Cada pantalla se configura por separado: escala, resolución y orientación son independientes.",
+   "Es esta. Con dos pantallas, la **escala**, la **resolución** y la **orientación** se configuran **de forma independiente** para cada una. Se selecciona la pantalla (1 o 2) en **Configuración > Sistema > Pantalla** y se ajustan sus valores.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Cuando se mezclan, por ejemplo, una pantalla horizontal y otra vertical, Windows lo permite. Ninguna de las otras opciones impone que sean iguales. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "x-in-05-067": {
   "bloque": "excel-general",
@@ -1517,9 +1604,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. «Anulación de dinamización de columnas» es la función de Power Query que convierte columnas en filas.",
+   "Es esta. En **Power Query**, la función **Anular dinamización de columnas** convierte **columnas en filas**: transforma varias columnas en pares de atributo y valor. Está en la pestaña Transformar.",
    ""
-  ]
+  ],
+  "ojo": "Es la inversa de **dinamizar columnas**. **Agrupar por** resume filas y **Duplicar columnas** copia, y ninguna convierte columnas en filas."
  },
  "out-in-05-068": {
   "bloque": "outlook-general",
@@ -1527,10 +1615,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Outlook ya trae categorías de color por defecto, y se pueden modificar, eliminar, crear nuevas y asignarles atajos de teclado.",
+   "Es esta. Outlook **ya trae varias categorías de color por defecto**. Se pueden **modificar**, **eliminar**, **crear nuevas** y **asignar una tecla de método abreviado** a cada una. Se aplican con el botón **Clasificar** de la pestaña Inicio.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Las opciones falsas combinan dos errores: decir que hay que crearlas primero, o que no se pueden asignar atajos. La buena no tiene ninguna restricción."
  },
  "int-in-05-069": {
   "bloque": "internet-general",
@@ -1538,10 +1627,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. JavaScript es el que ejecuta el navegador de forma nativa. SQL es de bases de datos, y Fortran y Pascal se compilan.",
+   "Es esta. **JavaScript** es el lenguaje que un navegador web **ejecuta directamente**, sin instalar nada más.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**SQL** es el lenguaje de consulta de bases de datos, y **Fortran** y **Pascal** son lenguajes que se compilan antes de ejecutarse."
  },
  "bas-in-06-041": {
   "bloque": "basica-general",
@@ -1549,10 +1639,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. El lápiz óptico introduce datos, así que es periférico de entrada. El ratón es externo y la función de la CPU es procesar, no almacenar.",
+   "Es esta. El **lápiz óptico** es un **periférico de entrada**: sirve para introducir datos, señalando o dibujando sobre la pantalla.",
    "",
    ""
-  ]
+  ],
+  "ojo": "El **ratón** es un dispositivo externo, no interno. La **CPU** procesa datos, no los almacena. Los dispositivos de **salida** muestran información, no la introducen."
  },
  "bas-in-06-042": {
   "bloque": "basica-general",
@@ -1560,10 +1651,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Gusano y troyano son los dos malware. El proxy es un intermediario de red y la cookie un fichero de datos: ninguno es una amenaza por sí mismo.",
+   "Es esta. **Gusano** y **troyano** son los dos **malware**, es decir, amenazas de seguridad. El gusano se replica solo por la red, y el troyano se hace pasar por un programa legítimo.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Un **proxy** es un intermediario de red y una **cookie** es un pequeño fichero de datos: no son amenazas por sí mismos. **Malware** es el término general para el software malicioso."
  },
  "bas-in-06-043": {
   "bloque": "basica-general",
@@ -1572,20 +1664,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La gestión de la memoria principal es una de las funciones esenciales de cualquier sistema operativo.",
+   "Es esta. La **gestión de la memoria principal** es una función esencial de cualquier sistema operativo, junto con la gestión de procesos, de archivos y de dispositivos.",
    ""
-  ]
+  ],
+  "ojo": "Un gestor de bases de datos relacionales, un sistema de información como IRIS y un sistema CAD son aplicaciones, no partes del sistema operativo."
  },
  "bas-in-06-044": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 44",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. SaaS es Software as a Service. Los otros modelos de nube son PaaS (plataforma) e IaaS (infraestructura).",
+   "Es esta. **SaaS** significa Software as a Service (software como servicio): se usa la aplicación por internet sin instalarla, como Microsoft 365 o Gmail.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Los otros modelos de nube son **PaaS** (plataforma para desarrollar) e **IaaS** (infraestructura, como servidores). **ISO**, **SAI** (sistema de alimentación ininterrumpida) y **SSD** no son modelos de servicio."
  },
  "bas-in-06-045": {
   "bloque": "basica-general",
@@ -1593,10 +1687,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. PostgreSQL es un sistema gestor de bases de datos. PowerPoint son presentaciones, Firefox un navegador y Acrobat un lector de PDF.",
+   "Es esta. **PostgreSQL** es un **sistema gestor de bases de datos**, el producto adecuado para crear y gestionar una base de datos de contactos.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**PowerPoint** hace presentaciones, **Firefox** es un navegador y **Acrobat Reader** un lector de PDF."
  },
  "acc-in-06-046": {
   "bloque": "access-general",
@@ -1606,8 +1701,9 @@
    "",
    "",
    "",
-   "Es esta. El Encabezado del informe aparece una sola vez, al principio. Lo que se repite en todas las páginas es el Encabezado de página."
-  ]
+   "Es esta. El **Encabezado del informe** aparece **una sola vez**, al principio del informe, y es donde van el título o el logotipo. Lo que se repite en todas las páginas es el **Encabezado de página**."
+  ],
+  "ojo": "Las secciones de un informe son: Encabezado del informe (una vez, al principio), Encabezado de página (en cada página), Detalle (por cada registro), Pie de página (en cada página) y Pie del informe (una vez, al final)."
  },
  "int-in-06-047": {
   "bloque": "internet-general",
@@ -1615,10 +1711,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. La dirección IP es el identificador único de un dispositivo dentro de una red o de Internet.",
+   "Es esta. Una **dirección IP** es un **identificador único** que tiene cada dispositivo en una red local o en internet y que permite que los datos lleguen a su destino. Por ejemplo, **192.168.1.10**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "No es el enlace a una web ni una dirección postal. Para escribir webs se usan nombres de dominio, que el **DNS** traduce a direcciones IP."
  },
  "win-in-06-048": {
   "bloque": "windows-general",
@@ -1628,9 +1725,9 @@
    "",
    "",
    "",
-   "Es esta. Windows permite tener idiomas distintos para la interfaz, para la voz y para el teclado; no tienen por qué coincidir."
+   "Es esta. En Windows 11 se pueden configurar **varios idiomas** y que sean **distintos** para mostrar Windows, para la función de voz y para el teclado. Está en **Configuración > Hora e idioma > Idioma y región**."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "El idioma se puede cambiar después de instalar. Y el idioma de la interfaz no obliga a usar el mismo en el teclado. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-06-049": {
   "bloque": "windows-general",
@@ -1640,9 +1737,9 @@
    "",
    "",
    "",
-   "Es esta. Windows es multiusuario: cada cuenta tiene su propia configuración y sus aplicaciones personalizadas."
+   "Es esta. Windows es un sistema operativo **multiusuario**: cada persona tiene su **propia cuenta** y puede **personalizar** sus aplicaciones, su escritorio y su configuración sin afectar a las demás. Las cuentas se crean en **Configuración > Cuentas > Familia y otros usuarios**."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Las opciones que dicen «solo admite una cuenta por ordenador» son falsas, y también la que obliga a compartir las aplicaciones. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-06-050": {
   "bloque": "windows-general",
@@ -1651,22 +1748,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Se exige una tarjeta gráfica compatible con DirectX y WDDM. En Windows 11 el requisito subió a DirectX 12 y WDDM 2.0.",
+   "Es esta. Windows 11 exige una **tarjeta gráfica compatible con DirectX 12 o posterior y con un controlador WDDM 2.0**. Está entre los requisitos de hardware oficiales, junto al procesador, la RAM, el almacenamiento, el TPM 2.0 y el arranque seguro.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "No es una recomendación opcional, y tampoco sirve cualquier tarjeta: tiene que ser compatible. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-06-051": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 51",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El Registro guarda la configuración del sistema, del hardware y de las aplicaciones instaladas, no solo lo que toca el usuario.",
+   "Es esta. El **Registro de Windows** es una **base de datos** con la configuración del **sistema**, del **hardware** y de las **aplicaciones instaladas**, así como de los usuarios. Se abre con **regedit** en el Editor del Registro.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Modificarlo a ciegas puede dejar el sistema sin arrancar, por eso conviene hacer una copia antes. No contiene solo lo que cambia el usuario ni solo las aplicaciones. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-06-052": {
   "bloque": "windows-general",
@@ -1675,10 +1772,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La Unidad de recuperación crea en un USB el medio con el que reinstalar o reparar el sistema.",
+   "Es esta. La **Unidad de recuperación** crea un **USB de recuperación** con el que se puede reinstalar o reparar Windows. Se abre buscando «Crear una unidad de recuperación» en Inicio y permite incluir los archivos del sistema.",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "El **Administrador de tareas** muestra procesos, **Servicios** gestiona servicios en segundo plano, y el **Administrador de equipos** agrupa herramientas de administración. Ninguno crea una copia de seguridad del sistema. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-06-054": {
   "bloque": "windows-general",
@@ -1688,20 +1785,21 @@
    "",
    "",
    "",
-   "Es esta. Alt+Entrar abre las Propiedades del elemento seleccionado."
-  ]
+   "Es esta. **Alt + Entrar** abre las **Propiedades** del elemento seleccionado (archivo, carpeta o unidad). Equivale a clic derecho > Propiedades."
+  ],
+  "ojo": "Los demás atajos hacen otra cosa: **Windows + D** muestra el escritorio y **Windows + I** abre la Configuración."
  },
  "win-in-06-055": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 55",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Se puede ordenar por campos aunque no se estén mostrando en el diseño de vista elegido.",
+   "Es esta. En el Explorador de archivos se puede **ordenar por distintos campos** (nombre, fecha, tipo, tamaño…), **aunque no se vean** en el diseño elegido. Se hace con el botón **Ordenar** de la barra de herramientas.",
    "",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "Los diseños de iconos no muestran columnas, pero se puede seguir ordenando con **Ordenar**. En vista Detalles, además, se ordena haciendo clic en la cabecera de la columna. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-06-056": {
   "bloque": "windows-general",
@@ -1709,11 +1807,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. «Enviar a» despliega varios destinos: carpeta comprimida, destinatario de correo, destinatario de fax, Documentos y las unidades disponibles.",
+   "Es esta. Clic derecho > **Mostrar más opciones > Enviar a** despliega varios **destinos**: **Carpeta comprimida**, **Destinatario de correo**, **Documentos**, el escritorio (crear acceso directo) y las unidades disponibles.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "No abre una ventana de compartir ni un correo de Outlook por sí solo, ni convierte el archivo en zip sin dejarlo en otra carpeta, como dicen las opciones falsas. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-06-057": {
   "bloque": "windows-general",
@@ -1721,11 +1819,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Las ubicaciones de búsqueda son personalizables y sí pueden incluir carpetas de OneDrive.",
+   "Es esta. Se pueden **personalizar las ubicaciones** donde busca Windows, **incluidas carpetas de OneDrive**. Se hace en **Configuración > Privacidad y seguridad > Buscar en Windows**, con el modo de búsqueda **Mejorado** o añadiendo carpetas.",
    "",
    ""
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "La búsqueda no se limita a bibliotecas y escritorio ni a Documentos y Descargas. Lo cierto es que es configurable. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "win-in-06-058": {
   "bloque": "windows-general",
@@ -1735,9 +1833,9 @@
    "",
    "",
    "",
-   "Es esta. El Historial de archivos es la herramienta de copias de seguridad a una unidad externa o a una ubicación de red."
+   "Es esta. El **Historial de archivos** hace **copias de seguridad automáticas** de tus archivos (bibliotecas, escritorio, favoritos y contactos) en una **unidad externa** o en una **ubicación de red**, y permite restaurar versiones anteriores. Se activa en **Configuración > Sistema > Almacenamiento > Configuración avanzada de almacenamiento > Opciones de copia de seguridad**, o desde el Panel de control."
   ],
-  "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
+  "ojo": "No es un control de versiones como el de Git ni el del Portapapeles. Es una herramienta de copia de seguridad. Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
  "w-in-06-059": {
   "bloque": "word-insertar",
@@ -1745,10 +1843,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Recorte de pantalla, dentro de Insertar, captura un trozo de la pantalla y lo pega en el documento.",
+   "Es esta. **Recorte de pantalla** (Insertar > Ilustraciones > Capturas) permite tomar una **instantánea de parte de la pantalla** e insertarla directamente en el documento.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Insertar vínculo** crea enlaces, **Insertar un gráfico** crea gráficos de datos y **Marcar entrada** sirve para el índice."
  },
  "x-in-06-062": {
   "bloque": "excel-general",
@@ -1758,8 +1857,9 @@
    "",
    "",
    "",
-   "Es esta. «Ajustar todas las columnas en una página» fuerza una única página de ancho y deja libre el largo. Ajustar la hoja entera comprimiría también a lo alto."
-  ]
+   "Es esta. Para imprimir **una sola página de ancho** y las que hagan falta de largo, en **Archivo > Imprimir > Escala** se elige **Ajustar todas las columnas en una página**."
+  ],
+  "ojo": "**Ajustar hoja en una página** comprime también el alto, y **Ajustar todas las filas en una página** hace una sola página de alto. **Sin escalado** no cambia nada."
  },
  "x-in-06-063": {
   "bloque": "excel-general",
@@ -1767,10 +1867,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. DIVIDIRTEXTO reparte el texto en varias celdas usando el delimitador indicado: «Mochila» en J44 y «azul» en K44.",
+   "Es esta. **DIVIDIRTEXTO** **reparte un texto en varias celdas** usando el delimitador indicado. Con **=DIVIDIRTEXTO(H44;\"-\")**, «Mochila-azul» queda como **«Mochila»** en J44 y **«azul»** en K44, porque el resultado se derrama a la derecha.",
    "",
    ""
-  ]
+  ],
+  "ojo": "No extrae solo una parte ni sustituye el guion por un espacio. Es una función de Excel 365 reciente, y por eso no existe en versiones antiguas."
  },
  "acc-in-06-064": {
   "bloque": "access-general",
@@ -1778,10 +1879,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Las consultas de acción (anexar, actualizar, eliminar y de creación de tabla) son las que modifican datos. La de selección solo muestra.",
+   "Es esta. Las **consultas de acción** son las que **modifican los datos**: **anexar** registros, **actualizarlos**, **eliminarlos** o **crear una tabla** nueva. Se crean en la ficha Crear > Diseño de consulta, y se ejecutan con el botón Ejecutar (!). Access avisa antes de aplicar el cambio.",
    "",
    ""
-  ]
+  ],
+  "ojo": "La **consulta de selección** solo muestra datos sin cambiarlos. Las de **resumen** (totales), **unión** y **referencias cruzadas** tampoco modifican nada."
  },
  "out-in-06-065": {
   "bloque": "outlook-general",
@@ -1790,9 +1892,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Sin comodines, la búsqueda devuelve la palabra tal cual y no sus derivadas, pero sí mira dentro de los datos adjuntos.",
+   "Es esta. Sin comodines ni comillas, Outlook busca **la palabra tal cual**, no sus derivadas (proyectos, proyector). Pero la busca en **remitente, asunto, cuerpo y también dentro de los datos adjuntos**.",
    ""
-  ]
+  ],
+  "ojo": "Para incluir derivadas se usa el comodín *****: **proyect***. Las dos trampas son pensar que busca derivadas y pensar que no mira en los adjuntos."
  },
  "out-in-06-066": {
   "bloque": "outlook-general",
@@ -1801,9 +1904,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Colaborador solo permite crear elementos nuevos: no deja leer ni editar los que ya están. Revisor solo lee, Editor lo puede todo.",
+   "Es esta. El nivel de permiso **Colaborador** solo deja **crear elementos nuevos** en la carpeta: no permite leer ni editar los que ya existen.",
    ""
-  ]
+  ],
+  "ojo": "Escala de permisos de menos a más: **Colaborador** (solo crea), **Revisor** (solo lee), **Autor** (crea y edita los suyos), **Editor** (crea y edita todo) y **Propietario**."
  },
  "acc-in-06-068": {
   "bloque": "access-general",
@@ -1812,9 +1916,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. En Access las fechas van entre almohadillas: >=#01/01/2024#. Con comillas se trataría como texto.",
+   "Es esta. En Access, las fechas dentro de una expresión van **entre almohadillas**: **>=#01/01/2024#** admite fechas del 1 de enero de 2024 en adelante. Con comillas, Access lo trata como texto y compara letra a letra.",
    ""
-  ]
+  ],
+  "ojo": "El operador «mayor o igual» se escribe **>=**. Escrito al revés, **=>**, da error de sintaxis. Y **=#01/01/2024#** aceptaría solo esa fecha."
  },
  "out-in-06-069": {
   "bloque": "outlook-general",
@@ -1824,8 +1929,9 @@
    "",
    "",
    "",
-   "Es esta. Recuperar un mensaje exige que ambos estéis en un servidor Exchange y que el destinatario aún no lo haya abierto. Los dos requisitos, no uno."
-  ]
+   "Es esta. **Recuperar un mensaje** enviado solo es posible si **ambas partes están en un servidor Exchange** y el **destinatario aún no lo ha abierto**. Se hace en Archivo > Información > Reenviar y recuperar mensaje."
+  ],
+  "ojo": "Hacen falta los dos requisitos a la vez. Si el destinatario ya lo ha abierto, no se puede recuperar. En el nuevo Outlook se puede, en su lugar, programar el envío o deshacerlo en pocos segundos."
  },
  "win-in-06-070": {
   "bloque": "windows-general",
@@ -1833,22 +1939,23 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. El Inicio de Windows 11 tiene dos zonas: «Anclado», que el usuario controla, y «Recomendado», con archivos y aplicaciones recientes. Los mosaicos dinámicos (live tiles) de Windows 10 desaparecieron.",
+   "Es esta. El menú **Inicio** de Windows 11 se divide en dos zonas: **Anclado**, donde el usuario decide qué aplicaciones, carpetas o archivos pone, y **Recomendado**, que muestra elementos y aplicaciones usados o instalados hace poco.",
    "",
    ""
   ],
-  "ojo": "Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
+  "ojo": "Los **mosaicos dinámicos** (live tiles) de Windows 10 desaparecieron. El Inicio acepta aplicaciones de cualquier fabricante y se pueden reorganizar los iconos. Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
  },
  "bas-in-07-041": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 41",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El procesador (CPU) es la unidad que busca, interpreta y ejecuta las instrucciones. De las demás definiciones, una describe un byte, otra un programa y otra un disco.",
+   "Es esta. El **procesador** (CPU) es la unidad que se encarga de **buscar, interpretar y ejecutar instrucciones**. Es el cerebro del equipo.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "La unidad de ocho bits es el **byte**, el conjunto de instrucciones es un **programa** (software), y el dispositivo de gran capacidad es un **disco**."
  },
  "bas-in-07-042": {
   "bloque": "basica-general",
@@ -1857,9 +1964,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El antivirus es el que detecta y elimina malware. El firewall filtra tráfico, la VPN cifra la conexión y el gestor de contraseñas guarda credenciales.",
+   "Es esta. El **antivirus** es el sistema de seguridad que **detecta y elimina malware**.",
    ""
-  ]
+  ],
+  "ojo": "El **firewall** filtra el tráfico de red, la **VPN** cifra la conexión y el **gestor de contraseñas** guarda credenciales. Ninguno elimina virus."
  },
  "bas-in-07-043": {
   "bloque": "basica-general",
@@ -1869,8 +1977,9 @@
    "",
    "",
    "",
-   "Es esta. La RAM es la memoria volátil donde se cargan los programas y sus procesos mientras se ejecutan. La CPU procesa, no almacena."
-  ]
+   "Es esta. La **memoria RAM** es la memoria **volátil** donde se cargan temporalmente los programas y sus procesos mientras se ejecutan. Al apagar el equipo, se pierde su contenido."
+  ],
+  "ojo": "La **CPU** procesa, no almacena. El **disipador** enfría y la **tarjeta gráfica** procesa imagen."
  },
  "bas-in-07-044": {
   "bloque": "basica-general",
@@ -1880,8 +1989,9 @@
    "",
    "",
    "",
-   "Es esta. 1 GB equivale a 1.000.000 KB, así que 30 GB son 30.000.000 KB."
-  ]
+   "Es esta. **1 GB = 1.000.000 KB**, así que 30 GB son **30.000.000 KB**. Se multiplica por mil en cada salto: GB a MB, y de MB a KB."
+  ],
+  "ojo": "La trampa es contar los ceros. De GB a KB hay dos saltos, y cada uno añade tres ceros: 30 + 6 ceros = 30.000.000."
  },
  "win-in-07-045": {
   "bloque": "windows-general",
@@ -1889,21 +1999,23 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Las notificaciones están en el Centro de actividades, que se abre en el área de calendario y notificación, abajo a la derecha de la barra de tareas.",
+   "Es esta. Las notificaciones están en el **Centro de notificaciones**, que se abre haciendo clic en el área de **fecha y hora** de la esquina inferior derecha de la barra de tareas, o con **Windows + N**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "En Windows 10 se llamaba **Centro de actividades**, un nombre que aún usan algunas preguntas antiguas. Accesibilidad es otro apartado de la Configuración."
  },
  "ia-in-07-046": {
   "bloque": "ia-general",
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 46",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Copilot es una herramienta de inteligencia artificial que genera respuestas en tiempo real combinando los datos de la organización con información de Internet.",
+   "Es esta. **Microsoft 365 Copilot** es una herramienta con **inteligencia artificial** que **genera respuestas en tiempo real** a partir de **los datos de la organización** (correo, documentos, reuniones) y de **internet**. Funciona dentro de Word, Excel, PowerPoint, Outlook y Teams.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "No gestiona la seguridad de la red, no es un almacén de archivos (eso es OneDrive) y no es una tienda de aplicaciones (eso es Microsoft Store)."
  },
  "win-in-07-047": {
   "bloque": "windows-general",
@@ -1912,9 +2024,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Windows Search busca en la web, las aplicaciones, la configuración y los archivos, y además puede incluir OneDrive, SharePoint, Outlook o Bing si el usuario lo autoriza. Las demás opciones recortan ese alcance.",
+   "Es esta. **Windows Search** busca en la **web, aplicaciones, configuración y archivos**, y además puede incluir contenido de **OneDrive, SharePoint, Outlook y Bing**, siempre que lo autorice el usuario.",
    ""
-  ]
+  ],
+  "ojo": "Las otras opciones recortan el alcance de la búsqueda, quitando la configuración, las aplicaciones o los servicios en la nube. Si ves una de ellas, es una trampa."
  },
  "win-in-07-048": {
   "bloque": "windows-general",
@@ -1922,10 +2035,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Los diseños reales son iconos (muy grandes, grandes, medianos, pequeños), lista, detalles, mosaicos y contenido. «Extendido» no existe, y aparece en dos opciones justo para descartarlas.",
+   "Es esta. Los diseños reales del Explorador de archivos son **iconos** (muy grandes, grandes, medianos y pequeños), **lista**, **detalles**, **mosaicos** y **contenido**. Por eso solo la opción **Lista, Detalles e Iconos medianos** es correcta del todo.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Extendido** no existe como diseño, y aparece en dos opciones para descartarlas."
  },
  "win-in-07-049": {
   "bloque": "windows-general",
@@ -1933,10 +2047,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Propiedades sobre «Este equipo» abre la Configuración de Windows en Sistema. La ventana de propiedades del disco sale pulsando sobre la unidad C:.",
+   "Es esta. Clic derecho sobre **Este equipo** > **Propiedades** abre **Configuración > Sistema > Información**, donde se ven las especificaciones del dispositivo y de Windows.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Las propiedades del disco local C: se abren con clic derecho sobre la propia unidad. La Administración de equipos se abre con clic derecho > Administrar."
  },
  "win-in-07-050": {
   "bloque": "windows-general",
@@ -1945,20 +2060,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Asistencia rápida sirve para que otra persona tome el control de tu equipo en remoto, o para pedirle que comparta su pantalla contigo.",
+   "Es esta. **Asistencia rápida** permite que otra persona **tome el control remoto** de tu equipo para ayudarte, o que **tú veas** la pantalla de otra persona. Se abre buscando «Asistencia rápida» en Inicio e introduciendo un código de seis dígitos.",
    ""
-  ]
+  ],
+  "ojo": "No abre incidencias de soporte ni lleva a la base de conocimiento de Microsoft. Es lo mismo que haría un técnico en remoto."
  },
  "w-in-07-051": {
   "bloque": "word-inicio",
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 51",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El texto está en cursiva y con las letras más separadas de lo normal, que es el espaciado extendido (Fuente › Avanzado › Espaciado).",
+   "Es esta. El texto está en **cursiva** y con las letras más separadas de lo normal: **espaciado extendido**. Se ve en la ventana **Fuente > pestaña Avanzado > Espaciado**.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Fíjate en cada efecto por separado. En las falsas aparecen otros que no están, como el superíndice, el doble tachado, las versalitas o el espaciado comprimido."
  },
  "w-in-07-052": {
   "bloque": "word-referencias",
@@ -1966,10 +2083,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Basta con pasar el ratón por encima: aparece un cuadro emergente con el texto de la nota. Hacer clic es lo que lleva el cursor hasta ella.",
+   "Es esta. Al **pasar el ratón** sobre el símbolo de una nota al final aparece un **cuadro emergente con el texto de la nota**, sin tener que hacer clic.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Si haces **doble clic** en el símbolo, el cursor salta a la nota. Y la nota nunca sustituye al texto de la palabra."
  },
  "w-in-07-054": {
   "bloque": "word-archivo",
@@ -1979,8 +2097,9 @@
    "",
    "",
    "",
-   "Es esta. En la pantalla de impresión, dentro de Configuración, se desmarca la casilla de imprimir con revisiones. No hace falta aceptar los cambios."
-  ]
+   "Es esta. En **Archivo > Imprimir**, en **Configuración**, se **desmarca** la casilla **Imprimir documento con revisiones** (o se elige «Imprimir documento» sin marcas). No hace falta aceptar los cambios."
+  ],
+  "ojo": "Aceptar todos los cambios sí quitaría las marcas, pero también aceptaría cambios que quizá no quieras. Cambiar la orientación o el modo de lectura no es una solución."
  },
  "x-in-07-055": {
   "bloque": "excel-general",
@@ -1990,8 +2109,9 @@
    "",
    "",
    "",
-   "Es esta. FILAS() devuelve cuántas filas tiene la referencia que se le pasa, y Registros[Fecha] es la columna Fecha de la tabla Registros."
-  ]
+   "Es esta. **FILAS(Registros[Fecha])** **devuelve el número de filas** de la referencia que se le pasa. **Registros[Fecha]** es la **columna Fecha de la tabla Registros**, así que si el resultado es 5, la columna tiene 5 filas."
+  ],
+  "ojo": "No da formato ni diferencia de días, ni pone un máximo. **COLUMNAS** haría lo mismo con las columnas."
  },
  "x-in-07-056": {
   "bloque": "excel-general",
@@ -2001,19 +2121,21 @@
    "",
    "",
    "",
-   "Es esta. dd/mmm/aa es día en dos cifras, mes abreviado a tres letras y año en dos cifras: 11/ago/24. Con «mmmm» saldría agosto y con «aaaa», 2024."
-  ]
+   "Es esta. El formato **dd/mmm/aa** muestra el **día con dos cifras**, el **mes abreviado de tres letras** y el **año con dos cifras**: **11/ago/24**."
+  ],
+  "ojo": "Con **mmmm** saldría «agosto», con **aaaa** «2024». Para recordarlo: una m o dos m son el número, tres m es el nombre abreviado y cuatro m es el nombre completo."
  },
  "x-in-07-058": {
   "bloque": "excel-general",
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 58",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. La función NO invierte el valor lógico: NO(FALSO) da VERDADERO. ESLOGICO solo comprueba si el valor es lógico, no lo cambia.",
+   "Es esta. La función **NO** **invierte el valor lógico** de su argumento: **NO(FALSO)** devuelve VERDADERO y **NO(VERDADERO)** devuelve FALSO.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "**ESLOGICO** solo comprueba si el valor es lógico, y **MINVERSA** calcula la inversa de una matriz. **CAMBIAR** busca un valor y lo sustituye por otro."
  },
  "acc-in-07-059": {
   "bloque": "access-general",
@@ -2022,9 +2144,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El formato Estándar pone separador de miles y dos decimales, pero sin símbolo de moneda. Con Moneda aparecería el €.",
+   "Es esta. El formato **Estándar** muestra el número con **separador de miles** y **dos decimales** (2.345,68), pero **sin símbolo de moneda**. Se elige en la propiedad **Formato** del campo numérico, en Vista Diseño de la tabla.",
    ""
-  ]
+  ],
+  "ojo": "Con **Moneda** aparecería el símbolo (2.345,68 €), con **Porcentaje** el número multiplicado por 100 y seguido de %, y **Número general** muestra el número tal como se escribió, sin separador de miles."
  },
  "acc-in-07-060": {
   "bloque": "access-general",
@@ -2033,9 +2156,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Un texto entre corchetes en la fila Criterios que no coincide con ningún nombre de campo se interpreta como un parámetro, y Access lo pregunta al ejecutar la consulta.",
+   "Es esta. En la fila **Criterios** de una consulta, un texto entre **corchetes** que no coincide con ningún nombre de campo se interpreta como un **parámetro**. Al ejecutar la consulta, Access abre la ventana **Introduzca el valor del parámetro** con ese texto, y filtra por lo que escribas.",
    ""
-  ]
+  ],
+  "ojo": "Aquí el campo se llama «Fecha Alta» y el texto del corchete es «Fecha de Alta». Como no coinciden, es un parámetro. Si coincidieran, Access lo leería como una referencia al campo."
  },
  "acc-in-07-061": {
   "bloque": "access-general",
@@ -2043,32 +2167,35 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. El orden automático de tabulación sigue la lectura occidental: de izquierda a derecha y de arriba abajo.",
+   "Es esta. El **Orden automático** de tabulación de un formulario recorre los controles **de izquierda a derecha y de arriba abajo**, como se lee. Se configura en Vista Diseño, ficha Diseño de formulario, botón **Orden de tabulación**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Si el orden automático no te sirve, desmárcalo y arrastra los controles en la lista para fijar el orden a mano. También se puede cambiar un control desde la propiedad **Índice de tabulación**."
  },
  "acc-in-07-062": {
   "bloque": "access-general",
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 62",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El campo Datos adjuntos admite hasta 2 GB, que es además el tamaño máximo de toda la base de datos de Access.",
+   "Es esta. Un campo de tipo **Datos adjuntos** permite guardar archivos dentro del registro, pero el límite lo marca la base de datos entera: **2 GB**.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Para no confundir: 2 GB es el límite del archivo de la base, 255 caracteres el de un Texto corto y 64 caracteres el de un nombre de objeto."
  },
  "bas-in-07-063": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 63",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Sin servidor de correo no hay correo electrónico. La arroba es obligatoria y el envío siempre usa protocolos (SMTP para enviar, POP o IMAP para recibir).",
+   "Es esta. Para enviar un correo entre dos equipos hace falta la intervención de un **servidor de correo** que lo reciba y lo reenvíe. El envío usa un protocolo (**SMTP** para enviar, **POP** o **IMAP** para recibir).",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "La **arroba** (@) es obligatoria en una dirección de correo, y siempre se usa un protocolo de comunicaciones. Las falsas niegan alguna de estas dos cosas."
  },
  "out-in-07-064": {
   "bloque": "outlook-general",
@@ -2077,9 +2204,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Colaborador solo permite crear elementos nuevos: no deja leer ni editar los que ya están. Revisor solo lee, Editor lo puede todo.",
+   "Es esta. El nivel de permiso **Colaborador** solo deja **crear elementos nuevos** en la carpeta: no permite leer ni editar los que ya existen.",
    ""
-  ]
+  ],
+  "ojo": "Escala de permisos de menos a más: **Colaborador** (solo crea), **Revisor** (solo lee), **Autor** (crea y edita los suyos), **Editor** (crea y edita todo) y **Propietario**."
  },
  "out-in-07-065": {
   "bloque": "outlook-general",
@@ -2089,8 +2217,9 @@
    "",
    "",
    "",
-   "Es esta. cc:\"Ana Muñoz\" busca ese nombre en la línea CC. Las comillas fuerzan la frase exacta y no hace falta tenerlo guardado como contacto."
-  ]
+   "Es esta. La búsqueda **cc:\"Ana Muñoz\"** devuelve los mensajes en los que **Ana Muñoz aparece en la línea CC**. El prefijo **cc:** limita la búsqueda a ese campo y las comillas buscan el nombre completo."
+  ],
+  "ojo": "No hace falta tener a Ana como contacto ni que su dirección contenga su nombre. Otros operadores parecidos son **from:**, **to:** y **subject:**."
  },
  "out-in-07-066": {
   "bloque": "outlook-general",
@@ -2100,8 +2229,9 @@
    "",
    "",
    "",
-   "Es esta. Al crear el grupo se genera su propia dirección de correo. Si el grupo es público cualquiera puede escribirle; si es privado, solo los miembros. Por eso otra de las opciones, que dice que da igual, es falsa."
-  ]
+   "Es esta. Al crear un **grupo de Microsoft 365**, se genera **una dirección de correo propia** del grupo. Si el grupo es **público**, cualquiera puede escribirle y los mensajes llegan a todos los miembros. Si es **privado**, solo pueden escribir los miembros."
+  ],
+  "ojo": "El correo del grupo no es el de quien lo creó, y los mensajes enviados a un miembro no se reenvían al resto."
  },
  "win-in-07-067": {
   "bloque": "windows-general",
@@ -2111,8 +2241,9 @@
    "",
    "",
    "",
-   "Es esta. En Edge: Configuración y más (···) › Más herramientas › Anclar a Inicio."
-  ]
+   "Es esta. Sí. En **Microsoft Edge**, **Configuración y más (···) > Más herramientas > Anclar a Inicio** coloca el sitio web como un icono del menú Inicio. Al hacer clic, se abre directamente esa página."
+  ],
+  "ojo": "La ruta **Favoritos > Anclar a Inicio** es la trampa: la opción vive en **Más herramientas**, no en Favoritos."
  },
  "ia-in-07-068": {
   "bloque": "ia-general",
@@ -2121,9 +2252,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La Web 4.0 se define precisamente por incorporar inteligencia artificial y procesamiento del lenguaje natural.",
+   "Es esta. La **Web 4.0** (web inteligente o simbiótica) se caracteriza por incorporar **inteligencia artificial** y procesamiento del lenguaje natural, para que la web comprenda al usuario y actúe de forma proactiva.",
    ""
-  ]
+  ],
+  "ojo": "Evolución resumida: **Web 1.0** (solo lectura), **2.0** (social, el usuario participa), **3.0** (semántica, datos con significado) y **4.0** (inteligente)."
  },
  "bas-in-07-069": {
   "bloque": "basica-general",
@@ -2131,10 +2263,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Spamming es el envío masivo de comunicaciones no solicitadas por cualquier canal.",
+   "Es esta. El **spamming** es el envío **masivo de comunicaciones no solicitadas** (correo, SMS, mensajería, redes sociales o voz).",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Streaming** es la reproducción de contenido en directo, **dumping** es vender por debajo del coste y **malware** es software malicioso."
  },
  "bas-in-07-070": {
   "bloque": "basica-general",
@@ -2142,10 +2275,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Es la definición de escritorio virtual: el puesto de trabajo existe en forma virtual, separado del dispositivo físico desde el que se accede.",
+   "Es esta. Un **escritorio virtual** es un puesto de trabajo que **existe de forma virtual**, separado del dispositivo físico desde el que se accede (por ejemplo, por wifi). Se usa en las administraciones y empresas para trabajar a distancia.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Un servicio web ofrece funciones por internet, un sistema de detección de intrusiones vigila ataques y la web semántica da significado a los datos."
  },
  "bas-in-08-041": {
   "bloque": "basica-general",
@@ -2154,9 +2288,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El disipador absorbe el calor del procesador y lo saca del equipo. La fuente transforma la corriente, la gráfica procesa imagen y la RAM almacena temporalmente.",
+   "Es esta. El **disipador** **absorbe el calor** del procesador y lo **transfiere al exterior** del equipo, a menudo ayudado por un ventilador.",
    ""
-  ]
+  ],
+  "ojo": "Transformar la corriente es la **fuente de alimentación**, procesar imagen es la **tarjeta gráfica** y almacenar temporalmente es la **RAM**."
  },
  "bas-in-08-042": {
   "bloque": "basica-general",
@@ -2164,43 +2299,47 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Libre no es lo mismo que gratis: lo que define al software libre es el acceso al código fuente y el derecho a modificarlo. Puede perfectamente ser de pago.",
+   "Es esta. El **software libre** siempre permite **acceder al código fuente y modificarlo**. Lo contrario no es cierto: **gratuito** significa que no se paga, pero puede no dejar modificar el código.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Libre no es lo mismo que gratis. El software libre puede ser de pago, y el gratuito no tiene por qué venir de una comunidad."
  },
  "bas-in-08-043": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 43",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El router es el que interconecta redes distintas. El hub y el repetidor trabajan dentro de la misma red, y el powerbank es una batería.",
+   "Es esta. El **router** conecta **redes distintas** entre sí, por ejemplo, la red local con internet, y decide por dónde encaminar los paquetes.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "El **hub** y el **repetidor** actúan dentro de la misma red, y el **powerbank** es una batería externa."
  },
  "win-in-08-044": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 44",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El cambio más visible del menú Inicio de Windows 11 es que aparece centrado en la barra de tareas, aunque se puede devolver a la izquierda.",
+   "Es esta. El cambio más visible del **menú Inicio de Windows 11** es que aparece **centrado** en la barra de tareas, junto a los iconos. Se puede devolver a la izquierda en **Configuración > Personalización > Barra de tareas > Comportamientos de la barra de tareas**.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "El Inicio sí permite anclar aplicaciones y se puede personalizar. Tampoco se limita a aplicaciones web."
  },
  "ia-in-08-045": {
   "bloque": "ia-general",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 45",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Copilot genera una respuesta contextualizada en lenguaje natural, en vez de devolver una lista de enlaces como un buscador clásico.",
+   "Es esta. **Copilot** genera **respuestas contextualizadas** en lenguaje natural a partir de la información disponible, en lugar de limitarse a **listar enlaces** como un buscador tradicional.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Un buscador clásico presenta enlaces ordenados por relevancia y busca coincidencias de palabras. Copilot interpreta el significado de la pregunta, aunque sí necesita conexión a servicios para funcionar."
  },
  "win-in-08-046": {
   "bloque": "windows-general",
@@ -2209,9 +2348,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. El Visor de eventos es el registro del sistema: errores, advertencias e información del sistema y de las aplicaciones.",
+   "Es esta. El **Visor de eventos** es el **registro del sistema**: guarda errores, advertencias e información de Windows, de la seguridad y de las aplicaciones. Es la primera herramienta para investigar un fallo. Se abre buscando «Visor de eventos» o con eventvwr.",
    ""
-  ]
+  ],
+  "ojo": "No ejecuta programas ni gestiona archivos ni cambia el calendario."
  },
  "win-in-08-047": {
   "bloque": "windows-general",
@@ -2219,10 +2359,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Windows+Impr Pant guarda el archivo en Imágenes\\Capturas de pantalla. Impr Pant sola solo copia al portapapeles y Windows+Mayús+S abre el Recorte.",
+   "Es esta. **Windows + Impr Pant** hace una captura de **pantalla completa** y la guarda como archivo en **Imágenes > Capturas de pantalla**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Impr Pant** sola solo copia la captura al portapapeles, y **Windows + Mayús + S** abre la herramienta Recortes para elegir una zona."
  },
  "win-in-08-048": {
   "bloque": "windows-general",
@@ -2231,9 +2372,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Ctrl+Mayús mientras se arrastra crea un acceso directo. Ctrl solo copia y Mayús solo mueve.",
+   "Es esta. Al arrastrar un archivo con **Ctrl + Mayús** pulsadas se crea un **acceso directo** en el destino, sin copiar ni mover el archivo.",
    ""
-  ]
+  ],
+  "ojo": "Arrastrar entre unidades distintas **copia** por defecto, y entre carpetas de la misma unidad **mueve**. Con **Ctrl** se fuerza copiar y con **Mayús** se fuerza mover."
  },
  "bas-in-08-049": {
   "bloque": "basica-general",
@@ -2242,20 +2384,22 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. Compartir es la opción de uso compartido en red. «Enviar a» copia el archivo a un destino, no da acceso a nadie.",
+   "Es esta. **Compartir** es la opción que **da acceso** a otros usuarios a un archivo o carpeta en una red local. En Windows está en clic derecho > Compartir o en la pestaña Compartir del Explorador.",
    ""
-  ]
+  ],
+  "ojo": "**Copiar** y **Cortar** mueven datos al portapapeles, y **Enviar a** copia el archivo a un destino, pero ninguna da acceso a otra persona."
  },
  "win-in-08-050": {
   "bloque": "windows-general",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 50",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Mayús+Supr borra de forma definitiva sin pasar por la papelera, y además hay unidades configuradas para no usarla.",
+   "Es esta. Un archivo **no se puede recuperar de la Papelera** cuando se elimina con **Mayús + Supr** (borrado definitivo) o cuando la unidad está configurada para no usar papelera. También ocurre con las unidades extraíbles y de red.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "No influye si el archivo se modificó hace poco ni qué tipo de archivo sea. Los permisos tampoco impiden la papelera."
  },
  "w-in-08-053": {
   "bloque": "word-archivo",
@@ -2263,32 +2407,35 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Word para la Web fusiona los cambios en tiempo real sobre SharePoint u OneDrive y mantiene un historial de versiones.",
+   "Es esta. **Word para la Web** permite la coautoría en tiempo real: **fusiona los cambios** de cada autor, a nivel de párrafo, guardando el documento en **OneDrive o SharePoint**. Además mantiene un **historial de versiones**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "No bloquea el documento entero, no obliga a hacer copias locales y no descarta los cambios de otros. Para ver cuándo cambió algo, se abre el historial de versiones."
  },
  "w-in-08-054": {
   "bloque": "word-correspondencia",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 54",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Combinar correspondencia conecta el documento con un origen de datos y genera un documento personalizado por cada registro.",
+   "Es esta. **Combinar correspondencia** (pestaña **Correspondencia**) **conecta el documento con un origen de datos** (Excel, Outlook, Access, una lista) y genera **un documento personalizado por cada registro**: cartas, etiquetas, sobres o correos.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Las **referencias cruzadas** enlazan partes del documento y la **tabla de contenido** lista los títulos. Word sí se conecta con bases de datos, no solo con Excel y Outlook."
  },
  "x-in-08-056": {
   "bloque": "excel-general",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 56",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Una referencia relativa se ajusta al copiarla: al bajar una fila, A1 pasa a A2. Para que no cambie hay que fijarla con el símbolo $.",
+   "Es esta. Una **referencia relativa** se **ajusta al copiar** la fórmula. Al copiarla una fila hacia abajo, **A1 pasa a A2**.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Para que no cambie hay que fijarla con **$** (por ejemplo, **$A$1**), y se alterna con **F4**. No da error al copiarse."
  },
  "x-in-08-057": {
   "bloque": "excel-general",
@@ -2296,10 +2443,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. #N/A significa valor no disponible, el error típico de BUSCARV o BUSCARX cuando no encuentra lo que busca. La división por cero da #¡DIV/0!.",
+   "Es esta. El error **#N/A** significa **valor no disponible**: es el típico de **BUSCARV**, **BUSCARX** o COINCIDIR cuando **no encuentran** lo que buscan.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Cada error tiene su causa: **#¡DIV/0!** es dividir entre cero, **#¿NOMBRE?** es una función mal escrita, **#¡VALOR!** es un tipo de dato equivocado y **#¡REF!** es una referencia rota."
  },
  "x-in-08-058": {
   "bloque": "excel-general",
@@ -2308,9 +2456,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. CONTAR solo cuenta números. CONTARA cuenta todas las celdas que no estén vacías, sean números, texto o lo que sea.",
+   "Es esta. **CONTAR** cuenta solo las celdas con **números**. **CONTARA** cuenta **todas las celdas no vacías**, sean números, texto, errores o lo que sea.",
    ""
-  ]
+  ],
+  "ojo": "Para contar celdas **en blanco** se usa **CONTAR.BLANCO**. Ni CONTAR ni CONTARA suman valores: para sumar está SUMA."
  },
  "acc-in-08-059": {
   "bloque": "access-general",
@@ -2318,10 +2467,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. La propiedad Indizado con la opción «Sí (sin duplicados)» impide valores repetidos. Requerido solo obliga a rellenar el campo.",
+   "Es esta. La propiedad **Indexado** con la opción **Sí (sin duplicados)** crea un índice que **impide repetir valores** en ese campo. Se configura en Vista Diseño de la tabla, en las propiedades del campo. La clave primaria ya es un índice sin duplicados.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**Requerido** solo obliga a que el campo no esté vacío, el **Tamaño del campo** limita la longitud y la **Máscara de entrada** fija el formato de escritura. Ninguna evita que dos registros tengan el mismo valor."
  },
  "acc-in-08-060": {
   "bloque": "access-general",
@@ -2329,10 +2479,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. WHERE filtra registros. ORDER BY ordena, GROUP BY agrupa y SELECT elige las columnas.",
+   "Es esta. En SQL, la cláusula **WHERE** filtra los registros que cumplen una condición: **SELECT * FROM Clientes WHERE País='Francia'**. En la cuadrícula de diseño de la consulta, equivale a la fila **Criterios**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Cada cláusula tiene su función: **SELECT** elige las columnas, **ORDER BY** ordena, **GROUP BY** agrupa y **WHERE** filtra. Si el filtro es sobre un valor agregado (suma, media), se usa **HAVING**."
  },
  "acc-in-08-061": {
   "bloque": "access-general",
@@ -2341,9 +2492,10 @@
   "justificaciones": [
    "",
    "",
-   "Es esta. La consulta de actualización cambia valores de registros que ya existen; no crea ni elimina.",
+   "Es esta. La **consulta de actualización** cambia los valores de campos en registros que **ya existen**, por ejemplo, subir un 5 % el precio de todos los productos de una categoría. Se crea en Crear > Diseño de consulta > Actualizar, y se ejecuta con el botón Ejecutar (!).",
    ""
-  ]
+  ],
+  "ojo": "Es una **consulta de acción**: modifica datos de verdad y no se puede deshacer, así que conviene hacer antes una copia. No crea tablas ni borra ni inserta registros: eso son las consultas de creación de tabla, eliminación y anexar."
  },
  "acc-in-08-062": {
   "bloque": "access-general",
@@ -2351,10 +2503,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. En una clave primaria compuesta lo que debe ser único es la combinación de los campos, no cada campo por separado. Y ninguno puede quedar nulo.",
+   "Es esta. Una **clave primaria compuesta** está formada por **dos o más campos**, y lo que debe ser único es la **combinación** de sus valores en cada registro. Ningún campo de la clave puede quedar **nulo**. Se crea seleccionando los campos en Vista Diseño y pulsando el botón Clave principal.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Cada campo por separado sí puede repetirse (por ejemplo, el mismo alumno en varios cursos), siempre que la pareja no se repita. La clave primaria no desactiva la integridad referencial ni convierte la tabla en otra cosa."
  },
  "out-in-08-063": {
   "bloque": "outlook-general",
@@ -2362,10 +2515,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Las reglas actúan sobre los mensajes que llegan después de crearlas. A un correo que ya estaba en la bandeja no le afecta que lo marques como leído.",
+   "Es esta. Una **regla** actúa sobre los mensajes **que llegan después de crearla**. Un correo que ya estaba en la bandeja de entrada se queda ahí aunque lo marques como leído, porque no es un mensaje entrante nuevo.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Si quieres aplicar la regla a correos antiguos, hay que usar **Ejecutar reglas ahora**. No hay duplicados por conflicto ni la regla distingue entre leídos y no leídos."
  },
  "out-in-08-064": {
   "bloque": "outlook-general",
@@ -2373,10 +2527,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. La entrega diferida programada no está disponible para cuentas POP ni IMAP.",
+   "Es esta. En el nuevo Outlook, **retrasar o programar el envío** **no está disponible para cuentas POP o IMAP**. Solo funciona con cuentas de Exchange, Microsoft 365 u Outlook.com, porque el servidor es quien guarda el mensaje y lo envía a la hora fijada.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Con una cuenta compatible, el equipo puede estar apagado y Outlook cerrado: el envío lo hace el servidor. En las cuentas que no lo admiten, el mensaje se queda en la bandeja de salida hasta que se abre Outlook."
  },
  "int-in-08-065": {
   "bloque": "internet-general",
@@ -2384,32 +2539,35 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. S/MIME cifra y firma digitalmente el mensaje. TLS protege el transporte, no el contenido en sí.",
+   "Es esta. **S/MIME** permite **cifrar mensajes de correo y firmarlos digitalmente**, lo que garantiza la **autenticidad** y la **integridad** del mensaje y mejora su privacidad.",
    "",
    ""
-  ]
+  ],
+  "ojo": "**TLS** protege el transporte entre servidores, no el contenido de cada mensaje. **VPN** crea un túnel cifrado y **HTML** es un lenguaje de marcado."
  },
  "out-in-08-066": {
   "bloque": "outlook-general",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 66",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Por defecto devuelve los correos que contienen esa cadena tal cual: ni con espacios intercalados ni con los dígitos en otro orden.",
+   "Es esta. Al buscar **9876**, Outlook devuelve los **correos que contienen esa cadena tal cual**. No busca con espacios intercalados ni con los dígitos en otro orden.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Las búsquedas de Outlook no se limitan a texto: también encuentran números. Si quieres variantes, hay que buscarlas por separado."
  },
  "int-in-08-067": {
   "bloque": "internet-general",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 67",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. El DNS traduce nombres de dominio en direcciones IP.",
+   "Es esta. El **DNS** (Domain Name System) **traduce nombres de dominio a direcciones IP**: cuando escribes un nombre de página, convierte ese nombre en la IP del servidor.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Se le llama «la agenda de internet». No transfiere archivos (FTP), ni protege las comunicaciones (TLS) ni envía correos (SMTP)."
  },
  "int-in-08-068": {
   "bloque": "internet-general",
@@ -2417,10 +2575,11 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. La S de HTTPS es de «secure»: la comunicación viaja cifrada mediante TLS.",
+   "Es esta. Que una URL sea **HTTPS** implica que **la comunicación está cifrada** (con TLS) entre el navegador y el servidor.",
    "",
    ""
-  ]
+  ],
+  "ojo": "No garantiza que la web sea más rápida ni que sea de fiar. Una página fraudulenta también puede usar HTTPS. Sigue usando DNS y servidor."
  },
  "int-in-08-069": {
   "bloque": "internet-general",
@@ -2428,20 +2587,22 @@
   "correcta": 1,
   "justificaciones": [
    "",
-   "Es esta. Si un atacante se hace con la cookie de sesión puede suplantar al usuario sin llegar a conocer su contraseña. Es el secuestro de sesión.",
+   "Es esta. Una **cookie de sesión** identifica al usuario una vez ha iniciado sesión. Si un atacante la roba (**secuestro de sesión**), puede **suplantar al usuario y acceder a sus cuentas sin conocer la contraseña**.",
    "",
    ""
-  ]
+  ],
+  "ojo": "Cifrar archivos pidiendo un rescate es un **ransomware**, y no tiene que ver con las cookies. Las cookies no afectan a la velocidad del hardware."
  },
  "bas-in-08-070": {
   "bloque": "basica-general",
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 70",
   "correcta": 0,
   "justificaciones": [
-   "Es esta. Es la definición de diseño responsive: la web se adapta al tamaño del dispositivo.",
+   "Es esta. Un sitio web **responsive** (adaptable) ajusta su diseño al tamaño de pantalla, por lo que se ve bien en **ordenadores, tabletas y móviles**.",
    "",
    "",
    ""
-  ]
+  ],
+  "ojo": "Un **blog** es un tipo de sitio por su contenido, un sitio **dinámico** genera páginas a partir de datos y una página de **aterrizaje** es la que llega una persona tras pulsar un anuncio."
  }
 }
