@@ -751,6 +751,7 @@
     if (!p.justificaciones) return h + '<div class="justificacion" id="j-' + id + '" hidden><p class="nota">Esta pregunta aún no tiene explicación. La respuesta marcada como correcta es la de la plantilla.</p></div></article>';
     h += '<div class="justificacion" id="j-' + id + '" hidden>' + (p.precepto ? '<p class="precepto">' + esc(p.precepto) + "</p>" : "") + htmlNotaMarca(p);
     p.opciones.forEach(function (o, i) {
+      if (!p.justificaciones[i]) return;
       h += '<div class="razon' + (ok.indexOf(i) >= 0 ? " es" : "") + '"><b class="l">' + LETRAS[i] + ")</b><span>" + rico(p.justificaciones[i]) + "</span></div>";
     });
     if (p.ojo) h += '<p class="ojo"><b>Ojo:</b> ' + rico(p.ojo) + "</p>";

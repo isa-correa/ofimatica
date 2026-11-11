@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Genera tools/respuestas/lote-24.json con las explicaciones de las oficiales del repo (tools/oficiales-repo.json).
-- Cada una lleva como explicación de la opción correcta el texto del repo; las otras opciones, un aviso genérico.
+- Cada una lleva como explicación de la opción correcta el texto del repo; las otras opciones quedan vacías y no se muestran.
 - Las que son idénticas a una ya explicada no se generan: construir.py les hereda la explicación.
 - Las tres que sustituyen a una antigua conservan la explicación antigua con las justificaciones recolocadas al orden nuevo.
 Uso (desde la raíz, después de normalizar.py): python3 -I tools/trabajo/respuestas_oficiales_repo.py [preguntas_antiguas.json]"""
@@ -54,7 +54,7 @@ for r in REPO["preguntas"]:
     if gemela and gemela["opciones"] == p["opciones"]:
         continue  # hereda
     why = sin_rayas(r["why"])
-    just = ["Es esta. " + why if i == p["correcta"] else "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta." for i in range(len(p["opciones"]))]
+    just = ["Es esta. " + why if i == p["correcta"] else "" for i in range(len(p["opciones"]))]
     e = {"bloque": r["bloque"], "precepto": f"Pregunta oficial del INAP · {r['exam'].replace(' · ', ' ')} · nº {r['n']}", "correcta": p["correcta"], "justificaciones": just}
     if r["badge"] == "actualizada":
         e["ojo"] = "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."

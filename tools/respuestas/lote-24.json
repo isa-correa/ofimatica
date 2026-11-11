@@ -40,10 +40,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 41",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Mac OS es un sistema operativo. AMD es un fabricante, PostgreSQL un gestor de bases de datos y RJ45 un conector de red.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "bas-in-01-042": {
@@ -51,9 +51,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 42",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. El cortafuegos (firewall) filtra el tráfico de red y bloquea las conexiones no autorizadas. Un backup es una copia de seguridad, un plóter es un periférico de salida para dibujo de gran formato y una tarjeta de memoria es almacenamiento."
   ]
  },
@@ -62,10 +62,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 43",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La escala es KB < MB < GB < TB < PB < EB: cada salto multiplica por unas mil veces. El exabyte es el mayor de los cuatro que se ofrecen.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "win-in-01-044": {
@@ -73,9 +73,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 44",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. La ruta es Configuración > Sistema > Información, que muestra el procesador, la RAM, el tipo de sistema y la edición y versión de Windows. Cuentas guarda los datos del usuario, y Personalización no tiene página de estado."
   ],
   "ojo": "Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
@@ -85,10 +85,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 45",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Las opciones de inicio de sesión, PIN, huella, reconocimiento facial de Windows Hello, contraseña, están en Configuración > Cuentas, porque afectan a la identidad del usuario, no al hardware ni a la red.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -97,9 +97,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 46",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. El diseño Detalles muestra una fila por archivo con columnas de nombre, fecha, tipo y tamaño, así que aporta más información que cualquiera de los diseños de iconos o que la lista simple."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -109,10 +109,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 47",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Duplicar envía la misma imagen a las dos pantallas, útil para proyectar. Para tener escritorio continuo entre las dos hay que elegir «Extender estas pantallas»; para apagar una, «Mostrar solo en 1» o «en 2». Nada de esto copia archivos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -122,9 +122,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Cualquier carpeta puede anclarse al Acceso rápido con el botón derecho y «Anclar a Acceso rápido», esté donde esté y sin necesidad de que forme parte de una biblioteca. Además del anclado manual, el Explorador añade solo las carpetas usadas con frecuencia.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -133,10 +133,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 50",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. El Narrador es el lector de pantalla incluido en Windows, dentro de las opciones de accesibilidad.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -145,10 +145,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 51",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El Centro de actividades y la gestión de notificaciones no dicen nada de la versión del sistema: es la opción falsa y por tanto la que hay que marcar. Las otras tres sí funcionan: winver, las propiedades de Este equipo y la página de información del sistema en Configuración.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "w-in-01-052": {
@@ -156,10 +156,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 52",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El panel Formato de imagen se organiza en cuatro pestañas: Relleno y línea, Efectos, Diseño y propiedades, e Imagen. Giro 3D y Recorte no son pestañas, sino secciones dentro de Efectos y de Imagen respectivamente.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "w-in-01-054": {
@@ -168,9 +168,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. «Leer en voz alta» está en la pestaña Revisar, junto al resto de herramientas de lectura y corrección. Es distinto del Lector inmersivo, que vive en la pestaña Vista.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "x-in-01-055": {
@@ -178,10 +178,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 55",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. La sintaxis Hoja!Celda referencia una celda de otra hoja del mismo libro. Para traer datos de otro libro haría falta la ruta y el nombre del archivo entre corchetes, así que la fórmula suma las dos B1 dentro del libro actual.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "x-in-01-056": {
@@ -189,10 +189,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 56",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. La función O devuelve VERDADERO si al menos una condición se cumple. Entre «mayor que», «igual a» y «menor que» siempre se cumple exactamente una, así que el resultado es VERDADERO pase lo que pase con los valores.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "x-in-01-057": {
@@ -200,10 +200,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 57",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. DIA extrae el número de día del mes de una fecha. AHORA devuelve la fecha y hora actuales y no admite argumentos, DIA.LAB calcula una fecha sumando días laborables y DIAS mide la diferencia entre dos fechas.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "x-in-01-059": {
@@ -211,9 +211,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 59",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Al combinar celdas Excel conserva únicamente el contenido de la celda superior izquierda y descarta el resto, avisando antes con un cuadro de diálogo. Por eso queda Azul, centrado."
   ]
  },
@@ -222,9 +222,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 60",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. EXTRAE(texto; posición_inicial; núm_de_caracteres) toma caracteres desde una posición. «Referencia 01» tiene el 0 en la posición 12, contando el espacio, , así que dos caracteres desde ahí devuelven 01."
   ]
  },
@@ -233,9 +233,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 61",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. SiInm evalúa una condición y devuelve el primer valor si es verdadera y el segundo si es falsa, igual que la función SI de Excel. Aquí compara el campo País con Francia."
   ]
  },
@@ -244,10 +244,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 62",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La sintaxis Alias: Expresión crea un campo calculado con el nombre que va antes de los dos puntos. Año() extrae el año de una fecha, así que la columna A_N devuelve el año de nacimiento de cada registro.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-01-063": {
@@ -255,10 +255,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 63",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Fecha() devuelve la fecha del día. La regla >=Fecha() obliga a que lo introducido sea hoy o posterior, de modo que rechaza fechas pasadas. No asigna valores por defecto: eso es la propiedad Valor predeterminado.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-01-064": {
@@ -266,10 +266,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 64",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Conmutador recibe pares de condición y valor y devuelve el valor del primer par cuya condición sea cierta, así que resuelve varios casos en una sola expresión. Elegir, en cambio, selecciona por número de índice, no por condición.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-01-065": {
@@ -277,10 +277,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 65",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. HTML son las siglas de HyperText Markup Language, el lenguaje con el que se estructuran las páginas web. HTTP y HTTPS son protocolos de transferencia, y URI es el identificador de un recurso.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "int-in-01-066": {
@@ -288,9 +288,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 66",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. El alojamiento web u hosting es el servicio que guarda los archivos del sitio en un servidor y los sirve a quien los pide. ERP y CRM son tipos de software de gestión, y el comercio electrónico es una actividad, no un servicio de alojamiento."
   ]
  },
@@ -299,10 +299,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 67",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La S de HTTPS es de «secure»: añade cifrado TLS, de modo que el tráfico viaja protegido y se valida la identidad del servidor con un certificado. Los dos protocolos funcionan en cualquier navegador y en cualquier dispositivo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "int-in-01-068": {
@@ -310,10 +310,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 68",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El diseño adaptativo o responsive reorganiza los elementos de la página según el tamaño y la orientación de la pantalla, para que la misma web sirva en móvil, tableta y escritorio. La accesibilidad y el reconocimiento de voz son cosas distintas.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "int-in-01-069": {
@@ -321,9 +321,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 69",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. SMTP (Simple Mail Transfer Protocol) es el protocolo de envío de correo entre servidores. ARP traduce direcciones IP a direcciones físicas, DHCP reparte direcciones IP y Telnet abre sesiones remotas sin cifrar."
   ]
  },
@@ -332,9 +332,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 ord. · nº 70",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Los navegadores ejecutan JavaScript de forma nativa. C#, Python y Basic necesitan otro entorno."
   ]
  },
@@ -343,9 +343,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 41",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Microsoft SQL Server es un sistema gestor de bases de datos. Android y Windows son sistemas operativos y PowerShell un intérprete de comandos."
   ]
  },
@@ -355,9 +355,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. La edición de vídeo es una aplicación, no una función básica del sistema operativo. Las otras tres sí lo son.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "bas-in-02-043": {
@@ -365,10 +365,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 43",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La minería de datos consiste en descubrir patrones dentro de grandes volúmenes de datos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "win-in-02-044": {
@@ -376,10 +376,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 44",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Un acceso directo es un fichero simbólico que apunta a un programa o archivo y permite abrirlo desde otro sitio.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -389,9 +389,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. «No molestar» oculta los avisos emergentes, pero las notificaciones se siguen recibiendo y quedan en el Centro de notificaciones. Va de la mano de «Concentración», que además arranca un temporizador y silencia la barra de tareas. En Windows 10 esto se llamaba «Asistente de concentración».",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
  },
@@ -400,10 +400,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 47",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. El Bloc de notas es el editor de texto de funcionalidades muy simples incluido en Windows. WordPad era el intermedio, y ya no existe.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "win-in-02-048": {
@@ -411,10 +411,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 48",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Windows+E abre el Explorador de archivos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "win-in-02-049": {
@@ -422,9 +422,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 49",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. No existe ninguna ruta Configuración › Sistema › Explorador de archivos: esa está inventada. Las otras tres sí funcionan."
   ]
  },
@@ -433,10 +433,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 50",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Alt+D lleva el cursor directamente a la barra de direcciones del Explorador.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -445,10 +445,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 51",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Configurar página del Bloc de notas permite encabezado y pie, y mediante códigos se puede fijar la alineación e insertar fecha, hora, nombre del archivo y número de página.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -457,10 +457,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 53",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Ver macros y Grabar macro están también en la pestaña Vista, además de en Programador.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "w-in-02-054": {
@@ -468,10 +468,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 54",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. «Presentar en línea» publica el documento en un servicio de Microsoft y reparte un enlace, de modo que los asistentes lo siguen en su propio navegador mientras quien presenta pasa las páginas. No convierte el archivo ni lo envía adjunto.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "w-in-02-055": {
@@ -480,9 +480,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El botón Buscar abre el panel Navegación, con las pestañas Títulos, Páginas y Resultados. La ventana Buscar y reemplazar sale desde Reemplazar.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "x-in-02-056": {
@@ -490,9 +490,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 56",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. FORMULATEXTO devuelve la fórmula de una celda como cadena de texto, que es exactamente lo que pide el enunciado."
   ]
  },
@@ -502,9 +502,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El formato mmm-aa muestra el mes abreviado a tres letras y el año en dos cifras: ene-21.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "acc-in-02-058": {
@@ -512,9 +512,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 58",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Longitud([Texto01])<10 obliga a que el contenido tenga menos de 10 caracteres, es decir, un máximo de 9. Y afecta solo a ese campo, no a todos."
   ]
  },
@@ -524,9 +524,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El Divisor de bases de datos separa las tablas, que pasan a una base de datos back-end, del resto de objetos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -535,10 +535,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 60",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La Regla de validación es la propiedad que limita qué valores se admiten en un campo. Valor predeterminado solo propone uno.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "out-in-02-061": {
@@ -546,10 +546,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 61",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. La ruta es Inicio › Correo no deseado › Opciones para el correo electrónico no deseado. Las demás mezclan grupos que no van juntos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -558,9 +558,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 62",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Mensaje › grupo Incluir › Firma › Firmas, y ahí el botón Nueva y el cuadro Editar firma. No hace falta certificado digital para una firma de texto."
   ]
  },
@@ -569,10 +569,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 63",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Ctrl+Mayús+P abre la ventana Nueva carpeta de búsqueda.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "x-in-02-064": {
@@ -580,10 +580,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 64",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Sí se puede crear el gráfico desde el propio mensaje: Insertar › Ilustraciones › Gráfico, y se rellenan los datos en la hoja de Excel que se abre.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "out-in-02-065": {
@@ -592,9 +592,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. En el mensaje, pestaña Opciones › «Dirigir respuestas a», y ahí se indica la dirección a la que deben ir las respuestas.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "out-in-02-066": {
@@ -602,9 +602,9 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 66",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Limpiar carpeta quita los mensajes redundantes de las conversaciones, es decir, los que ya están citados dentro de otro posterior."
   ]
  },
@@ -614,9 +614,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El nivel Editor permite enviar elementos en nombre del titular y además crear y responder convocatorias de reunión.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -625,10 +625,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 68",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Formato de texto › Edición › Buscar busca texto dentro del correo que estás escribiendo, no contactos ni otros mensajes.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -637,10 +637,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 69",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. HTML es el lenguaje de marcado estándar de las páginas web. CSS da estilo pero no es de marcado.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-02-070": {
@@ -648,10 +648,10 @@
   "precepto": "Pregunta oficial del INAP · 2019 extra · nº 70",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El CAPTCHA sirve para distinguir si quien está al otro lado es una persona o un programa automático.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-03-042": {
@@ -659,9 +659,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 42",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. La propiedad Regla de validación de un campo define la condición que debe cumplir el dato para ser aceptado, y Texto de validación es el mensaje que se muestra al incumplirla. Las otras propiedades citadas no existen con esos nombres."
   ]
  },
@@ -670,10 +670,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 43",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. CAPTCHA son las siglas de «prueba de Turing pública y automática para distinguir a los ordenadores de los humanos»: sirven para separar personas de programas automáticos, típicamente para frenar registros o envíos masivos. No acreditan la identidad de nadie.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-03-044": {
@@ -682,9 +682,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El phishing consiste en suplantar a una entidad de confianza, el banco, la Administración, un compañero, para que la víctima entregue datos o pulse un enlace. Adware, troyano y rootkit son tipos de software malicioso, no la técnica de engaño.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "win-in-03-045": {
@@ -693,9 +693,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Windows Hello es el sistema de autenticación sin contraseña de Windows: reconocimiento facial, huella dactilar o PIN. Se configura en Configuración > Cuentas > Opciones de inicio de sesión.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -704,10 +704,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 46",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. El llamado Modo Dios es una carpeta especial que reúne en una sola ventana casi todas las herramientas de configuración del sistema. Se crea haciendo una carpeta y nombrándola con la cadena GodMode y el identificador de clase correspondiente.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -716,10 +716,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 47",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Windows+D minimiza todas las ventanas para dejar el escritorio a la vista, y al pulsarla otra vez las restaura. No cierra nada.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -728,10 +728,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 48",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El Administrador de teclado no forma parte de Windows: llega con PowerToys, que hay que instalar aparte. Servicios, Monitor de recursos y Visor de eventos vienen de serie en Herramientas de Windows.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -741,9 +741,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Una ruta UNC se escribe \\\\servidor\\recurso\\ruta: dos barras invertidas al principio y una sola entre cada nivel. No admite letras de unidad locales como c: dentro de la ruta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "win-in-03-050": {
@@ -752,9 +752,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Al restaurar, Windows devuelve el archivo a la carpeta exacta de la que se borró, recreándola si hiciera falta. No va al escritorio ni pide destino.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "x-in-03-053": {
@@ -762,9 +762,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 53",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. No existe ninguna función llamada PRUEBA. Sí existen PRUEBA.F.N para la prueba F, SI para las condiciones y BUSCAR para las búsquedas."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -774,10 +774,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 54",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. En Excel en español la función se escribe SI.ERROR, con punto. Al teclearla sin el punto Excel no reconoce el nombre y devuelve el error #¿NOMBRE?, sin llegar a evaluar la división. Si estuviera bien escrita sí mostraría el texto de aviso.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -786,9 +786,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 56",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. El cuadro «Buscar» o Tell Me, que localiza comandos escribiendo lo que se quiere hacer, se fue mejorando en las versiones de Microsoft 365. Las otras tres afirmaciones son falsas: Access 365 sí ordena en la Hoja de propiedades, sí admite el tipo Número grande y sí importa y vincula datos externos."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -798,10 +798,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 58",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Fecha() devuelve la fecha del día. La regla >=Fecha() obliga a que lo introducido sea hoy o posterior, de modo que rechaza fechas pasadas. No asigna valores por defecto: eso es la propiedad Valor predeterminado.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-03-059": {
@@ -809,10 +809,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 59",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Los módulos de Access se programan en VBA, Visual Basic para Aplicaciones, el mismo lenguaje de macros del resto de Microsoft 365.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "acc-in-03-060": {
@@ -820,10 +820,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 60",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Access permite hasta 10 niveles de ordenación o agrupamiento en un informe.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -832,9 +832,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 61",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Una consulta de datos anexados añade registros nuevos al final de una tabla existente. Actualizar valores es la consulta de actualización, y combinar tablas en una sola vista es una consulta de selección con relaciones."
   ]
  },
@@ -844,9 +844,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Sin una cuenta configurada Outlook no puede enviar ni recibir nada, así que lo primero es añadir la cuenta. Firmas, mensajes y personalización de la barra vienen después.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -855,10 +855,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 64",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Outlook es el gestor de información personal de Microsoft 365: correo, calendario con citas y reuniones, contactos y tareas. La base de datos es Access y la hoja de cálculo, Excel.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -867,10 +867,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 65",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La exclamación roja es la marca de importancia alta que pone quien envía el mensaje. No dice nada sobre su seguridad ni sobre lo que lleva adjunto.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "int-in-03-066": {
@@ -878,10 +878,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 66",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. FTP, File Transfer Protocol, es el protocolo para subir y descargar archivos entre un cliente y un servidor. El envío de correo es SMTP.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "acc-in-03-067": {
@@ -890,9 +890,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Los nombres de tabla, campo y control en Access admiten como máximo 64 caracteres.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -902,9 +902,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Las vistas son las distintas maneras de presentar el contenido de una carpeta, ordenado, agrupado, con o sin panel de lectura, en lista compacta o individual, y se cambian desde la pestaña Vista.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -913,10 +913,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 69",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Ping envía paquetes ICMP a un equipo remoto y mide si responde y en cuánto tiempo. Ipconfig muestra la configuración de red del equipo local y netstat lista las conexiones abiertas.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-03-070": {
@@ -924,10 +924,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 ord. · nº 70",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La memoria caché está integrada en el procesador o muy cerca de él, así que es la más rápida de todas, aunque también la más pequeña y la más cara. Le siguen la RAM, la memoria flash y la ROM.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "bas-in-04-041": {
@@ -936,9 +936,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Plug and play significa que basta con conectar el dispositivo para que funcione, sin instalar nada a mano.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "bas-in-04-042": {
@@ -946,10 +946,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 42",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. La BIOS inicializa y comprueba el hardware al arrancar y después carga el sistema operativo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-04-043": {
@@ -957,9 +957,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 43",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Un bit es la unidad mínima de información: un cero o un uno. Ocho bits forman un byte."
   ]
  },
@@ -968,10 +968,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 44",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. CA son las siglas de Certification Authority, la autoridad de certificación que emite los certificados. Cuidado con el orden de las palabras, que es la trampa.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "win-in-04-045": {
@@ -979,10 +979,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 45",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Está en Configuración › Sistema › Multitarea, en la opción de mostrar en la barra de tareas las ventanas abiertas en todos los escritorios.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -991,9 +991,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 46",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. FPS no es un sistema de archivos (son fotogramas por segundo). NTFS, FAT y FAT32 sí lo son."
   ]
  },
@@ -1002,9 +1002,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 47",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Ctrl+Esc abre el menú Inicio, igual que la tecla Windows."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -1014,10 +1014,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 48",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Windows y la tecla + abre la Lupa; Windows y - reduce la ampliación.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1026,9 +1026,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 49",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. El Explorador tiene opciones para mostrar u ocultar extensiones y elementos ocultos, así que no muestra «siempre» todo. Los absolutos delatan la falsa."
   ]
  },
@@ -1037,10 +1037,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 50",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Un acceso directo es un elemento que abre de forma inmediata el archivo o carpeta al que está vinculado.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "win-in-04-051": {
@@ -1048,10 +1048,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 51",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. NTFS es el sistema de archivos predeterminado de Windows. exFAT y FAT32 se usan sobre todo en memorias extraíbles.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1060,9 +1060,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 53",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. «Leer en voz alta» está en la pestaña Revisar. Las otras tres opciones no existen en Word."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -1072,10 +1072,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 54",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Revisar › Traducir. Es la misma pestaña que la ortografía y el control de cambios.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1085,9 +1085,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Mayús+F3 rota entre minúsculas, «Tipo Título» con cada palabra en mayúscula inicial, y todo en mayúsculas, pulsándola repetidamente.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1096,10 +1096,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 56",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Contar palabras muestra páginas, palabras, caracteres con y sin espacios, párrafos y líneas. Las opciones falsas quitan o añaden elementos a esa lista.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "x-in-04-057": {
@@ -1107,10 +1107,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 57",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Se resuelve con validación de datos configurada como lista desplegable, que limita la celda a los valores previstos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1119,10 +1119,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 58",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El signo de admiración separa el nombre de la hoja y la celda dentro del mismo libro. Si fueran libros distintos aparecería el nombre del archivo entre corchetes.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "x-in-04-059": {
@@ -1131,9 +1131,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. ESLOGICO comprueba si el argumento es un valor lógico. FALSO lo es, así que el resultado es VERDADERO. La trampa es leerlo como si devolviera el valor.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "x-in-04-060": {
@@ -1141,10 +1141,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 60",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. En la versión española el separador de argumentos es el punto y coma. Escrita con comas, la fórmula da error.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1153,9 +1153,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 61",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Las relaciones entre tablas existen para mantener la integridad referencial de los datos."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -1166,9 +1166,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Herramientas de base de datos › Compactar y reparar base de datos. También está en Archivo › Información, pero con ese nombre exacto la ruta correcta es la primera.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1177,10 +1177,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 63",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. El botón «Base de datos de Access» lanza el asistente que divide la base en una parte de datos y otra de objetos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1190,9 +1190,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El rango 172.16.0.0: 172.31.255.255 es uno de los tres reservados para redes privadas, junto con 10.0.0.0/8 y 192.168.0.0/16.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "out-in-04-065": {
@@ -1201,9 +1201,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Las comillas dobles son las que fuerzan la búsqueda de la frase exacta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1213,9 +1213,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Cl@ve es el sistema de identidad digital y firma de la Administración. Notifica, SIR y GEISER son servicios de notificación e intercambio de registros.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "int-in-04-067": {
@@ -1223,10 +1223,10 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 67",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. POP3 descarga los mensajes al dispositivo; IMAP los mantiene en el servidor y los sincroniza. La otra de las opciones invierte justo los dos protocolos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "out-in-04-068": {
@@ -1234,9 +1234,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 68",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Archivar mueve el mensaje a la carpeta Archivo sin borrarlo, para tenerlo fuera de la bandeja pero disponible."
   ]
  },
@@ -1246,9 +1246,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Telnet pertenece a la capa de aplicación. Ojo: «Sesión» ni siquiera es una capa del modelo TCP/IP.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "int-in-04-070": {
@@ -1256,9 +1256,9 @@
   "precepto": "Pregunta oficial del INAP · 2022 extra · nº 70",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Los navegadores ejecutan JavaScript de forma nativa. C#, Python y Basic necesitan otro entorno."
   ]
  },
@@ -1268,9 +1268,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El lápiz óptico introduce datos, así que es periférico de entrada. El ratón es externo y la función de la CPU es procesar, no almacenar.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "bas-in-05-042": {
@@ -1278,10 +1278,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 42",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Mac OS es un sistema operativo. AMD es un fabricante, PostgreSQL un gestor de bases de datos y RJ45 un conector de red.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "bas-in-05-043": {
@@ -1289,10 +1289,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 43",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Excel es una aplicación ofimática. Windows es el sistema operativo, MySQL un gestor de bases de datos y Chrome un navegador.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-05-044": {
@@ -1301,9 +1301,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Es la definición de certificado electrónico, y el de la FNMT para persona física es el de Ciudadano. Las demás opciones son normas de calidad o un número de serie.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "win-in-05-045": {
@@ -1311,10 +1311,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 45",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Desde 2023 la herramienta Recortes de Windows 11 graba vídeo de la pantalla, además de capturar imágenes. Escritorio remoto conecta con otro equipo, Paint dibuja y la Grabadora de acciones de usuario (psr.exe) solo guarda una secuencia de capturas con anotaciones, no vídeo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
  },
@@ -1323,10 +1323,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 46",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El Narrador es el lector de pantalla incluido en Windows, dentro de las opciones de accesibilidad.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1336,9 +1336,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Windows+E abre el Explorador de archivos, y sigue siendo así en Windows 11.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1347,10 +1347,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 49",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El Administrador de tareas muestra los procesos en ejecución y el consumo de CPU y memoria. Se abre con Ctrl+Mayús+Esc.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1359,10 +1359,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 50",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Extender reparte el escritorio entre las dos pantallas. Duplicar mostraría lo mismo en las dos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1371,9 +1371,9 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 51",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. El índice sirve para que los resultados de búsqueda salgan más rápido. No copia archivos ni los excluye de nada."
   ]
  },
@@ -1382,9 +1382,9 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 54",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Los Estilos son los que marcan la jerarquía del documento y permiten después generar la tabla de contenido automáticamente."
   ]
  },
@@ -1394,9 +1394,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El índice recoge palabras clave y las páginas donde aparecen. La tabla de contenido recoge los títulos, que es otra cosa.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "acc-in-05-057": {
@@ -1404,9 +1404,9 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 57",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Un informe de Access se puede crear tanto sobre tablas como sobre consultas."
   ]
  },
@@ -1415,9 +1415,9 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 58",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. La segmentación de datos son botones que filtran de forma visual e interactiva tablas y tablas dinámicas."
   ]
  },
@@ -1426,10 +1426,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 59",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Con la tabla seleccionada, en la pantalla de impresión se elige «Imprimir selección».",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "x-in-05-060": {
@@ -1438,9 +1438,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Excel interpreta 20-2 como una fecha y lo muestra como 20-feb.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "out-in-05-061": {
@@ -1448,10 +1448,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 61",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. «Buzón actual» busca en todas las carpetas del buzón en el que estás, no en las dos cuentas a la vez ni solo en la carpeta abierta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "out-in-05-062": {
@@ -1459,10 +1459,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 62",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Las reglas son las que ejecutan acciones automáticas sobre los mensajes según condiciones como el asunto o el remitente.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "out-in-05-063": {
@@ -1470,10 +1470,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 63",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Delegar acceso es lo único que permite enviar elementos en nombre de otra persona y gestionar sus convocatorias de reunión.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "out-in-05-064": {
@@ -1481,10 +1481,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 64",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Limpieza de buzón informa del tamaño del buzón y ofrece las herramientas para reducirlo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "ia-in-05-065": {
@@ -1492,10 +1492,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 65",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. ChatGPT es el sistema de chat basado en inteligencia artificial. Drive y OneDrive son almacenamiento y Kindle un lector de libros.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "win-in-05-066": {
@@ -1503,10 +1503,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 66",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Cada pantalla se configura por separado: escala, resolución y orientación son independientes.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1515,10 +1515,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 67",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. «Anulación de dinamización de columnas» es la función de Power Query que convierte columnas en filas.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "out-in-05-068": {
@@ -1526,10 +1526,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 68",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Outlook ya trae categorías de color por defecto, y se pueden modificar, eliminar, crear nuevas y asignarles atajos de teclado.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "int-in-05-069": {
@@ -1537,10 +1537,10 @@
   "precepto": "Pregunta oficial del INAP · 14 dic. 2024 · nº 69",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. JavaScript es el que ejecuta el navegador de forma nativa. SQL es de bases de datos, y Fortran y Pascal se compilan.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-06-041": {
@@ -1548,10 +1548,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 41",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. El lápiz óptico introduce datos, así que es periférico de entrada. El ratón es externo y la función de la CPU es procesar, no almacenar.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-06-042": {
@@ -1559,10 +1559,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 42",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Gusano y troyano son los dos malware. El proxy es un intermediario de red y la cookie un fichero de datos: ninguno es una amenaza por sí mismo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-06-043": {
@@ -1570,10 +1570,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 43",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La gestión de la memoria principal es una de las funciones esenciales de cualquier sistema operativo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "bas-in-06-044": {
@@ -1582,9 +1582,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. SaaS es Software as a Service. Los otros modelos de nube son PaaS (plataforma) e IaaS (infraestructura).",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "bas-in-06-045": {
@@ -1592,10 +1592,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 45",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. PostgreSQL es un sistema gestor de bases de datos. PowerPoint son presentaciones, Firefox un navegador y Acrobat un lector de PDF.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "acc-in-06-046": {
@@ -1603,9 +1603,9 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 46",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. El Encabezado del informe aparece una sola vez, al principio. Lo que se repite en todas las páginas es el Encabezado de página."
   ]
  },
@@ -1614,10 +1614,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 47",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. La dirección IP es el identificador único de un dispositivo dentro de una red o de Internet.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "win-in-06-048": {
@@ -1625,9 +1625,9 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 48",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Windows permite tener idiomas distintos para la interfaz, para la voz y para el teclado; no tienen por qué coincidir."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -1637,9 +1637,9 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 49",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Windows es multiusuario: cada cuenta tiene su propia configuración y sus aplicaciones personalizadas."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -1649,10 +1649,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 50",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Se exige una tarjeta gráfica compatible con DirectX y WDDM. En Windows 11 el requisito subió a DirectX 12 y WDDM 2.0.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1662,9 +1662,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El Registro guarda la configuración del sistema, del hardware y de las aplicaciones instaladas, no solo lo que toca el usuario.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1673,10 +1673,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 52",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La Unidad de recuperación crea en un USB el medio con el que reinstalar o reparar el sistema.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1685,9 +1685,9 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 54",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Alt+Entrar abre las Propiedades del elemento seleccionado."
   ]
  },
@@ -1697,9 +1697,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Se puede ordenar por campos aunque no se estén mostrando en el diseño de vista elegido.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1708,10 +1708,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 56",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. «Enviar a» despliega varios destinos: carpeta comprimida, destinatario de correo, destinatario de fax, Documentos y las unidades disponibles.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1720,10 +1720,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 57",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Las ubicaciones de búsqueda son personalizables y sí pueden incluir carpetas de OneDrive.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
  },
@@ -1732,9 +1732,9 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 58",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. El Historial de archivos es la herramienta de copias de seguridad a una unidad externa o a una ubicación de red."
   ],
   "ojo": "Oficial actualizada: el INAP la redactó para una versión anterior de Windows u Office y aquí está adaptada a Windows 11 y Microsoft 365."
@@ -1744,10 +1744,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 59",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Recorte de pantalla, dentro de Insertar, captura un trozo de la pantalla y lo pega en el documento.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "x-in-06-062": {
@@ -1755,9 +1755,9 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 62",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. «Ajustar todas las columnas en una página» fuerza una única página de ancho y deja libre el largo. Ajustar la hoja entera comprimiría también a lo alto."
   ]
  },
@@ -1766,10 +1766,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 63",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. DIVIDIRTEXTO reparte el texto en varias celdas usando el delimitador indicado: «Mochila» en J44 y «azul» en K44.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "acc-in-06-064": {
@@ -1777,10 +1777,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 64",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Las consultas de acción (anexar, actualizar, eliminar y de creación de tabla) son las que modifican datos. La de selección solo muestra.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "out-in-06-065": {
@@ -1788,10 +1788,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 65",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Sin comodines, la búsqueda devuelve la palabra tal cual y no sus derivadas, pero sí mira dentro de los datos adjuntos.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "out-in-06-066": {
@@ -1799,10 +1799,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 66",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Colaborador solo permite crear elementos nuevos: no deja leer ni editar los que ya están. Revisor solo lee, Editor lo puede todo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-06-068": {
@@ -1810,10 +1810,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 68",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. En Access las fechas van entre almohadillas: >=#01/01/2024#. Con comillas se trataría como texto.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "out-in-06-069": {
@@ -1821,9 +1821,9 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 69",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Recuperar un mensaje exige que ambos estéis en un servidor Exchange y que el destinatario aún no lo haya abierto. Los dos requisitos, no uno."
   ]
  },
@@ -1832,10 +1832,10 @@
   "precepto": "Pregunta oficial del INAP · 2024 extra · nº 70",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. El Inicio de Windows 11 tiene dos zonas: «Anclado», que el usuario controla, y «Recomendado», con archivos y aplicaciones recientes. Los mosaicos dinámicos (live tiles) de Windows 10 desaparecieron.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ],
   "ojo": "Oficial reescrita para Windows 11: la original se refería a algo que cambió en esa versión."
  },
@@ -1845,9 +1845,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El procesador (CPU) es la unidad que busca, interpreta y ejecuta las instrucciones. De las demás definiciones, una describe un byte, otra un programa y otra un disco.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "bas-in-07-042": {
@@ -1855,10 +1855,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 42",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El antivirus es el que detecta y elimina malware. El firewall filtra tráfico, la VPN cifra la conexión y el gestor de contraseñas guarda credenciales.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "bas-in-07-043": {
@@ -1866,9 +1866,9 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 43",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. La RAM es la memoria volátil donde se cargan los programas y sus procesos mientras se ejecutan. La CPU procesa, no almacena."
   ]
  },
@@ -1877,9 +1877,9 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 44",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. 1 GB equivale a 1.000.000 KB, así que 30 GB son 30.000.000 KB."
   ]
  },
@@ -1888,10 +1888,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 45",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Las notificaciones están en el Centro de actividades, que se abre en el área de calendario y notificación, abajo a la derecha de la barra de tareas.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "ia-in-07-046": {
@@ -1900,9 +1900,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Copilot es una herramienta de inteligencia artificial que genera respuestas en tiempo real combinando los datos de la organización con información de Internet.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "win-in-07-047": {
@@ -1910,10 +1910,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 47",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Windows Search busca en la web, las aplicaciones, la configuración y los archivos, y además puede incluir OneDrive, SharePoint, Outlook o Bing si el usuario lo autoriza. Las demás opciones recortan ese alcance.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "win-in-07-048": {
@@ -1921,10 +1921,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 48",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Los diseños reales son iconos (muy grandes, grandes, medianos, pequeños), lista, detalles, mosaicos y contenido. «Extendido» no existe, y aparece en dos opciones justo para descartarlas.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "win-in-07-049": {
@@ -1932,10 +1932,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 49",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Propiedades sobre «Este equipo» abre la Configuración de Windows en Sistema. La ventana de propiedades del disco sale pulsando sobre la unidad C:.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "win-in-07-050": {
@@ -1943,10 +1943,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 50",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Asistencia rápida sirve para que otra persona tome el control de tu equipo en remoto, o para pedirle que comparta su pantalla contigo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "w-in-07-051": {
@@ -1955,9 +1955,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El texto está en cursiva y con las letras más separadas de lo normal, que es el espaciado extendido (Fuente › Avanzado › Espaciado).",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "w-in-07-052": {
@@ -1965,10 +1965,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 52",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Basta con pasar el ratón por encima: aparece un cuadro emergente con el texto de la nota. Hacer clic es lo que lleva el cursor hasta ella.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "w-in-07-054": {
@@ -1976,9 +1976,9 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 54",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. En la pantalla de impresión, dentro de Configuración, se desmarca la casilla de imprimir con revisiones. No hace falta aceptar los cambios."
   ]
  },
@@ -1987,9 +1987,9 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 55",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. FILAS() devuelve cuántas filas tiene la referencia que se le pasa, y Registros[Fecha] es la columna Fecha de la tabla Registros."
   ]
  },
@@ -1998,9 +1998,9 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 56",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. dd/mmm/aa es día en dos cifras, mes abreviado a tres letras y año en dos cifras: 11/ago/24. Con «mmmm» saldría agosto y con «aaaa», 2024."
   ]
  },
@@ -2010,9 +2010,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. La función NO invierte el valor lógico: NO(FALSO) da VERDADERO. ESLOGICO solo comprueba si el valor es lógico, no lo cambia.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "acc-in-07-059": {
@@ -2020,10 +2020,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 59",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El formato Estándar pone separador de miles y dos decimales, pero sin símbolo de moneda. Con Moneda aparecería el €.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-07-060": {
@@ -2031,10 +2031,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 60",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Un texto entre corchetes en la fila Criterios que no coincide con ningún nombre de campo se interpreta como un parámetro, y Access lo pregunta al ejecutar la consulta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-07-061": {
@@ -2042,10 +2042,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 61",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. El orden automático de tabulación sigue la lectura occidental: de izquierda a derecha y de arriba abajo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "acc-in-07-062": {
@@ -2054,9 +2054,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El campo Datos adjuntos admite hasta 2 GB, que es además el tamaño máximo de toda la base de datos de Access.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "bas-in-07-063": {
@@ -2065,9 +2065,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Sin servidor de correo no hay correo electrónico. La arroba es obligatoria y el envío siempre usa protocolos (SMTP para enviar, POP o IMAP para recibir).",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "out-in-07-064": {
@@ -2075,10 +2075,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 64",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Colaborador solo permite crear elementos nuevos: no deja leer ni editar los que ya están. Revisor solo lee, Editor lo puede todo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "out-in-07-065": {
@@ -2086,9 +2086,9 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 65",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. cc:\"Ana Muñoz\" busca ese nombre en la línea CC. Las comillas fuerzan la frase exacta y no hace falta tenerlo guardado como contacto."
   ]
  },
@@ -2097,9 +2097,9 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 66",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. Al crear el grupo se genera su propia dirección de correo. Si el grupo es público cualquiera puede escribirle; si es privado, solo los miembros. Por eso otra de las opciones, que dice que da igual, es falsa."
   ]
  },
@@ -2108,9 +2108,9 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 67",
   "correcta": 3,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
+   "",
    "Es esta. En Edge: Configuración y más (···) › Más herramientas › Anclar a Inicio."
   ]
  },
@@ -2119,10 +2119,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 68",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La Web 4.0 se define precisamente por incorporar inteligencia artificial y procesamiento del lenguaje natural.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "bas-in-07-069": {
@@ -2130,10 +2130,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 69",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Spamming es el envío masivo de comunicaciones no solicitadas por cualquier canal.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-07-070": {
@@ -2141,10 +2141,10 @@
   "precepto": "Pregunta oficial del INAP · 23 mayo 2026 · nº 70",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Es la definición de escritorio virtual: el puesto de trabajo existe en forma virtual, separado del dispositivo físico desde el que se accede.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-08-041": {
@@ -2152,10 +2152,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 41",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El disipador absorbe el calor del procesador y lo saca del equipo. La fuente transforma la corriente, la gráfica procesa imagen y la RAM almacena temporalmente.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "bas-in-08-042": {
@@ -2163,10 +2163,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 42",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Libre no es lo mismo que gratis: lo que define al software libre es el acceso al código fuente y el derecho a modificarlo. Puede perfectamente ser de pago.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-08-043": {
@@ -2175,9 +2175,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El router es el que interconecta redes distintas. El hub y el repetidor trabajan dentro de la misma red, y el powerbank es una batería.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "win-in-08-044": {
@@ -2186,9 +2186,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El cambio más visible del menú Inicio de Windows 11 es que aparece centrado en la barra de tareas, aunque se puede devolver a la izquierda.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "ia-in-08-045": {
@@ -2197,9 +2197,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Copilot genera una respuesta contextualizada en lenguaje natural, en vez de devolver una lista de enlaces como un buscador clásico.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "win-in-08-046": {
@@ -2207,10 +2207,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 46",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. El Visor de eventos es el registro del sistema: errores, advertencias e información del sistema y de las aplicaciones.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "win-in-08-047": {
@@ -2218,10 +2218,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 47",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Windows+Impr Pant guarda el archivo en Imágenes\\Capturas de pantalla. Impr Pant sola solo copia al portapapeles y Windows+Mayús+S abre el Recorte.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "win-in-08-048": {
@@ -2229,10 +2229,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 48",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Ctrl+Mayús mientras se arrastra crea un acceso directo. Ctrl solo copia y Mayús solo mueve.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "bas-in-08-049": {
@@ -2240,10 +2240,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 49",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. Compartir es la opción de uso compartido en red. «Enviar a» copia el archivo a un destino, no da acceso a nadie.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "win-in-08-050": {
@@ -2252,9 +2252,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Mayús+Supr borra de forma definitiva sin pasar por la papelera, y además hay unidades configuradas para no usarla.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "w-in-08-053": {
@@ -2262,10 +2262,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 53",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Word para la Web fusiona los cambios en tiempo real sobre SharePoint u OneDrive y mantiene un historial de versiones.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "w-in-08-054": {
@@ -2274,9 +2274,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Combinar correspondencia conecta el documento con un origen de datos y genera un documento personalizado por cada registro.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "x-in-08-056": {
@@ -2285,9 +2285,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Una referencia relativa se ajusta al copiarla: al bajar una fila, A1 pasa a A2. Para que no cambie hay que fijarla con el símbolo $.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "x-in-08-057": {
@@ -2295,10 +2295,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 57",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. #N/A significa valor no disponible, el error típico de BUSCARV o BUSCARX cuando no encuentra lo que busca. La división por cero da #¡DIV/0!.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "x-in-08-058": {
@@ -2306,10 +2306,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 58",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. CONTAR solo cuenta números. CONTARA cuenta todas las celdas que no estén vacías, sean números, texto o lo que sea.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-08-059": {
@@ -2317,10 +2317,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 59",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. La propiedad Indizado con la opción «Sí (sin duplicados)» impide valores repetidos. Requerido solo obliga a rellenar el campo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "acc-in-08-060": {
@@ -2328,10 +2328,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 60",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. WHERE filtra registros. ORDER BY ordena, GROUP BY agrupa y SELECT elige las columnas.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "acc-in-08-061": {
@@ -2339,10 +2339,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 61",
   "correcta": 2,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
+   "",
    "Es esta. La consulta de actualización cambia valores de registros que ya existen; no crea ni elimina.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   ""
   ]
  },
  "acc-in-08-062": {
@@ -2350,10 +2350,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 62",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. En una clave primaria compuesta lo que debe ser único es la combinación de los campos, no cada campo por separado. Y ninguno puede quedar nulo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "out-in-08-063": {
@@ -2361,10 +2361,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 63",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Las reglas actúan sobre los mensajes que llegan después de crearlas. A un correo que ya estaba en la bandeja no le afecta que lo marques como leído.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "out-in-08-064": {
@@ -2372,10 +2372,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 64",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. La entrega diferida programada no está disponible para cuentas POP ni IMAP.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "int-in-08-065": {
@@ -2383,10 +2383,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 65",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. S/MIME cifra y firma digitalmente el mensaje. TLS protege el transporte, no el contenido en sí.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "out-in-08-066": {
@@ -2395,9 +2395,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Por defecto devuelve los correos que contienen esa cadena tal cual: ni con espacios intercalados ni con los dígitos en otro orden.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "int-in-08-067": {
@@ -2406,9 +2406,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. El DNS traduce nombres de dominio en direcciones IP.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  },
  "int-in-08-068": {
@@ -2416,10 +2416,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 68",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. La S de HTTPS es de «secure»: la comunicación viaja cifrada mediante TLS.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "int-in-08-069": {
@@ -2427,10 +2427,10 @@
   "precepto": "Pregunta oficial del INAP · julio 2026 extra · nº 69",
   "correcta": 1,
   "justificaciones": [
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
+   "",
    "Es esta. Si un atacante se hace con la cookie de sesión puede suplantar al usuario sin llegar a conocer su contraseña. Es el secuestro de sesión.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   ""
   ]
  },
  "bas-in-08-070": {
@@ -2439,9 +2439,9 @@
   "correcta": 0,
   "justificaciones": [
    "Es esta. Es la definición de diseño responsive: la web se adapta al tamaño del dispositivo.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta.",
-   "No. No es la respuesta oficial; la explicación está en la opción marcada como correcta."
+   "",
+   "",
+   ""
   ]
  }
 }

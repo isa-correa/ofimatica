@@ -21,7 +21,7 @@ Las preguntas sin explicar ya salen, con su respuesta correcta (la de la plantil
 Para añadir tests nuevos (por ejemplo más de Excel): se meten en `informatica-todo.json`, se repiten los pasos 1, 3 y 5. Los ids de lo ya explicado no cambian mientras los tests nuevos vayan al final de su grupo.
 
 ## Oficiales del INAP
-`tools/oficiales-repo.json` guarda las 226 preguntas oficiales que había en el repo `isa-correa/ofimatica`, ya con su texto actualizado a Windows 11 y Microsoft 365. Entran como procedencia «Oficiales», en tests completos por convocatoria (INAP 2019 ord., 2019 extra, 2022 ord., 2022 extra, 14 dic. 2024, 2024 extra, 23 mayo 2026 y julio 2026 extra). Sus explicaciones salen de `tools/trabajo/respuestas_oficiales_repo.py` (`tools/respuestas/lote-24.json`): la opción correcta lleva la explicación del repo y las demás un aviso genérico, a la espera de explicarlas con los apuntes. Las plantillas de 2026 son provisionales. Las preguntas que ya estaban en la plataforma con la misma redacción se unen como repetidas.
+`tools/oficiales-repo.json` guarda las 226 preguntas oficiales que había en el repo `isa-correa/ofimatica`, ya con su texto actualizado a Windows 11 y Microsoft 365. Entran como procedencia «Oficiales», en tests completos por convocatoria (INAP 2019 ord., 2019 extra, 2022 ord., 2022 extra, 14 dic. 2024, 2024 extra, 23 mayo 2026 y julio 2026 extra). Sus explicaciones salen de `tools/trabajo/respuestas_oficiales_repo.py` (`tools/respuestas/lote-24.json`): solo la opción correcta lleva explicación (la del repo); las demás no se muestran. Las plantillas de 2026 son provisionales. Las preguntas que ya estaban en la plataforma con la misma redacción se unen como repetidas.
 
 ## Probar en local
 ```bash
